@@ -1,0 +1,257 @@
+
+/* * * * * * * * * * * * * * 
+ *
+ * Element styles 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+html, 
+body {
+	height: 100%; 
+}
+
+article {
+	max-width: 600px;
+    margin: 0 auto;
+}
+
+footer {
+	background-color: #E7E7EC;
+	border-top: 1px solid #E0E0E0;  
+	min-height: 200px; 
+	text-align: center; 
+}
+
+p,
+ul {
+	font-size: 16px;
+	line-height: 24px; 
+}
+
+
+/* * * * * * * * * * * * * * 
+ *
+ * Nav Styles 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+.navbar,
+.navbar-default {
+	background-color: rgba(255, 255, 255, 0.9); 
+	border-radius: 0; 
+	min-height: 60px; 
+	padding: 25px 0px;
+	transition: padding 0.3s ease 0s
+}
+
+nav.navbar.navbar-default.shrink {
+	padding: 10px 0; 
+}
+
+ul.dropdown-menu {
+	width: 220px; 
+}
+
+.navbar-right {
+	margin-right: 20px; 
+}
+
+.navbar-brand {
+	margin-left: 20px;
+	padding-top: 5px; 
+	width: 75%; 
+}
+
+.navbar-brand img {
+	max-height: 50px;
+}
+
+#main {
+	padding: 120px 0 10px;
+}
+
+/* * * * * * * * * * * * * * 
+ *
+ * Sticky Footer
+ *
+ *
+ * * * * * * * * * * * * * */
+
+.page-wrapper {
+	min-height: 100%;
+	margin-bottom: -200px;  
+}
+
+.page-wrapper:after {
+  content: "";
+  display: block;
+}
+
+footer, 
+.page-wrapper:after {
+  	height: 200px; 
+}
+
+/* * * * * * * * * * * * * * 
+ *
+ * Home Page Styles 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+
+.intro-text {
+	text-align: center; 
+}
+
+.service > div {
+	background-color: #f2f2f2;
+	border: 1px solid #c9c9c9;
+	margin: 2% 0;
+	min-height: 200px;
+	padding: 12px;
+}
+
+.service > div > h3 {
+	margin: 5px 0 15px;
+}
+
+.service > div > p {
+	margin-bottom: 25px; 
+}
+
+.service > div > .btn-success {
+	background-color: #4fc3a0;
+}
+
+#timely-news {
+	text-align: center;
+	padding: 20px 0 4px;
+	background: transparent repeating-linear-gradient(45deg,rgb(248,249,190),rgb(253,255,214) 10px,rgb(254,252,231) 10px,rgb(251,249,224) 20px) repeat scroll 0 0;
+	width: 75%;
+	max-width: 1136px; 
+	margin: 15px auto;
+	border-radius: 15px;
+}
+
+#about {
+	min-height: 400px; 
+}
+
+#all {
+	display: block; 
+}
+
+#welcome {
+	padding-top: 120px;
+	min-height: 600px;
+}
+
+
+
+/* * * * * * * * * * * * * * 
+ *
+ * Section Index Style 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+.section-index-item {
+    height: 230px;
+    background-color: #e6e6e6;
+    margin: 2.5%;
+}
+
+/* * * * * * * * * * * * * * 
+ *
+ * Page Style 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+.page-title {
+	text-align: center; 
+}
+
+/* * * * * * * * * * * * * * 
+ *
+ * DMP Page Styles 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+h1.title {
+	text-align: center; 
+}
+
+p.author {
+	font-size: 18px; 
+	text-align: center; 
+}
+
+.template {
+	margin: 10px auto;
+    display: block;
+    width: 25%;
+}
+
+.template > span.glyphicon {
+	font-size: 40px; 
+	line-height: 40px; 
+	top: 4px;
+}
+
+/* * * * * * * * * * * * * * 
+ *
+ * footer 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+
+footer ul {
+	float: right; 
+	list-style: none; 
+	margin: 40px 0;
+}
+
+footer ul li {
+	display: block;
+}
+
+footer ul li a span {
+	margin-right: 10px; 
+}
+
+footer ul li a,
+footer ul li a:hover,
+footer ul li a:visited {
+	color: black;
+}
+
+
+footer a.bu-logo {
+	float: left;
+	margin: 40px 40px 0 0;
+}
+
+footer address {
+	display: block; 
+	width: 500px; 
+}
+
+footer div.container div {
+	float: left;
+	text-align: left;
+	margin: 40px 0px 0px;
+}
+
+footer h3 {
+	margin: 0;
+}
+
+footer h3 span {
+	font-weight: 300; 
+}

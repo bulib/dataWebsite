@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Adding Metadata – Library Data Services – A demo project</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Find out what metadata is and how to use it" />
+    <meta property="og:description" content="Find out what metadata is and how to use it" />
+    
+    <meta name="author" content="Library Data Services" />
+
+    
+    <meta property="og:title" content="Adding Metadata" />
+    <meta property="twitter:title" content="Adding Metadata" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+     <!-- CSS Style Sheets --> 
+<link rel="stylesheet" type="text/css" href="/data/assets/css/bootstrap.min.css" />
+
+<link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.0/dist/bootstrap-toc.min.css">
+
+<link rel="stylesheet" type="text/css" href="/data/assets//css/style.css" />
+
+<!-- RSS Feed --> 
+ <link rel="alternate" type="application/rss+xml" title="Library Data Services - A demo project" href="/data/index.xml" />
+
+  </head>
+
+  <body data-spy="scroll" data-target="#toc">
+    <div class="page-wrapper">
+      <nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/data"><img class="img-responsive" src="/data/assets/icons/bu-lib.png"></img></a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <!--
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Data Management Plans <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/data/data-management-plans">All</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/data/data-management-plans/nsf/">NSF</a></li>
+            <li><a href="/data/data-management-plans/nih/">NIH</a></li>
+            <li><a href="/data/data-management-plans/">ex. 3</a></li>
+            <li><a href="/data/data-management-plans/">ex. 4</a></li>
+          </ul>
+        -->
+          <li><a href="/data/manage/">Manage</a></li>
+          <li><a href="/data/policies/">Policies</a></li>
+          <li><a href="/data/share/">Share</a></li>
+          <li><a href="/data/software/">Software</a></li>
+          <li><a href="/data/storage/">Storage</a></li>
+          <li><a href="/data/help/">Help</a></li>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+      <div id="main" role="main" class="container">
+        <div class="row">
+	<h1 class="page-title">Adding Metadata</h1> 
+	<article class="page col-md-9 col-md-offset-3">
+	  <div class="entry">
+	    <h2 id="what-are-metadata">What are Metadata?</h2>
+
+<p>Metadata are documentation for your data set, expressed using a formal syntax.  They are used to record all information needed for your data&#39;s future use, and attached to the data set itself, usually as separate files. Here is a list of what metadata might contain:</p>
+
+<ul>
+<li>a brief or detailed description of the data itself;</li>
+<li>names, labels and descriptions for variables, records and their values;</li>
+<li>explanation of codes and classification schemes used; </li>
+<li>codes of, and reasons for, missing values; </li>
+<li>derived data created after collection, with code, algorithm or command file used to create them; </li>
+<li>weighting and grossing variables created and how they should be used; </li>
+<li>data listing with descriptions for cases, individuals or items studied, for example for logging qualitative interviews; </li>
+<li>descriptions of applications (commercial or open-source) were used to run analyses, and the versions of those applications; </li>
+<li>descriptions of file formats used to store the data; </li>
+<li>documentation of experimental protocols; </li>
+<li>documentation of the code written for statistical and other analyses. </li>
+</ul>
+
+<h2 id="what-kind-of-metadata-should-i-use">What Kind of Metadata Should I Use?</h2>
+
+<p>That depends on your field.  Here are some standards and controlled vocabularies (standard terminology for specific fields). If you don&#39;t see your field represented, let&#39;s talk -- we may be able to find a standard for you, or help in some other way.</p>
+
+<ul>
+<li><a href="http://www.virtualastronomy.org/AVM_DRAFTVersion1.1_rlh27.pdf">Astronomy Visualization Metadata Standard</a> </li>
+<li><a href="http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata/v2_0698.pdf">Content Standard for Digital Geospatial Metadata</a> </li>
+<li><a href="http://rs.tdwg.org/dwc/">Darwin Core</a> </li>
+<li><a href="http://dublincore.org/documents/dces/">Dublin Core</a> </li>
+<li><a href="http://knb.ecoinformatics.org/software/eml/">Ecological Metadata Language</a> </li>
+<li><a href="http://www.ddialliance.org/">Data Documentation Initiative (DDI)</a> </li>
+<li><a href="http://en.wikipedia.org/wiki/Data_dictionary">Swingle Plant Anatomy Collection data dictionary</a> </li>
+<li><a href="http://www.altova.com/resources_schemalib.html">Altova Schema library</a> </li>
+<li><a href="http://www.dlib.indiana.edu/~jenlrile/metadatamap/">Seeing Standards: A Visualization of the Metadata Universe</a> (humanities: information on over a hundred cultural heritage metadata standards) </li>
+<li><a href="http://tei-c.org/">Text Encoding Initiative</a> </li>
+</ul>
+
+<h2 id="what-else-should-i-document">What Else Should I Document?</h2>
+
+<p>This really depends on your project, but here are some ideas to get you started. We will be happy to help you come up with a final list of documentation needed for your dataset.</p>
+
+<ul>
+<li>context of data collection (project history, aims, objectives, hypotheses); </li>
+<li>data collection methods (data collection protocol, sampling design, instruments, hardware and software used, data scale and resolution, temporal coverage and geographic coverage); </li>
+<li>structure and organization of data files; </li>
+<li>data sources used; </li>
+<li>data validation, quality assurance procedures carried out; </li>
+<li>transformations of data from the raw data through analysis; </li>
+<li>information on confidentiality, access &amp; use conditions. </li>
+</ul>
+
+
+	    <div class="workshops">
+	    	
+    			
+	  			
+  			
+    			
+	  			
+  			
+    			
+	  			
+  			
+	  		<div class="row">
+		    
+		    	    	
+		    
+		    	    	
+		    
+		    	    	
+		    
+		    	    	
+		    
+		  	</div> 
+	  </div>
+	</article>
+
+	<div class="col-md-3">
+		<nav id="toc" data-toggle="toc" data-spy="affix"></nav>
+	</div> 	
+</div> 
+      </div>
+
+     </div> 
+      <footer class="footer">
+	<div class="container">
+      <a class="bu-logo" href="http://www.bu.edu/">
+        <img src="/data/assets/icons/bu-logo.png" class="footer-img img-responsive img-centered" alt="Logo of Boston University">
+      </a>
+      <ul>
+      	<li><a href="tel:617-353-7332"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>617-353-7332</a></li>
+      	<li><a href="mailto:data@bu.edu"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>data@bu.edu</a></li> 
+      </ul>  
+    </div> 
+</footer>
+
+      <!-- jQuery Version 1.11.0 -->
+<script src="/data/assets/js/jquery-1.11.0.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/data/assets/js/bootstrap.min.js"></script>
+
+<script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.0/dist/bootstrap-toc.min.js"></script>
+
+<!-- D3 --> 
+<script src="/data/assets/js/d3.min.js"></script>
+
+<script src="/data/assets/js/custom.js"></script>
+
+
+
+<!-- Add Google Analytics Here -->
+<script>
+		
+</script>
+
+  </body>
+</html>

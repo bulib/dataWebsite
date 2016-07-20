@@ -1,0 +1,17 @@
+---
+layout: default
+title: Workshops
+permalink: /workshops/
+---
+<div class="row">
+{% for post in site.posts %}
+	{% if post.category == "workshop" %}
+	
+	 	<div class="col-md-5 section-index-item">
+	 		 <a href="/data/{{ post.url }}"><h3>{{ post.title }}</h3></a>
+	 		 <p>{{ post.excerpt }}<p>
+	 	</div>
+ 
+	{% endif %}
+{% endfor %} 
+</div>

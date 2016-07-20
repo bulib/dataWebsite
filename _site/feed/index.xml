@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Library Data Services</title>
+    <description>A demo project</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Test Workshop 3</title>
+        <description>&lt;p&gt;Testing DMPTool Tag &lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/Workshop-Test-3/</link>
+        <guid isPermaLink="true">/Workshop-Test-3/</guid>
+      </item>
+    
+      <item>
+        <title>Demo workshop 2</title>
+        <description>&lt;p&gt;My demo workshop with nsf-data-management-plan tag and category of workshop&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/Workshop-Demo-2/</link>
+        <guid isPermaLink="true">/Workshop-Demo-2/</guid>
+      </item>
+    
+      <item>
+        <title>Demo workshop</title>
+        <description>&lt;p&gt;My demo workshop with nsf-data-management-plan tag and category of workshop&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/Workshop-Demo/</link>
+        <guid isPermaLink="true">/Workshop-Demo/</guid>
+      </item>
+    
+      <item>
+        <title>You&#39;re up and running!</title>
+        <description>&lt;p&gt;Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/data/images/config.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;Jekyll Now repository&lt;/a&gt; on GitHub.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Mar 2014 00:00:00 -0500</pubDate>
+        <link>/Hello-World/</link>
+        <guid isPermaLink="true">/Hello-World/</guid>
+      </item>
+    
+  </channel>
+</rss>

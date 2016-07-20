@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    {% include css.html %}
+
+  </head>
+
+  <body data-spy="scroll" data-target="#toc">
+    <div class="page-wrapper">
+      {% include header.html %}
+
+      <div id="main" role="main" class="container">
+        {{ content }}
+      </div>
+
+     </div> 
+      {% include footer.html %}
+      {% include js.html %}
+
+  </body>
+</html>

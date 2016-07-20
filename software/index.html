@@ -1,0 +1,28 @@
+---
+layout: default
+title: Software
+permalink: /software/
+---
+
+<div class="section-introduction">
+ 	<p>Quick 5 line intro about software</p> 
+</div> 
+
+<div class="container">
+	<div class="row">
+
+	{% for page in site.pages %}
+		{% if page.category == "software" %}
+	 	
+	 	<div class="col-md-5 section-index-item">
+	 		 <a href="/data{{ page.url }}">
+	 		 	<h3>{{ page.title }}</h3>
+	 		 </a>
+	 		 <p>{{ page.excerpt }}<p>
+	 	</div>
+	 
+		{% endif %}
+	{% endfor %} 
+
+	</div> 	
+</div> 
