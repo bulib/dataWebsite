@@ -9,18 +9,12 @@
 html, 
 body {
 	height: 100%; 
+	color: #404040;
 }
 
 article {
 	max-width: 600px;
     margin: 0 auto;
-}
-
-footer {
-	background-color: #E7E7EC;
-	border-top: 1px solid #E0E0E0;  
-	min-height: 200px; 
-	text-align: center; 
 }
 
 p,
@@ -50,8 +44,9 @@ nav.navbar.navbar-default.shrink {
 	padding: 10px 0; 
 }
 
-ul.dropdown-menu {
-	width: 220px; 
+
+.navbar-nav > li:hover {
+	border: 1px solid #4fc3a0;
 }
 
 .navbar-right {
@@ -66,6 +61,10 @@ ul.dropdown-menu {
 
 .navbar-brand img {
 	max-height: 50px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #0c0c0c;
 }
 
 #main {
@@ -210,6 +209,12 @@ p.author {
  *
  * * * * * * * * * * * * * */
 
+footer {
+	background-color: #000000;
+	border-top: 1px solid #E0E0E0;  
+	min-height: 200px; 
+	text-align: center; 
+}
 
 footer ul {
 	float: right; 
@@ -218,7 +223,11 @@ footer ul {
 }
 
 footer ul li {
-	display: block;
+	display: inline;
+	padding: 0 25px 0 0;
+	line-height: 2;
+	font-size: 1.1em; 
+	font-weight: 200;
 }
 
 footer ul li a span {
@@ -228,7 +237,7 @@ footer ul li a span {
 footer ul li a,
 footer ul li a:hover,
 footer ul li a:visited {
-	color: black;
+	color: white;
 }
 
 
