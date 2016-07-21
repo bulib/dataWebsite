@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/Workshop-Test-3/</loc>
+    <loc>http://www.bu.edu/data/Workshop-Test-3/</loc>
     <lastmod>2016-07-19T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>/Workshop-Demo-2/</loc>
+    <loc>http://www.bu.edu/data/Workshop-Demo-2/</loc>
     <lastmod>2016-07-14T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>/Workshop-Demo/</loc>
+    <loc>http://www.bu.edu/data/Workshop-Demo/</loc>
     <lastmod>2016-07-14T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>/Hello-World/</loc>
+    <loc>http://www.bu.edu/data/Hello-World/</loc>
     <lastmod>2014-03-03T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>/404.html</loc>
+    <loc>http://www.bu.edu/data/404.html</loc>
   </url>
   <url>
-    <loc>/about/</loc>
+    <loc>http://www.bu.edu/data/about/</loc>
   </url>
   <url>
-    <loc>/manage/dmptool/</loc>
+    <loc>http://www.bu.edu/data/manage/dmptool/</loc>
   </url>
   <url>
-    <loc>/manage/</loc>
+    <loc>http://www.bu.edu/data/manage/</loc>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>http://www.bu.edu/data/</loc>
   </url>
   <url>
-    <loc>/policies/</loc>
+    <loc>http://www.bu.edu/data/policies/</loc>
   </url>
   <url>
-    <loc>/share/</loc>
+    <loc>http://www.bu.edu/data/share/</loc>
   </url>
   <url>
-    <loc>/workshops/</loc>
+    <loc>http://www.bu.edu/data/workshops/</loc>
   </url>
   <url>
-    <loc>/storage/</loc>
+    <loc>http://www.bu.edu/data/storage/</loc>
   </url>
   <url>
-    <loc>/software/</loc>
+    <loc>http://www.bu.edu/data/software/</loc>
   </url>
   <url>
-    <loc>/data-management-plans/nsf/</loc>
+    <loc>http://www.bu.edu/data/data-management-plans/nsf/</loc>
   </url>
   <url>
-    <loc>/help/</loc>
+    <loc>http://www.bu.edu/data/help/</loc>
   </url>
   <url>
-    <loc>/data-management-plans/nih/</loc>
+    <loc>http://www.bu.edu/data/data-management-plans/nih/</loc>
   </url>
   <url>
-    <loc>/data-management-plans/</loc>
+    <loc>http://www.bu.edu/data/data-management-plans/</loc>
   </url>
   <url>
-    <loc>/data-management-plans/nsf/sbe/</loc>
+    <loc>http://www.bu.edu/data/data-management-plans/nsf/sbe/</loc>
   </url>
   <url>
-    <loc>/data-management-plans/nsf/dmr/</loc>
+    <loc>http://www.bu.edu/data/data-management-plans/nsf/dmr/</loc>
   </url>
   <url>
-    <loc>/manage/metadata/</loc>
+    <loc>http://www.bu.edu/data/manage/metadata/</loc>
   </url>
   <url>
-    <loc>/manage/naming-convention/</loc>
+    <loc>http://www.bu.edu/data/manage/naming-convention/</loc>
   </url>
   <url>
-    <loc>/manage/nsf-data-management-plan/</loc>
+    <loc>http://www.bu.edu/data/manage/nsf-data-management-plan/</loc>
   </url>
 </urlset>
