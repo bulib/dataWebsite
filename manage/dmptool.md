@@ -6,4 +6,12 @@ category: manage
 excerpt: Starting using the DMPTool to find templates for writing data management plans. 
 ---
 
-Add content about the dmptool here.
+## About the DMPTool 
+
+## Features
+
+## How to Login 
+
+## Finding Data Management Plans 
+
+## Getting Help 
