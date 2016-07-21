@@ -26,7 +26,7 @@ ul {
 
 /* * * * * * * * * * * * * * 
  *
- * Nav Styles 
+ * Navbar Styles 
  *
  *
  * * * * * * * * * * * * * */
@@ -173,6 +173,22 @@ footer,
 .page-title {
 	text-align: center; 
 }
+
+/* table of contents */ 
+nav[data-toggle=toc] .nav>li>a {
+	font-size: 15px; 
+}
+
+nav[data-toggle=toc] .nav>li>a:focus, 
+nav[data-toggle=toc] .nav>li>a:hover,
+nav[data-toggle=toc] .nav>.active:focus>a, 
+nav[data-toggle=toc] .nav>.active:hover>a, 
+nav[data-toggle=toc] .nav>.active>a {
+	color: #0c0c0c;
+	border-left: 2px solid #4fc3a0;
+}
+
+
 
 /* * * * * * * * * * * * * * 
  *
