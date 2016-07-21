@@ -53,10 +53,6 @@ baseurl:
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-redcarpet:
-    extensions: [with_toc_data]
-
 highlighter: rouge
 permalink: 
 
