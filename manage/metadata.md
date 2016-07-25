@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Adding Metadata
 permalink: /manage/metadata/
 category: manage

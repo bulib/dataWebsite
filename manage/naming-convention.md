@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Designing a Naming Convention
 permalink: /manage/naming-convention/
 category: manage

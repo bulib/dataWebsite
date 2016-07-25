@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Using the DMPTool
 permalink: /manage/dmptool/
 category: manage

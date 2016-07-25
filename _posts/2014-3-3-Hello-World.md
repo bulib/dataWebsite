@@ -1,7 +1,6 @@
 ---
-layout: post
 title: You're up and running!
-category: workshop
+category: workshops
 tag: nsf-data-management-plan
 ---
 

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Test Workshop 3
-category: workshop
+category: workshops
 tag: dmptool
 excerpt: This workshop is about using the DMPTool
 ---

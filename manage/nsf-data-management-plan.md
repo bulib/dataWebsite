@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Writing an NSF Data Management Plan
 permalink: /manage/nsf-data-management-plan/
 category: manage
