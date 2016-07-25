@@ -17,6 +17,11 @@ article {
     margin: 0 auto;
 }
 
+blockquote {
+	background-color: #f5fff2; 
+	border-left: 5px solid #4fc3a0;
+}
+
 p,
 ul {
 	font-size: 17px;
