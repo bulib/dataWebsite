@@ -1,7 +1,7 @@
 ---
 title: Data Classification Guide
 permalink: /policies/data-classification
-category: policies
+category: policy
 excerpt: This guide helps explain BU's Data Classification system 
 ---
 
