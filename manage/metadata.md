@@ -5,6 +5,8 @@ category: manage
 excerpt: Find out what metadata are and how to use them
 ---
 
+## Hi Tom ##
+
 ## What are Metadata? ##
 Metadata are documentation for your data set, expressed using a formal syntax.  They are used to record all information needed for your data's future use, and attached to the data set itself, usually as separate files. Here is a list of what metadata might contain:
 
