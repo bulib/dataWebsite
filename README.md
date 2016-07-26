@@ -13,6 +13,5 @@ All of our documentation is [stored in our wiki](https://github.com/bulib/dataWe
 + creating great SEO (search engine optimized) links
 + creating responsive images 
 + starting a new page 
-+ understanding categories and tags 
-
-## Workflow 
++ how to use categories and tags 
++ understanding the website's workflow 
