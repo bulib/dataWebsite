@@ -4,7 +4,8 @@ permalink: /manage/metadata/
 category: manage
 excerpt: Find out what metadata are and how to use them
 ---
-##HEADER2##
+
+## HEADER2 ##
 Blah
 
 ## What are Metadata? ##
