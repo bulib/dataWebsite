@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Workshops – Boston University Data Services – Data Services at Boston University</title>
+    <title>Creating a Simplified Data Management Plan – Boston University Data Services – Data Services at Boston University</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -9,14 +9,14 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     
-    <meta name="description" content="Data Services at Boston University">
-    <meta property="og:description" content="Data Services at Boston University" />
+    <meta name="description" content="Use this guide to write a simplified data management plan." />
+    <meta property="og:description" content="Use this guide to write a simplified data management plan." />
     
     <meta name="author" content="Boston University Libraries" />
 
     
-    <meta property="og:title" content="Workshops" />
-    <meta property="twitter:title" content="Workshops" />
+    <meta property="og:title" content="Creating a Simplified Data Management Plan" />
+    <meta property="twitter:title" content="Creating a Simplified Data Management Plan" />
     
 
     <!--[if lt IE 9]>
@@ -78,47 +78,83 @@
 
       <div id="main" role="main" class="container">
         <div class="row">
+	<h1 class="page-title col-md-9">Creating a Simplified Data Management Plan</h1>
+	<div class="poc col-md-3">
+		<p> POC HERE</p> 
+	</div> 
+</div> 	
+<div class="row">	 
+	<article class="page col-md-9 col-md-offset-3">
+	  <div class="entry">
+	    <h2 id="types-of-data">Types of Data</h2>
 
-	
-	
-	 	<div class="col-md-5 section-index-item">
-	 		 <a href="/dev/data/workshops/2016/07/19/Workshop-Test-3.html"><h3>Test Workshop 3</h3></a>
-	 		 <p>This workshop is about using the DMPTool<p>
-	 	</div>
- 
-	
+<ul>
+  <li>What types of data will you be creating or capturing? (experimental measures, observational or qualitative, model simulation, existing)</li>
+  <li>How will you capture, create, and/or process the data? (Identify instruments, software, imaging, etc. used)</li>
+</ul>
 
-	
-	
-	 	<div class="col-md-5 section-index-item">
-	 		 <a href="/dev/data/workshops/2016/07/14/Workshop-Demo-2.html"><h3>Demo workshop 2</h3></a>
-	 		 <p>This workshop covers presents materials on  how to write a data management plan for an NSF grant<p>
-	 	</div>
- 
-	
+<h2 id="contextual-details">Contextual Details</h2>
 
-	
-	
-	 	<div class="col-md-5 section-index-item">
-	 		 <a href="/dev/data/workshops/2016/07/14/Workshop-Demo.html"><h3>Demo workshop</h3></a>
-	 		 <p>This workshop covers materials about how to write a data management plan for an NSF grant<p>
-	 	</div>
- 
-	
+<ul>
+  <li>What file formats and naming conventions will you be using?</li>
+</ul>
 
-	
-	
-	 	<div class="col-md-5 section-index-item">
-	 		 <a href="/dev/data/workshops/2014/03/03/Hello-World.html"><h3>You're up and running!</h3></a>
-	 		 <p><p>Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).</p>
+<h2 id="storage-backup-and-security">Storage, Backup, and Security</h2>
 
-<p>
-	 	</div>
- 
-	
- 
-</div>
+<ul>
+  <li>Where and on what media will you store the data?</li>
+  <li>What is your backup plan for the data?</li>
+  <li>How will you manage data security?</li>
+</ul>
 
+<h2 id="provisions-for-protection--privacy">Provisions for Protection / Privacy</h2>
+
+<ul>
+  <li>How are you addressing any ethical or privacy issues (IRB, anonymization of data)?</li>
+  <li>Who will own any copyright or intellectual property rights to the data?</li>
+</ul>
+
+<h2 id="policies-for-reuse">Policies for Reuse</h2>
+
+<ul>
+  <li>What restrictions need to be placed on re-use of your data?</li>
+</ul>
+
+<h2 id="policies-for-access-and-sharing">Policies for Access and Sharing</h2>
+
+<ul>
+  <li>What is the process for gaining access to your data?</li>
+</ul>
+
+<h2 id="plan-for-archiving-and-preservation">Plan for Archiving and Preservation</h2>
+
+<ul>
+  <li>What is your long-term plan for preservation and maintenance of the data? </li>
+</ul>
+
+
+
+	    <div class="workshops">
+	    	
+    			
+	  			
+  			
+    			
+	  			
+  			
+    			
+	  			
+  			
+	  		<div class="row">
+		    
+		  	</div> 
+	  </div>
+	</article>
+
+	<div class="col-md-3">
+		<nav id="toc" data-toggle="toc" data-spy="affix"></nav>
+	</div> 	
+</div> 
       </div>
 
      </div> 

@@ -36,7 +36,16 @@ url: http://www.bu.edu/data
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: "/dataWebsite"
+
+# For BU web development site: 
+baseurl: "/dev/data"
+
+# For GitHub
+# baseurl: "/dataWebsite"
+
+# For production site - bu.edu/data
+# baseurl: "/data"
+
 
 #
 # !! You don't need to change any of the configuration flags below !!
