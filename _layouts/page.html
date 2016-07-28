@@ -1,26 +1,7 @@
 ---
 layout: default
 ---
-
-<div class="row">
-	<h1 class="page-title col-md-6 col-md-offset-3">{{ page.title }}</h1>
-	<div class="poc col-md-3">
-		
-		{% for member in site.data.members %}
-			{% if member.email == page.poc %} 
-			<p>For help contact:</p> 
-			<div class="member">
-				<img src="{{ site.baseurl }}/assets/images/photos/{{ member.image}}" /> 
-				<ul>
-				<li>{{ member.name }}</li>
-				<li>{{ member.affiliation }}</li>
-				<li>{{ member.email }}</li>
-			</div> 	
-			{% endif %}
-		{% endfor %}
-		</ul> 	
-	</div> 
-</div> 	
+<h1 class="page-title">{{ page.title }}</h1>
 <div class="row">	 
 	<article class="page col-md-9 col-md-offset-3">
 	  <div class="entry">
@@ -48,6 +29,21 @@ layout: default
 	</article>
 
 	<div class="col-md-3">
+		<div class="poc">
+		{% for member in site.data.members %}
+			{% if member.email == page.poc %} 
+			<p>For help contact:</p> 
+			<div class="member">
+				<img src="{{ site.baseurl }}/assets/images/photos/{{ member.image}}" /> 
+				<ul>
+				<li>{{ member.name }}</li>
+				<li>{{ member.affiliation }}</li>
+				<li>{{ member.email }}</li>
+			</div> 	
+			{% endif %}
+		{% endfor %}
+		</ul> 	
+	</div> 
 		<nav id="toc" data-toggle="toc" data-spy="affix"></nav>
 	</div> 	
 </div> 
