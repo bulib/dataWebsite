@@ -223,9 +223,26 @@ p.author {
 	top: 4px;
 }
 
-.poc > ul {
+
+
+.poc > .member > ul {
 	list-style: none; 
+	display: inline-block;
+    margin: 5px;
+    padding: 0;
 }
+
+.poc > .member > img {
+	border-radius: 50%;
+    float: left;   
+}
+
+.member {
+	background-color: #f5fff2;
+    border-left: 2px solid #4fc3a0;
+    height: 96px;
+}
+
 
 /* * * * * * * * * * * * * * 
  *
