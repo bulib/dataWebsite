@@ -38,10 +38,10 @@ url: http://www.bu.edu/data
 
 
 # For BU web development site: 
-baseurl: "/dev/data"
+#baseurl: "/dev/data"
 
 # For GitHub
-# baseurl: "/dataWebsite"
+baseurl: "/dataWebsite"
 
 # For production site - bu.edu/data
 # baseurl: "/data"
