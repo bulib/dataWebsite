@@ -5,7 +5,16 @@ layout: default
 <div class="row">
 	<h1 class="page-title col-md-9">{{ page.title }}</h1>
 	<div class="poc col-md-3">
-		<p> POC HERE</p> 
+		<p>For help contact:</p> 
+		<ul> 
+		{% for member in site.data.members %}
+			{% if member.email == page.poc %} 
+			<li>{{ member.name }}</li>
+			<li>{{ member.affiliation }}</li>
+			<li>{{ member.email }}</li>
+			{% endif %}
+		{% endfor %}
+		</ul> 	
 	</div> 
 </div> 	
 <div class="row">	 

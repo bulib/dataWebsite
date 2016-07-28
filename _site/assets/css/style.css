@@ -197,7 +197,7 @@ nav[data-toggle=toc] .nav>.active>a {
 
 /* * * * * * * * * * * * * * 
  *
- * DMP Page Styles 
+ * Page Styles 
  *
  *
  * * * * * * * * * * * * * */
@@ -221,6 +221,10 @@ p.author {
 	font-size: 40px; 
 	line-height: 40px; 
 	top: 4px;
+}
+
+.poc > ul {
+	list-style: none; 
 }
 
 /* * * * * * * * * * * * * * 
