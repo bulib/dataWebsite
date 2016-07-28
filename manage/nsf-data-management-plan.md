@@ -1,7 +1,8 @@
 ---
-title: Writing an NSF Data Management Plan
+title: Writing NSF Data Management Plans
 permalink: /manage/nsf-data-management-plan/
 category: manage
+poc: tah@bu.edu
 excerpt: Learn the basics for writing a data management plan for a NSF grant application.
 ---
 
@@ -9,7 +10,7 @@ excerpt: Learn the basics for writing a data management plan for a NSF grant app
 
 Lorem ipsum dolor sit amet, quo ullum utamur labores cu, eos consul fierent mediocrem at, ei nec tibique apeirian atomorum. Reque meliore erroribus per cu, at pri ocurreret reprimique. Facer civibus te pri. Eum aeque offendit efficiendi cu, vim te debitis tincidunt.
 
-<img src="/assets/images/demo-responsive.jpg" class="img-responsive center-block" alt="Demo Responsive Image" />  
+<img src="{{ site.baseurl }}/assets/images/demo-responsive.jpg" class="img-responsive center-block" alt="Demo Responsive Image" />  
 
 At movet dicunt eum, eum euismod offendit fabellas ad. Interesset suscipiantur mea in, modus ullum labitur per in. No vix autem quaeque imperdiet, has suavitate torquatos an, ut pri veri iriure. Eos in labitur appetere accusamus, adipisci eloquentiam necessitatibus sit id, dico consul viderer vel ne. Hendrerit similique at vim. Pri utamur blandit ei.
 
