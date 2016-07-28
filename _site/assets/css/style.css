@@ -223,7 +223,9 @@ p.author {
 	top: 4px;
 }
 
-
+.poc > p {
+	margin-top: 20px; 
+}
 
 .poc > .member > ul {
 	list-style: none; 
