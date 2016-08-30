@@ -9,7 +9,18 @@ This guide provides an overview to help you get started writing a data managemen
 
 ## What is a Data Management Plan (DMP)? 
 
+
 ## Why manage your data?
+
+There are several good reasons to manage your data, such as: 
+
++ Complying with federal funding 
++ Documenting your work and workflows
++ Faciliating the reuse and sharing of your data 
++ Ensuring your data is backed up
+
+
+
 
 ## Common Components of a DMP
 
