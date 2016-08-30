@@ -1,8 +1,14 @@
 ---
-title:  Add title here (data repo)
+title:  Using a Data Repository
 permalink: # Add permalink here ex. /manage/nsf-data-management-plan
 category: share
-excerpt: # Add excerpt here -> will show on section index pages  
+excerpt: # Add excerpt here -> A guide to data repositories 
 ---
 
-## Add content here 
+## Data Archiving at Boston University & Beyond
+
+Boston University [IS&T's Department](http://www.bu.edu/datamanagement/resources/ist-services/) offers data security and archiving resources for the BU Community. The data archiving service is designed for secure, long-term storage of large quantities of infrequently accessed data. Examples of stored data include: experimental or sensor data, computational output, images and the results of image analysis, video files, and unstructured content.
+
+Beyond Boston University, there are a number of data repositories available for scholars in different disciplines. Many of these data repositories feature existing data for researchers, and also host data produced by scholars from various institutions. This page provides links to repositories in major academic disciplines.
+
+## Directory of Data Resources
