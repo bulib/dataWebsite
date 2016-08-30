@@ -1,7 +1,7 @@
 ---
-title: # Add title here 
+title:  Add title here (data repo)
 permalink: # Add permalink here ex. /manage/nsf-data-management-plan
-category: # Add category here -> will determine which part of the site this page goes
+category: share
 excerpt: # Add excerpt here -> will show on section index pages  
 ---
 
