@@ -19,7 +19,7 @@ There are several good reasons to manage your data, such as:
 + Faciliating the reuse and sharing of your data 
 + Ensuring your data is backed up
 
-
+Data management is a proactive processes that will help prevent future headaches and, when done properly, will keep your work organized and intelligible to others as well as your future self. 
 
 
 ## Common Components of a DMP
