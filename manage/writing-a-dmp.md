@@ -21,8 +21,9 @@ There are several good reasons to manage your data, such as:
 
 Data management is a proactive processes that will help prevent future headaches and, when done properly, will keep your work organized and intelligible to others as well as your future self. 
 
-
 ## Common Components of a DMP
+
+There are several common parts to a data management plan. If you're writing a data management plan for a specific funder, these common components 
 
 ### Types of Data 
 
