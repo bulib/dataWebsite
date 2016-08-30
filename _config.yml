@@ -82,3 +82,6 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+    - /talks/*/slides.md
+
+
