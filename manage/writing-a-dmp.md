@@ -5,6 +5,8 @@ category: manage
 excerpt: Use this guide to get started writing a data management plan  
 ---
 
+This is a test 
+
 ## Types of Data 
 
 +	What types of data will you be creating or capturing? (experimental measures, observational or qualitative, model simulation, existing)
