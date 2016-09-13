@@ -11,4 +11,12 @@ Boston University [IS&T's Department](http://www.bu.edu/datamanagement/resources
 
 Beyond Boston University, there are a number of data repositories available for scholars in different disciplines. Many of these data repositories feature existing data for researchers, and also host data produced by scholars from various institutions. This page provides links to repositories in major academic disciplines.
 
-## Directory of Data Resources
+## Directory of Data Repositories
+
+The following directories provide comprehensive lists of repositories by subject area.
+
+*re3data.org [resdata.org](http://www.re3data.org/)
+*OpenDoar [OpenDoar](http://opendoar.org/)
+*Open Access Directory [Open Access Directory](Open Access Directory)
+
+
