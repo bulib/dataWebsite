@@ -23,19 +23,22 @@
     <loc>http://www.bu.edu/data/dataWebsite/about/</loc>
   </url>
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/share/citing-data.html</loc>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/policies/data-classification</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/dmptool/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
-  </url>
-  <url>
     <loc>http://www.bu.edu/data/dataWebsite/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
@@ -47,16 +50,10 @@
     <loc>http://www.bu.edu/data/dataWebsite/storage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/software/</loc>
-  </url>
-  <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/software/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/</loc>
@@ -66,6 +63,12 @@
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/sbe/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
@@ -83,7 +86,14 @@
     <loc>http://www.bu.edu/data/dataWebsite/pageTemplate.html</loc>
   </url>
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/share/using-a-data-repository.html</loc>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/writing-a-dmp/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/talks/citing-data/index.html</loc>
+    <lastmod>2016-09-14T12:11:03-04:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/revealjs/plugin/markdown/example.html</loc>
@@ -99,6 +109,6 @@
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/write-a-dmp/index.html</loc>
-    <lastmod>2016-09-14T10:30:48-04:00</lastmod>
+    <lastmod>2016-09-14T10:46:16-04:00</lastmod>
   </url>
 </urlset>
