@@ -1,7 +1,7 @@
 ---
 title: Citing Data 
 author: Tom Hohenstein 
-date: September 15, 2016 
+date: September 22, 2016 
 ---
 
 # Using Zoom 
