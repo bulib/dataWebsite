@@ -7,6 +7,36 @@
     <atom:link href="http://www.bu.edu/data/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Citing Data</title>
+        <description>&lt;h2 id=&quot;this-webinar-will-cover&quot;&gt;This webinar will cover&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Why you should cite data&lt;/li&gt;
+  &lt;li&gt;How to properly cite data&lt;/li&gt;
+  &lt;li&gt;How to make your data citable &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 22 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/workshops/2016/09/22/Citing-Data.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2016/09/22/Citing-Data.html</guid>
+      </item>
+    
+      <item>
+        <title>Writing a Data Management Plan (DMP)</title>
+        <description>&lt;h2 id=&quot;this-webinar-will-cover&quot;&gt;This webinar will cover&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What a data management plan is&lt;/li&gt;
+  &lt;li&gt;Why you should write a data management plan&lt;/li&gt;
+  &lt;li&gt;The common components of a data management plan&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 15 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/workshops/2016/09/15/Writing-a-dmp.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2016/09/15/Writing-a-dmp.html</guid>
+      </item>
+    
+      <item>
         <title>Test Workshop 3</title>
         <description>&lt;p&gt;Testing DMPTool Tag &lt;/p&gt;
 </description>
