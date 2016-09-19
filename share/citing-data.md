@@ -1,6 +1,6 @@
 ---
-title: citing data 
-permalink: # Add permalink here ex. /manage/nsf-data-management-plan
+title: Citing Data 
+permalink: manage/citing-data/
 category: share
 excerpt: Learn how to cite data properly in your papers, reports, and presentations  
 ---
