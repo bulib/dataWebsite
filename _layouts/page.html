@@ -16,11 +16,11 @@ layout: default
 	  			{% endif %}
   			{% endfor %}
 	  		<div class="row">
-		    {% for post in site.categories.workshop %}
+		    {% for post in site.categories.workshops %}
 		    	{% if page.url contains post.tag %}
 			    	<div class="workshop col-md-6">
 			    		<h4>{{post.title }}</h4>
-			    		<a href="{{ post.url }}">Visit</a>
+			    		<a href="{{site.baseurl }}{{ post.url }}">Visit</a>
 			    	</div> 	 
 		    	{% endif %}    	
 		    {% endfor %}
