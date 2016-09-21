@@ -23,7 +23,7 @@ The examples below show you how to cite two datasets: characteristics of busines
 
 Basic structure: Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Format of dataset]. URL or DOI
 
-> United States Census Bureau (2016). <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. [Data file]. Retrieved from http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
+> United States Census Bureau (2016). <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. [Data file]. Retrieved from ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
 
 > Gomes, D. G. E., Page, R. A., Geipel, I., Taylor, R. C., Ryan, M. J., & Halfwerk, W. (2016). <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. [Data file].	doi:10.5061/dryad.5gk8j
 
@@ -31,7 +31,7 @@ Basic structure: Creator/Rightsholder of Data (Year of publication). <i>Title of
 
 Basic structure: Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository, Year of publication. URL or DOI
 
-> United States Census Bureau. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. Distributed by The United States Census Bureau, 2016. http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
+> United States Census Bureau. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. Distributed by The United States Census Bureau, 2016. ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
 
 > Gomes, Dylan G. E., Rachel A. Page, Inga Geipel, Ryan C. Taylor, Mike C. Ryan, and Wouter Halfwerk. <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. Distributed by The Dryad Digital Repository, 2016. doi:10.5061/dryad.5gk8j
 
@@ -39,7 +39,7 @@ Basic structure: Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/
 
 Basic structure: Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository. URL or DOI
 
-> United States Census Bureau. 2012. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. Distributed by the United States Census Bureau. 2016. http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
+> United States Census Bureau. 2012. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. Distributed by the United States Census Bureau. 2016. ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
 
 > Gomes, Dylan G. E., Rachel A. Page, Inga Geipel, Ryan C. Taylor, Mike C. Ryan, and Wouter Halfwerk. 2016. <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. Distributed by The Dryad Digital Repository. doi:10.5061/dryad.5gk8j
 
@@ -47,6 +47,6 @@ Basic structure: Creator/Rightsholder of Data. Year of publication. <i>Title of 
 
 Basic structure: Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Hosting Organization or Repository, Year of Publication. Format of Source. Date of Access. URL or DOI
 
-> United States Census Bureau. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. United States Census Bureau, 2016. Web. 21 September 2016. http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
+> United States Census Bureau. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. United States Census Bureau, 2016. Web. 21 September 2016. ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
 
 > Gomes, Dylan G. E., Rachel A. Page, Inga Geipel, Ryan C. Taylor, Mike C. Ryan, and Wouter Halfwerk. <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. Dryad Digital Repository, 2016. Web. 21 September 2016. doi:10.5061/dryad.5gk8j
