@@ -22,6 +22,11 @@ date: September 22, 2016
 + Work with researchers writing data management plans 
 + Librarian by training 
 
+## Contact information 
+
++ tah@bu.edu 
++ 617-353-7332
+
 # Intentions  
 
 ## Today's topics
@@ -31,18 +36,15 @@ date: September 22, 2016
 
 # Why cite data? 
 
-## 
+## Data is part of the research record
 
-## 
+## Citing data helps others reuse data
+
+## Increase openness and transparency 
 
 # Principles of Data Citation 
 
 ## These are from [Force11](https://www.force11.org/group/joint-declaration-data-citation-principles-final)
-
-+ Belief that data is part of the research record 
-+ Data is part of our scholarly output 
-+ Citing data is a "good research practice"
-+ Citing data facilitates data reuse 
 
 ## Importance 
 
@@ -102,11 +104,11 @@ Data citations should be flexible enough for various communities but not so diff
 
 ## Submit your data
 
-## Get an persistent identifier (DOI, Handle, or Arc)
+## Get an persistent identifier (DOI or Handle)
 
-## And Cite your data 
+## And cite your data 
 
-# Thank you
+# Thank you : ) 
 
 ## References 
 
