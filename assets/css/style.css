@@ -76,6 +76,9 @@ nav.navbar.navbar-default.shrink {
 	padding: 120px 0 10px;
 }
 
+.nav > li > a {
+    padding: 10px 13px;
+}
 /* * * * * * * * * * * * * * 
  *
  * Sticky Footer
