@@ -29,7 +29,7 @@ $(function() {
 	})
 
 	//adjusts for click on sidebar
-	$('#toc.nav li a').click(function(event) {
+	$("#toc .nav li a").click(function(event) {
 	    event.preventDefault();
 	    console.log("click");
 	    $($(this).attr('href'))[0].scrollIntoView();
