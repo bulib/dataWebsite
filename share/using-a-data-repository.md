@@ -27,6 +27,14 @@ NASA Prognostics Data Laboratory [NASA Prognostics Data Laboratory](NASA Prognos
 CodePlex [CodePlex](CodePlex)
 Dryad [Dryad](http://datadryad.org/) 
 Neuroscience Information Framework [Neuroscience Information Framework](http://www.neuinfo.org/)
-FigShare [FigShare]
-GenBank [GenBank]
-DataOne [DataOne]
+FigShare [FigShare](https://figshare.com/)
+GenBank [GenBank](http://www.ncbi.nlm.nih.gov/genbank/)
+DataOne [DataOne](https://www.dataone.org/)
+Climate Data Laboratory [Climate Data Laboratory]https://www.dataone.org/
+
+##Arts & Humanities Repositories
+
+Association of Religion Data Archives [Associtation of Religion Data Archives]
+Commons Open Repository Exchange
+Long-Term Access and 
+
