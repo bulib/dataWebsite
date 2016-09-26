@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
-<h1 class="page-title">{{ page.title }}</h1>
+<div class="page-title">
+	<h1>{{ page.title }}</h1>
+	{% for member in site.data.members %}
+		{% if member.email == page.poc %} 
+			<p> For additional help contact {{ member.name }} at {{ member.email }}. 
+		{% endif %}
+	{% endfor %}
+</div> 
 <div class="row">	 
 	<article class="page col-md-9 col-md-offset-3">
 	  <div class="entry">
@@ -29,20 +36,6 @@ layout: default
 	</article>
 
 	<div class="col-md-3">
-		<div class="poc">
-		{% for member in site.data.members %}
-			{% if member.email == page.poc %} 
-			<h4>For help contact:</h4> 
-			<div class="member">
-				<ul>
-				<li>{{ member.name }}</li>
-				<li>{{ member.affiliation }}</li>
-				<li>{{ member.email }}</li>
-			</div> 	
-			{% endif %}
-		{% endfor %}
-		</ul> 	
-	</div> 
 		<nav id="toc" class="affix-top" data-toggle="toc" data-spy="affix"></nav>
 	</div> 	
 </div> 
