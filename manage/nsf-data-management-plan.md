@@ -8,24 +8,33 @@ excerpt: Learn the basics for writing a data management plan for a NSF grant app
 
 ## Introduction 
 
-Lorem ipsum dolor sit amet, quo ullum utamur labores cu, eos consul fierent mediocrem at, ei nec tibique apeirian atomorum. Reque meliore erroribus per cu, at pri ocurreret reprimique. Facer civibus te pri. Eum aeque offendit efficiendi cu, vim te debitis tincidunt.
+The National Science Foundation (NSF) has been requiring data management plans since 2011. At first the inclusion of data management plans seemed more like another box to check in the grant application process, however, they are now being scrutinized more and more. 
 
-<img src="{{ site.baseurl }}/assets/images/demo-responsive.jpg" class="img-responsive center-block" alt="Demo Responsive Image" />  
+**Quick Links** 
 
-At movet dicunt eum, eum euismod offendit fabellas ad. Interesset suscipiantur mea in, modus ullum labitur per in. No vix autem quaeque imperdiet, has suavitate torquatos an, ut pri veri iriure. Eos in labitur appetere accusamus, adipisci eloquentiam necessitatibus sit id, dico consul viderer vel ne. Hendrerit similique at vim. Pri utamur blandit ei.
++ <a href="http://www.nsf.gov/bfa/dias/policy/dmp.jsp" title="NSF's Dissemination and Sharing of Research Results Guidance">NSF's Dissemination and Sharing of Research Results</a> 
++ <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4" title="NSF's Award and Administration Guide (AAG) Chapter VI.D.4">NSF's Award and Administration Guide (AAG) Chapter VI.D.4</a> 
++  <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_2.jsp#dmp" title="NSF's Grant Proposal Guide, Chapter II.C.2.J">NSF's Grant Proposal Guide, Chapter II.C.2.J</a> 
 
-Per posse partem scaevola no, an mea enim elit pertinax, cu option aliquip quaestio sed. Audire praesent pertinacia eos ei, mea commodo gubergren eu, ut sed aperiam albucius. Quo ei rebum utamur nostrud, quo eu elitr inermis. Adipisci adolescens cu mei, pro cu erant indoctum, ut debet concludaturque pri. Ius nihil zril possit eu, id eam homero probatus.
+## Templates and Examples 
 
-**Here are some policy links to the National Science Foundation**
+We've developed the following template to help you get started with a generic NSF grant. **However**, be aware that specific directorates and divisions have specific requirements.  
 
-+ [NSF Dissemination and Sharing of Research Results](http://www.nsf.gov/bfa/dias/policy/dmp.jsp)
-+ [Grant Proposal Guide (GPG) Chapter II.C.2.j](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_2.jsp#dmp)
-+ [Award and Administration Guide (AAG) Chapter VI.D.4](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4)
-+ <a href="http://www.google.com">dfd</a>
++ Add template link
 
-The rest of this guide will cover the 5 sections that a data management plan might include to adhere to NSF policy. 
+For more templates, visit our GitHub repository.
 
-## Types 
+Examples can be a great way to get started. Here are a few examples that we think are useful. Please, use these with care and at your own discretion. 
+
++ Example 1
++ Example 2
++ Example 3 
+
+## Requirements 
+
+Let's review the sections your data management plan might require to adhere to NSF's policy.
+
+### Types 
 
 Per posse partem scaevola no, an mea enim elit pertinax, cu option aliquip quaestio sed. Audire praesent pertinacia 
 
@@ -36,7 +45,7 @@ From the policy:
 Per posse partem scaevola no, an mea enim elit pertinax, cu option aliquip quaestio sed. Audire praesent pertinacia eos ei, mea commodo gubergren eu, ut sed aperiam albucius. Quo ei rebum utamur nostrud, quo eu elitr inermis. Adipisci adolescens cu mei, pro cu erant indoctum, ut debet concludaturque pri. Ius nihil zril possit eu, id eam homero probatus.
 
 
-## Standards 
+### Standards 
 
 Per posse partem scaevola no, an mea enim elit pertinax, cu option aliquip quaestio sed. Audire praesent pertinacia eos ei, mea commodo gubergren eu, ut sed aperiam albucius. Quo ei rebum utamur nostrud, quo eu elitr inermis. Adipisci adolescens cu mei, pro cu erant indoctum, ut debet concludaturque pri. Ius nihil zril possit eu, id eam homero probatus.
 
@@ -45,15 +54,15 @@ Per posse partem scaevola no, an mea enim elit pertinax, cu option aliquip quaes
 
 Per posse partem scaevola no, an mea enim elit pertinax, cu option aliquip quaestio sed. Audire praesent pertinacia eos ei, mea commodo gubergren eu, ut sed aperiam albucius. Quo ei rebum utamur nostrud, quo eu elitr inermis. Adipisci adolescens cu mei, pro cu erant indoctum, ut debet concludaturque pri. Ius nihil zril possit eu, id eam homero probatus.
 
-## Access and Sharing
+### Access and Sharing
 
 > policies for access and sharing including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements
 
-## Reuse and Redistribution  
+### Reuse and Redistribution  
 
 > policies and provisions for re-use, re-distribution, and the production of derivatives
 
-## Archiving and Preserving 
+### Archiving and Preserving 
 
 > plans for archiving data, samples, and other research products, and for preservation of access to them
 
