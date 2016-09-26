@@ -49,7 +49,7 @@
     <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/workshops/</loc>
@@ -58,7 +58,7 @@
     <loc>http://www.bu.edu/data/dataWebsite/storage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/software/</loc>
@@ -76,10 +76,10 @@
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/metadata/</loc>
@@ -101,7 +101,7 @@
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/citing-data/index.html</loc>
-    <lastmod>2016-09-14T12:11:03-04:00</lastmod>
+    <lastmod>2016-09-22T11:13:24-04:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/revealjs/plugin/markdown/example.html</loc>
@@ -118,5 +118,9 @@
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/write-a-dmp/index.html</loc>
     <lastmod>2016-09-14T10:46:16-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/talks/writing-a-nsf-dmp/index.html</loc>
+    <lastmod>2016-09-23T15:48:16-04:00</lastmod>
   </url>
 </urlset>
