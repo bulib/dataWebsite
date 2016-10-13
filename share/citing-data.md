@@ -21,7 +21,7 @@ The examples below show you how to cite two datasets: characteristics of busines
 
 **APA Style (6th Edition)**
 
-Basic structure:
+Basic structure: <br>
 Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Format of dataset]. URL or DOI
 
 > United States Census Bureau (2016). <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. [Data file]. Retrieved from ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
@@ -30,7 +30,7 @@ Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Fo
 
 **Chicago Style (16th Edition): Bibliography Style**
 
-Basic structure:
+Basic structure:<br>
 Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository, Year of publication. URL or DOI
 
 > United States Census Bureau. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. Distributed by The United States Census Bureau, 2016. ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
@@ -39,7 +39,7 @@ Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. 
 
 **Chicago Style (16th Edition): Author-Date Style**
 
-Basic structure:
+Basic structure:<br>
 Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository. URL or DOI
 
 > United States Census Bureau. 2012. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. Distributed by the United States Census Bureau. 2016. ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
@@ -48,7 +48,7 @@ Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Vers
 
 **MLA Style (7th Edition)**
 
-Basic structure:
+Basic structure:<br>
 Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Hosting Organization or Repository, Year of Publication. Format of Source. Date of Access. URL or DOI
 
 > United States Census Bureau. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. United States Census Bureau, 2016. Web. 21 September 2016. ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
