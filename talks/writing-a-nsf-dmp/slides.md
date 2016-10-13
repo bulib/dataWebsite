@@ -28,7 +28,7 @@ date: September 29, 2016
 + Background 
 + Review NSF's Guidance 
 + More NSF Guidance 
-+ Review
++ Resources 
 
 # Background 
 
@@ -60,7 +60,7 @@ Your DMP "[will conform to NSF policy on the dissemination and sharing of resear
 
 + General NSF guidance applies if no specific guidance is given
 + Collaborative proposals and proposals that include subawards should include only one combined DMP
-+ A valid DMP may include only the statement that no detailed plan is needed, as long as the statement is accompanied by a clear justification
++ A valid DMP may include only a statement that no detailed plan is needed, as long as the statement is accompanied by a clear justification
 + If your DMP cannot fit within the two page limit you can use part of the 15-page Project Description. However, the 15-page Project Description limit still applies. 
 
 ## And Finally 
