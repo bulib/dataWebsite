@@ -19,7 +19,7 @@ You be familiar with citing books, films, articles, and even images.  But what a
 
 The examples below show you how to cite two datasets: characteristics of business owners collected in the Survey of Business Owners, and a dataset of behavioral measurements of hunting bats collected by Gomes, et al.
 
-**APA Style (6th Edition)**
+**[APA Style, 6th Edition]**
 
 Basic structure: <br>
 Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Format of dataset]. URL or DOI
@@ -28,7 +28,7 @@ Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Fo
 
 > Gomes, D. G. E., Page, R. A., Geipel, I., Taylor, R. C., Ryan, M. J., & Halfwerk, W. (2016). <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. [Data file].	doi:10.5061/dryad.5gk8j
 
-**Chicago Style (16th Edition): Bibliography Style**
+**[Chicago Style, 16th Edition: Bibliography Style](http://www.chicagomanualofstyle.org/tools_citationguide.html)**
 
 Basic structure:<br>
 Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository, Year of publication. URL or DOI
@@ -37,7 +37,7 @@ Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. 
 
 > Gomes, Dylan G. E., Rachel A. Page, Inga Geipel, Ryan C. Taylor, Mike C. Ryan, and Wouter Halfwerk. <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. Distributed by The Dryad Digital Repository, 2016. doi:10.5061/dryad.5gk8j
 
-**Chicago Style (16th Edition): Author-Date Style**
+**[Chicago Style, 16th Edition: Author-Date Style](http://www.chicagomanualofstyle.org/tools_citationguide.html)**
 
 Basic structure:<br>
 Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository. URL or DOI
