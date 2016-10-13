@@ -3,11 +3,39 @@ layout: default
 title: Workshops
 permalink: /workshops/
 ---
-<div class="row">
+<div class="workshops row">
+	{% assign isEvent = 0 %}
+	{% for post in site.posts %}
+	{% if post.category contains "workshops" %}
+		{% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+        {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+        {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
+        {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
+        {% assign postday = postday | plus: 0 %}
+        {% assign nowday = nowday | minus: 1 %}
+        {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %} 
+        	{% assign isEvent = 1 %}
+		<h2> Upcoming Workshops </h2> 
+	 	<div class="col-md-6 col-md-offset-3">
+	 		 <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4></a>
+	 		 <p>{{ post.excerpt }}<p>
+	 	</div>
+ 		{% endif %}
+	{% endif %}
+{% endfor %} 
+	{% if isEvent == 0 %}
+		<div class="no-workshops">
+			<h4>Nothing is scheduled now but visit again soon!</h4>
+			<p>You might enjoy some of our previous workshops listed below</p> 
+		</div> 
+	{% endif %}
+</div>
+<div class="workshops row">
+	<h2> Past Workshops </h2> 
 {% for post in site.posts %}
-	{% if post.category == "workshops" %}
+	{% if post.category contains "workshops" %}
 	
-	 	<div class="col-md-5 section-index-item">
+	 	<div class="col-md-6 col-md-offset-3">
 	 		 <a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
 	 		 <p>{{ post.excerpt }}<p>
 	 	</div>
