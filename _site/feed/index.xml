@@ -7,6 +7,51 @@
     <atom:link href="http://www.bu.edu/data/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Data Coordinating Center Office Hours @ Mugar</title>
+        <description>
+</description>
+        <pubDate>Wed, 14 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/news/2016/12/14/DCC-Office-Hours-Mugar.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/news/2016/12/14/DCC-Office-Hours-Mugar.html</guid>
+      </item>
+    
+      <item>
+        <title>Data Coordinating Center Office Hours @ Mugar</title>
+        <description>
+</description>
+        <pubDate>Fri, 02 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/news/2016/12/02/DCC-Office-Hours-Mugar.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/news/2016/12/02/DCC-Office-Hours-Mugar.html</guid>
+      </item>
+    
+      <item>
+        <title>Data Coordinating Center Office Hours @ Mugar</title>
+        <description>
+</description>
+        <pubDate>Fri, 18 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/news/2016/11/18/DCC-Office-Hours-Mugar.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/news/2016/11/18/DCC-Office-Hours-Mugar.html</guid>
+      </item>
+    
+      <item>
+        <title>Data Coordinating Center Office Hours @ Mugar</title>
+        <description>
+</description>
+        <pubDate>Fri, 04 Nov 2016 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/news/2016/11/04/DCC-Office-Hours-Mugar.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/news/2016/11/04/DCC-Office-Hours-Mugar.html</guid>
+      </item>
+    
+      <item>
+        <title>Data Coordinating Center Office Hours @ Mugar</title>
+        <description>
+</description>
+        <pubDate>Fri, 21 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/news/2016/10/21/DCC-Office-Hours-Mugar.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/news/2016/10/21/DCC-Office-Hours-Mugar.html</guid>
+      </item>
+    
+      <item>
         <title>Citing Data</title>
         <description>&lt;h2 id=&quot;this-webinar-will-cover&quot;&gt;This webinar will cover&lt;/h2&gt;
 
@@ -17,8 +62,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 22 Sep 2016 00:00:00 -0400</pubDate>
-        <link>http://www.bu.edu/data/workshops/2016/09/22/Citing-Data.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2016/09/22/Citing-Data.html</guid>
+        <link>http://www.bu.edu/data/workshops,%20news/2016/09/22/Citing-Data.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops,%20news/2016/09/22/Citing-Data.html</guid>
       </item>
     
       <item>
@@ -32,48 +77,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 15 Sep 2016 00:00:00 -0400</pubDate>
-        <link>http://www.bu.edu/data/workshops/2016/09/15/Writing-a-dmp.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2016/09/15/Writing-a-dmp.html</guid>
-      </item>
-    
-      <item>
-        <title>Test Workshop 3</title>
-        <description>&lt;p&gt;Testing DMPTool Tag &lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://www.bu.edu/data/workshops/2016/07/19/Workshop-Test-3.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2016/07/19/Workshop-Test-3.html</guid>
-      </item>
-    
-      <item>
-        <title>Demo workshop 2</title>
-        <description>&lt;p&gt;My demo workshop with nsf-data-management-plan tag and category of workshop&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://www.bu.edu/data/workshops/2016/07/14/Workshop-Demo-2.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2016/07/14/Workshop-Demo-2.html</guid>
-      </item>
-    
-      <item>
-        <title>Demo workshop</title>
-        <description>&lt;p&gt;My demo workshop with nsf-data-management-plan tag and category of workshop&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://www.bu.edu/data/workshops/2016/07/14/Workshop-Demo.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2016/07/14/Workshop-Demo.html</guid>
-      </item>
-    
-      <item>
-        <title>You&#39;re up and running!</title>
-        <description>&lt;p&gt;Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/dataWebsite/images/config.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;Jekyll Now repository&lt;/a&gt; on GitHub.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Mar 2014 00:00:00 -0500</pubDate>
-        <link>http://www.bu.edu/data/workshops/2014/03/03/Hello-World.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2014/03/03/Hello-World.html</guid>
+        <link>http://www.bu.edu/data/workshops,%20news/2016/09/15/Writing-a-dmp.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops,%20news/2016/09/15/Writing-a-dmp.html</guid>
       </item>
     
   </channel>

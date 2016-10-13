@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/workshops/2016/09/22/Citing-Data.html</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/news/2016/12/14/DCC-Office-Hours-Mugar.html</loc>
+    <lastmod>2016-12-14T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/news/2016/12/02/DCC-Office-Hours-Mugar.html</loc>
+    <lastmod>2016-12-02T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/news/2016/11/18/DCC-Office-Hours-Mugar.html</loc>
+    <lastmod>2016-11-18T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/news/2016/11/04/DCC-Office-Hours-Mugar.html</loc>
+    <lastmod>2016-11-04T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/news/2016/10/21/DCC-Office-Hours-Mugar.html</loc>
+    <lastmod>2016-10-21T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/workshops,%20news/2016/09/22/Citing-Data.html</loc>
     <lastmod>2016-09-22T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/workshops/2016/09/15/Writing-a-dmp.html</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/workshops,%20news/2016/09/15/Writing-a-dmp.html</loc>
     <lastmod>2016-09-15T00:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/workshops/2016/07/19/Workshop-Test-3.html</loc>
-    <lastmod>2016-07-19T00:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/workshops/2016/07/14/Workshop-Demo-2.html</loc>
-    <lastmod>2016-07-14T00:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/workshops/2016/07/14/Workshop-Demo.html</loc>
-    <lastmod>2016-07-14T00:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/workshops/2014/03/03/Hello-World.html</loc>
-    <lastmod>2014-03-03T00:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/404.html</loc>
@@ -49,7 +53,7 @@
     <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/workshops/</loc>
@@ -58,7 +62,7 @@
     <loc>http://www.bu.edu/data/dataWebsite/storage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/software/</loc>
@@ -76,10 +80,10 @@
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/metadata/</loc>
@@ -102,6 +106,10 @@
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/citing-data/index.html</loc>
     <lastmod>2016-09-22T11:13:24-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/talks/minting-a-doi-for-your-data-zenodo/index.html</loc>
+    <lastmod>2016-10-06T11:01:50-04:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/revealjs/plugin/markdown/example.html</loc>

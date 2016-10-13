@@ -1,6 +1,6 @@
 ---
 title: Writing a Data Management Plan (DMP)
-category: workshops
+category: workshops, news
 tag: writing-a-dmp
 excerpt: Join us to learn the basics about writing a data management plan 
 register:
