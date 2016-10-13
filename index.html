@@ -16,21 +16,21 @@ js: p/home-force.js
 			<div class="col-md-4 service">
 				<div>
 					<h3>Consultations</h3>
-					<p>A quick blurb about this service</p> 
-					<a class="btn-lg btn-success" href="#" role="button">Request</a>
+					<p>Need help? Schedule a one-on-one consultation</p> 
+					<a class="btn-lg btn-success" href="#" role="button" data-toggle="modal" data-target="#myModal">Request</a>
 				</div> 	
 			</div> 
 			<div class="col-md-4 service">
 				<div>
 					<h3>Guides</h3>
-					<p>A quick blurb about this service</p>
+					<p>Use our guides to get started managing your data.</p>
 					<a class="btn-lg btn-success" href="#" role="button">View</a> 
 				</div>
 			</div> 
 			<div class="col-md-4 service">
 				<div>
 					<h3>Workshops</h3>
-					<p>A quick blurb about this service</p> 
+					<p>Come get some hands-on training at one of our workshops.</p> 
 					<a class="btn-lg btn-success" href="{{ site.baseurl }}/workshops" role="button">View</a>
 				</div> 
 			</div> 
@@ -39,35 +39,51 @@ js: p/home-force.js
 </section>
 
 <section id="timely-news">
-	<p>Add timely news here</p> 
+	<h3>Things to know about</h3> 
+	<ul> 
+{% for post in site.posts reversed limit:5  %}
+	{% if post.category contains "news" %}
+		<li>
+            <div class="row">
+              <div class="news-date col-lg-2 col-lg-offset-2">
+              	<p> {{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}</p> 
+              	<!--
+                <ul>
+                  <li>{{ post.date | date: "%B" }}</li>
+                  <li>{{ post.date | date: "%-d" }}</li> 
+                  <li>{{ post.date | date: "%Y"}}<li>
+                </ul>
+            --> 
+              </div> 
+              <div class="col-lg-6">
+                <a class='news-title' href="{{ post.link }}">
+                  <h4>{{ post.title }}</h4>
+                </a>
+                <div class="eventDesc"> {{ post.excerpt }} </div> 
+              </div> 
+            </div>         
+          </li>
+          <hr> 
+	{% endif %}
+{% endfor %} 
+	</ul> 
 </section>
-
-<section id="about">
+<section id="tool-tip">
 	<div class="container">
 		<div class="col-md-4">
-			<h3>Libraries</h3> 
+			<a href="https://dmptool.org/user_sessions/institution" title="DMPTool"><img src="{{ site.baseurl }}/assets/images/DMPTool_logo.jpg" class="img-responsive" alt="DMPTool Logo"/></a> 
+			<p>Use the DMPTool to build your data management plan. With over 30 data management plan templates from funders such as the National Science Foundation and the Sloan Foundation, the DMPTool is a useful tool for writing your data management plan.</p> 
 		</div> 
-		<div class="col-md-4">
-			<h3>DCC</h3> 
+		<div class="col-md-8">
+			<h3>Tip: Add tip title here </h3>
+			<p>Add Tip Info</p> 
 		</div>
-		<div class="col-md-4">
-			<h3>IS&amp;T</h3> 
+	</div>
+</section>
+<section id="about">
+	<div class="container">
+		<div class="col-md-6 col-md-offset-3">
+			<h3>About Us</h3> 
 		</div> 
 	</div>
 </section>
-
-<!--
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>-->
