@@ -154,7 +154,7 @@ footer,
 }
 
 .news-date > p {
-	padding: 20px 0;
+	padding: 10px 0;
 	font-weight: 800;
 }
 
@@ -335,10 +335,11 @@ div.entry h2.join-us {
 }
 
 .videoWrapper {
-	margin: 0px 4%;
+	margin: 0 auto;
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 25px;
+	width: 75%; 
 	height: 0;
 }
 

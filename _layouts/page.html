@@ -14,6 +14,7 @@ layout: default
 	  <div class="entry">
 	    {{ content }}
 
+{% comment %}
 	    <div class="workshops">
 	    	{% for tag in site.tags %}
     			{% assign t = tag | first %}
@@ -32,6 +33,7 @@ layout: default
 		    	{% endif %}    	
 		    {% endfor %}
 		  	</div> 
+		  	{% endcomment %}
 	  </div>
 	</article>
 

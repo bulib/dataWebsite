@@ -1,9 +1,10 @@
 ---
 title: Citing Data
-category: workshops, news
-tag: citing-data
+category: workshops
+tag: 
+- citing-data
+- news 
 excerpt: Join us to learn the basics about citing data.  
-register: https://goo.gl/forms/Nlgyo5HVEkU1u5oG2
 video: 
 ---
 

@@ -42,7 +42,7 @@ js: p/home-force.js
 	<h3>Things to know about</h3> 
 	<ul> 
 {% for post in site.posts reversed limit:5  %}
-	{% if post.category contains "news" %}
+	{% if post.tag contains "news" %}
 		<li>
             <div class="row">
               <div class="news-date col-lg-2 col-lg-offset-2">
