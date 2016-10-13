@@ -21,7 +21,7 @@ The examples below show you how to cite two datasets: characteristics of busines
 
 **APA Style (6th Edition)**
 
-Basic structure: Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Format of dataset]. URL or DOI
+Basic structure:<lb> Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Format of dataset]. URL or DOI
 
 > United States Census Bureau (2016). <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. [Data file]. Retrieved from ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
 
