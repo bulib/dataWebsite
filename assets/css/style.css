@@ -134,23 +134,67 @@ footer,
 	background-color: #4fc3a0;
 }
 
-.btn-success:hover {
+.btn-success:hover, 
+.btn-success:focus,
+.btn-success:active:focus {
 	background-color: #308169; 
 }
 
 
 #timely-news {
-	text-align: center;
 	padding: 20px 0 4px;
-	background: transparent repeating-linear-gradient(45deg,rgb(248,249,190),rgb(253,255,214) 10px,rgb(254,252,231) 10px,rgb(251,249,224) 20px) repeat scroll 0 0;
 	width: 75%;
 	max-width: 1136px; 
 	margin: 15px auto;
 	border-radius: 15px;
 }
 
+#timely-news .news-date {
+	text-align: center; 
+}
+
+.news-date > p {
+	padding: 20px 0;
+	font-weight: 800;
+}
+
+#timely-news hr {
+	width: 50%
+}
+
+#timely-news ul {
+	list-style: none; 
+}
+
+#timely-news > h3 {
+	text-align: center; 
+	font-style: italic;
+	text-decoration: underline;
+}
+
+a.news-title  {
+	color: #404040;
+	text-decoration: none; 
+}
+
+#tool-tip {
+	min-height: 400px; 
+}
+
+#tool-tip h3 {
+	text-align: center;
+}
+
+#tool-tip img {
+	padding: 20px;
+}
+
 #about {
 	min-height: 400px; 
+}
+
+#about h3 {
+	text-align: center; 
 }
 
 #all {
@@ -304,6 +348,21 @@ div.entry h2.join-us {
 	left: 0;
 	width: 100%;
 	height: 100%;
+}
+
+/* * * * * * * * * * * * * * 
+ *
+ * Workshop Index Styles 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+.workshops h2 {
+	text-align: center; 
+}
+
+.workshops .no-workshops {
+	text-align: center; 
 }
 
 /* * * * * * * * * * * * * * 
