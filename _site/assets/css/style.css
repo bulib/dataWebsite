@@ -28,6 +28,10 @@ ul {
 	line-height: 26px; 
 }
 
+.row {
+	margin-right: 0;
+	margin-left: 0; 
+}
 
 /* * * * * * * * * * * * * * 
  *
@@ -71,10 +75,6 @@ nav.navbar.navbar-default.shrink {
 
 .navbar-default .navbar-nav > li > a {
     color: #0c0c0c;
-}
-
-#main {
-	padding: 120px 0 10px;
 }
 
 .nav > li > a {
@@ -215,6 +215,10 @@ a.news-title  {
  *
  * * * * * * * * * * * * * */
 
+.section-introduction {
+	padding: 120px 0 0;
+}
+
 .section-index-item {
     height: 230px;
     background-color: #e6e6e6;
@@ -223,6 +227,16 @@ a.news-title  {
 
 .section-introduction {
 	text-align: center;
+}
+
+.section-index-item > a > h3,
+.section-index-item > p {
+	margin-left: 70px; 
+	color: #404040;
+}
+.section-index-item > a,
+.section-index-item > a:hover {
+	text-decoration: none 
 }
 
 /* * * * * * * * * * * * * * 
@@ -234,7 +248,25 @@ a.news-title  {
 
 .page-title {
 	text-align: center; 
+	padding: 120px 0 0 0;
+	min-height: 250px; 
 }
+
+#main {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.page-title h1 {
+	text-decoration: underline;
+}
+
+.page-author {
+	font-size: 18px; 
+	padding-bottom: 25px; 
+}
+
 
 /* table of contents */ 
 nav[data-toggle=toc] .nav>li>a {
@@ -375,7 +407,7 @@ div.entry h2.join-us {
 
 /* http://lea.verou.me/css3patterns/#argyle */ 
 .write-a-dmp {
-	background-color: #6d695c;
+	background-color: #aeadab;
 	background-image:
 		repeating-linear-gradient(120deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
 		repeating-linear-gradient(60deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
@@ -385,10 +417,10 @@ div.entry h2.join-us {
 }
 /* http://lea.verou.me/css3patterns/#shippo */ 
 .naming-convention {
-	background-color:#def;
+	background-color:#fff;
 	background-image: 
-		radial-gradient(closest-side, transparent 98%, rgba(0,0,0,.3) 99%),
-		radial-gradient(closest-side, transparent 98%, rgba(0,0,0,.3) 99%);
+		radial-gradient(closest-side, transparent 98%, rgba(176, 168, 168,.3) 99%),
+		radial-gradient(closest-side, transparent 98%, rgba(176, 168, 168,.3) 99%);
 	background-size:80px 80px;
 	background-position:0 0, 40px 40px;
 }
@@ -396,11 +428,11 @@ div.entry h2.join-us {
 /* http://lea.verou.me/css3patterns/#cross */ 
 .nsf-dmp {
 	background: 
-		radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent),
-		radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent) 50px 50px,
+		radial-gradient(circle, transparent 20%, #dadee3 20%, #dadee3 80%, transparent 80%, transparent),
+		radial-gradient(circle, transparent 20%, #dadee3 20%, #dadee3 80%, transparent 80%, transparent) 50px 50px,
 		linear-gradient(#A8B1BB 8px, transparent 8px) 0 -4px,
 		linear-gradient(90deg, #A8B1BB 8px, transparent 8px) -4px 0;
-	background-color: slategray;
+	background-color: #dadee3;
 	background-size:100px 100px, 100px 100px, 50px 50px, 50px 50px;
 }
 

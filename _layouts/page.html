@@ -5,7 +5,7 @@ layout: default
 	<h1>{{ page.title }}</h1>
 	{% for member in site.data.members %}
 		{% if member.email == page.poc %} 
-			<p> For additional help contact {{ member.name }} at {{ member.email }}. 
+			<p class="page-author"> For additional help contact<br> {{ member.name }} at {{ member.email }}. 
 		{% endif %}
 	{% endfor %}
 </div> 
@@ -36,8 +36,7 @@ layout: default
 		  	{% endcomment %}
 	  </div>
 	</article>
-
 	<div class="col-md-3">
 		<nav id="toc" class="affix-top" data-toggle="toc" data-spy="affix"></nav>
-	</div> 	
+	</div> 
 </div> 
