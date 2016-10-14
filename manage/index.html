@@ -14,7 +14,7 @@ permalink: /manage/
 	{% for page in site.pages %}
 		{% if page.category == "manage" %}
 	 	
-	 	<div class="col-md-5 section-index-item">
+	 	<div class="col-md-5 section-index-item {{ page.css}}">
 	 		 <a href="{{ site.baseurl }}{{ page.url }}">
 	 		 	<h3>{{ page.title }}</h3>
 	 		 </a>

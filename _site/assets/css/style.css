@@ -368,6 +368,65 @@ div.entry h2.join-us {
 
 /* * * * * * * * * * * * * * 
  *
+ * Unique Guide Section / Header Styles 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+/* http://lea.verou.me/css3patterns/#argyle */ 
+.write-a-dmp {
+	background-color: #6d695c;
+	background-image:
+		repeating-linear-gradient(120deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+		repeating-linear-gradient(60deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+		linear-gradient(60deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1)),
+		linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1));
+	background-size: 70px 120px;
+}
+/* http://lea.verou.me/css3patterns/#shippo */ 
+.naming-convention {
+	background-color:#def;
+	background-image: 
+		radial-gradient(closest-side, transparent 98%, rgba(0,0,0,.3) 99%),
+		radial-gradient(closest-side, transparent 98%, rgba(0,0,0,.3) 99%);
+	background-size:80px 80px;
+	background-position:0 0, 40px 40px;
+}
+
+/* http://lea.verou.me/css3patterns/#cross */ 
+.nsf-dmp {
+	background: 
+		radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent),
+		radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent) 50px 50px,
+		linear-gradient(#A8B1BB 8px, transparent 8px) 0 -4px,
+		linear-gradient(90deg, #A8B1BB 8px, transparent 8px) -4px 0;
+	background-color: slategray;
+	background-size:100px 100px, 100px 100px, 50px 50px, 50px 50px;
+}
+
+/* http://lea.verou.me/css3patterns/#lined-paper */ 
+.dmptool {
+	background-color: #fff; 
+	background-image: 
+		linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+		linear-gradient(#eee .1em, transparent .1em);
+	background-size: 100% 1.2em;
+}
+
+/* http://lea.verou.me/css3patterns/#blueprint-grid */
+.metadata {
+	background-color:silver;
+	background-image: 
+		radial-gradient(circle at 100% 150%, silver 24%, white 25%, white 28%, silver 29%, silver 36%, white 36%, white 40%, transparent 40%, transparent),
+		radial-gradient(circle at 0    150%, silver 24%, white 25%, white 28%, silver 29%, silver 36%, white 36%, white 40%, transparent 40%, transparent),
+		radial-gradient(circle at 50%  100%, white 10%, silver 11%, silver 23%, white 24%, white 30%, silver 31%, silver 43%, white 44%, white 50%, silver 51%, silver 63%, white 64%, white 71%, transparent 71%, transparent),
+		radial-gradient(circle at 100% 50%, white 5%, silver 6%, silver 15%, white 16%, white 20%, silver 21%, silver 30%, white 31%, white 35%, silver 36%, silver 45%, white 46%, white 49%, transparent 50%, transparent),
+		radial-gradient(circle at 0    50%, white 5%, silver 6%, silver 15%, white 16%, white 20%, silver 21%, silver 30%, white 31%, white 35%, silver 36%, silver 45%, white 46%, white 49%, transparent 50%, transparent);
+	background-size:100px 50px;
+}
+
+/* * * * * * * * * * * * * * 
+ *
  * footer 
  *
  *

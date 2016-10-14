@@ -1,6 +1,7 @@
 ---
 title: Adding Metadata
 permalink: /manage/metadata/
+css: metadata
 category: manage
 excerpt: Find out what metadata are and how to use them
 ---

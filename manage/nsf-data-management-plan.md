@@ -2,6 +2,7 @@
 title: Writing NSF Data Management Plans
 permalink: /manage/nsf-data-management-plan/
 category: manage
+css: nsf-dmp
 poc: tah@bu.edu
 excerpt: Learn the basics for writing a data management plan for a NSF grant application.
 ---

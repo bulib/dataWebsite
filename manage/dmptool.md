@@ -2,6 +2,7 @@
 title: Using the DMPTool
 permalink: /manage/dmptool/
 category: manage
+css: dmptool
 poc: tah@bu.edu
 excerpt: Starting using the DMPTool to find templates for writing data management plans. 
 ---
