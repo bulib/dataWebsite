@@ -111,7 +111,25 @@ footer,
 
 
 .intro-text {
-	text-align: center; 
+	width: 45%;
+	float: right;
+	padding: 10px;
+}
+
+.intro-text > h1 {
+	font-size: 80px; 
+}
+
+.intro-text > a {
+	margin: 0 auto;
+	display: block;
+	width: 25%;
+	text-align: center;
+	min-height: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 20px;
+	font-weight: 500;
 }
 
 .service > div {
@@ -140,6 +158,14 @@ footer,
 	background-color: #308169; 
 }
 
+.citation {
+    font-size: 10px;
+    line-height: 1;
+    position: absolute;
+    bottom: 0;
+    width: 30%;
+    margin: 0;
+}
 
 #timely-news {
 	padding: 20px 0 4px;
@@ -204,8 +230,21 @@ a.news-title  {
 #welcome {
 	padding-top: 120px;
 	min-height: 600px;
+	position: relative;
 }
 
+#welcome::after {
+  content: "";
+  background: url("../images/home-background-images/20161021-demo.png");
+  opacity: 0.2;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -10;  
+  min-height: 800px;  
+}
 
 
 /* * * * * * * * * * * * * * 
@@ -238,6 +277,7 @@ a.news-title  {
 }
 .section-index-item-header > a > h3 {
 	margin: 0; 
+	padding-top: 10px;
 }
 
 .section-index-item > p {
