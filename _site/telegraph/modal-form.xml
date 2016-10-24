@@ -1,0 +1,6 @@
+<telegraph binding="late">
+	<directive action="require" field="Name"/>
+	<directive action="require" field="Email" format="email"/>
+	<directive action="require" field="Question"/>
+	<directive action="email" to="data@bu.edu" from="[email]" subject="Data Services Website Question"/>
+</telegraph>
