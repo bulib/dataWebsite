@@ -1,6 +1,9 @@
 <telegraph binding="late">
-	<directive action="require" field="Name"/>
-	<directive action="require" field="Email" format="email"/>
-	<directive action="require" field="Question"/>
+	<directive action="field" name="time-and-date" value="[timestamp:date] - [timestamp:time]" />
+	<directive action="require" field="name"/>
+	<directive action="require" field="email" format="email"/>
+	<directive action="require" field="question"/>
 	<directive action="email" to="data@bu.edu" from="[email]" subject="Data Services Website Question"/>
+	<directive action="captcha"/>
+	<directive action="imperius" url="/cragglerock/form/" />
 </telegraph>
