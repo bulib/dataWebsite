@@ -5,6 +5,10 @@
     <lastmod>2016-12-14T00:00:00-05:00</lastmod>
   </url>
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2016/12/12/Research-on-tap-fear-violence-and-trauma.html</loc>
+    <lastmod>2016-12-12T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/2016/12/02/DCC-Office-Hours-Mugar.html</loc>
     <lastmod>2016-12-02T00:00:00-05:00</lastmod>
   </url>
@@ -13,12 +17,36 @@
     <lastmod>2016-11-18T00:00:00-05:00</lastmod>
   </url>
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2016/11/15/Research-on-tap-shaping-the-new-human-technology-frontier.html</loc>
+    <lastmod>2016-11-15T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/none/2016/11/04/DCC-Office-Hours-Mugar.html</loc>
     <lastmod>2016-11-04T00:00:00-04:00</lastmod>
   </url>
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2016/11/02/Study-Group-Makefiles.html</loc>
+    <lastmod>2016-11-02T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2016/10/28/Open-Science-BU-Success-Stories.html</loc>
+    <lastmod>2016-10-28T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2016/10/26/Study-Group-Open-Data.html</loc>
+    <lastmod>2016-10-26T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/2016/10/21/DCC-Office-Hours-Mugar.html</loc>
     <lastmod>2016-10-21T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/workshops/2016/10/05/Minting-a-DOI-for-your-data-using-Zenodo.html</loc>
+    <lastmod>2016-10-05T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/workshops/2016/09/29/Writing-a-DMP-for-a-NSF-grant.html</loc>
+    <lastmod>2016-09-29T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/workshops/2016/09/22/Citing-Data.html</loc>
@@ -44,10 +72,13 @@
     <loc>http://www.bu.edu/data/dataWebsite/manage/dmptool/</loc>
   </url>
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/guides/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
@@ -56,7 +87,7 @@
     <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/workshops/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/software/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/storage/</loc>
@@ -65,7 +96,10 @@
     <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/software/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/workshops/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/</loc>
@@ -74,16 +108,13 @@
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nih/</loc>
   </url>
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/sbe/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/metadata/</loc>
