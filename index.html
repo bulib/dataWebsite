@@ -26,7 +26,7 @@ js: p/home-force.js
 				<div>
 					<h3>Guides</h3>
 					<p>Use our guides to get started managing your data.</p>
-					<a class="btn-lg btn-success" href="#" role="button">View</a> 
+					<a class="btn-lg btn-success" href="{{ site.baseurl }}/guides" role="button">View</a> 
 				</div>
 			</div> 
 			<div class="col-md-4 service">
@@ -39,35 +39,48 @@ js: p/home-force.js
 		</div>
 	</div>
 </section>
-
 <section id="timely-news">
 	<h3>Things to know about</h3> 
 	<ul> 
-{% for post in site.posts reversed limit:5  %}
-	{% if post.tag contains "news" %}
+	{% assign isEvent = 0 %}
+	{% for post in site.posts reversed %}
+		{% if post.tag contains "news" %}
+			{% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+            {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+            {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
+            {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
+            {% assign postday = postday | plus: 0 %}
+            {% assign nowday = nowday | minus: 1 %}
+            
+            {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
+              {% assign isEvent = 1 %}
+				<li class="news-item">
+		            <div class="row">
+		              <div class="news-date col-lg-2 col-lg-offset-2">
+		              	<p> {{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}</p> 
+		              </div> 
+		              <div class="col-lg-6">
+		                <a class='news-title' href="{{ post.link }}">
+		                  <h4>{{ post.title }}</h4>
+		                </a>
+		                <div class="eventDesc"> {{ post.excerpt }} </div> 
+		              </div> 
+		            </div>         
+		        </li>
+          		<hr> 
+        	{% endif %}
+		{% endif %}
+	{% endfor %} 
+	{% if isEvent == 0 %}
 		<li>
-            <div class="row">
-              <div class="news-date col-lg-2 col-lg-offset-2">
-              	<p> {{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}</p> 
-              	<!--
-                <ul>
-                  <li>{{ post.date | date: "%B" }}</li>
-                  <li>{{ post.date | date: "%-d" }}</li> 
-                  <li>{{ post.date | date: "%Y"}}<li>
-                </ul>
-            --> 
-              </div> 
-              <div class="col-lg-6">
-                <a class='news-title' href="{{ post.link }}">
-                  <h4>{{ post.title }}</h4>
-                </a>
-                <div class="eventDesc"> {{ post.excerpt }} </div> 
-              </div> 
-            </div>         
-          </li>
-          <hr> 
-	{% endif %}
-{% endfor %} 
+			<div class="row">
+				<div class="news-date col-lg-2 col-lg-offset-2"></div> 
+	            <div class="col-lg-6">
+		        	<h4>All quiet for now. Visit again soon.</h4>    
+		         </div> 
+		    </div> 
+       	</li>
+    {% endif %}
 	</ul> 
 </section>
 <section id="tool-tip">
