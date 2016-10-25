@@ -1,7 +1,9 @@
 ---
 title:  Using a Data Repository
 permalink: # Add permalink here ex. /manage/nsf-data-management-plan
-category: share
+category: 
+- share
+- guide
 excerpt: # Add excerpt here -> A guide to data repositories 
 ---
 
