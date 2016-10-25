@@ -1,8 +1,9 @@
 ---
 title: Designing a Naming Convention
 permalink: /manage/naming-convention/
-category: manage
-css: naming-convention
+category: 
+- manage
+- guide
 excerpt: Discover how to design a simple and effective naming convention for your project. 
 ---
 
