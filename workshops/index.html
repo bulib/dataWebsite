@@ -18,6 +18,7 @@ permalink: /workshops/
 		<h2> Upcoming Workshops </h2> 
 	 	<div class="col-md-6 col-md-offset-3">
 	 		 <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4></a>
+	 		 <p>This workshop will happen on {{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }} </p> 
 	 		 <p>{{ post.excerpt }}<p>
 	 	</div>
  		{% endif %}
@@ -30,16 +31,17 @@ permalink: /workshops/
 		</div> 
 	{% endif %}
 </div>
-<div class="workshops row">
+<div class="row workshops">
 	<h2> Past Workshops </h2> 
 {% for post in site.posts %}
 	{% if post.category contains "workshops" %}
-	
-	 	<div class="col-md-6 col-md-offset-3">
-	 		 <a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
-	 		 <p>{{ post.excerpt }}<p>
+		<div class="col-md-5 section-index-item">
+	 		<div class="section-index-item-header">
+	 			<a href="{{ site.baseurl }}{{ page.url }}"><h3>{{ post.title }}</h3></a>
+	 		</div> 
+	 		<p>This workshop occurred on {{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }} </p> 
+	 		<p>{{ post.excerpt }}<p>
 	 	</div>
- 
 	{% endif %}
 {% endfor %} 
 </div>
