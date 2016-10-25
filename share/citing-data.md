@@ -1,7 +1,9 @@
 ---
 title: Citing Data 
 permalink: manage/citing-data/
-category: share
+category: 
+- share
+- guide
 excerpt: Learn how to cite data properly in your papers, reports, and presentations  
 ---
 
