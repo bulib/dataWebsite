@@ -4,12 +4,18 @@ category: workshops
 tag: 
 - writing-a-dmp
 - news
-excerpt: Join us to learn the basics about writing a data management plan 
+excerpt: This webinar looked at how to write a generic a data management plan 
 video: sr0v4aDYSwo
 ---
 
-<a class="btn-lg btn-success" href="{{ site.baseurl }}/talks/write-a-dmp/" role="button">Slides</a>
-
+<div class="row">
+	<div class="col-md-3 col-md-offset-1">
+		<a class="btn-lg btn-success" href="{{ site.baseurl }}/talks/write-a-dmp/" role="button">Slides</a>
+	</div> 
+	<div class="col-md-3 col-md-offset-3">
+		<a class="btn-lg btn-success" href="{{ site.baseurl }}/talks/write-a-dmp/" role="button">Slides (pdf)</a>
+	</div>
+</div> 
 
 ### This webinar occurred on September 15, 2016. 
 
