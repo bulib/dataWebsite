@@ -172,10 +172,14 @@ footer,
 .citation {
     font-size: 10px;
     line-height: 1;
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 30%;
-    margin: 0;
+    margin: 15px;
+}
+
+#welcome > div.container > p.citation{
+	position: absolute;
 }
 
 #timely-news {
@@ -289,6 +293,7 @@ a.news-title  {
 .section-index-item {
     height: 230px;
     border: 1px solid #e6e6e6;
+    background-color: #fff; 
     margin: 2.5%;
     padding: 0;
 }
@@ -323,6 +328,34 @@ a.news-title  {
 	text-decoration: none 
 }
 
+#main.manage::after,
+#main.guides::after,
+#main.workshops::after {
+  content: "";
+  opacity: 0.2;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -10;  
+  min-height: 100%;
+  margin-bottom: -200px;
+  display: block    
+}
+
+#main.manage::after { 
+  background: url("../images/home-background-images/20161025-demo-2.png");
+}
+
+#main.guides::after { 
+  background: url("../images/home-background-images/20161025-demo.png");
+}
+
+#main.workshops::after { 
+  background: url("../images/home-background-images/20161025-demo-4.png");
+}
+
+
 /* * * * * * * * * * * * * * 
  *
  * Page Style 
@@ -340,6 +373,7 @@ a.news-title  {
 	width: 100%;
 	margin: 0;
 	padding: 0;
+	position: relative; 
 }
 
 .page-title h1 {
