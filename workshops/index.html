@@ -37,7 +37,7 @@ permalink: /workshops/
 	{% if post.category contains "workshops" %}
 		<div class="col-md-5 section-index-item">
 	 		<div class="section-index-item-header">
-	 			<a href="{{ site.baseurl }}{{ page.url }}"><h3>{{ post.title }}</h3></a>
+	 			<a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
 	 		</div> 
 	 		<p>This workshop occurred on {{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }} </p> 
 	 		<p>{{ post.excerpt }}<p>
@@ -45,3 +45,4 @@ permalink: /workshops/
 	{% endif %}
 {% endfor %} 
 </div>
+<p class="citation">Image from: S. Boosalis, Michael; I. Sangerman, Jose; L. White, Gary; F. Wolf, Roman; Shen, Ling; Dai, Yan; White, Emily; H. Makala, Levi; Li, Biaoru; S. Pace, Betty; Nouraie, Mehdi; V. Faller, Douglas; P. Perrine, Susan (2015): Structures of therapeutic candidates identified in high-throughput screening.. figshare.<a href="https://dx.doi.org/10.1371/journal.pone.0144660.g002">https://dx.doi.org/10.1371/journal.pone.0144660.g002</a></p>
