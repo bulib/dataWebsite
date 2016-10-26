@@ -72,10 +72,10 @@
     <loc>http://www.bu.edu/data/dataWebsite/manage/dmptool/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/guides/</loc>
@@ -84,7 +84,7 @@
     <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/software/</loc>
@@ -93,7 +93,7 @@
     <loc>http://www.bu.edu/data/dataWebsite/storage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/workshops/</loc>
@@ -111,10 +111,10 @@
     <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/sbe/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/sbe/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/metadata/</loc>
@@ -141,6 +141,10 @@
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/minting-a-doi-for-your-data-zenodo/index.html</loc>
     <lastmod>2016-10-06T11:01:50-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/talks/open-data/index.html</loc>
+    <lastmod>2016-10-26T13:58:21-04:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/revealjs/plugin/markdown/example.html</loc>

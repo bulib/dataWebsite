@@ -115,27 +115,42 @@ footer,
 
 
 .intro-text {
-	width: 55%;
-	min-width: 627px; 
 	float: right;
 	padding: 10px;
-	margin-right: 10%; 
 }
 
 .intro-text > h1 {
-	font-size: 80px; 
+	font-size: 60px; 
 	text-align: right; 
 }
 
+@media (min-width: 500px) {
+	.intro-text > h1 {
+		font-size: 80px; 
+	}
+}
+
+@media (min-width: 970px) {
+	.intro-text {
+		width: 55%;
+		min-width: 627px; 
+		margin-right: 10%; 
+	}
+	.intro-text > a {
+		font-size: 20px; 
+		width: 25%;
+	}
+}
+
 .intro-text > a {
-	margin: 0 auto;
+	margin: 0 auto 50px;
 	display: block;
-	width: 25%;
+	
 	text-align: center;
 	min-height: 50px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	font-size: 20px;
+	font-size: 16px;
 	font-weight: 500;
 	float: right
 }
@@ -173,8 +188,7 @@ footer,
     font-size: 10px;
     line-height: 1;
     position: relative;
-    bottom: 0;
-    width: 30%;
+    bottom: 0;    
     margin: 15px;
 }
 
@@ -182,12 +196,24 @@ footer,
 	position: absolute;
 }
 
+@media (min-width: 970px) {
+	.citation {
+		width: 30%;
+	}
+
+}
+
 #timely-news {
 	padding: 20px 0 4px;
-	width: 75%;
 	max-width: 1136px; 
 	margin: 15px auto;
 	border-radius: 15px;
+}
+
+@media (min-width: 500px) {
+	#timely-news {
+		width: 75%;
+	}
 }
 
 #timely-news .news-date {
@@ -387,6 +413,16 @@ a.news-title  {
 
 
 /* table of contents */ 
+nav#toc {
+	display: none; 
+}
+
+@media (min-width: 1200px) {
+	nav#toc {
+		display: unset; 
+	}
+}
+
 nav[data-toggle=toc] .nav>li>a {
 	font-size: 15px; 
 }
@@ -501,6 +537,10 @@ div.entry h2.join-us {
 	height: 100%;
 }
 
+div.date {
+	margin-top: 30px; 
+	text-align: center; 
+}
 /* * * * * * * * * * * * * * 
  *
  * Workshop Index Styles 
