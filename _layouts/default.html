@@ -16,7 +16,7 @@
     <div class="page-wrapper">
       {% include header.html %}
 
-      <div id="main" role="main" class="container">
+      <div id="main" role="main" class="container {{ page.title | downcase }}">
         {{ content }}
       </div>
 
