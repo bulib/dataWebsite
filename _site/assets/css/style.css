@@ -84,6 +84,11 @@ nav.navbar.navbar-default.shrink {
 .nav > li > a {
     padding: 10px 13px;
 }
+
+#navbar-collapse-1 > ul > li {
+	text-align: right; 
+}
+
 /* * * * * * * * * * * * * * 
  *
  * Sticky Footer
