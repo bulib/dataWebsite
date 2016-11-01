@@ -23,7 +23,7 @@ The following directories provide comprehensive lists of repositories by subject
 
 ## Natural Science, Engineering, & Computer Science Repositories
 
-PubChem [PubChem](http://pubchem.ncbi.nlm.nih.gov/)
+*[PubChem](http://pubchem.ncbi.nlm.nih.gov/)
 Crystallagrophy Open Database [Crystallagrophy Open Database](Crystallagrophy Open Database)
 NASA Prognostics Data Laboratory [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory)
 CodePlex [CodePlex](CodePlex)
