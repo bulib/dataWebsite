@@ -17,7 +17,7 @@ Beyond Boston University, there are a number of data repositories available for 
 
 The following directories provide comprehensive lists of repositories by subject area.
 
-* Registry of Research Data Repositories [resdata.org](http://www.re3data.org/)
+* [Registry of Research Data Repositories](http://www.re3data.org/)
 * OpenDoar [OpenDoar](http://opendoar.org/)
 * Open Access Directory [Open Access Directory](Open Access Directory)
 
