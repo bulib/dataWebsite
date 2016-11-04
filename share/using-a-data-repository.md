@@ -23,16 +23,16 @@ The following directories provide comprehensive lists of repositories by subject
 
 ## Natural Science, Engineering, & Computer Science Repositories
 
-*PubChem[PubChem](http://pubchem.ncbi.nlm.nih.gov/)
-*Crystallagrophy Open Database [Crystallagrophy Open Database](Crystallagrophy Open Database)
-*NASA Prognostics Data Laboratory [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory)
-*CodePlex [CodePlex](CodePlex)
-*Dryad [Dryad](http://datadryad.org/) 
-*Neuroscience Information Framework [Neuroscience Information Framework](http://www.neuinfo.org/)
-*FigShare [FigShare](https://figshare.com/)
-*GenBank [GenBank](http://www.ncbi.nlm.nih.gov/genbank/)
-*DataOne [DataOne](https://www.dataone.org/)
-*Climate Data Laboratory [Climate Data Laboratory]https://www.dataone.org/
+* PubChem[PubChem](http://pubchem.ncbi.nlm.nih.gov/)
+* Crystallagrophy Open Database [Crystallagrophy Open Database](Crystallagrophy Open Database)
+* NASA Prognostics Data Laboratory [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory)
+* CodePlex [CodePlex](CodePlex)
+* Dryad [Dryad](http://datadryad.org/) 
+* Neuroscience Information Framework [Neuroscience Information Framework](http://www.neuinfo.org/)
+* FigShare [FigShare](https://figshare.com/)
+* GenBank [GenBank](http://www.ncbi.nlm.nih.gov/genbank/)
+* DataOne [DataOne](https://www.dataone.org/)
+* Climate Data Laboratory [Climate Data Laboratory]https://www.dataone.org/
 
 ##Arts & Humanities Repositories
 
