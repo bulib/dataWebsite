@@ -36,7 +36,7 @@ The following directories provide comprehensive lists of repositories by subject
 
 ##Arts & Humanities Repositories
 
-*Association of Religion Data Archives [Associtation of Religion Data Archives]
-*Commons Open Repository Exchange
-*Long-Term Access and 
+* Association of Religion Data Archives [Associtation of Religion Data Archives]
+* Commons Open Repository Exchange
+* Long-Term Access and 
 
