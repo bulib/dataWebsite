@@ -32,9 +32,9 @@ The following directories provide comprehensive lists of repositories by subject
 * FigShare [FigShare](https://figshare.com/)
 * GenBank [GenBank](http://www.ncbi.nlm.nih.gov/genbank/)
 * DataOne [DataOne](https://www.dataone.org/)
-* Climate Data Laboratory [Climate Data Laboratory]https://www.dataone.org/
+* Climate Data Laboratory [Climate Data Laboratory](https://www.dataone.org/)
 
-##Arts & Humanities Repositories
+## Arts & Humanities Repositories
 
 * Association of Religion Data Archives [Associtation of Religion Data Archives]
 * Commons Open Repository Exchange
