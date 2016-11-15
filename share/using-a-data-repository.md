@@ -52,4 +52,10 @@ The following directories provide comprehensive lists of repositories by subject
 
 ##  Health Science & Rehabilitation Research Repositories
 
+* [Speech & Language Data Repository](http://sldr.org/)
+* [National Database for Autism Research](https://ndar.nih.gov/)
+* [The SICAS Medical Imaging Repository](https://www.smir.ch/)
+* [Systematic Review Data Repository](http://srdr.ahrq.gov/)
+* [Center for Large Data Research & Data Sharing in Rehabilitation](https://rehabsciences.utmb.edu/cldr/)
+
 
