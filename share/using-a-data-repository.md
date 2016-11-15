@@ -36,15 +36,20 @@ The following directories provide comprehensive lists of repositories by subject
 
 ## Arts & Humanities Repositories
 
-* [Associtation of Religion Data Archives]http://www.thearda.com/
-* [Commons Open Repository Exchange]https://commons.mla.org/core/
-* [Long-Term Access and Usage of Deeply Annotated Information]http://www.laudatio-repository.org/repository/
-* [Cultural Policy & the Arts National Data Archive]http://www.cpanda.org/cpanda/
-* [National Archive of Data on Arts & Culture]http://www.icpsr.umich.edu/icpsrweb/NADAC/
+* [Associtation of Religion Data Archives](http://www.thearda.com/)
+* [Commons Open Repository Exchange](https://commons.mla.org/core/)
+* [Long-Term Access and Usage of Deeply Annotated Information](http://www.laudatio-repository.org/repository/)
+* [Cultural Policy & the Arts National Data Archive](http://www.cpanda.org/cpanda/)
+* [National Archive of Data on Arts & Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/)
 
 ## Social & Behavioral Science Repositories
 
-* [Interuniveristy Consortium for Political & Social Research] https://www.icpsr.umich.edu/icpsrweb/
-* [Consortium of European Social Science Data Archives] http://www.nsd.uib.no/cessda/extcessda.jsp
-* [Databrary] https://nyu.databrary.org/
+* [Interuniveristy Consortium for Political & Social Research] (https://www.icpsr.umich.edu/icpsrweb/)
+* [Consortium of European Social Science Data Archives] (http://www.nsd.uib.no/cessda/extcessda.jsp)
+* [Databrary](https://nyu.databrary.org/)
+* [National Archive of Criminal Justice Data] (http://www.icpsr.umich.edu/icpsrweb/NACJD/)
+* [Child & Early Education Research Connections](http://www.researchconnections.org/childcare/download)
+
+##  Health Science & Rehabilitation Research Repositories
+
 
