@@ -36,9 +36,9 @@ The following directories provide comprehensive lists of repositories by subject
 
 ## Arts & Humanities Repositories
 
-* [Associatation of Religion Data Archives](http://www.thearda.com/): 
-* [Commons Open Repository Exchange](https://commons.mla.org/core/)
-* [Long-Term Access and Usage of Deeply Annotated Information](http://www.laudatio-repository.org/repository/)
+* [Associatation of Religion Data Archives](http://www.thearda.com/): Sponsored by Penn State, this archive features data from surveys and polls on religious life in America.
+* [Commons Open Repository Exchange](https://commons.mla.org/core/): provides MLA Commons members with an open access storage facility for their scholarly output.
+* [Long-Term Access and Usage of Deeply Annotated Information](http://www.laudatio-repository.org/repository/):Funded by the German Research Foundation, Laudatio seeks to provide an open-access database of historic, linguistic data.
 * [Cultural Policy & the Arts National Data Archive](http://www.cpanda.org/cpanda/)
 * [National Archive of Data on Arts & Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/)
 
