@@ -24,7 +24,7 @@ The following directories provide comprehensive lists of repositories by subject
 ## Natural Science, Engineering, & Computer Science Repositories
 
 * [PubChem](http://pubchem.ncbi.nlm.nih.gov/): provides information on the biological activities of small molecules.
-* [Crystallagrophy Open Database](Crystallagrophy Open Database)
+* [Crystallagrophy Open Database](Crystallagrophy Open Database):Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers
 * [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory)
 * [CodePlex](CodePlex)
 * [Dryad](http://datadryad.org/) 
