@@ -54,7 +54,7 @@ The following directories provide comprehensive lists of repositories by subject
 * [Speech & Language Data Repository](http://sldr.org/): SLDR (Speech and Language Data Repository) is a repository of oral language and multimodal data.
 * [National Database for Autism Research](https://ndar.nih.gov/): An NIH-funded research data repository that aims to accelerate progress in autism spectrum disorders (ASD) research through data sharing and the reporting of research results.
 * [The SICAS Medical Imaging Repository](https://www.smir.ch/): Searchable database and storage of anatomical images.
-* [Systematic Review Data Repository](http://srdr.ahrq.gov/)
-* [Center for Large Data Research & Data Sharing in Rehabilitation](https://rehabsciences.utmb.edu/cldr/)
+* [Systematic Review Data Repository](http://srdr.ahrq.gov/): An online tool for the extraction and management of data for systematic review or meta-analysis. It also features an open archive of systematic reviews and their data. 
+* [Center for Large Data Research & Data Sharing in Rehabilitation](https://rehabsciences.utmb.edu/cldr/): An archiving and data sharing portal developed by the University of Texas, Cornell University, and the University of Michigan.
 
 
