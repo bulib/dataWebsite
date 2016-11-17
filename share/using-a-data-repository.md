@@ -24,15 +24,15 @@ The following directories provide comprehensive lists of repositories by subject
 ## Natural Science, Engineering, & Computer Science Repositories
 
 * [PubChem](http://pubchem.ncbi.nlm.nih.gov/): provides information on the biological activities of small molecules.
-* [Crystallagrophy Open Database](Crystallagrophy Open Database):Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers
-* [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory)
-* [CodePlex](CodePlex)
-* [Dryad](http://datadryad.org/) 
-* [Neuroscience Information Framework](http://www.neuinfo.org/)
-* [FigShare](https://figshare.com/)
-* [GenBank](http://www.ncbi.nlm.nih.gov/genbank/)
-* [DataOne](https://www.dataone.org/)
-* [Climate Data Laboratory](https://www.dataone.org/)
+* [Crystallagrophy Open Database](Crystallagrophy Open Database): Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers
+* [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory): The Prognostics Data Repository is a collection of data sets that have been donated by various universities, agencies, or companies.
+* [CodePlex](CodePlex): Microsoft's free open source project hosting site.
+* [Dryad](http://datadryad.org/): provides a general-purpose home for a wide diversity of datatypes. 
+* [Neuroscience Information Framework](http://www.neuinfo.org/): NIF maintains a large searchable collection of neuroscience data.
+* [FigShare](https://figshare.com/): While this data sharing cite is multi-disciplinary, it houses a large collection of data in the biological sciences.
+* [GenBank](http://www.ncbi.nlm.nih.gov/genbank/): NIH genetic sequence database.
+* [DataOne](https://www.dataone.org/): Access to earth & environmental data available across multiple repositories.
+* [Climate Data Laboratory](https://www.dataone.org/): Data sets provided by Columbia University.
 
 ## Arts & Humanities Repositories
 
