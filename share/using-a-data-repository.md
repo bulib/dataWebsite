@@ -36,7 +36,7 @@ The following directories provide comprehensive lists of repositories by subject
 
 ## Arts & Humanities Repositories
 
-* [Associtation of Religion Data Archives](http://www.thearda.com/)
+* [Associatation of Religion Data Archives](http://www.thearda.com/): 
 * [Commons Open Repository Exchange](https://commons.mla.org/core/)
 * [Long-Term Access and Usage of Deeply Annotated Information](http://www.laudatio-repository.org/repository/)
 * [Cultural Policy & the Arts National Data Archive](http://www.cpanda.org/cpanda/)
@@ -52,9 +52,9 @@ The following directories provide comprehensive lists of repositories by subject
 
 ##  Health Science & Rehabilitation Research Repositories
 
-* [Speech & Language Data Repository](http://sldr.org/)
-* [National Database for Autism Research](https://ndar.nih.gov/)
-* [The SICAS Medical Imaging Repository](https://www.smir.ch/)
+* [Speech & Language Data Repository](http://sldr.org/): SLDR (Speech and Language Data Repository) is a repository of oral language and multimodal data.
+* [National Database for Autism Research](https://ndar.nih.gov/): An NIH-funded research data repository that aims to accelerate progress in autism spectrum disorders (ASD) research through data sharing and the reporting of research results.
+* [The SICAS Medical Imaging Repository](https://www.smir.ch/): Searchable database and storage of anatomical images.
 * [Systematic Review Data Repository](http://srdr.ahrq.gov/)
 * [Center for Large Data Research & Data Sharing in Rehabilitation](https://rehabsciences.utmb.edu/cldr/)
 
