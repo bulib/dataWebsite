@@ -43,9 +43,9 @@ The following directories provide comprehensive lists of repositories by subject
 
 ## Social & Behavioral Science Repositories
 
-* [Interuniveristy Consortium for Political & Social Research] (https://www.icpsr.umich.edu/icpsrweb/)
-* [Consortium of European Social Science Data Archives] (http://www.nsd.uib.no/cessda/extcessda.jsp)
-* [Databrary](https://nyu.databrary.org/)
+* [Interuniveristy Consortium for Political & Social Research] (https://www.icpsr.umich.edu/icpsrweb/): An international cooperation of over 750 academic institutions and research organizations, ICPSR has an extensive collection of data sets in the social and behavioral sciences.
+* [Consortium of European Social Science Data Archives] (http://www.nsd.uib.no/cessda/extcessda.jsp): Features social science datasets from European universities and institutes.
+* [Databrary](https://nyu.databrary.org/): 
 * [National Archive of Criminal Justice Data] (http://www.icpsr.umich.edu/icpsrweb/NACJD/)
 * [Child & Early Education Research Connections](http://www.researchconnections.org/childcare/download)
 
