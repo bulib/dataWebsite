@@ -17,9 +17,9 @@ Beyond Boston University, there are a number of data repositories available for 
 
 The following directories provide comprehensive lists of repositories by subject area.
 
-* [Registry of Research Data Repositories](http://www.re3data.org/)
-* [OpenDoar](http://opendoar.org/)
-* [Open Access Directory](Open Access Directory)
+* [Registry of Research Data Repositories](http://www.re3data.org/): re3data.org is a global registry of research data repositories that covers research data repositories from different academic disciplines.
+* [OpenDoar](http://opendoar.org/): OpenDOAR is an authoritative directory of academic open access repositories.
+* [Open Access Directory](Open Access Directory): Sponsored by Simmons College, this page features a directory of data repositories by subject area.
 
 ## Natural Science, Engineering, & Computer Science Repositories
 
