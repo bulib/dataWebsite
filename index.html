@@ -8,7 +8,7 @@ js: p/home-force.js
 			<h1>Helping researchers with their data</h1> 
 			<a class="btn-lg btn-success" href="#" role="button" data-toggle="modal" data-target="#myModal">Contact</a>
 		</div>
-		<p class="citation">Image from: P. Bartsch, Ronny; K. L. Liu, Kang; Bashan, Amir; Ch. Ivanov, Plamen (2015): Networks of physiologic interactions between brain areas and key organ systems during different physiologic states. <a href="https://dx.doi.org/10.1371/journal.pone.0142143.g017">https://dx.doi.org/10.1371/journal.pone.0142143.g017</a></p> 
+	
 	</div>
 </header> 
 
@@ -39,35 +39,44 @@ js: p/home-force.js
 		</div>
 	</div>
 </section>
-<section id="timely-news">
-	<h3>Things to know about</h3> 
-	<ul> 
-	{% assign isEvent = 0 %}
-	{% for post in site.posts reversed %}
-		{% if post.tag contains "news" %}
-			{% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+
+<section id="calendar">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+	<div class="calendar-box">
+	  <h3>Calendar <span>more >>></span></h3> 
+	  <div>
+	  <ul> 
+	    {% assign isEvent = 0 %}
+	    {% for post in site.posts reversed %}
+ 	    {% if post.tag contains "news" %}
+	    {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
             {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
             {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
             {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
             {% assign postday = postday | plus: 0 %}
             {% assign nowday = nowday | minus: 1 %}
-            
             {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
-              {% assign isEvent = 1 %}
-				<li class="news-item">
+            {% assign isEvent = 1 %}
+	    {% assign m = post.date | date: "%B" %}
+	    {% case m %}
+	    {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
+	    {% when 'September' %}{% assign m = Sept %}
+	    {% else %}{% assign m = post.date | date: "%b" %}
+	    {% endcase %}
+	    <li class="news-item">
 		            <div class="row">
-		              <div class="news-date col-lg-2 col-lg-offset-2">
-		              	<p> {{ post.date | date: "%B" }} {{ post.date | date: "%-d" }}</p> 
-		              </div> 
-		              <div class="col-lg-6">
-		                <a class='news-title' href="{{ post.link }}">
-		                  <h4>{{ post.title }}</h4>
-		                </a>
-		                <div class="eventDesc"> {{ post.excerpt }} </div> 
+		              <div class="news-date">
+		              	<p> {{ m }} {{ post.date | date: "%-d" }} </p>
+		              </div>
+		              <div class="news-title">
+		                <a class='news-title-link' href="{{ post.link }}">
+		                  <h5>{{ post.title }}</h5>
+		                </a> 
 		              </div> 
 		            </div>         
 		        </li>
-          		<hr> 
         	{% endif %}
 		{% endif %}
 	{% endfor %} 
@@ -81,28 +90,24 @@ js: p/home-force.js
 		    </div> 
        	</li>
     {% endif %}
-	</ul> 
-</section>
-<section id="tool-tip">
-	<div class="container">
-		<div class="col-md-4">
-			<a href="https://dmptool.org/user_sessions/institution" title="DMPTool"><img src="{{ site.baseurl }}/assets/images/logo/DMPTool_logo.jpg" class="img-responsive" alt="DMPTool Logo"/></a> 
-			<p>Use the DMPTool to build your data management plan. With over 30 data management plan templates from funders such as the National Science Foundation and the Sloan Foundation, the DMPTool is a useful tool for writing your data management plan.</p> 
-		</div> 
-		<div class="col-md-8">
-			<h3>Here's a tip</h3>
-			<p class="tip-text">Connect
-			<a href="https://zenodo.org/" title="Zenodo"><img src="{{ site.baseurl }}/assets/images/logo/zenodo-gradient-round.svg" title="Zenodo Logo" /> </a> with
-			<a href="https://github.com" title="GitHub"><img src="{{ site.baseurl }}/assets/images/logo/GitHub_Logo.png" title="GitHub Logo" height="120px" /></a></p> 
-			<p>To get DOIs and to make your code citable.</p> 
-			<a class="btn-lg btn-success" href="https://guides.github.com/activities/citable-code/" role="button">Learn More</a>
-		</div>
-	</div>
-</section>
-<section id="about">
-	<div class="container">
-		<div class="col-md-6 col-md-offset-3">
-			<h3>About Us</h3> 
-		</div> 
-	</div>
-</section>
+			</ul> 
+	  </div>
+	  
+	</div>	
+      </div>
+      <div class="col-md-4 dmptool">
+	<div> 
+   	  <a href="https://dmptool.org/user_sessions/institution" title="DMPTool"><img src="{{ site.baseurl }}/assets/images/logo/DMPTool_logo.jpg" class="img-responsive" alt="DMPTool Logo"/></a> 
+	  <p>Use the DMPTool to build your data management plan. With over 30 data management plan templates from funders such as the National Science Foundation and the Sloan Foundation, the DMPTool is a useful tool for writing your data management plan.</p>
+	  </div> 
+	</div> 
+    </div> 
+   </div>
+</section> 
+
+<section>
+  <div class="container">
+    <div class="row">
+      <p class="citation">Image from: P. Bartsch, Ronny; K. L. Liu, Kang; Bashan, Amir; Ch. Ivanov, Plamen (2015): Networks of physiologic interactions between brain areas and key organ systems during different physiologic states. <a href="https://dx.doi.org/10.1371/journal.pone.0142143.g017">https://dx.doi.org/10.1371/journal.pone.0142143.g017</a></p>
+    </div>
+  </div> 

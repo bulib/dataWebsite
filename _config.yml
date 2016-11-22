@@ -55,7 +55,8 @@ highlighter: rouge
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  sass_dir: _sass
+  style: compressed  # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
