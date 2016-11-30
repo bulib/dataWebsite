@@ -1,5 +1,6 @@
 ---
 title: Citing Data 
+layout: page
 permalink: manage/citing-data/
 category: 
 - share
