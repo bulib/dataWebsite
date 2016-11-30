@@ -12,8 +12,8 @@ $(function() {
 	});
 
 	//offset side nav on pages 
-
-	var offsetheight = 75; 
+/*
+	var offsetheight =70; 
 	//adjusts for the navbar height while scrolling
 	$('body').scrollspy({
    		offset:  offsetheight 
@@ -21,7 +21,7 @@ $(function() {
 
 	$('#toc').affix({
 		offset: {
-			top: 0,
+			top: 70,
     		bottom: function () {
       			return (this.bottom = $('.footer').outerHeight(true))
     		}
@@ -35,4 +35,7 @@ $(function() {
 	    $($(this).attr('href'))[0].scrollIntoView();
 	    scrollBy(0, -offsetheight);
 	});
+
+*/
 })
+

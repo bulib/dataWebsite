@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="page-title {{page.css}}">
-	<h1>{{ page.title }}</h1>
+	<h1>{{ page.title }}</h1> 
 	{% for member in site.data.members %}
 		{% if member.email == page.poc %} 
 			<p class="page-author"> For additional help contact<br> {{ member.name }} at {{ member.email }}. 
@@ -10,7 +10,7 @@ layout: default
 	{% endfor %}
 </div> 
 <div class="row">	 
-	<article class="page col-md-9 col-md-offset-3">
+	<article class="page col-md-9 col-md-offset-1">
 	  <div class="entry">
 	    {{ content }}
 
@@ -37,6 +37,6 @@ layout: default
 	  </div>
 	</article>
 	<div class="col-md-3">
-		<nav id="toc" class="affix-top" data-toggle="toc" data-spy="affix"></nav>
-	</div> 
+	  <nav id="toc" class="affix" data-toggle="toc" data-spy="affix" data-offset-top="250"></nav>
+	</div>
 </div> 
