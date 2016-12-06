@@ -5,15 +5,15 @@ $(function() {
 	// shrink the navbar 
 	$(window).scroll(function() {
   		if ($(document).scrollTop() > 50) {
-    		$('nav').addClass('shrink');
+    		$('nav.navbar').addClass('shrink');
   		} else {
-    		$('nav').removeClass('shrink');
+    		$('nav.navbar').removeClass('shrink');
   		}
 	});
 
-	//offset side nav on pages 
-/*
-	var offsetheight =70; 
+    //offset side nav on pages
+    
+	var offsetheight =90; 
 	//adjusts for the navbar height while scrolling
 	$('body').scrollspy({
    		offset:  offsetheight 
@@ -21,7 +21,7 @@ $(function() {
 
 	$('#toc').affix({
 		offset: {
-			top: 70,
+			top: 250,
     		bottom: function () {
       			return (this.bottom = $('.footer').outerHeight(true))
     		}
@@ -36,6 +36,5 @@ $(function() {
 	    scrollBy(0, -offsetheight);
 	});
 
-*/
 })
 
