@@ -59,7 +59,6 @@ p
     min-height: 60px; 
     padding: 25px 0px;
     transition: padding 0.3s ease 0s;
-    min-width: 360px; 
 }
 
 nav.navbar.navbar-default.shrink {
@@ -70,15 +69,21 @@ nav.navbar.navbar-default.shrink {
 	border: 1px solid #4fc3a0;
 }
 
+
 .navbar-brand {
 	margin-left: 20px;
 	padding-top: 5px; 
-	width: 75%; 
+	width: 240px; 
 }
 
-.navbar-brand img {
+
+@media (min-width: 768px) {
+    .navbar-brand img {
 	max-height: 50px;
+    }
+
 }
+
 
 .navbar-default .navbar-nav > li > a {
     color: $primary-text;
@@ -137,8 +142,6 @@ footer,
 @media (min-width: 970px) {
 	.intro-text {
 		width: 55%;
-		min-width: 627px; 
-		margin-right: 10%; 
 	}
 	.intro-text > a {
 		font-size: 20px; 
@@ -367,7 +370,7 @@ a.news-title  {
 	position: relative;
 }
 
-#welcome::after {
+.intro-background-image{
   content: "";
   background: url("../images/home-background-images/home-background-image.png");
   background-repeat: no-repeat; 
@@ -578,7 +581,7 @@ nav#toc.affix {
 
 
 ul.nav {
-    margin-top: 20px;
+    margin-top: 5px; 
 }
 
 

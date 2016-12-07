@@ -10,13 +10,14 @@
     <![endif]-->
 
     {% include css.html %}
+    <script src='https://www.google.com/recaptcha/api.js'></script>
   </head>
 
   <body data-spy="scroll" data-target="#toc">
     <div class="page-wrapper">
       {% include header.html %}
 
-      <div id="main" role="main" class="container {{ page.title | downcase }}">
+      <div id="main" role="main" class="container">
         {{ content }}
       </div>
 

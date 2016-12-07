@@ -1,5 +1,5 @@
 ---
-title: Writing a DMP <br> (Data Management Plan) 
+title: Writing a Data Management Plan 
 permalink: /manage/writing-a-dmp/
 category: 
 - manage
