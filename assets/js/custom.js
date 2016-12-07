@@ -19,13 +19,13 @@ $(function() {
    		offset:  offsetheight 
 	});
 
-	$('#toc').affix({
-		offset: {
-			top: 250,
-    		bottom: function () {
-      			return (this.bottom = $('.footer').outerHeight(true))
-    		}
-    	}	
+	$('nav#toc').affix({
+	    offset: {
+		top: 200,
+		bottom: function () {
+		    return (this.bottom = $('.footer').outerHeight(true))
+		}
+	    }
 	})
 
 	//adjusts for click on sidebar

@@ -16,8 +16,13 @@ article {
 }
 
 blockquote {
-    background-color: $blockquote-color;
-    border-left: 5px solid $blockquote-color; 
+    background-color: $cta-color-hover;
+    border-radius: $rounded-corner;
+    border-left: 0;
+}
+
+blockquote {
+    word-wrap: break-word;
 }
 
 p,
@@ -159,6 +164,11 @@ footer,
     border-radius: 2px;
 }
 
+.calendar-box:hover,
+.service > div:hover, 
+.dmptool > div:hover {
+    border-color: $cta-color; 
+}
 
 .service > div > h3 {
     margin: 5px 0 15px;
@@ -181,7 +191,7 @@ footer,
 .btn-success:hover, 
 .btn-success:focus,
 .btn-success:active:focus {
-    background-color: rgba(70, 195, 160, .7);
+    background-color: $cta-color-hover;
     text-decoration: none; 
 }
 
@@ -189,8 +199,8 @@ footer,
     font-size: 10px;
     line-height: 1;
     position: relative;
-    bottom: -100px;    
-    margin: 15px;
+    bottom: -200px;    
+    margin: 0 15px;
 }
 
 #welcome > div.container > p.citation{
@@ -214,36 +224,30 @@ footer,
     margin-top: 80px;
 } 
 
-#calendar > .container > .row > .col-md-8::before {
+div.calendar-box > h3::before {
   content: "";
   background-color: $cta-color; 
   background-repeat: no-repeat; 
-  top: -25px; 
+  top: 0px; 
   left: 0;
   bottom: 0;
   right: 0;
   position: absolute;
   max-height: 25px;  
   margin: 0 15px; 
-  border-radius: 2px 2px 0 0;
-  border-right: 2px solid $box-edge;
-  border-top: 2px solid $box-edge;
-  border-left: 2px solid $box-edge; 
 }
 
-#calendar ul {
+.calendar-box ul {
     list-style: none; 
 }
 
 .calendar-box {
-    border-right: 2px solid $box-edge;
-    border-left: 2px solid $box-edge;
-    border-bottom: 2px solid $box-edge;
+    border: 2px solid $box-edge;
     padding-top: 2px; 
 }
 
 .calendar-box h3 {
-    padding-left: 25px;
+    padding: 25px 0 0 25px;
     font-weight: 800; 
 }
 
@@ -377,6 +381,7 @@ a.news-title  {
 	padding: 120px 0 0;
 }
 
+
 .section-index-title {
     height: 230px;
     border: 1px solid #e6e6e6;
@@ -436,8 +441,15 @@ div.section-index-item:nth-child(even) p {
     margin: 25px 0 50px 0; 
 }
 
+
 .section-introduction h1 {
     text-color: $primary-text;
+    font-weight: 800; 
+}
+
+.section-introduction-past-workshops {
+    text-align: center;
+    margin: 25px 0 50px;
 }
 
 .section-index-item p,
@@ -538,9 +550,13 @@ nav[data-toggle=toc] .nav>.active>a {
     border-left: 2px solid $cta-color;
 }
 
+nav#toc {
+    position: absolute;
+}
+
 nav#toc.affix {
-    position: fixed;
-    top: 75px; 
+    top: 75px;
+    position: fixed; 
 }
 
 
@@ -659,14 +675,29 @@ div.date {
  *
  * * * * * * * * * * * * * */
 
-.workshops h2 {
-	text-align: center; 
+.workshops-past h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 800; 
 }
 
 .workshops .no-workshops {
 	text-align: center; 
 }
 
+
+.past-workshops .news-date {
+    width: 17%;
+}
+
+.workshop-excerpt {
+    margin-left: 21px;
+    max-width: 70%; 
+}
+
+.workshops .calendar-box {
+    border: none
+}
 
 /* * * * * * * * * * * * * * 
  *
@@ -679,7 +710,7 @@ footer {
     background-color: $footer-color;
     min-height: 150px;
     text-align: center;
-    margin-top: 100px; 
+    margin-top: 200px; 
 }
 
 footer ul {
