@@ -41,7 +41,7 @@ url: http://www.bu.edu/data
 # baseurl: "/dev/data"
 
 # For GitHub
-baseurl: "/dataWebsite"
+# baseurl: "/dataWebsite"
 
 # For production site - bu.edu/data
 # baseurl: "/data"
