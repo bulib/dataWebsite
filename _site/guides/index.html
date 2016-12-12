@@ -24,15 +24,17 @@
     <![endif]-->
 
      <!-- CSS Style Sheets --> 
-<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/dataWebsite/assets/css/bootstrap.min.css" />
 
 <link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.0/dist/bootstrap-toc.min.css">
 
-<link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/dataWebsite/assets/css/style.css" />
 
 <!-- RSS Feed --> 
- <link rel="alternate" type="application/rss+xml" title="Boston University Data Services - Data Services at Boston University" href="/index.xml" />
+ <link rel="alternate" type="application/rss+xml" title="Boston University Data Services - Data Services at Boston University" href="/dataWebsite/index.xml" />
+
     <script src='https://www.google.com/recaptcha/api.js'></script>
+    
   </head>
 
   <body data-spy="scroll" data-target="#toc">
@@ -47,23 +49,22 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="http://www.bu.edu/data"><img class="img-responsive" src="/assets/icons/bu-lib-ds.png"></img></a>
+      <a class="navbar-brand" href="http://www.bu.edu/data"><img class="img-responsive" src="/dataWebsite/assets/icons/bu-lib-ds.png"></img></a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-          <li><a href="/manage/">Manage</a></li><!--
-          <li><a href="/policies/">Policies</a></li>
-          <li><a href="/share/">Share</a></li>
-          <li><a href="/software/">Software</a></li>
-          <li><a href="/storage/">Storage</a></li>-->
+          <li><a href="/dataWebsite/manage/">Manage</a></li><!--
+          <li><a href="/dataWebsite/policies/">Policies</a></li>
+          <li><a href="/dataWebsite/share/">Share</a></li>
+          <li><a href="/dataWebsite/software/">Software</a></li>
+          <li><a href="/dataWebsite/storage/">Storage</a></li>-->
           <li><a href="#" type="button"data-toggle="modal" data-target="#myModal">Help</a></li>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-
 
       <div id="main" role="main" class="container">
         <div class="section-introduction">
@@ -81,8 +82,8 @@
 	
 	 	
 	 	<div class="col-md-6 section-index-item">
-	 		<div class="section-index-title">
-	 		  <a href="/manage/citing-data/">
+	 		<div class="section-index-title ">
+	 		  <a href="/dataWebsite/manage/citing-data/">
 			    <h3>Citing Data</h3>
 			  </a>
 	 		</div> 
@@ -94,8 +95,8 @@
 	
 	 	
 	 	<div class="col-md-6 section-index-item">
-	 		<div class="section-index-title">
-	 		  <a href="/manage/dmptool/">
+	 		<div class="section-index-title green-triangles">
+	 		  <a href="/dataWebsite/manage/dmptool/">
 			    <h3>Using the DMPTool</h3>
 			  </a>
 	 		</div> 
@@ -135,10 +136,12 @@
 	
 	 	 
 	
+	 	 
+	
 	 	
 	 	<div class="col-md-6 section-index-item">
-	 		<div class="section-index-title">
-	 		  <a href="/manage/metadata/">
+	 		<div class="section-index-title metadata">
+	 		  <a href="/dataWebsite/manage/metadata/">
 			    <h3>Adding Metadata</h3>
 			  </a>
 	 		</div> 
@@ -148,8 +151,8 @@
 	
 	 	
 	 	<div class="col-md-6 section-index-item">
-	 		<div class="section-index-title">
-	 		  <a href="/manage/naming-convention/">
+	 		<div class="section-index-title ">
+	 		  <a href="/dataWebsite/manage/naming-convention/">
 			    <h3>Designing a Naming Convention</h3>
 			  </a>
 	 		</div> 
@@ -159,8 +162,8 @@
 	
 	 	
 	 	<div class="col-md-6 section-index-item">
-	 		<div class="section-index-title">
-	 		  <a href="/manage/nsf-data-management-plan/">
+	 		<div class="section-index-title ">
+	 		  <a href="/dataWebsite/manage/nsf-data-management-plan/">
 			    <h3>Writing NSF Data Management Plans</h3>
 			  </a>
 	 		</div> 
@@ -174,8 +177,8 @@
 	
 	 	
 	 	<div class="col-md-6 section-index-item">
-	 		<div class="section-index-title">
-	 		  <a href="/share/using-a-data-repository.html">
+	 		<div class="section-index-title ">
+	 		  <a href="/dataWebsite/share/using-a-data-repository.html">
 			    <h3>Using a Data Repository</h3>
 			  </a>
 	 		</div> 
@@ -185,8 +188,8 @@
 	
 	 	
 	 	<div class="col-md-6 section-index-item">
-	 		<div class="section-index-title">
-	 		  <a href="/manage/writing-a-dmp/">
+	 		<div class="section-index-title ">
+	 		  <a href="/dataWebsite/manage/writing-a-dmp/">
 			    <h3>Writing a Data Management Plan</h3>
 			  </a>
 	 		</div> 
@@ -210,9 +213,9 @@
         <h4 class="modal-title" id="myModalLabel">How can we help?</h4>
       </div>
       <div class="modal-body">
-        <form  class="form-horizontal" method="" action="/phpbin/telegraph/index.php">
+        <form id="contact-form"  class="form-horizontal" method="" action="/phpbin/telegraph/index.php">
           <input type="hidden" name="form_configuration" value="telegraph/modal-form.xml" />
-          <input type="hidden" name="form_location" value="">
+          <input type="hidden" name="form_location" value="/dataWebsite">
           <div class="form-group">
             <label for="Name" class="col-sm-2 control-label">Name</label>
             <div class="col-sm-10">
@@ -231,10 +234,10 @@
               <textarea id="question" name="question" field="question" field="question" class="form-control" rows="7"></textarea>
             </div>
           </div>
-
+	  <div class="g-recaptcha" data-sitekey="6LcuJQAAAAAAAEpJ3IczaQz_Axwf10QeL0Yynnbm" data-callback="enableSubmit"></div>
           <div class="form-group">
             <div class="col-sm-2 col-sm-offset-9">
-              <button id="submit" name="submit" value="submit" type="submit" class="btn-lg btn-success">Submit</button>
+              <button id="submit" disabled name="submit" value="submit" type="submit" class="btn-lg btn-success">Submit</button>
             </div> 
           </div> 
         </form> 
@@ -244,29 +247,30 @@
 </div>
 
       <footer class="footer">
-	<div class="container">
-      <a class="bu-logo" href="http://www.bu.edu/">
-        <img src="/assets/icons/bu-logo.png" class="footer-img img-responsive img-centered" alt="Logo of Boston University">
-      </a>
+  <div class="container">
+    <div class="footer-bu-text">
+      <p>Boston University</p>
+      <p>One Silber Way, Boston, MA 02215</p>
+    </div> 
       <ul>
-      	<li><a href="tel:617-353-7332"><img alt="phone icon" src=" /assets/icons/phone-gray.png" width="19px" height="19px" />617-353-7332</a></li>
-      	<li><a href="mailto:data@bu.edu"><img alt="phone icon" src=" /assets/icons/mail-gray.png" width="19px" height="19px" />data@bu.edu</a></li> 
+      	<li><a href="tel:617-353-7332"><img alt="phone icon" src=" /dataWebsite/assets/icons/phone-gray.png" width="19px" height="19px" />617-353-7332</a></li>
+      	<li><a href="mailto:data@bu.edu"><img alt="phone icon" src=" /dataWebsite/assets/icons/mail-gray.png" width="19px" height="19px" />data@bu.edu</a></li> 
       </ul>  
     </div> 
 </footer>
 
       <!-- jQuery Version 1.11.0 -->
-<script src="/assets/js/jquery-1.11.0.js"></script>
+<script src="/dataWebsite/assets/js/jquery-1.11.0.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/dataWebsite/assets/js/bootstrap.min.js"></script>
 
 <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.0/dist/bootstrap-toc.min.js"></script>
 
 <!-- D3 --> 
-<script src="/assets/js/d3.min.js"></script>
+<script src="/dataWebsite/assets/js/d3.min.js"></script>
 
-<script src="/assets/js/custom.js"></script>
+<script src="/dataWebsite/assets/js/custom.js"></script>
 
 
 

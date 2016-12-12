@@ -2,16 +2,11 @@
 layout: default
 ---
 
-<div class="page-title-wrapper">
+<div class="page-title-wrapper {{page.css}}">
   <div class="container">
     <div class="row no-margin">
       <div class="page-title">
 	<h1>{{ page.title }}</h1> 
-	{% for member in site.data.members %}
-		{% if member.email == page.poc %} 
-			<p class="page-author"> For additional help contact<br> {{ member.name }} at {{ member.email }}. 
-		{% endif %}
-	{% endfor %}
       </div> 
     </div> 
   </div>

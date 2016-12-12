@@ -7,7 +7,7 @@
         <h4 class="modal-title" id="myModalLabel">How can we help?</h4>
       </div>
       <div class="modal-body">
-        <form  class="form-horizontal" method="" action="/phpbin/telegraph/index.php">
+        <form id="contact-form"  class="form-horizontal" method="" action="/phpbin/telegraph/index.php">
           <input type="hidden" name="form_configuration" value="telegraph/modal-form.xml" />
           <input type="hidden" name="form_location" value="{{site.baseurl}}">
           <div class="form-group">
@@ -28,10 +28,10 @@
               <textarea id="question" name="question" field="question" field="question" class="form-control" rows="7"></textarea>
             </div>
           </div>
-
+	  <div class="g-recaptcha" data-sitekey="6LcuJQAAAAAAAEpJ3IczaQz_Axwf10QeL0Yynnbm" data-callback="enableSubmit"></div>
           <div class="form-group">
             <div class="col-sm-2 col-sm-offset-9">
-              <button id="submit" name="submit" value="submit" type="submit" class="btn-lg btn-success">Submit</button>
+              <button id="submit" disabled name="submit" value="submit" type="submit" class="btn-lg btn-success">Submit</button>
             </div> 
           </div> 
         </form> 

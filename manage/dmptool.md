@@ -4,7 +4,7 @@ permalink: /manage/dmptool/
 category: 
 - manage
 - guide 
-poc: tah@bu.edu
+css: green-triangles
 excerpt: Starting using the DMPTool to find templates for writing data management plans. 
 ---
 

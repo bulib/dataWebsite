@@ -15,11 +15,13 @@ permalink: /manage/
 		{% if page.category contains "manage" %}
 	 	
 	 	<div class="col-md-6 section-index-item">
-	 		<div class="section-index-title">
+		 
+	 	 <div class="section-index-title {{ page.css }}">
 	 		  <a href="{{ site.baseurl }}{{ page.url }}">
 			    <h3>{{ page.title }}</h3>
 			  </a>
-	 		</div>
+	 	  </div>
+		 
 			
 	 		 <p>{{ page.excerpt }}<p>
 	 	</div>
