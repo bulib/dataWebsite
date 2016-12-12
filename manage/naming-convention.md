@@ -4,6 +4,7 @@ permalink: /manage/naming-convention/
 category: 
 - manage
 - guide
+
 excerpt: Discover how to design a simple and effective naming convention for your project. 
 ---
 
