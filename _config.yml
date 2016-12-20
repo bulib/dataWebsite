@@ -37,7 +37,7 @@ url: http://www.bu.edu/data
 # then add in the baseurl here, like this: "/repository-name"
 
 
-# For BU web development site: 
+## For BU web development site: 
 baseurl: "/dev/data"
 
 # For GitHub
