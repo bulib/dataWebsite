@@ -1,5 +1,5 @@
 ---
-title:  Using a Data Repository
+title:  Selecting a Data Repository
 permalink: # Add permalink here ex. /manage/nsf-data-management-plan
 category: 
 - share
@@ -11,7 +11,17 @@ excerpt: # Add excerpt here -> A guide to data repositories
 
 Boston University [IS&T's Department](http://www.bu.edu/datamanagement/resources/ist-services/) offers data security and archiving resources for the BU Community. The data archiving service is designed for secure, long-term storage of large quantities of infrequently accessed data. Examples of stored data include: experimental or sensor data, computational output, images and the results of image analysis, video files, and unstructured content.
 
-Beyond Boston University, there are a number of data repositories available for scholars in different disciplines. Many of these data repositories feature existing data for researchers, and also host data produced by scholars from various institutions. This page provides links to repositories in major academic disciplines.
+Beyond Boston University, there are a number of data repositories available for scholars in different disciplines. Many of these data repositories feature existing data for researchers, and also host data produced by scholars from various institutions. This page provides tips for selecting a data repository for your research.
+
+## Selecting a Repository for Your Data
+
+As you consider where to store your data, it may be helpful to consider the following following factors:
+
+* Format. Is the data repository a good match for the type of data you have generated? 
+
+* Ease of use. Is the existing data that is hosted in the repository easy to find and download?
+
+* Reputation. Is the repository reputable within your discipline or field of study? Is it endorsed by a funding agency, scholarly journal, or professional society or listed among the Registry of Research Data Repositories?
 
 ## Directory of Data Repositories
 
