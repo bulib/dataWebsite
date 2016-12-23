@@ -17,11 +17,23 @@ Beyond Boston University, there are a number of data repositories available for 
 
 As you consider where to store your data, it may be helpful to consider the following following factors:
 
-* Format. Is the data repository a good match for the type of data you have generated? 
+* Format: Is the data repository a good match for the type of data you have generated? 
 
-* Ease of use. Is the existing data that is hosted in the repository easy to find and download?
+* Ease of use: Is the existing data that is hosted in the repository easy for the user to find and download? 
 
-* Reputation. Is the repository reputable within your discipline or field of study? Is it endorsed by a funding agency, scholarly journal, or professional society or listed among the Registry of Research Data Repositories?
+* Reputation: Is the repository reputable within your discipline or field of study? Check to see if it is endorsed by a funding agency, scholarly journal, or professional society or listed among the Registry of Research Data Repositories.
+
+* Legal Considerations: Is there information about the terms of use for the data in the repository? Are your rights as a data depositor clearly stated?
+
+* Visibility: Does the repository provide a unique and consistent identifier for your data? Does it provide a DOI or a citation for your data?
+
+* Sustainability: Is the repository funded to be available for long-term use? 
+
+There are other factors to consider when choosing a repository. These sites have more extensive suggestions for issues to consider:
+
+* [Johns Hopkins University: Selecting a Data Repository](https://dmp.data.jhu.edu/preserve-share-research-data/selecting-a-repository-for-data-deposit/)
+
+* [The Digital Curation Centre Checklist](http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data#5)
 
 ## Directory of Data Repositories
 
