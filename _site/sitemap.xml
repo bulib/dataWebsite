@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/03/15/Incarceration-and-its-impacts.html</loc>
+    <lastmod>2017-03-15T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/02/28/Materials-Science.html</loc>
+    <lastmod>2017-02-28T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/02/13/From-Earth-Orbit-To-Distant-Galaxies.html</loc>
+    <lastmod>2017-02-13T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/02/01/Introduction-to-C-Programming-part-2.html</loc>
+    <lastmod>2017-02-01T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/01/31/Intermediate-Usage-of-the-SCC.html</loc>
+    <lastmod>2017-01-31T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/01/30/Introduction-to-C-Programing-part-1.html</loc>
+    <lastmod>2017-01-30T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/01/26/Introduction-to-linux.html</loc>
+    <lastmod>2017-01-26T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/01/26/Introduction-to-BU's-Shared-Computing-Cluster.html</loc>
+    <lastmod>2017-01-26T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/01/26/Intermediate-Usage-of-the-SCC.html</loc>
+    <lastmod>2017-01-26T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/01/25/Introduction-to-BU's-Shared-Computing-Cluster.html</loc>
+    <lastmod>2017-01-25T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/01/24/Version-Control-and-Collaboration-with-Git.html</loc>
+    <lastmod>2017-01-24T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/01/24/Introduction-to-linux.html</loc>
+    <lastmod>2017-01-24T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/2017/01/24/Introduction-to-BU's-Shared-Computing-Cluster.html</loc>
+    <lastmod>2017-01-24T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/2016/12/14/DCC-Office-Hours-Mugar.html</loc>
     <lastmod>2016-12-14T00:00:00-05:00</lastmod>
   </url>
