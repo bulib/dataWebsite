@@ -8,7 +8,7 @@ category:
 excerpt: Learn how to cite data properly in your papers, reports, and presentations  
 ---
 
-## Basic Principles <<might want to re-think name>>
+## Basic Principles <<might want to re-think name, 'What You'll Need'>>
 
 You are familiar with citing books, films, articles and even images – but what about a a collection of data from the United States Census or field notes from an anthropological study? Often, the same principles apply.
 
