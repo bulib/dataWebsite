@@ -2,6 +2,7 @@
 title: Citing Data 
 layout: page
 permalink: manage/citing-data/
+css: purple-hexagons
 category: 
 - share
 - guide
