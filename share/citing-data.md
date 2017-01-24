@@ -23,7 +23,7 @@ When citing data, here's the information you'll need (when available):
  
 ## Examples by Citation Style <<suggestion: 'How to Cite'>>
 
-Let's cite some data! The examples below show you how to cite two datasets: characteristics of business owners collected in the Survey of Business Owners, and a dataset of behavioral measurements of hunting bats collected by Gomes, et al. <<suggestion: add hyperlinks to the datasets mentioned>>
+Let's cite some data! The examples below show you how to cite two datasets: characteristics of business owners collected in the Survey of Business Owners, and a dataset of behavioral measurements <<not really sure what this means>> of hunting bats collected by Gomes, et al. <<suggestion: add hyperlinks to the datasets mentioned>>
 
 
 **[APA Style, 6th Edition](https://owl.english.purdue.edu/owl/resource/560/01/) <<suggestion: break each style guide into different sections>>
