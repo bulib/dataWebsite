@@ -28,10 +28,10 @@
         <title>A test workshop for development</title>
         <description>&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;col-md-3 col-md-offset-1&quot;&gt;
-		&lt;a class=&quot;btn-lg btn-success&quot; href=&quot;/dev/data/talks/minting-a-doi-for-your-data-zenodo/&quot; role=&quot;button&quot;&gt;Slides&lt;/a&gt;
+		&lt;a class=&quot;btn-lg btn-success&quot; href=&quot;/dataWebsite/talks/minting-a-doi-for-your-data-zenodo/&quot; role=&quot;button&quot;&gt;Slides&lt;/a&gt;
 	&lt;/div&gt; 
 	&lt;div class=&quot;col-md-3 col-md-offset-3&quot;&gt;
-		&lt;a class=&quot;btn-lg btn-success&quot; href=&quot;/dev/data/talks/minting-a-doi-for-your-data-zenodo/&quot; role=&quot;button&quot;&gt;Slides (pdf)&lt;/a&gt;
+		&lt;a class=&quot;btn-lg btn-success&quot; href=&quot;/dataWebsite/talks/minting-a-doi-for-your-data-zenodo/&quot; role=&quot;button&quot;&gt;Slides (pdf)&lt;/a&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 
@@ -55,10 +55,10 @@
         <title>A test workshop for development</title>
         <description>&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;col-md-3 col-md-offset-1&quot;&gt;
-		&lt;a class=&quot;btn-lg btn-success&quot; href=&quot;/dev/data/talks/minting-a-doi-for-your-data-zenodo/&quot; role=&quot;button&quot;&gt;Slides&lt;/a&gt;
+		&lt;a class=&quot;btn-lg btn-success&quot; href=&quot;/dataWebsite/talks/minting-a-doi-for-your-data-zenodo/&quot; role=&quot;button&quot;&gt;Slides&lt;/a&gt;
 	&lt;/div&gt; 
 	&lt;div class=&quot;col-md-3 col-md-offset-3&quot;&gt;
-		&lt;a class=&quot;btn-lg btn-success&quot; href=&quot;/dev/data/talks/minting-a-doi-for-your-data-zenodo/&quot; role=&quot;button&quot;&gt;Slides (pdf)&lt;/a&gt;
+		&lt;a class=&quot;btn-lg btn-success&quot; href=&quot;/dataWebsite/talks/minting-a-doi-for-your-data-zenodo/&quot; role=&quot;button&quot;&gt;Slides (pdf)&lt;/a&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 
