@@ -13,7 +13,7 @@ Boston University [IS&T's Department](http://www.bu.edu/datamanagement/resources
 
 Beyond Boston University, there are a number of data repositories available for scholars in different disciplines. Many of these data repositories feature existing data for researchers, and also host data produced by scholars from various institutions. This page provides tips for selecting a data repository for your research.
 
-## Selecting a Repository for Your Data
+## Things to consider
 
 As you consider where to store your data, it may be helpful to consider the following following factors:
 
