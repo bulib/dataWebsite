@@ -23,12 +23,12 @@ When citing data, here's the information you'll need (when available):
  
 ## Examples by Citation Style <<suggestion: 'How to Cite'>>
 
-The examples below show you how to cite two datasets: characteristics of business owners collected in the Survey of Business Owners, and a dataset of behavioral measurements of hunting bats collected by Gomes, et al.
+The examples below show you how to cite two datasets: characteristics of business owners collected in the Survey of Business Owners, and a dataset of behavioral measurements of hunting bats collected by Gomes, et al. <<suggestion: add hyperlinks to the datasets mentioned>>
 
 
 **[APA Style, 6th Edition] <<suggestion: break each style guide into different sections>>
 
-Basic structure: <br>
+Basic structure: <br> <<needs to stand out more, possibly bold>>
 Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Format of dataset]. URL or DOI
 
 Example 1:
