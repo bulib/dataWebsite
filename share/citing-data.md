@@ -21,11 +21,12 @@ When citing data, here's the information you'll need (when available):
 * URL or DOI used to access the data
 * Date you accessed the data
  
-## Examples by Citation Style
+## Examples by Citation Style <<suggestion: 'How to Cite'>>
 
 The examples below show you how to cite two datasets: characteristics of business owners collected in the Survey of Business Owners, and a dataset of behavioral measurements of hunting bats collected by Gomes, et al.
 
-**[APA Style, 6th Edition]**
+
+**[APA Style, 6th Edition] <<suggestion: break each style guide into different sections>>
 
 Basic structure: <br>
 Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Format of dataset]. URL or DOI
@@ -34,7 +35,7 @@ Creator/Rightsholder of Data (Year of publication). <i>Title of dataset</i>. [Fo
 
 > Gomes, D. G. E., Page, R. A., Geipel, I., Taylor, R. C., Ryan, M. J., & Halfwerk, W. (2016). <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. [Data file].	doi:10.5061/dryad.5gk8j
 
-**[Chicago Style, 16th Edition: Bibliography Style](http://www.chicagomanualofstyle.org/tools_citationguide.html)**
+**[Chicago Style, 16th Edition: Bibliography Style](http://www.chicagomanualofstyle.org/tools_citationguide.html)** <<suggestion: break each style guide into different sections>>
 
 Basic structure:<br>
 Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository, Year of publication. URL or DOI
@@ -43,7 +44,7 @@ Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. 
 
 > Gomes, Dylan G. E., Rachel A. Page, Inga Geipel, Ryan C. Taylor, Mike C. Ryan, and Wouter Halfwerk. <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. Distributed by The Dryad Digital Repository, 2016. doi:10.5061/dryad.5gk8j
 
-**[Chicago Style, 16th Edition: Author-Date Style](http://www.chicagomanualofstyle.org/tools_citationguide.html)**
+**[Chicago Style, 16th Edition: Author-Date Style](http://www.chicagomanualofstyle.org/tools_citationguide.html)** <<suggestion: break each style guide into different sections>>
 
 Basic structure:<br>
 Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository. URL or DOI
@@ -52,7 +53,7 @@ Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Vers
 
 > Gomes, Dylan G. E., Rachel A. Page, Inga Geipel, Ryan C. Taylor, Mike C. Ryan, and Wouter Halfwerk. 2016. <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. Distributed by The Dryad Digital Repository. doi:10.5061/dryad.5gk8j
 
-**MLA Style (7th Edition)**
+**MLA Style (7th Edition)** <<suggestion: break each style guide into different sections>>
 
 Basic structure:<br>
 Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Hosting Organization or Repository, Year of Publication. Format of Source. Date of Access. URL or DOI
