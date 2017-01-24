@@ -10,14 +10,16 @@ excerpt: Learn how to cite data properly in your papers, reports, and presentati
 
 ## Basic Principles
 
-You be familiar with citing books, films, articles, and even images.  But what about a collection of data, like a table in the United States Census or field notes from an anthropological study?  Often, the same principles apply.  You will need to cite the following information (when available):
+You are familiar with citing books, films, articles and even images – but what about a a collection of data from the United States Census or field notes from an anthropological study? Often, the same principles apply.
+
+When citing data, here's the information you'll need (when available):
 
 * Creator(s) of the data
 * Title of the dataset
-* The year the dataset was published or submitted to a repository
-* The version or edition of the dataset
-* The URL or DOI used to access the data
-* The date you accessed the data
+* Year the dataset was published or submitted to a repository
+* Version or edition of the dataset
+* URL or DOI used to access the data
+* Date you accessed the data
  
 ## Examples by Citation Style
 
