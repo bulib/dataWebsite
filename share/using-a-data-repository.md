@@ -7,7 +7,7 @@ category:
 excerpt: # Add excerpt here -> A guide to data repositories 
 ---
 
-## Data Archiving at Boston University & Beyond
+## Archive Data
 
 Boston University [IS&T's Department](http://www.bu.edu/datamanagement/resources/ist-services/) offers data security and archiving resources for the BU Community. The data archiving service is designed for secure, long-term storage of large quantities of infrequently accessed data. Examples of stored data include: experimental or sensor data, computational output, images and the results of image analysis, video files, and unstructured content.
 
