@@ -43,7 +43,7 @@ The following directories provide comprehensive lists of repositories by subject
 * [OpenDoar](http://opendoar.org/): OpenDOAR is an authoritative directory of academic open access repositories.
 * [Open Access Directory](Open Access Directory): Sponsored by Simmons College, this page features a directory of data repositories by subject area.
 
-## Natural Science, Engineering, & Computer Science Repositories
+## Natural Science, Engineering, & Computer Science 
 
 * [PubChem](http://pubchem.ncbi.nlm.nih.gov/): provides information on the biological activities of small molecules.
 * [Crystallagrophy Open Database](Crystallagrophy Open Database): Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers
@@ -56,14 +56,14 @@ The following directories provide comprehensive lists of repositories by subject
 * [DataOne](https://www.dataone.org/): Access to earth & environmental data available across multiple repositories.
 * [Climate Data Laboratory](https://www.dataone.org/): Data sets provided by Columbia University.
 
-## Arts & Humanities Repositories
+## Arts & Humanities
 
 * [Associatation of Religion Data Archives](http://www.thearda.com/): Sponsored by Penn State, this archive features data from surveys and polls on religious life in America.
 * [Commons Open Repository Exchange](https://commons.mla.org/core/): provides MLA Commons members with an open access storage facility for their scholarly output.
 * [Long-Term Access and Usage of Deeply Annotated Information](http://www.laudatio-repository.org/repository/): Funded by the German Research Foundation, Laudatio seeks to provide an open-access database of historic, linguistic data.
 * [National Archive of Data on Arts & Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/): A collaboration between the NEA and the ICPSR, this site features data on how the arts impact individuals and communities. 
 
-## Social & Behavioral Science Repositories
+## Social & Behavioral Science
 
 * [Interuniveristy Consortium for Political & Social Research] (https://www.icpsr.umich.edu/icpsrweb/): An international cooperation of over 750 academic institutions and research organizations, ICPSR has an extensive collection of data sets in the social and behavioral sciences.
 * [Consortium of European Social Science Data Archives] (http://www.nsd.uib.no/cessda/extcessda.jsp): Features social science datasets from European universities and institutes.
@@ -71,7 +71,7 @@ The following directories provide comprehensive lists of repositories by subject
 * [National Archive of Criminal Justice Data] (http://www.icpsr.umich.edu/icpsrweb/NACJD/): a repository of data on criminal justics and criminology.
 * [Child & Early Education Research Connections](http://www.researchconnections.org/childcare/download): features data, fact sheets and briefs, datasets, instruments, and other research-related resources from the wide range of social science fields that study child care and education. 
 
-##  Health Science & Rehabilitation Research Repositories
+##  Health Science & Rehabilitation Research
 
 * [Speech & Language Data Repository](http://sldr.org/): SLDR (Speech and Language Data Repository) is a repository of oral language and multimodal data.
 * [National Database for Autism Research](https://ndar.nih.gov/): An NIH-funded research data repository that aims to accelerate progress in autism spectrum disorders (ASD) research through data sharing and the reporting of research results.
