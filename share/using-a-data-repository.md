@@ -27,7 +27,7 @@ Here are some tips on selecting a data repository for your research:
 
 * Reputation: Is the repository a reputable source? Check to see if it is endorsed by a funding agency, scholarly journal, professional society or listed among the Registry of Research Data Repositories.
 
-* Legal Considerations: Is there information about the terms of use for the data in the repository? Are your rights as a data depositor clearly stated? <<suggestion: condense into one question. Possibly: Are your rights as a data depositor clearly defined in the terms of use? >>
+* Legal Considerations: Is there information about the terms of use for the data in the repository? Are your rights as a data depositor clearly stated? <<suggestion: condense into one question. Possibly: 'Are your rights clearly defined in the terms of use?'' OR just 'Is there information about the terms of use for the data in the repository?' >>
 
 * Visibility: Does the repository provide a unique and consistent identifier, such as a DOI or a citation, for your data? 
 
