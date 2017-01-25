@@ -35,7 +35,7 @@ Here are some tips on selecting a data repository for your research:
 
 For more tips on choosing a repository consider the JohThere are other factors to consider when choosing a repository. These sites have more extensive suggestions for issues to consider:
 
-For more suggestions on how to choose a repository check out [Johns Hopkins University: Selecting a Data Repository](https://dmp.data.jhu.edu/preserve-share-research-data/selecting-a-repository-for-data-deposit/) and [The Digital Curation Centre Checklist](http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data#5).
+For more suggestions on choosing a repository check out [Johns Hopkins University: Selecting a Data Repository](https://dmp.data.jhu.edu/preserve-share-research-data/selecting-a-repository-for-data-deposit/) and [The Digital Curation Centre Checklist](http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data#5).
 
 ## Directory of Data Repositories
 
