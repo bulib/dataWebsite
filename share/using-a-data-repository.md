@@ -41,20 +41,22 @@ The following directories provide comprehensive lists of repositories by subject
 
 * [Re3data.org](http://www.re3data.org/): Registry of Research Data Repositories is a global registry of research data repositories from different academic disciplines.
 * [OpenDoar](http://opendoar.org/): OpenDOAR is an authoritative directory of academic open access repositories.
-* [Open Access Directory](Open Access Directory): Sponsored by Simmons College, this page features a directory of data repositories by subject area.
+* [Open Access Directory](Open Access Directory): Sponsored by Simmons College, this page features a directory of data repositories by subject area. <<suggestion:take this out of list format. Instead of defining each one, just state what these 3 sources have in common>>
+
+<<suggestion: possibly place line 40 below these sources. 'The following directories provide comprehensive lists of repositories by subject area.'>>
 
 ## Natural Science, Engineering, & Computer Science 
 
-* [PubChem](http://pubchem.ncbi.nlm.nih.gov/): provides information on the biological activities of small molecules.
-* [Crystallagrophy Open Database](Crystallagrophy Open Database): Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers
-* [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory): The Prognostics Data Repository is a collection of data sets that have been donated by various universities, agencies, or companies.
+* [PubChem](http://pubchem.ncbi.nlm.nih.gov/): <<suggestion:include type of format/source>> provides information on the biological activities of small molecules.
+* [Crystallagrophy Open Database](Crystallagrophy Open Database): Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers.
+* [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory): A collection of data sets that have been donated by various universities, agencies, or companies.
 * [CodePlex](CodePlex): Microsoft's free open source project hosting site.
-* [Dryad](http://datadryad.org/): provides a general-purpose home for a wide diversity of datatypes. 
+* [Dryad](http://datadryad.org/): <<suggestion:include type of format/source>> provides a general-purpose home for a wide diversity of datatypes. <suggestion:vague definition for Dryad>>
 * [Neuroscience Information Framework](http://www.neuinfo.org/): NIF maintains a large searchable collection of neuroscience data.
-* [FigShare](https://figshare.com/): While this data sharing cite is multi-disciplinary, it houses a large collection of data in the biological sciences.
+* [FigShare](https://figshare.com/): A multi-disciplinary data sharing site that houses a large collection of data in the biological sciences.
 * [GenBank](http://www.ncbi.nlm.nih.gov/genbank/): NIH genetic sequence database.
-* [DataOne](https://www.dataone.org/): Access to earth & environmental data available across multiple repositories.
-* [Climate Data Laboratory](https://www.dataone.org/): Data sets provided by Columbia University.
+* [DataOne](https://www.dataone.org/): <<suggestion:include type of format/source>> Access to earth & environmental data available across multiple repositories. <<suggestion: take out 'multiple repositories or define those'>
+* [Climate Data Laboratory](https://www.dataone.org/): Data sets <<suggestion:define the type of data sets> provided by Columbia University.
 
 ## Arts & Humanities
 
@@ -71,7 +73,7 @@ The following directories provide comprehensive lists of repositories by subject
 * [National Archive of Criminal Justice Data] (http://www.icpsr.umich.edu/icpsrweb/NACJD/): a repository of data on criminal justics and criminology.
 * [Child & Early Education Research Connections](http://www.researchconnections.org/childcare/download): features data, fact sheets and briefs, datasets, instruments, and other research-related resources from the wide range of social science fields that study child care and education. 
 
-##  Health Science & Rehabilitation Research
+##  Health Science & Rehabilitation Researchi
 
 * [Speech & Language Data Repository](http://sldr.org/): SLDR (Speech and Language Data Repository) is a repository of oral language and multimodal data.
 * [National Database for Autism Research](https://ndar.nih.gov/): An NIH-funded research data repository that aims to accelerate progress in autism spectrum disorders (ASD) research through data sharing and the reporting of research results.
