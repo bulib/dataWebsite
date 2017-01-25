@@ -15,29 +15,27 @@ Examples of stored data include: experimental or sensor data, computational outp
 
 Beyond BU, there are a number of data repositories <<suggestion: possibly define a data repository>> available for scholars in different disciplines.
 
-Many of these repositories feature existing data for researchers, and also host data produced by scholars from various institutions <<Suggestion: Some federal governments and agencies have repositories of raw data that they share with the public. Other repositories contain data produced by researchers>>.
+Many of these repositories feature existing data for researchers, and also host data produced by scholars from various institutions <<Suggestion: Some federal governments and agencies have repositories of raw data that they share with the public. Other repositories contain data produced by researchers OR Many of these repositories feature existing data from federal government, agencies and various institutions.>>.
 
 ## Things to consider
 
-As you consider where to store your data, it may be helpful to consider the following following factors:
+Here are some tips on selecting a data repository for your research:
 
-* Format: Is the data repository a good match for the type of data you have generated? 
+* Format: Is the data repository a good match for the type of data you have generated? <<suggestion: the question doesn't really help better understand format in this context/do you mean readability?>>
 
-* Ease of use: Is the existing data that is hosted in the repository easy for the user to find and download? 
+* User-friendly: Is the existing data easy for the user to find and download? 
 
-* Reputation: Is the repository reputable within your discipline or field of study? Check to see if it is endorsed by a funding agency, scholarly journal, or professional society or listed among the Registry of Research Data Repositories.
+* Reputation: Is the repository a reputable source? Check to see if it is endorsed by a funding agency, scholarly journal, professional society or listed among the Registry of Research Data Repositories.
 
-* Legal Considerations: Is there information about the terms of use for the data in the repository? Are your rights as a data depositor clearly stated?
+* Legal Considerations: Is there information about the terms of use for the data in the repository? Are your rights as a data depositor clearly stated? <<suggestion: condense into one question. Possibly: Are your rights as a data depositor clearly defined in the terms of use? >>
 
-* Visibility: Does the repository provide a unique and consistent identifier for your data? Does it provide a DOI or a citation for your data?
+* Visibility: Does the repository provide a unique and consistent identifier, such as a DOI or a citation, for your data? 
 
-* Sustainability: Is the repository funded to be available for long-term use? 
+* Sustainability: Is the repository funded for long-term use? 
 
-There are other factors to consider when choosing a repository. These sites have more extensive suggestions for issues to consider:
+For more tips on choosing a repository consider the JohThere are other factors to consider when choosing a repository. These sites have more extensive suggestions for issues to consider:
 
-* [Johns Hopkins University: Selecting a Data Repository](https://dmp.data.jhu.edu/preserve-share-research-data/selecting-a-repository-for-data-deposit/)
-
-* [The Digital Curation Centre Checklist](http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data#5)
+For more suggestions on how to choose a repository check out [Johns Hopkins University: Selecting a Data Repository](https://dmp.data.jhu.edu/preserve-share-research-data/selecting-a-repository-for-data-deposit/) and [The Digital Curation Centre Checklist](http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data#5).
 
 ## Directory of Data Repositories
 
