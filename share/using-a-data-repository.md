@@ -7,11 +7,15 @@ category:
 excerpt: # Add excerpt here -> A guide to data repositories 
 ---
 
-## Archive Data
+## Archiving Data
 
-Boston University [IS&T's Department](http://www.bu.edu/datamanagement/resources/ist-services/) offers data security and archiving resources for the BU Community. The data archiving service is designed for secure, long-term storage of large quantities of infrequently accessed data. Examples of stored data include: experimental or sensor data, computational output, images and the results of image analysis, video files, and unstructured content.
+Boston University [IS&T's Department](http://www.bu.edu/datamanagement/resources/ist-services/) offers a data archiving service that provides secure, long-term storage of large quantities of infrequently accessed data for the BU community. <<is this necessary?>>
 
-Beyond Boston University, there are a number of data repositories available for scholars in different disciplines. Many of these data repositories feature existing data for researchers, and also host data produced by scholars from various institutions. This page provides tips for selecting a data repository for your research.
+Examples of stored data include: experimental or sensor data, computational output, images and the results of image analysis, video files, and unstructured content. <<is this necessary?>>
+
+Beyond BU, there are a number of data repositories <<suggestion: possibly define a data repository>> available for scholars in different disciplines.
+
+Many of these repositories feature existing data for researchers, and also host data produced by scholars from various institutions <<Suggestion: Some federal governments and agencies have repositories of raw data that they share with the public. Other repositories contain data produced by researchers>>.
 
 ## Things to consider
 
