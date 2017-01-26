@@ -53,7 +53,7 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 * [PubChem](http://pubchem.ncbi.nlm.nih.gov/): <<suggestion:include type of format/source>> provides information on the biological activities of small molecules.
 * [Crystallagrophy Open Database](Crystallagrophy Open Database): Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers.
 * [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory): A collection of data sets that have been donated by various universities, agencies, or companies.
-* [CodePlex](CodePlex): Microsoft's free open source project hosting site.
+* [CodePlex](CodePlex): Microsoft's free open source project hosting site <<that provides what?>>.
 * [Dryad](http://datadryad.org/): <<suggestion:include type of format/source>> provides a general-purpose home for a wide diversity of datatypes. <suggestion:vague definition for Dryad>>
 * [Neuroscience Information Framework](http://www.neuinfo.org/): NIF maintains a large searchable collection of neuroscience data.
 * [FigShare](https://figshare.com/): A multi-disciplinary data sharing site that houses a large collection of data in the biological sciences.
@@ -61,7 +61,7 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 * [DataOne](https://www.dataone.org/): <<suggestion:include type of format/source>> Access to earth & environmental data available across multiple repositories. <<suggestion: take out 'multiple repositories or define those'>
 * [Climate Data Laboratory](https://www.dataone.org/): Data sets <<suggestion:define the type of data sets> provided by Columbia University.
 
-<<Nasa and Codeplex -- broken links; Climate Data Laboratory -- wrong hyperlinks>>
+<<Nasa, Codeplex and Crystallagrophy -- broken links; Climate Data Laboratory -- wrong hyperlinks>>
 
 ## Arts & Humanities
 
