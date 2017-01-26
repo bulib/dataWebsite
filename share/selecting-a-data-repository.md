@@ -8,13 +8,13 @@ css: red-circles
 excerpt: Use this guide to help you find the best place to share your data. 
 ---
 
+Quick definition of what a data repository is. 
+
 ## OpenBU
 
 Blurb about why to use OpenBU. 
 
-Beyond BU, there are a number of data repositories <<suggestion: possibly define a data repository>> available for scholars in different disciplines.
-
-Many of these repositories feature existing data for researchers, and also host data produced by scholars from various institutions <<Suggestion: Some federal governments and agencies have repositories of raw data that they share with the public. Other repositories contain data produced by researchers OR Many of these repositories feature existing data from federal government, agencies and various institutions.>>.
+Beyond BU, there are a number of data repositories to scholars but there are a few things to keep in mind when you deposit your data. 
 
 ## Things to consider
 
