@@ -66,10 +66,10 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 
 ## Arts & Humanities
 
-* [Associatation of Religion Data Archives](http://www.thearda.com/): Sponsored by Penn State, this archive features data from surveys and polls on religious life in America.
-* [Commons Open Repository Exchange](https://commons.mla.org/core/): <<suggestion:include type of format/source>> provides MLA Commons members with an open access storage facility for their scholarly output <<suggestion: possibly define what type of scholarly output?>>.
-* [Long-Term Access and Usage of Deeply Annotated Information](http://www.laudatio-repository.org/repository/): Funded by the German Research Foundation, Laudatio seeks to provide an open-access database of historic, linguistic <<suggestion: 'historic and linguistic'?>>data.
-* [National Archive of Data on Arts & Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/): A collaboration between the NEA and the ICPSR, this site features data on the impact of arts on individuals and communities. 
+* [Associatation of Religion Data Archives](http://www.thearda.com/): Sponsored by Penn State, this archive houses data from surveys and polls on religious life in America and encompasses 165 concepts used in the study of religion.
+* [Commons Open Repository Exchange](https://commons.mla.org/core/): CORE provides MLA Commons members with an open access storage facility for their scholarly output such as on peer-reviewed journal articles, dissertations and theses.
+* [Long-Term Access and Usage of Deeply Annotated Information](http://www.laudatio-repository.org/repository/): Funded by the German Research Foundation, Laudatio seeks to provide an open-access database of historic, linguistic data <<suggestion: define /historic, linguistic data>/>.
+* [National Archive of Data on Arts & Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/): A collaboration between the NEA and the Inter-university Consortium for Political and Social Research (ICPSR), this site features over 200 datasets on the impact of arts on individuals and communities, particularly those funded by federal agencies and other organizations.
 
 ## Social & Behavioral Science
 
