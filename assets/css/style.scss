@@ -173,6 +173,10 @@ footer,
     margin-bottom: 25px; 
 }
 
+.dmptool > div > p {
+    padding-top: 15px;
+} 
+
 .calendar-box:hover,
 .service > div:hover, 
 .dmptool > div:hover {
@@ -790,9 +794,6 @@ div.date {
 	vertical-align: top; 
     }
 }
-
-
-
 
 .workshop-excerpt {
     margin-left: 21px;
