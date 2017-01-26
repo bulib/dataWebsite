@@ -57,7 +57,7 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 * [Dryad](http://datadryad.org/): <<suggestion:include type of format/source>> provides a general-purpose home for a wide diversity of datatypes. <what types?>>
 * [Neuroscience Information Framework](http://www.neuinfo.org/): NIF maintains a large searchable collection of neuroscience data.
 * [FigShare](https://figshare.com/): A multi-disciplinary data sharing site that houses a large collection of data in the biological sciences.
-* [GenBank](http://www.ncbi.nlm.nih.gov/genbank/): NIH genetic sequence database. <<what is NIH?>> <<GenBank provides an annotated collection of all publicly available DNA sequences.>>
+* [GenBank](http://www.ncbi.nlm.nih.gov/genbank/): NIH genetic sequence database. <<GenBank provides an annotated collection of all publicly available DNA sequences.>>
 
 * [DataOne](https://www.dataone.org/): <<suggestion:include type of format/source>> Access to earth & environmental data available across multiple repositories. <<suggestion: take out 'multiple repositories or define those'>
 * [Climate Data Laboratory](https://www.dataone.org/): Data sets <<suggestion:define the type of data sets> provided by Columbia University.
@@ -81,11 +81,11 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 
 ##  Health Science & Rehabilitation Research
 
-* [Speech & Language Data Repository](http://sldr.org/): SLDR is a repository of oral language and multimodal data. <<suggestion: I think the site is actually called 'Ortolang'>>
-* [National Database for Autism Research](https://ndar.nih.gov/): An NIH-funded research data repository that aims to accelerate progress in autism spectrum disorders (ASD) research through data sharing and the reporting of research results. <<suggestion: condense>>
-* [The SICAS Medical Imaging Repository](https://www.smir.ch/): Searchable database and storage of anatomical images.
-* [Systematic Review Data Repository](http://srdr.ahrq.gov/): An online tool for the extraction and management of data for systematic review or meta-analysis.
-* [Center for Large Data Research & Data Sharing in Rehabilitation](https://rehabsciences.utmb.edu/cldr/): An archiving and data sharing portal developed by the University of Texas, Cornell University, and the University of Michigan <<suggestion:featuring what?>>.
+* [Speech & Language Data Repository](http://sldr.org/): SLDR is a repository of oral language and multimodal data available through primary data, secondary data, tools and collections. <<suggestion: I think the site is actually called 'Ortolang'>>
+* [National Database for Autism Research](https://ndar.nih.gov/): A NIH-funded research repository that provides data on autism spectrum disorders (ASD).
+* [The SICAS Medical Imaging Repository](https://www.smir.ch/): The Swiss Institute for Computer Assisted Surgery provides a searchable database and storage of anatomical images.
+* [Systematic Review Data Repository](http://srdr.ahrq.gov/): An online tool for the extraction and management of data for systematic review or meta-analysis under the U.S. Department of Health & Human Services.
+* [Center for Large Data Research & Data Sharing in Rehabilitation](https://rehabsciences.utmb.edu/cldr/): An archiving and data sharing portal related to health care policy and developed by the University of Texas, Cornell University, and the University of Michigan.
 
 <<suggestion: when defining each repository, first say the source or format before describing what type of data it provides>>
 
