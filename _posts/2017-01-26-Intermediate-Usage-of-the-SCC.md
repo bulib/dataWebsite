@@ -1,6 +1,6 @@
 ---
 title: IS&T -  Intermediate Usage of the SCC
-category:
+category: workshops 
 tag: 
 - IS&amp;T
 - news

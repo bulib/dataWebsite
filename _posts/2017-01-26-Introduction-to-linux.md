@@ -1,6 +1,6 @@
 ---
 title: IS&T -  Introduction to Linux (Hands On) 
-category:
+category: workshops 
 tag: 
 - IS&amp;T
 - news

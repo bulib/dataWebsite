@@ -1,6 +1,6 @@
 ---
 title: IS&T - Introduction to C Programming, Part Two 
-category:
+category: workshops 
 tag: 
 - IS&amp;T
 - news

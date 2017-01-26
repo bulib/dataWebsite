@@ -1,6 +1,6 @@
 ---
 title: IS&T - Version Control and Collaboration with Git and Github 
-category:
+category: workshops
 tag: 
 - IS&amp;T
 - news

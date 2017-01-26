@@ -1,6 +1,6 @@
 ---
 title: Reproducibility Project - Cancer Biology Webinar
-category:
+category: workshops 
 tag:
 - OSF
 - news

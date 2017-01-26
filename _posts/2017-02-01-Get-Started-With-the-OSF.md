@@ -1,6 +1,6 @@
 ---
 title: Get started with the Open Science Framework
-category:
+category: workshops 
 tag:
 - OSF
 - news

@@ -1,6 +1,6 @@
 ---
 title: How Registered Reports and Preregistration Benefit Early Career Researchers
-category:
+category: workshops
 tag:
 - OSF
 - news
