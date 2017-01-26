@@ -51,13 +51,14 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 ## Natural Science, Engineering, & Computer Science 
 
 * [PubChem](http://pubchem.ncbi.nlm.nih.gov/): <<suggestion:include type of format/source>> provides information on the biological activities of small molecules.
-* [Crystallagrophy Open Database](Crystallagrophy Open Database): Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers.
-* [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory): A collection of data sets that have been donated by various universities, agencies, or companies.
+* [Crystallagrophy Open Database](Crystallagrophy Open Database): Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers <<supported by who?>>.
+* [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory): A collection of data sets <<what types?>> that have been donated by various universities, agencies, or companies.
 * [CodePlex](CodePlex): Microsoft's free open source project hosting site <<that provides what?>>.
-* [Dryad](http://datadryad.org/): <<suggestion:include type of format/source>> provides a general-purpose home for a wide diversity of datatypes. <suggestion:vague definition for Dryad>>
+* [Dryad](http://datadryad.org/): <<suggestion:include type of format/source>> provides a general-purpose home for a wide diversity of datatypes. <what types?>>
 * [Neuroscience Information Framework](http://www.neuinfo.org/): NIF maintains a large searchable collection of neuroscience data.
 * [FigShare](https://figshare.com/): A multi-disciplinary data sharing site that houses a large collection of data in the biological sciences.
-* [GenBank](http://www.ncbi.nlm.nih.gov/genbank/): NIH genetic sequence database.
+* [GenBank](http://www.ncbi.nlm.nih.gov/genbank/): NIH genetic sequence database. <<what is NIH?>> <<GenBank provides an annotated collection of all publicly available DNA sequences.>>
+
 * [DataOne](https://www.dataone.org/): <<suggestion:include type of format/source>> Access to earth & environmental data available across multiple repositories. <<suggestion: take out 'multiple repositories or define those'>
 * [Climate Data Laboratory](https://www.dataone.org/): Data sets <<suggestion:define the type of data sets> provided by Columbia University.
 
