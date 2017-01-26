@@ -69,15 +69,15 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 * [Associatation of Religion Data Archives](http://www.thearda.com/): Sponsored by Penn State, this archive houses data from surveys and polls on religious life in America and encompasses 165 concepts used in the study of religion.
 * [Commons Open Repository Exchange](https://commons.mla.org/core/): CORE provides MLA Commons members with an open access storage facility for their scholarly output such as on peer-reviewed journal articles, dissertations and theses.
 * [Long-Term Access and Usage of Deeply Annotated Information](http://www.laudatio-repository.org/repository/): Funded by the German Research Foundation, Laudatio seeks to provide an open-access database of historic, linguistic data <<suggestion: define /historic, linguistic data>/>.
-* [National Archive of Data on Arts & Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/): A collaboration between the NEA and the Inter-university Consortium for Political and Social Research (ICPSR), this site features over 200 datasets on the impact of arts on individuals and communities, particularly those funded by federal agencies and other organizations.
+* [National Archive of Data on Arts & Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/): A collaboration between the NEA and the Inter-university Consortium for Political and Social Research (ICPSR), this site features over 200 datasets on the research of arts and culture, particularly those funded by federal agencies and other organizations.
 
 ## Social & Behavioral Science
 
 * [Interuniveristy Consortium for Political & Social Research] (https://www.icpsr.umich.edu/icpsrweb/): An international cooperation of over 750 academic institutions and research organizations, ICPSR has an extensive collection of data sets in the social and behavioral sciences.
-* [Consortium of European Social Science Data Archives] (http://www.nsd.uib.no/cessda/extcessda.jsp): <<suggestion:include type of format/source>> Features social science datasets from European universities and institutes.
+* [Consortium of European Social Science Data Archives] (http://www.nsd.uib.no/cessda/extcessda.jsp): <<suggestion:include type of format/source>> Features social science datasets <<how many?>> from European universities and institutes.
 * [Databrary](https://nyu.databrary.org/): A repository of videos in the developmental sciences.
-* [National Archive of Criminal Justice Data] (http://www.icpsr.umich.edu/icpsrweb/NACJD/): a repository of data on criminal justics and criminology.
-* [Child & Early Education Research Connections](http://www.researchconnections.org/childcare/download): <<suggestion:include type of format/source>> features data, fact sheets and briefs, datasets, instruments, and other research-related resources on social science fields that range from child care and education. 
+* [National Archive of Criminal Justice Data] (http://www.icpsr.umich.edu/icpsrweb/NACJD/): A video datalibrary with over 6000 hours of recording on criminal justice and criminology, funded by the National Science Foundation (NSF) and the U.S. National Institutes of Health (NIH).
+* [Child & Early Education Research Connections](http://www.researchconnections.org/childcare/download): <<suggestion:include type of format/source>> Supported by the U.S. Department of Health and Human Services, this site features datasets, multimedia, briefs, tools on social science fields that range from child care and education. 
 
 ##  Health Science & Rehabilitation Research
 
