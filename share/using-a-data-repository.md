@@ -80,7 +80,7 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 
 ##  Health Science & Rehabilitation Research
 
-* [Speech & Language Data Repository](http://sldr.org/): SLDR is a repository of oral language and multimodal data.
+* [Speech & Language Data Repository](http://sldr.org/): SLDR is a repository of oral language and multimodal data. <<suggestion: I think the site is actually called 'Ortolang'>>
 * [National Database for Autism Research](https://ndar.nih.gov/): An NIH-funded research data repository that aims to accelerate progress in autism spectrum disorders (ASD) research through data sharing and the reporting of research results. <<suggestion: condense>>
 * [The SICAS Medical Imaging Repository](https://www.smir.ch/): Searchable database and storage of anatomical images.
 * [Systematic Review Data Repository](http://srdr.ahrq.gov/): An online tool for the extraction and management of data for systematic review or meta-analysis.
