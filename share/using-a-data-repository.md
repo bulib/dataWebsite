@@ -37,6 +37,8 @@ Here are some tips on selecting a data repository for your research:
 
 For more suggestions on choosing a repository check out [Johns Hopkins University: Selecting a Data Repository](https://dmp.data.jhu.edu/preserve-share-research-data/selecting-a-repository-for-data-deposit/) and [The Digital Curation Centre Checklist](http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data#5).
 
+<<Johns Hopkins website cannot be opened?>>
+
 ## Directory of Data Repositories
 
 * [Re3data.org](http://www.re3data.org/): Registry of Research Data Repositories is a global registry of research data repositories from different academic disciplines.
