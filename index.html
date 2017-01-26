@@ -50,8 +50,9 @@ js: p/home-force.js
 	  <div>
 	  <ul> 
 	    {% assign isEvent = 0 %}
+	    {% assign counter = '0' %}
 	    {% for post in site.posts reversed %}
- 	    {% if post.tag contains "news" %}
+ 	    {% if post.tag contains "news" and counter < '5' %}
 	    {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
             {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
             {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
@@ -77,7 +78,8 @@ js: p/home-force.js
 		                </a> 
 		              </div> 
 		            </div>         
-		        </li>
+	    </li>
+	    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
         	{% endif %}
 		{% endif %}
 	{% endfor %} 
