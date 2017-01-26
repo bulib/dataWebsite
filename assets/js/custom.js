@@ -21,7 +21,7 @@ $(function() {
 
 	$('nav#toc').affix({
 	    offset: {
-		top: 200,
+		top: 250,
 		bottom: function () {
 		    return (this.bottom = $('.footer').outerHeight(true))
 		}
