@@ -43,7 +43,9 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 
 * [Re3data.org](http://www.re3data.org/): Registry of Research Data Repositories is a global registry of research data repositories from different academic disciplines.
 * [OpenDoar](http://opendoar.org/): OpenDOAR is an authoritative directory of academic open access repositories.
-* [Open Access Directory](Open Access Directory): Sponsored by Simmons College, this page features a directory of data repositories by subject area. <<suggestion:take this out of list format. Instead of defining each one, just state what these 3 sources have in common>>
+* [Open Access Directory](Open Access Directory): Sponsored by Simmons College, this page features a directory of data repositories by subject area. <<suggestion:take this out of list format. Instead of defining each one, just state what these 3 sources have in common>> 
+
+<<Open Access Directory - broken link>>
 
 
 ## Natural Science, Engineering, & Computer Science 
