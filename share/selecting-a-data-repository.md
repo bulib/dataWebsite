@@ -5,79 +5,73 @@ category:
 - share
 - guide
 css: red-circles
-excerpt: # Add excerpt here -> A guide to data repositories 
+excerpt: Use this guide to help you find the best place to share your data. 
 ---
 
-## Data Archiving at Boston University & Beyond
+## OpenBU
 
-Boston University [IS&T's Department](http://www.bu.edu/datamanagement/resources/ist-services/) offers data security and archiving resources for the BU Community. The data archiving service is designed for secure, long-term storage of large quantities of infrequently accessed data. Examples of stored data include: experimental or sensor data, computational output, images and the results of image analysis, video files, and unstructured content.
+Blurb about why to use OpenBU. 
 
-Beyond Boston University, there are a number of data repositories available for scholars in different disciplines. Many of these data repositories feature existing data for researchers, and also host data produced by scholars from various institutions. This page provides tips for selecting a data repository for your research.
+Beyond BU, there are a number of data repositories <<suggestion: possibly define a data repository>> available for scholars in different disciplines.
+
+Many of these repositories feature existing data for researchers, and also host data produced by scholars from various institutions <<Suggestion: Some federal governments and agencies have repositories of raw data that they share with the public. Other repositories contain data produced by researchers OR Many of these repositories feature existing data from federal government, agencies and various institutions.>>.
 
 ## Things to consider
 
-As you consider where to store your data, it may be helpful to consider the following following factors:
+Here are some tips on selecting a data repository for your research:
 
-* Format: Is the data repository a good match for the type of data you have generated? 
+### Reputation 
 
-* Ease of use: Is the existing data that is hosted in the repository easy for the user to find and download? 
+Reputation: Is the repository a reputable source? Check to see if it is endorsed by a funding agency, scholarly journal, professional society or listed among the Registry of Research Data Repositories.
 
-* Reputation: Is the repository reputable within your discipline or field of study? Check to see if it is endorsed by a funding agency, scholarly journal, or professional society or listed among the Registry of Research Data Repositories.
+### Sustainability 
 
-* Legal Considerations: Is there information about the terms of use for the data in the repository? Are your rights as a data depositor clearly stated?
+Sustainability: Is the repository funded for long-term use? 
 
-* Visibility: Does the repository provide a unique and consistent identifier for your data? Does it provide a DOI or a citation for your data?
+### Visability 
 
-* Sustainability: Is the repository funded to be available for long-term use? 
+Visibility: Does the repository provide a unique and consistent identifier, such as a DOI or a citation, for your data? 
 
-There are other factors to consider when choosing a repository. These sites have more extensive suggestions for issues to consider:
+### Usability
 
-* [Johns Hopkins University: Selecting a Data Repository](https://dmp.data.jhu.edu/preserve-share-research-data/selecting-a-repository-for-data-deposit/)
+User-friendly: Is the existing data easy for the user to find and download? 
 
-* [The Digital Curation Centre Checklist](http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data#5)
+### Features
 
-## Directory of Data Repositories
+DOIs, upload limits, licensing, author dashboard
 
-The following directories provide comprehensive lists of repositories by subject area.
+### Formats 
 
-* [Registry of Research Data Repositories](http://www.re3data.org/): re3data.org is a global registry of research data repositories that covers research data repositories from different academic disciplines.
-* [OpenDoar](http://opendoar.org/): OpenDOAR is an authoritative directory of academic open access repositories.
-* [Open Access Directory](Open Access Directory): Sponsored by Simmons College, this page features a directory of data repositories by subject area.
+Format: Is the data repository a good match for the type of data you have generated? <<suggestion: the question doesn't really help better understand format in this context/do you mean readability?>>
 
-## Natural Science, Engineering, & Computer Science Repositories
+### Rights
 
-* [PubChem](http://pubchem.ncbi.nlm.nih.gov/): provides information on the biological activities of small molecules.
-* [Crystallagrophy Open Database](Crystallagrophy Open Database): Open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers
-* [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory): The Prognostics Data Repository is a collection of data sets that have been donated by various universities, agencies, or companies.
-* [CodePlex](CodePlex): Microsoft's free open source project hosting site.
-* [Dryad](http://datadryad.org/): provides a general-purpose home for a wide diversity of datatypes. 
-* [Neuroscience Information Framework](http://www.neuinfo.org/): NIF maintains a large searchable collection of neuroscience data.
-* [FigShare](https://figshare.com/): While this data sharing cite is multi-disciplinary, it houses a large collection of data in the biological sciences.
-* [GenBank](http://www.ncbi.nlm.nih.gov/genbank/): NIH genetic sequence database.
-* [DataOne](https://www.dataone.org/): Access to earth & environmental data available across multiple repositories.
-* [Climate Data Laboratory](https://www.dataone.org/): Data sets provided by Columbia University.
+Legal Considerations: Is there information about the terms of use for the data in the repository? Are your rights as a data depositor clearly stated? <<suggestion: condense into one question. Possibly: 'Are your rights clearly defined in the terms of use?'' OR just 'Is there information about the terms of use for the data in the repository?' >>
 
-## Arts & Humanities Repositories
+### Addtional Resources
 
-* [Associatation of Religion Data Archives](http://www.thearda.com/): Sponsored by Penn State, this archive features data from surveys and polls on religious life in America.
-* [Commons Open Repository Exchange](https://commons.mla.org/core/): provides MLA Commons members with an open access storage facility for their scholarly output.
-* [Long-Term Access and Usage of Deeply Annotated Information](http://www.laudatio-repository.org/repository/): Funded by the German Research Foundation, Laudatio seeks to provide an open-access database of historic, linguistic data.
-* [National Archive of Data on Arts & Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/): A collaboration between the NEA and the ICPSR, this site features data on how the arts impact individuals and communities. 
+For additional help selecting a data repository you can [email us](mailto:data@bu.edu) or review the following materials:
 
-## Social & Behavioral Science Repositories
+* 1
+* 2
+* 3
 
-* [Interuniveristy Consortium for Political & Social Research] (https://www.icpsr.umich.edu/icpsrweb/): An international cooperation of over 750 academic institutions and research organizations, ICPSR has an extensive collection of data sets in the social and behavioral sciences.
-* [Consortium of European Social Science Data Archives] (http://www.nsd.uib.no/cessda/extcessda.jsp): Features social science datasets from European universities and institutes.
-* [Databrary](https://nyu.databrary.org/): A repository of videos in the developmental sciences.
-* [National Archive of Criminal Justice Data] (http://www.icpsr.umich.edu/icpsrweb/NACJD/): a repository of data on criminal justics and criminology.
-* [Child & Early Education Research Connections](http://www.researchconnections.org/childcare/download): features data, fact sheets and briefs, datasets, instruments, and other research-related resources from the wide range of social science fields that study child care and education. 
+## General Solutions 
 
-##  Health Science & Rehabilitation Research Repositories
+5-10 lines about what a "general" repository is and why a general data repository might be a good solution (lots of users, stability, support model, indexed by search engines (double check)) and why they might not be a good idea (board audience, research community might use a specific repository, needle in haystack)
 
-* [Speech & Language Data Repository](http://sldr.org/): SLDR (Speech and Language Data Repository) is a repository of oral language and multimodal data.
-* [National Database for Autism Research](https://ndar.nih.gov/): An NIH-funded research data repository that aims to accelerate progress in autism spectrum disorders (ASD) research through data sharing and the reporting of research results.
-* [The SICAS Medical Imaging Repository](https://www.smir.ch/): Searchable database and storage of anatomical images.
-* [Systematic Review Data Repository](http://srdr.ahrq.gov/): An online tool for the extraction and management of data for systematic review or meta-analysis. It also features an open archive of systematic reviews and their data. 
-* [Center for Large Data Research & Data Sharing in Rehabilitation](https://rehabsciences.utmb.edu/cldr/): An archiving and data sharing portal developed by the University of Texas, Cornell University, and the University of Michigan.
+* Dryad - who sponsors it, 1 unique feature, 1 statistic (like user # or # of datasets)  
+* Figshare
+* Harvard Dataverse
+* Zenodo 
 
 
+## Subject Specific 
+
+5-10 lines about Why a subject repository might be a good solution (high use by research community). Give a few examples like PubChem,  [National Database for Autism Research](https://ndar.nih.gov/), and * [Associatation of Religion Data Archives](http://www.thearda.com/).
+
+Finding and listing all of the subject-specific repositories is best done by data directories. A few we recommend searching are: 
+
+* [Re3data.org](http://www.re3data.org/): Add who sponsors it, number of repositories, and 1 or 2 features
+* [OpenDoar](http://opendoar.org/): OpenDOAR is an authoritative directory of academic open access repositories. Add who sponsors it, number of repositories listed, and one or two features. 
+* http://oad.simmons.edu/oadwiki/Disciplinary_repositories
