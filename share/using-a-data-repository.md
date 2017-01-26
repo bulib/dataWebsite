@@ -61,6 +61,8 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 * [DataOne](https://www.dataone.org/): <<suggestion:include type of format/source>> Access to earth & environmental data available across multiple repositories. <<suggestion: take out 'multiple repositories or define those'>
 * [Climate Data Laboratory](https://www.dataone.org/): Data sets <<suggestion:define the type of data sets> provided by Columbia University.
 
+<<Nasa and Codeplex -- broken links; Climate Data Laboratory -- wrong hyperlinks>>
+
 ## Arts & Humanities
 
 * [Associatation of Religion Data Archives](http://www.thearda.com/): Sponsored by Penn State, this archive features data from surveys and polls on religious life in America.
