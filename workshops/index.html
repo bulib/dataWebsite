@@ -38,7 +38,7 @@ permalink: /workshops/
 		              	<p> {{ m }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }} </p>
 		              </div>
 		              <div class="news-title">
-		                <a class='news-title-link' href="{{ post.url }}">
+		                <a class='news-title-link' href=" {% if post.link %} {{post.link}} {% else %} {{ post.url }} {% endif %}">
 		                  <h4>{{ post.title }}</h4>
 		                </a>
 		              </div> 
