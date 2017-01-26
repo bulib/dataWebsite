@@ -55,11 +55,11 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 * [NASA Prognostics Data Laboratory](NASA Prognostics Data Laboratory): A collection of data sets <<what types?>> that have been donated by various universities, agencies, or companies.
 * [CodePlex](CodePlex): Microsoft's free open source project hosting site <<that provides what?>>.
 * [Dryad](http://datadryad.org/): <<suggestion:include type of format/source>> provides a general-purpose home for a wide diversity of datatypes. <what types?>>
-* [Neuroscience Information Framework](http://www.neuinfo.org/): NIF maintains a large searchable collection of neuroscience data.
+* [Neuroscience Information Framework](http://www.neuinfo.org/): NIF maintains a large searchable collection on neuroscience data and biomedical resources.
 * [FigShare](https://figshare.com/): A multi-disciplinary data sharing site that houses a large collection of data in the biological sciences.
 * [GenBank](http://www.ncbi.nlm.nih.gov/genbank/): NIH genetic sequence database. <<GenBank provides an annotated collection of all publicly available DNA sequences.>>
 
-* [DataOne](https://www.dataone.org/): <<suggestion:include type of format/source>> Access to earth & environmental data available across multiple repositories. <<suggestion: take out 'multiple repositories or define those'>
+* [DataOne](https://www.dataone.org/): Data Observation Network for Earth provides access to earth & environmental data across multiple repositories. <<suggestion: take out 'multiple repositories or define those'>
 * [Climate Data Laboratory](https://www.dataone.org/): Data sets <<suggestion:define the type of data sets> provided by Columbia University.
 
 <<Nasa, Codeplex and Crystallagrophy -- broken links; Climate Data Laboratory -- wrong hyperlinks>>
