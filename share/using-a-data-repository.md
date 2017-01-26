@@ -88,4 +88,6 @@ For more suggestions on choosing a repository check out [Johns Hopkins Universit
 
 <<suggestion: when defining each repository, first say the source or format before describing what type of data it provides>>
 
+<<suggestion: change the lists into charts, more aesthetically pleasing>>
+
 
