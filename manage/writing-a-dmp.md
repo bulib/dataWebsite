@@ -9,9 +9,9 @@ excerpt: Use this guide to get started writing your first data management plan.
 
 ## What is a Data Management Plan (DMP)? 
 
-A data management plan will help you think about how to manage your data for a research project, an entire lab, a department, an individual or an entire organization. DMPs can be as long or short as needed. However, for your DMP to be effective it should cover a few key topics that will require you to think about your project from a "data" perspective.
+A data management plan will help you think about how to manage your data for a research project, an entire lab, a department, an individual or an entire organization. DMPs can be as long or short as needed. However, for your DMP to be effective it should cover a few key topics that will require you to think about your project from a "data" perspective <<suggestion: might be vague, what is a 'data' perspective?>>.
 
-And if you have any questions, be sure to [email us](mailto:data@bu.edu). <<suggestion: seems out of place/unnecessary>>
+And if you have any questions, be sure to [email us](mailto:data@bu.edu).
 
 ## Why manage your data?
 
@@ -26,7 +26,7 @@ Data management will help prevent future headaches <<suggestion: a bit vague, ma
 
 ## Components of a DMP
 
-There are several parts to a data management plan. If you're writing a data management plan for a specific funder, these common components will likely apply. However, it is always best to check your application materials <<sort of vague>> for more detailed information. 
+There are several parts to a data management plan. If you're writing a data management plan for a specific funder, these common components <<suggestion: 'common components' might not be the best phrase to put in/maybe like 'common applications will likely be used'>> will likely apply. However, it is always best to check your application materials <<sort of vague>> for more detailed information. 
 
 ### Types of Data 
 
@@ -41,7 +41,7 @@ Documenting the types of data you will be working with and how you will capture,
 
 Contextual details, or metadata, is the information others will need to understand your data. While you may be familiar with your data, others may not know about your equipment settings, variable names, or file organization. It is important to think about the file types you're using to share your data. Some formats, like .csv or .txt, are open and can be understood by many programs. Others like, .pdf or .docx, are proprietary and may not be understood by some programs or people. 
 
-You should also explain your data set in terms of the who, what, when, where, why, and how. Documenting all of those aspects of your data set will help others use your data effectively and within the right context. Think about: 
+You should also explain your data set in terms of the who, what, when, where, why, and how. Documenting all of those aspects of your data set will help others use your data effectively and within the right context. 
 
 + What are the file formats you plan to use (and if they are open or proprietary)?
 + What are the who, what, when, where, why, and how of your data set? 
