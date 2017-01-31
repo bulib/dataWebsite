@@ -30,7 +30,7 @@ There are several necessary components to a data management plan. If you're writ
 
 ### Types of Data 
 
-The type of data researchers collect is as varied as the researchers themselves. Examples could be experimental measurements, survey results, images, text, or numerical data. To help you think about the types of data you are working with think about the following two questions. 
+The type of data researchers collect is as varied as the researchers themselves. Examples include experimental measurements, survey results, images, text, or numerical data. When working with data, think about the following two questions. 
 
 + What types of data will you be creating or capturing? 
 + How will you capture, create, and/or process the data?
@@ -39,11 +39,11 @@ Documenting the types of data you will be working with and how you will capture,
 
 ### Contextual Details 
 
-Contextual details, or metadata, is the information others will need to understand your data. It is likely that you're very familiar with your data, however, the next person may not know about your equipment settings, variable names, or file organization. It is important to think about the file types you're using to share your data. Some formats, like .csv or .txt, are open and can be understood by many programs. Others like, .pdf or .docx, are proprietary and may not be understood by some programs or people. 
+Contextual details, or metadata, is the information others will need to understand your data. While you may be familiar with your data, others may not know about your equipment settings, variable names, or file organization. It is important to think about the file types you're using to share your data. Some formats, like .csv or .txt, are open and can be understood by many programs. Others like, .pdf or .docx, are proprietary and may not be understood by some programs or people. 
 
 You should also explain your data set in terms of the who, what, when, where, why, and how. Documenting all of those aspects of your data set will help others use your data effectively and within the right context. Think about: 
 
-+ The file formats you plan to use (and if they are open or proprietary)
++ What are the file formats you plan to use (and if they are open or proprietary)?
 + What are the who, what, when, where, why, and how of your data set? 
 + What naming conventions will you use for files and variables? 
 
