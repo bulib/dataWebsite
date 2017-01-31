@@ -26,7 +26,7 @@ Data management will help prevent future headaches <<suggestion: a bit vague, ma
 
 ## Components of a DMP
 
-There are several parts to a data management plan. If you're writing a data management plan for a specific funder, these common components <<suggestion: 'common components' might not be the best phrase to put in/maybe like 'common applications will likely be used'>> will likely apply. However, it is always best to check your application materials <<sort of vague>> for more detailed information. 
+There are several parts to a data management plan. If you're writing a data management plan for a specific funder, these common components will likely apply. However, it is always best to check your application materials <<sort of vague>> for more detailed information. 
 
 ### Types of Data 
 
