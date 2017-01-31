@@ -70,12 +70,12 @@ Additionally, make sure the systems you're using to store your data are approved
 
 If you are planning to share your data it is important to document the policies for reuse. For instance, if you are planning on making your data available when your grant ends try to anticipate how to make that possible. Providing sustained access to your research data involves more than posting it on your personal website and <<you will likely want to find a data repository, hosted by a trusted organization, to store your data for long-term access. --> maybe link to selecting repository page>>
 
-+ What restrictions need to be placed on re-use of your data?
++ What restrictions need to be placed on re-using of your data?
 + What is the process for gaining access to your data?
 
 ### Plan for Archiving and Preservation 
 
-Many funding agencies require that you make your data publicly available for the long-term. Figuring out how you're going to do comply with those requirements requires thinking about where you're going to store your data and if you're going to partner with institutional resources or a third-party. Long-term access to your data not only requires having good metadata but it also means having a plan that accounts for the next 5, 10, or 15 years. 
+Many funding agencies require that you make your data publicly available for the long-term. Figuring out how you're going to comply with those requirements requires thinking about where you're going to store your data and if you're going to partner with institutional resources or a third-party. Long-term access to your data not only requires having good metadata but also means having a plan that accounts for the next 5, 10, or 15 years <<suggestion: maybe say 5 or more years?>>. 
 
 + What is your long-term plan for preservation and maintenance of the data? 
 + If you're using a data repository, who is sponsoring it and what are the terms?
