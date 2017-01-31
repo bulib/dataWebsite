@@ -58,9 +58,11 @@ When managing data, it is crucial to think about storage, backup and security. T
 
 ### Provisions for Protection and Privacy
 
-If your working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology may address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan. Clearly detail the steps you're taking to ensure the appropriate ethical or privacy concerns are addressed. Additionally, make sure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. Key questions are: 
+If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology may address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan. Make clear the steps you're taking to ensure the appropriate ethical or privacy concerns are addressed. 
 
-+ How are you addressing any ethical or privacy issues (IRB, anonymization of data)?
+Additionally, make sure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. Key questions are: 
+
++ How are you addressing any ethical or privacy issues (IRB <<suggestion:what is IRB?>>, anonymization of data)?
 + Who will own any copyright or intellectual property rights to the data?
 + Is my storage solution appropriate for the type of data I am using? 
 
