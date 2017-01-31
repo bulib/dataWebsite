@@ -35,7 +35,7 @@ The type of data researchers collect is as varied as the researchers themselves.
 + What types of data will you be creating or capturing? 
 + How will you capture, create, and/or process the data?
 
-Documenting the types of data you will be working with and how you will capture, create, or process that data will help you think through your methodology with a "data lens."
+Documenting the types of data you will be working with and how you will capture, create, or process that data will help you think through your methodology with a "data lens." <<suggestion: might be a bit vague saying'data lens'>>
 
 ### Contextual Details 
 
