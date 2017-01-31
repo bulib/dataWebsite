@@ -1,7 +1,7 @@
 ---
 title: Adding Metadata
 permalink: /manage/metadata/
-css: metadata
+css: green-plaid
 category:
  - manage
  - guide
