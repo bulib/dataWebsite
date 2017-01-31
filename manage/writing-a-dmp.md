@@ -49,7 +49,7 @@ You should also explain your data set in terms of the who, what, when, where, wh
 
 ### Storage, Backup, and Security 
 
-When researchers think about data management their first questions are often about storage, backup, and security. These are key components to your data management plan and, because they can require using institutional resources, they are best planned for ahead of time. If you're working with sensitive data or data that involves human research subjects, a data security plan is critical. Planning file permissions for your research team and how everyone will access the data will not only save time but also could save you large headaches <<suggestion: maybe explain what type of problems you could face down the road>> if your data is shared inappropriately. Some good questions are: 
+When managing data, it is crucial to think about storage, backup and security. These are key components to your data management plan and, because they can require using institutional resources, they are best planned for ahead of time. If you're working with sensitive data or data that involves human research subjects, a data security plan is critical. Planning file permissions for your research team and how everyone will access the data will not only save time but also could save you large headaches <<suggestion: maybe explain what type of problems you could face down the road>> if your data is shared inappropriately. Some good questions are: 
 
 + Where will our data be stored? 
 + What is your backup plan for the data?
