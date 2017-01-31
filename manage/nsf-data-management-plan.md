@@ -4,7 +4,7 @@ permalink: /manage/nsf-data-management-plan/
 category: 
 - manage
 - guide
-poc: tah@bu.edu
+css: blue-waves
 excerpt: Learn the basics for writing a data management plan for a NSF grant application.
 ---
 
@@ -32,7 +32,7 @@ You have 2 pages - and only 2 pages - to write your data management plan. Let's 
 
 ### Types 
 
-It is normally easiest to start your data management plan with the types of data you'll be collecting. Reviewing your data types first will help ensure everyone is on the same page. It is okay to be detailed and specific when discussing your data types. If you know you're using a piece of equipement or data collection methodology be sure to mention that. The policy states: 
+It is normally easiest to start your data management plan with the types of data you'll be collecting. Reviewing your data types first will help ensure everyone is on the same page. It is okay to be detailed and specific when discussing your data types. If you know you're using a piece of equipement or data collection methodology be sure to mention that. The policy states you should include: 
 
 > the types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
 

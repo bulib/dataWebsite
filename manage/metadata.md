@@ -6,6 +6,7 @@ category:
  - manage
  - guide
 excerpt: Find out what metadata are and how to use them
+
 ---
 ## What are Metadata? ##
 

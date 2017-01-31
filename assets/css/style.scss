@@ -173,6 +173,10 @@ footer,
     margin-bottom: 25px; 
 }
 
+.dmptool > div > p {
+    padding-top: 15px;
+} y
+
 .calendar-box:hover,
 .service > div:hover, 
 .dmptool > div:hover {
@@ -319,7 +323,7 @@ div.calendar-box > h3::before {
 
 
 .news-date > p {
-    padding: 10px 0;
+    padding: 5px 0 10px;
     font-weight: 800;
     color: $cta-color;
     font-size: 18px;
@@ -541,7 +545,26 @@ Unique backgrounds
 
 }
 
+.purple-hexagons {
+    background-image: url(../images/patterns/purple-hexagons.jpg); 
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 
+.blue-waves {
+    background-image: url(../images/patterns/blue-waves.jpg); 
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.red-circles {
+    background-image: url(../images/patterns/red-circles.jpg); 
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 
 /* * * * * * * * * * * * * * 
  *
@@ -771,9 +794,6 @@ div.date {
 	vertical-align: top; 
     }
 }
-
-
-
 
 .workshop-excerpt {
     margin-left: 21px;
