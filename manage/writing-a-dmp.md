@@ -24,9 +24,9 @@ Managing your data allows you to:
 
 Data management will help prevent future headaches and, when done properly, will keep your work organized and intelligible to others as well as your future self. 
 
-## Common Components of a DMP
+## Components of a DMP
 
-There are several common components to a data management plan. If you're writing a data management plan for a specific funder, these common components will likely apply. However, it is always best to check your application materials for more detailed information. 
+There are several necessary components to a data management plan. If you're writing a data management plan for a specific funder, these common components will likely apply. However, it is always best to check your application materials <<sort of vague>> for more detailed information. 
 
 ### Types of Data 
 
