@@ -60,7 +60,7 @@ Planning <<suggestion:Creating?>> file permissions for your research team and <<
 
 ### Provisions for Protection and Privacy
 
-If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology may address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan. Make clear the steps you're taking to ensure the appropriate ethical or privacy concerns are addressed. 
+If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology may address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan. Make clear the steps you're taking to ensure the appropriate ethical or privacy concerns are addressed. <<suggestion:last sentence repeats what has already been said>>
 
 Additionally, make sure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. Key questions are: 
 
