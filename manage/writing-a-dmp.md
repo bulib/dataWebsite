@@ -15,14 +15,14 @@ And if you have any questions, be sure to [email us](mailto:data@bu.edu). <<sugg
 
 ## Why manage your data?
 
-There are several good reasons to manage your data, such as: 
+Managing your data allows you to:
 
-+ Complying with federal funding 
-+ Documenting your work and workflows
-+ Facilitating the reuse and sharing of your data 
-+ Ensuring your data is backed up
++ Comply with federal funding 
++ Document your work and workflows
++ Facilitate the reuse and sharing of your data 
++ Ensure your data is backed up
 
-Data management is a proactive processes that will help prevent future headaches and, when done properly, will keep your work organized and intelligible to others as well as your future self. 
+Data management will help prevent future headaches and, when done properly, will keep your work organized and intelligible to others as well as your future self. 
 
 ## Common Components of a DMP
 
