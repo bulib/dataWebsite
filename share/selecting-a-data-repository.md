@@ -8,13 +8,10 @@ css: red-circles
 excerpt: Use this guide to help you find the best place to share your data. 
 ---
 
+
+## What is a data repository?
+
 Quick definition of what a data repository is. 
-
-## OpenBU
-
-Blurb about why to use OpenBU. 
-
-Beyond BU, there are a number of data repositories to scholars but there are a few things to keep in mind when you deposit your data. 
 
 ## Things to consider
 
@@ -28,7 +25,7 @@ Reputation: Is the repository a reputable source? Check to see if it is endorsed
 
 Sustainability: Is the repository funded for long-term use? 
 
-### Visability 
+### Visability
 
 Visibility: Does the repository provide a unique and consistent identifier, such as a DOI or a citation, for your data? 
 
@@ -55,6 +52,12 @@ For additional help selecting a data repository you can [email us](mailto:data@b
 * 1
 * 2
 * 3
+
+## OpenBU
+
+Blurb about why to use OpenBU. 
+
+Beyond BU, there are a number of data repositories to scholars but there are a few things to keep in mind when you deposit your data. 
 
 ## General Solutions 
 
