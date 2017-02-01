@@ -9,7 +9,11 @@ category:
 excerpt: Learn how to cite data properly in your papers, reports, and presentations  
 ---
 
+<<<<<<< HEAD
+## Basic Principles <<might want to re-think name, 'What You'll Need'>>
+=======
 ## What You'll Need 
+>>>>>>> upstream/gh-pages
 
 You are familiar with citing books, films, articles and even images – but what about a a collection of data from the United States Census or field notes from an anthropological study? Often, the same principles apply.
 
@@ -25,7 +29,6 @@ When citing data, here's the information you'll need (when available):
 ## How to Cite 
 
 Let's cite some data! The examples below show you how to cite two datasets: characteristics of business owners collected in the Survey of Business Owners, and a dataset of behavioral measurements of hunting bats collected by Gomes, et al. <<suggestion: add hyperlinks to the datasets mentioned>>
-
 
 ### APA 
 
@@ -43,12 +46,15 @@ Example 2:
 
 > Gomes, D. G. E., Page, R. A., Geipel, I., Taylor, R. C., Ryan, M. J., & Halfwerk, W. (2016). <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. [Data file].	doi:10.5061/dryad.5gk8j
 
+
 ### Chicago - Bibliograhpy 
 
 The [Chicago Style, 16th Edition: Bibliography Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) is common citation sytle in the humanities. 
 
 Basic structure:<br>
 **Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository, Year of publication. URL or DOI**
+
+Example 1:
 
 Example 1:
 
@@ -67,6 +73,8 @@ Basic structure:<br>
 
 Example 1:
 
+Example 1:
+
 > United States Census Bureau. 2012. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. American FactFinder version. Distributed by the United States Census Bureau. 2016. ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
 
 Example 2:
@@ -77,8 +85,11 @@ Example 2:
 
 Add intro here. [MLA Style (7th Edition)](https://owl.english.purdue.edu/owl/resource/747/01/)
 
+
 Basic structure:<br>
 **Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Hosting Organization or Repository, Year of Publication. Format of Source. Date of Access. URL or DOI**
+
+Example 1:
 
 Example 1:
 
