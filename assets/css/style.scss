@@ -89,7 +89,6 @@ nav.navbar.navbar-default.shrink {
 
 }
 
-
 .navbar-default .navbar-nav > li > a {
     color: $primary-text;
 }
@@ -175,7 +174,7 @@ footer,
 
 .dmptool > div > p {
     padding-top: 15px;
-} y
+} 
 
 .calendar-box:hover,
 .service > div:hover, 
@@ -538,8 +537,8 @@ Unique backgrounds
 * * * * */
 
 
-.green-triangles {
-    background-image: url(../images/patterns/green-triangles.jpg); 
+.burgundy-triangles {
+    background-image: url(../images/patterns/burgundy-triangles.png); 
 }
 
 .purple-hexagons {
@@ -562,12 +561,17 @@ Unique backgrounds
     background-image: url(../images/patterns/gold-triangles.jpg); 
 }
 
-.green-triangles,
+.green-diamonds {
+    background-image: url(../images/patterns/green-diamonds.png);
+}
+
+.burgundy-triangles,
 .purple-hexagons,
 .blue-waves,
 .red-circles,
 .green-plaid,
-.gold-triangles {
+.gold-triangles,
+.green-diamonds {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
