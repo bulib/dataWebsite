@@ -14,7 +14,7 @@ A data management plan (DMP) will help you think about how to manage your data f
 
 If you have any questions, be sure to [email us](mailto:data@bu.edu).
 
-## Why manage your data?
+## Why Manage Your Data?
 
 Managing your data allows you to:
 
@@ -40,9 +40,9 @@ Documenting the types of data you will be working with and how you will capture,
 
 ### Contextual Details 
 
-Contextual details, or metadata, is the information that will help others understand your data. While you may be familiar with your data, others may not know about your equipment settings, variable names, or file organization. It is important to think about the file types you're using to share your data. Some formats, like .csv or .txt, are open and can be understood by many programs. Others like, .pdf or .docx, are proprietary and may not be understood by some programs or people. 
+Contextual details, or metadata, is information that will help others understand your data. While you may be familiar with your data, others may not know about your equipment settings, variable names, or file organization. It is important to think about the file types that you're using to share your data. Some formats, like .csv or .txt, are open and can be understood by many programs. Others, like .pdf or .docx, are proprietary and may not be understood by some programs or people. <<suggestion: "possibly take out 'people' or re-write the sentence, as the sentence makes it seem like people don't know how to read a pdf or .docx">>
 
-You should also explain your data set in terms of the who, what, when, where, why, and how. Documenting all of those aspects of your data set will help others use your data effectively and within the right context. 
+You should also explain your data set in terms of the who, what, when, where, why, and how. Doing so will help others use your data effectively and within the right context. 
 
 + What are the file formats you plan to use (and if they are open or proprietary)?
 + What are the who, what, when, where, why, and how of your data set? 
@@ -63,7 +63,7 @@ Planning who will have access to what is an import step in managing your data. B
 ### Provisions for Protection and Privacy
 
 
-If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology will address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan. ls
+If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology will address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan.
 
 Also, make sure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. Key questions are: 
 
