@@ -12,7 +12,7 @@ excerpt: Use this guide to get started writing your first data management plan.
 
 A data management plan (DMP) will help you think about how to manage your data for a research project, an entire lab, a department, an individual, or an entire organization. DMPs can be as long or short as needed. However, for your DMP to be effective it should cover a few key topics that will require you manage your data for the life of your project and beyond. 
 
-<If> you have any questions, be sure to [email us](mailto:data@bu.edu).
+If you have any questions, be sure to [email us](mailto:data@bu.edu).
 
 ## Why manage your data?
 
@@ -63,7 +63,7 @@ Planning who will have access to what is an import step in managing your data. B
 ### Provisions for Protection and Privacy
 
 
-If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology will address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan. 
+If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology will address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan. ls
 
 Also, make sure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. Key questions are: 
 
