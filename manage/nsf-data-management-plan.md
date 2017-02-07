@@ -5,7 +5,7 @@ category:
 - manage
 - guide
 css: blue-waves
-excerpt: Learn the basics for writing a data management plan for a NSF grant application.
+excerpt: Learn the basics of writing a data management plan for a NSF grant application
 ---
 
 ## Introduction 
