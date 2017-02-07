@@ -79,7 +79,7 @@ If you are planning to share your data, remember to document the policies for re
 
 ### Plan for Archiving and Preservation 
 
-Many funding agencies require that you make your data publicly available for the long term. Figuring out how you're going to comply with those requirements means you're going to have to think about where you're storing your data and if you're going to partner with institutional resources or a third-party. Long-term access to your data not only requires having good metadata that usefully describes your data to others but also means having a plan that accounts for the next 5 or more years. 
+Many funding agencies require that you make your data publicly available for the long term. Figuring out how you're going to comply with those requirements means you'll have to think about where you're storing your data, and if you're going to partner with institutional resources or a third-party. Long-term access to your data not only requires having good metadata that clearly describes your data to others but also means having a plan that accounts for the next 5 or more years. 
 
 + What is your long-term plan for preservation and maintenance of the data? 
 + If you're using a data repository, who is sponsoring it and what are the terms?
