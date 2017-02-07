@@ -4,6 +4,7 @@ permalink: /manage/writing-a-dmp/
 category: 
 - manage
 - guide 
+css: green-diamonds
 excerpt: Use this guide to get started writing your first data management plan. 
 ---
 
@@ -51,7 +52,8 @@ You should also explain your data set in terms of the who, what, when, where, wh
 
 When managing data, it is crucial to think about storage, backup and security. These are key components to your data management plan and, because they can require using institutional resources, they are best planned for ahead of time. If you're working with sensitive data or data that involves human research subjects, a data security plan is critical.
 
-Planning who will have access to what is an import<ant> step in managing your data. Pla<n>ning and implementing a file permissions structure for your research team will not only save time but also prevent inappropriate access to sensitive data and the mishandling of personally identifiable information. Additionally, should your personal laptop or desktop become damaged, ensuring you have a backup plan for your data could save your research project.
+
+Planning who will have access to what is an import step in managing your data. By planing and implementing a file permissions structure for your research team and will not only save time but also prevent inappropriate access to sensitive data and the mishandling of personally identifiable information. Additionally, ensuring you have a backup plan for your data could potentially save your research project should your personal laptop or desktop become damaged. 
 
 + Where will your data be stored? 
 + What is your backup plan for the data?
@@ -60,7 +62,8 @@ Planning who will have access to what is an import<ant> step in managing your da
 
 ### Provisions for Protection and Privacy
 
-If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology will address the anonymization of your human research subject data or your grant application might state any intellectual property concerns; however, you'll want to ensure those materials are added to your data management plan. 
+
+If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology will address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan. 
 
 Also, make sure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. Key questions are: 
 
@@ -70,14 +73,14 @@ Also, make sure the systems you're using to store your data are approved for tho
 
 ### Policies for Access and Reuse 
 
-If you are planning to share your data it is important to document the policies for reuse. For instance, if you intend to make your data available when your grant ends anticipate how you will make that possible. Providing sustained access to your research data involves more than posting it on your personal website. You will likely want to [find a data repository]({{site.baseurl}}/share/selecting-a-data-repository), hosted by a trusted organization, to store your data for long-term access. 
+If you are planning to share your data it is important to document the policies for reuse. For instance, if you intend to make your data available when your grant ends anticipate how you will make that possible. Providing sustained access to your research data involves more than posting it on your personal website and you will likely want to [find a data repository]({{site.baseurl}}/share/selecting-a-data-repository), hosted by a trusted organization, to store your data for long-term access. 
 
 + What restrictions need to be placed on re-using your data?
 + What is the process for gaining access to your data?
 
 ### Plan for Archiving and Preservation 
 
-Many funding agencies require that you make your data publicly available for the long term. Figuring out how you're going to comply with those requirements means you're going to have to think about where you're storing your data and if you're going to partner with institutional resources or a third-party. Long-term access to your data not only requires having good metadata, which clearly describes your data to others, but also means having a plan that accounts for the next 5 or more years. 
+Many funding agencies require that you make your data publicly available for the long term. Figuring out how you're going to comply with those requirements means you're going to have to think about where you're storing your data and if you're going to partner with institutional resources or a third-party. Long-term access to your data not only requires having good metadata that usefully describes your data to others but also means having a plan that accounts for the next 5 or more years. 
 
 + What is your long-term plan for preservation and maintenance of the data? 
 + If you're using a data repository, who is sponsoring it and what are the terms?

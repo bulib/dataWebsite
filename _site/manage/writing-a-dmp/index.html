@@ -19,6 +19,8 @@
     <meta property="twitter:title" content="Writing a Data Management Plan" />
     
 
+
+
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -34,10 +36,22 @@
  <link rel="alternate" type="application/rss+xml" title="Boston University Data Services - Data Services at Boston University" href="/dataWebsite/index.xml" />
 
     <script src='https://www.google.com/recaptcha/api.js'></script>
-    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-K7ZLQBQ');</script>
+    <!-- End Google Tag Manager -->
+
   </head>
 
   <body data-spy="scroll" data-target="#toc">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7ZLQBQ"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <div class="page-wrapper">
       <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
@@ -59,7 +73,7 @@
           <li><a href="/dataWebsite/share/">Share</a></li>
           <li><a href="/dataWebsite/software/">Software</a></li>
           <li><a href="/dataWebsite/storage/">Storage</a></li>-->
-          <li><a href="#" type="button"data-toggle="modal" data-target="#myModal">Help</a></li>
+          <li><a id="help-button" href="#" type="button"data-toggle="modal" data-target="#myModal">Help</a></li>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
@@ -67,7 +81,7 @@
 </nav>
 
       <div id="main" role="main" class="container">
-        <div class="page-title-wrapper ">
+        <div class="page-title-wrapper green-diamonds">
   <div class="container">
     <div class="row no-margin">
       <div class="page-title">
@@ -83,7 +97,11 @@
 	  <div class="entry">
 	    <h2 id="what-is-a-data-management-plan-dmp">What is a Data Management Plan (DMP)?</h2>
 
+<<<<<<< HEAD
 <p>A data management plan will help you think about how to manage your data for a research project, an entire lab, a department, an individual or an entire organization. DMPs can be as long or short as needed. However, for your DMP to be effective it should cover a few key topics that will require you to think about your project from a “data” perspective «suggestion: might be vague, what is a ‘data’ perspective?».</p>
+=======
+<p>A data management plan (DMP) will help you think about how to manage your data for a research project, an entire lab, a department, an individual, or an entire organization. DMPs can be as long or short as needed. However, for your DMP to be effective it should cover a few key topics that will require you manage your data for the life of your project and beyond. </p>
+>>>>>>> upstream/gh-pages
 
 <p>And if you have any questions, be sure to <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#100;&#097;&#116;&#097;&#064;&#098;&#117;&#046;&#101;&#100;&#117;">email us</a>.</p>
 
@@ -98,11 +116,19 @@
   <li>Ensure your data is backed up</li>
 </ul>
 
+<<<<<<< HEAD
 <p>Data management will help prevent future headaches «suggestion: a bit vague, maybe explain what type of problems could be prevented» and, when done properly, will keep your work organized and intelligible to others as well as your future self. </p>
 
 <h2 id="components-of-a-dmp">Components of a DMP</h2>
 
 <p>There are several parts to a data management plan. If you’re writing a data management plan for a specific funder, these common components will likely apply. However, it is always best to check your application materials «sort of vague» for more detailed information. </p>
+=======
+<p>Data management will help prevent future headaches, like mistakenly deleting valuable research results, misplacing files, or having to redo the analysis of your data. When done properly, data management will keep your work organized and intelligible to others as well as your future self. This will make your work reproducible and give your data value after you have completed your project. </p>
+
+<h2 id="components-of-a-dmp">Components of a DMP</h2>
+
+<p>There are several parts to a data management plan. If you’re writing a data management plan for a specific funder, like the National Science Foundation, these common components will likely apply. However, if you are applying for a grant it is always best to check your application materials for more detailed information or <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#100;&#097;&#116;&#097;&#064;&#098;&#117;&#046;&#101;&#100;&#117;">ask for assistance</a>. </p>
+>>>>>>> upstream/gh-pages
 
 <h3 id="types-of-data">Types of Data</h3>
 
@@ -113,7 +139,11 @@
   <li>How will you capture, create, and/or process the data?</li>
 </ul>
 
+<<<<<<< HEAD
 <p>Documenting the types of data you will be working with and how you will capture, create, or process that data will help you think through your methodology with a “data lens.” «suggestion: might be a bit vague saying’data lens’»</p>
+=======
+<p>Documenting the types of data you will be working with and how you will capture, create, or process that data will help you think through your methodology and how each step alters or enhances your data. </p>
+>>>>>>> upstream/gh-pages
 
 <h3 id="contextual-details">Contextual Details</h3>
 
@@ -131,7 +161,11 @@
 
 <p>When managing data, it is crucial to think about storage, backup and security. These are key components to your data management plan and, because they can require using institutional resources, they are best planned for ahead of time. If you’re working with sensitive data or data that involves human research subjects, a data security plan is critical.</p>
 
+<<<<<<< HEAD
 <p>Planning «suggestion:Creating?» file permissions for your research team and «suggestion:planning?» how everyone will access the data will not only save time but also could save you large headaches «suggestion: maybe explain what type of problems you could face down the road» if your data is shared inappropriately. Some good questions are: </p>
+=======
+<p>Planning who will have access to what is an import step in managing your data. By planing and implementing a file permissions structure for your research team and will not only save time but also prevent inappropriate access to sensitive data and the mishandling of personally identifiable information. Additionally, ensuring you have a backup plan for your data could potentially save your research project should your personal laptop or desktop become damaged. </p>
+>>>>>>> upstream/gh-pages
 
 <ul>
   <li>Where will your data be stored? </li>
@@ -142,19 +176,32 @@
 
 <h3 id="provisions-for-protection-and-privacy">Provisions for Protection and Privacy</h3>
 
+<<<<<<< HEAD
 <p>If you’re working with sensitive data or data with copyright restrictions, you’ll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology may address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you’ll want to ensure those materials are added to your data management plan. Make clear the steps you’re taking to ensure the appropriate ethical or privacy concerns are addressed. «suggestion:last sentence repeats what has already been said»</p>
 
 <p>Additionally, make sure the systems you’re using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. Key questions are: </p>
 
 <ul>
   <li>How are you addressing any ethical or privacy issues (IRB «suggestion:what is IRB?», anonymization of data)?</li>
+=======
+<p>If you’re working with sensitive data or data with copyright restrictions, you’ll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology will address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you’ll want to ensure those materials are added to your data management plan. </p>
+
+<p>Also, make sure the systems you’re using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. Key questions are: </p>
+
+<ul>
+  <li>How are you addressing any ethical or privacy issues with human research subjects? </li>
+>>>>>>> upstream/gh-pages
   <li>Who will own any copyright or intellectual property rights to the data?</li>
   <li>Is my storage solution appropriate for the type of data I am using? </li>
 </ul>
 
 <h3 id="policies-for-access-and-reuse">Policies for Access and Reuse</h3>
 
+<<<<<<< HEAD
 <p>If you are planning to share your data it is important to document the policies for reuse. For instance, if you are planning on making your data available when your grant ends try to anticipate how to make that possible. Providing sustained access to your research data involves more than posting it on your personal website and «you will likely want to find a data repository, hosted by a trusted organization, to store your data for long-term access. –&gt; maybe link to selecting repository page»</p>
+=======
+<p>If you are planning to share your data it is important to document the policies for reuse. For instance, if you intend to make your data available when your grant ends anticipate how you will make that possible. Providing sustained access to your research data involves more than posting it on your personal website and you will likely want to <a href="/dataWebsite/share/selecting-a-data-repository">find a data repository</a>, hosted by a trusted organization, to store your data for long-term access. </p>
+>>>>>>> upstream/gh-pages
 
 <ul>
   <li>What restrictions need to be placed on re-using of your data?</li>
@@ -163,7 +210,11 @@
 
 <h3 id="plan-for-archiving-and-preservation">Plan for Archiving and Preservation</h3>
 
+<<<<<<< HEAD
 <p>Many funding agencies require that you make your data publicly available for the long term. Figuring out how you’re going to comply with those requirements means you’re going to have to think about where you’re storing your data and if you’re going to partner with institutional resources or a third-party. Long-term access to your data not only requires having good metadata &lt;suggestion: vague by saying ‘good metadata’&gt; but also means having a plan that accounts for the next 5, 10, or 15 years «suggestion: maybe say 5 or more years?». </p>
+=======
+<p>Many funding agencies require that you make your data publicly available for the long term. Figuring out how you’re going to comply with those requirements means you’re going to have to think about where you’re storing your data and if you’re going to partner with institutional resources or a third-party. Long-term access to your data not only requires having good metadata that usefully describes your data to others but also means having a plan that accounts for the next 5 or more years. </p>
+>>>>>>> upstream/gh-pages
 
 <ul>
   <li>What is your long-term plan for preservation and maintenance of the data? </li>

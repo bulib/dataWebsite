@@ -4,7 +4,7 @@ permalink: /manage/dmptool/
 category: 
 - manage
 - guide 
-css: green-triangles
+css: burgundy-triangles
 excerpt: Starting using the DMPTool to find templates for writing data management plans. 
 ---
 
