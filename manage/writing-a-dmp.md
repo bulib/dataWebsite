@@ -62,10 +62,9 @@ Planning who will have access to what is an important step in managing your data
 
 ### Provisions for Protection and Privacy
 
+If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. For instance, your methodology will often times address the anonymization of your human research subject data or your grant application might state intellectual property concerns.
 
-If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. Often, your methodology will address the anonymization of your human research subject data or your grant application might state any intellectual property concerns, however, you'll want to ensure those materials are added to your data management plan.
-
-Also, make sure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. Key questions are: 
+Also, make sure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data.
 
 + How are you addressing any ethical or privacy issues with human research subjects? 
 + Who will own any copyright or intellectual property rights to the data?
