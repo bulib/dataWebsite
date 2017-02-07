@@ -72,7 +72,7 @@ Also, make sure the systems you're using to store your data are approved for tho
 
 ### Policies for Access and Reuse 
 
-If you are planning to share your data it is important to document the policies for reuse. For instance, if you intend to make your data available when your grant ends anticipate how you will make that possible. Providing sustained access to your research data involves more than posting it on your personal website and you will likely want to [find a data repository]({{site.baseurl}}/share/selecting-a-data-repository), hosted by a trusted organization, to store your data for long-term access. 
+If you are planning to share your data, remember to document the policies for reuse. For example, if you intend to make your data available when your grant ends anticipate how you will make that possible. Providing sustained access to your research data involves more than posting it on your personal website. One solution is to [find a data repository]({{site.baseurl}}/share/selecting-a-data-repository), hosted by a trusted organization, to store your data for long-term access. 
 
 + What restrictions need to be placed on re-using your data?
 + What is the process for gaining access to your data?
