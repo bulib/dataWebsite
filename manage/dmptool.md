@@ -5,7 +5,7 @@ category:
 - manage
 - guide 
 css: burgundy-triangles
-excerpt: Starting using the DMPTool to find templates for writing data management plans. 
+excerpt: Start using the DMPTool to find templates for writing data management plans
 ---
 
 ## About the DMPTool 
