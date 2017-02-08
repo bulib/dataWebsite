@@ -10,20 +10,19 @@ excerpt: Learn the basics of writing a data management plan for a NSF grant appl
 
 ## Introduction 
 
-The National Science Foundation (NSF) required data management plans since 2011. <<suggestion: not exactly the most engaging and descriptive way to open up this paragraph>> At first glance, the inclusion of data management plans seems more like another box to check off in the grant application process; however, data management plans are becoming increasingly important part of NSF grant applications (and are more throughly reviewed). <<suggestion: Why are they becoming more increasingly important?>>
+Since 2011 the National Science Foundation (NSF) has required data management plans (DMPs) for incoming grant applications. This guide will help you understand the NSF's data management requirements and help you write a useful, compliant data management plan. At first the inclusion of data management plans seemed more like another box to check off in the grant application process; however, data management plans are becoming increasingly important part of NSF grant applications and are being more throughly reviewed. To keep your application competative you'll want a DMP that is as good as your research. 
 
 **Quick Links to NSF Resources** 
 
-> Be mindful that **directorates and divisions may have more specific requirements!** <<suggestion: Would the targeted audience know what directorates and divisions are? If yes, ignore this comment>> <<suggestion: Also, either highlight the entire sentence or don't highlight the entire sentence rather than breaking it up like that!>>
+> **Be mindful that NSF directorates and divisions may have more specific requirements!** 
+
+The following are links to NSF's general guidance:
 
 + <a href="http://www.nsf.gov/bfa/dias/policy/dmp.jsp" title="NSF's Dissemination and Sharing of Research Results Guidance">NSF's Dissemination and Sharing of Research Results</a> 
 + <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4" title="NSF's Award and Administration Guide (AAG) Chapter VI.D.4">NSF's Award and Administration Guide (AAG) Chapter VI.D.4</a> 
 +  <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_2.jsp#dmp" title="NSF's Grant Proposal Guide, Chapter II.C.2.J">NSF's Grant Proposal Guide, Chapter II.C.2.J</a> 
 
-<<suggestion: I would possibly take off the bullet points, would look cleaner. And the bullet points are not necessary>>
-
 [Email us](mailto:data@bu.edu) if you need assistance in writing a data management plan for your NSF grant.
-
 
 ## Templates and Examples 
 
@@ -39,7 +38,7 @@ The best way to start your data management plan is to think about the types of d
 
 > the types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
 
-The types of data researchers work with are as diverse as the researchers themselves and their research interests. <<suggestion: similar to the sentence in 'What is a Data Management Plan?" page (quote: 'The type of data researchers collect is as varied as the researchers themselves.')>> Common data types include images, numerical data, experimental data, observational data, and text. A sample from [Kimberly Anderson's DMP on "REU Site: A Multidisciplinary Research Experience in Engineered Bioactive Interfaces and Devies"](https://dmptool.org/plans/11390.pdf) starts: <<suggestion: would change the block quote into a different style to fit the rest of the block quotes>> <<suggestion: maybe change it to look similar to the sentence later 'Metadata is a love note to the future.'>>
+The types of data researchers work with are as diverse as the researchers themselves and their research interests. Common data types include images, numerical data, experimental data, observational data, and text. A sample from [Kimberly Anderson's DMP on "REU Site: A Multidisciplinary Research Experience in Engineered Bioactive Interfaces and Devies"](https://dmptool.org/plans/11390.pdf) starts: 
 
 ```
 The data generated from this project will be of two types. Each REU student will generate experimental data specific to his/her research project related to Engineered Bioactive Interfaces and Devices. In addition, both quantitative and qualitative data will be generated that assesses the outcomes of the REU program. 
@@ -49,13 +48,11 @@ The data generated from this project will be of two types. Each REU student will
 
 After you've figured out the data types, the next step is to think about the data and metadata standards you'll be using. This section allows you to detail the specific file formats you'll be using and why you're using them. You'll also want to think about the metadata your data will need.
 
-What's metadata? Metadata is the information about your data that someone will need to make your data useful <<suggestion: the last part of the definition is a bit awkward -- "...that someone will need to make your data useful">>. This can include, but is not limited to, names to the authors <<names of authors?>>, publication date, and a persistent identifier - like a DOI (digital object indentifier) or URL (universal resource locator). Other likely metadata includes documenting your naming convention, variables, date of collection or creation <<suggestion: is there a better way to phrase that?>>, and data analysis documentation. The policy states: 
+What's metadata? Metadata is the information about your data that another research or future collaborator will need to use your data. This can include, but is not limited to, who created the data, when it was created, and a persistent identifier - like a DOI (digital object indentifier) or URL (universal resource locator). Other likely metadata includes your naming convention documentation, variables, when the data was created or collected, and data analysis documentation. The policy states: 
 
 > the standards to be used for data and metadata format and content (where existing standards are absent or deemed inadequate, this should be documented along with any proposed solutions or remedies).
 
-<<suggestion: line 54, is this sentence complete? A bit confusing, doesn't seem to really add anything>>
-
-It is worth noting that if there are no standards for a research field <<suggestion: what do you mean by that?>> that this should be documented <<suggestion: where?>> as well as a potential solution. While metadata can be complex, much of it can be automated <<suggestion: how so/how would that make it less complex?>> if it is planned before the data is gathered. The best quote we've found about metadata comes from <<suggestion: who/what is cea+?>>[cea+](https://www.flickr.com/people/centralasian/?rb=1) 
+It is worth noting that if there are no common standards for your field you should document this as well as provide a potential solution. While metadata can be complex and take time to create, much of it can be automated to save time it is planned before the data is gathered. The best quote we've found about metadata comes from [cea+](https://www.flickr.com/people/centralasian/?rb=1) and [the Mozilla Science Lab](https://docs.google.com/presentation/d/1kZd-ZD5lru5a7jIbyi9q8cBYCCAKRnIBSRvixYFtoF0/edit?pref=2&pli=1#slide=id.gef38dfd1f_0_100): 
 
 ```Metadata is a love note to the future. ```[[1]](https://www.flickr.com/photos/33255628@N00/8071729256/)
 
