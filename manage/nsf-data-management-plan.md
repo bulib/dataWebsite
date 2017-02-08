@@ -10,7 +10,7 @@ excerpt: Learn the basics of writing a data management plan for a NSF grant appl
 
 ## Introduction 
 
-The National Science Foundation (NSF) required data management plans since 2011. At first the inclusion of data management plans seemed more like another box to check in the grant application process, however, data management plans are becoming increasingly important part of NSF grant applications (and are more throughly reviewed). 
+The National Science Foundation (NSF) required data management plans since 2011. <<suggestion: not exactly the most engaging and descriptive way to open up this paragraph>> At first glance, the inclusion of data management plans seems more like another box to check off in the grant application process; however, data management plans are becoming increasingly important part of NSF grant applications (and are more throughly reviewed). <<suggestion: Why are they becoming more increasingly important?>>
 
 **Quick Links to NSF Resources** 
 
