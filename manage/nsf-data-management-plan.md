@@ -83,8 +83,8 @@ The NSF acknowledges that not all data can be made open and freely available. If
 
 ### Archiving and Preserving 
 
-The last part of the data management plan is to describe the long-term plan for your data. For researchers used to thinking about their data within the life of a particular grant this can be a tricky thing to do. It can be additionally difficult since you're unlikely to have additional funds for your data 5 years after your grant ends. The policy asks that you discribe the 
+The last part of the data management plan is to describe the long-term usage for your data, which can be tricky for researchers who are used to thinking about their data within the life of a particular grant. In addition, you're unlikely to have more funds for your data 5 years after your grant ends. The policy asks that you describe the 
 
 > plans for archiving data, samples, and other research products, and for preservation of access to them.
 
-The best solution to archive and preserve your data is to partner with an exsiting service or institution. There are many data repositories and [selecting the right one]({{site.baseurl}}/share/selecting-a-data-repository) is important. Many fields have data repositories that are well known to researchers in that discipline, however, not everyone is so lucky. If you need help finding a data repository [you can email us](mailto:data@bu.edu). 
+The best solution to archive and preserve your data is to partner with an exsiting service or institution. There are many data repositories and [selecting the right one]({{site.baseurl}}/share/selecting-a-data-repository) is important. Many fields have data repositories that are well known to researchers in that discipline, however, not everyone is so lucky. <<suggestion: not sure if I would say '...not everyone is so lucky', is there another way to phrase this?>>
