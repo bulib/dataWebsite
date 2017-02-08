@@ -43,7 +43,7 @@ Format: Is the data repository a good match for the type of data you have genera
 
 ### Rights
 
-Legal Considerations: Is there information about the terms of use for the data in the repository? Are your rights as a data depositor clearly stated? <<suggestion: condense into one question. Possibly: 'Are your rights clearly defined in the terms of use?'' OR just 'Is there information about the terms of use for the data in the repository?' >>
+Legal Considerations: Is there information about the terms of use for the data in the repository? Are your rights as a data depositor clearly stated? <<suggestion: condense into one question. Possibly: 'Are your rights clearly defined in the terms of use?'' OR bjust 'Is there information about the terms of use for the data in the repository?' >>
 
 ### Addtional Resources
 
