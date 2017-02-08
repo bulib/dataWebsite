@@ -47,17 +47,19 @@ The data generated from this project will be of two types. Each REU student will
 
 ### Data and Metadata Standards 
 
-After you've thought through the data types you'll be generating the next step is to think about the data and metadata standards you'll be following. This section allows you to detail the specific file formats you'll be using and why you're using them. You'll also want to talk about the metadata your data will need.
+After you've figured out the data types, the next step is to think about the data and metadata standards you'll be using. This section allows you to detail the specific file formats you'll be using and why you're using them. You'll also want to think about the metadata your data will need.
 
-What's metadata? Metadata is the information about your data that someone will need to make your data useful. This can include, but is not limited to, names to the authors, publication date, and a persistent identifier - like a DOI (digital object indentifier) or URL (universal resource locator). Other likely metadata includes documenting your naming convention, variables, date of collection or creation, and data analysis documentation. The policy states: 
+What's metadata? Metadata is the information about your data that someone will need to make your data useful <<suggestion: the last part of the definition is a bit awkward -- "...that someone will need to make your data useful">>. This can include, but is not limited to, names to the authors <<names of authors?>>, publication date, and a persistent identifier - like a DOI (digital object indentifier) or URL (universal resource locator). Other likely metadata includes documenting your naming convention, variables, date of collection or creation <<suggestion: is there a better way to phrase that?>>, and data analysis documentation. The policy states: 
 
 > the standards to be used for data and metadata format and content (where existing standards are absent or deemed inadequate, this should be documented along with any proposed solutions or remedies).
 
-It is worth noting that if there are no standards for a research field that this should be documented as well as a potential solution. While metadata can be complex, much of it can be automated if it is planned before the data is gathered. The best quote we've found about metadata comes from [cea+](https://www.flickr.com/people/centralasian/?rb=1) 
+<<suggestion: line 54, is this sentence complete? A bit confusing, doesn't seem to really add anything>>
+
+It is worth noting that if there are no standards for a research field <<suggestion: what do you mean by that?>> that this should be documented <<suggestion: where?>> as well as a potential solution. While metadata can be complex, much of it can be automated <<suggestion: how so/how would that make it less complex?>> if it is planned before the data is gathered. The best quote we've found about metadata comes from <<suggestion: who/what is cea+?>>[cea+](https://www.flickr.com/people/centralasian/?rb=1) 
 
 ```Metadata is a love note to the future. ```[[1]](https://www.flickr.com/photos/33255628@N00/8071729256/)
 
-And for multi-year projects, it is important to remember that note to the future is likely to be your future self. While creating metadata does take time the efforts are normally rewarded with not only clear project documentation but also increasing the reproducibility of your research. 
+And for multi-year projects, it is important to remember that note to the future is likely to be to your future self. While creating metadata takes time, the efforts are normally rewarded <<suggestion: sounds a bit awk to say 'normally rewarded'>> with not only clear project documentation but also increasing <<suggestion: is 'increasing' the best word?>> the reproducibility of your research. 
 
 ### Access and Sharing
 
