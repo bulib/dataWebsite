@@ -14,7 +14,7 @@ The National Science Foundation (NSF) required data management plans since 2011.
 
 **Quick Links to NSF Resources** 
 
-> Be mindful that **directorates and divisions may have more specific requirements!** <<suggestion: Would the targeted audience know what directorates and divisions are? If yes, ignore this comment>>
+> Be mindful that **directorates and divisions may have more specific requirements!** <<suggestion: Would the targeted audience know what directorates and divisions are? If yes, ignore this comment>> <<suggestion: Also, either highlight the entire sentence or don't highlight the entire sentence rather than breaking it up like that!>>
 
 + <a href="http://www.nsf.gov/bfa/dias/policy/dmp.jsp" title="NSF's Dissemination and Sharing of Research Results Guidance">NSF's Dissemination and Sharing of Research Results</a> 
 + <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4" title="NSF's Award and Administration Guide (AAG) Chapter VI.D.4">NSF's Award and Administration Guide (AAG) Chapter VI.D.4</a> 
