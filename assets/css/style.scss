@@ -734,52 +734,72 @@ p.author {
  *
  * * * * * * * * * * * * * */
 
-article.post {
-	max-width: none; 
+.post-title-wrapper .page-title h1 {
+    text-align: center;
+    color: $cta-color; 
+    width: 100%; 
 }
 
-article.post > h1 {
-	text-align: center; 
-	margin-bottom: 4%; 
+.workshop-page-date p {
+    text-align: center;
+    font-size: 24px;
+    line-height: 38px;
+    margin-bottom: 50px; 
 }
 
-div.entry a.btn-lg {
-	margin: 5% auto;
-	display: block;
-	text-align: center;
-	width: 200px ;
+.workshop-page-date span {
+    color: $cta-color;
+    font-weight: 600; 
 }
 
-div.entry h2.join-us {
-	text-align: center; 
+.workshop-page-excerpt {
+    margin-bottom: 50px; 
 }
 
-.post-text {
-	margin: 0 auto;
-	max-width: 600px
+.workshop-page-hr {
+    border-color: $primary-text;
+    margin-bottom: 50px; 
+
 }
 
-.videoWrapper {
-	margin: 0 auto;
-	position: relative;
-	padding-bottom: 33.25%; /* 16:9 */
-	padding-top: 25px;
-	width: 60%; 
-	height: 315px;
+.workshop-page-registration h2 {
+    color: $cta-color;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px; 
 }
 
-.videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+.form-group.col-sm-6.right {
+    float: right;
 }
 
-div.date {
-	margin-top: 30px; 
-	text-align: center; 
+.workshop-page-registration .g-recaptcha {
+    float: unset;
+    margin: 25px 0; 
 }
+
+.workshop-page-registration .g-recaptcha > div {
+    margin: 0 auto; 
+}
+
+.workshop-page-registration-submit {
+    clear: both;
+}
+
+.workshop-page-registration-submit button {
+    display: block;
+    margin: 0 auto; 
+}
+    
+.workshop-page-registration-slides {
+    text-align: center;
+    margin-top: 25px; 
+} 
+
+.workshop-page-registration-slides a {
+    display: inline-block;
+}
+
 /* * * * * * * * * * * * * * 
  *
  * Workshop Index Styles 

@@ -53,7 +53,7 @@ js: p/home-force.js
 	    {% assign counter = '0' %}
 	    {% for post in site.posts reversed %}
  	    {% if post.tag contains "news" and counter < '5' %}
-	    {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+ 	    {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
             {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
             {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
             {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}

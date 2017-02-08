@@ -9,7 +9,6 @@ category:
 excerpt: Discover how to design a simple and effective naming convention for your project
 ---
 
-
 ## What is a Naming Convention? 
 
 <Define file naming conventions – is the last bullet point under “Why Use File Naming Conventions?” the definition?>
@@ -32,7 +31,6 @@ As you and your research partners establish file naming conventions, we recommen
 + Include dates in your filename, which this can help you with sorting and version control. <What is sorting and version control?> When using dates, we recommend this format: yyyymmdd.
 + Using a sequential numbering system to keep track of different versions or revisions to a file. You may find if helpful to use leading 0’s to enable file sorting in a sequential order. (for example: rehab01, rehab02, rehab03 instead of rehab1, rehab2, rehab3.)
 
-
 ## Things to Avoid 
 
 + Using spaces within your files; not all software recognizes spaces within file names.
@@ -47,4 +45,3 @@ potential resources
 + https://lib.stanford.edu/data-management-services/file-naming
 + https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming
 + http://guides.library.illinois.edu/c.php?g=348391&p=2347452
-
