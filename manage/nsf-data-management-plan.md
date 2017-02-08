@@ -10,7 +10,7 @@ excerpt: Learn the basics of writing a data management plan for a NSF grant appl
 
 ## Introduction 
 
-Since 2011 the National Science Foundation (NSF) has required data management plans (DMPs) for incoming grant applications. This guide will help you understand the NSF's data management requirements and help you write a useful, compliant data management plan. At first the inclusion of data management plans seemed more like another box to check off in the grant application process; however, data management plans are becoming increasingly important part of NSF grant applications and are being more throughly reviewed. To keep your application competative you'll want a DMP that is as good as your research. 
+Since 2011 the National Science Foundation (NSF) has required data management plans (DMPs) for incoming grant applications. This guide will help you understand the NSF's data management requirements and help you write a useful, compliant data management plan. At first the inclusion of data management plans seemed more like another box to check off in the grant application process; however, data management plans are becoming increasingly important part of NSF grant applications and are being more thoroughly reviewed. To keep your application competitive you'll want a DMP that is as good as your research. 
 
 **Quick Links to NSF Resources** 
 
@@ -34,11 +34,11 @@ You have 2 pages - and only 2 pages - to write your data management plan. Let's 
 
 ### Types 
 
-The best way to start your data management plan is to think about the types of data you'll be collecting. Reviewing your data types first will help ensure everyone is on the same page. It is okay to be detailed and specific when discussing your data types. If you know you're using a piece of equipement or data collection methodology be sure to mention that. The policy states you should include: 
+The best way to start your data management plan is to think about the types of data you'll be collecting. Reviewing your data types first will help ensure everyone is on the same page. It is okay to be detailed and specific when discussing your data types. If you know you're using a piece of equipment or data collection methodology be sure to mention that. The policy states you should include: 
 
 > the types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
 
-The types of data researchers work with are as diverse as the researchers themselves and their research interests. Common data types include images, numerical data, experimental data, observational data, and text. A sample from [Kimberly Anderson's DMP on "REU Site: A Multidisciplinary Research Experience in Engineered Bioactive Interfaces and Devies"](https://dmptool.org/plans/11390.pdf) starts: 
+The types of data researchers work with are as diverse as the researchers themselves and their research interests. Common data types include images, numerical data, experimental data, observational data, and text. A sample from [Kimberly Anderson's DMP on "REU Site: A Multidisciplinary Research Experience in Engineered Bioactive Interfaces and Devices"](https://dmptool.org/plans/11390.pdf) starts: 
 
 ```
 The data generated from this project will be of two types. Each REU student will generate experimental data specific to his/her research project related to Engineered Bioactive Interfaces and Devices. In addition, both quantitative and qualitative data will be generated that assesses the outcomes of the REU program. 
@@ -48,7 +48,7 @@ The data generated from this project will be of two types. Each REU student will
 
 After you've figured out the data types, the next step is to think about the data and metadata standards you'll be using. This section allows you to detail the specific file formats you'll be using and why you're using them. You'll also want to think about the metadata your data will need.
 
-What's metadata? Metadata is the information about your data that another research or future collaborator will need to use your data. This can include, but is not limited to, who created the data, when it was created, and a persistent identifier - like a DOI (digital object indentifier) or URL (universal resource locator). Other likely metadata includes your naming convention documentation, variables, when the data was created or collected, and data analysis documentation. The policy states: 
+What's metadata? Metadata is the information about your data that another research or future collaborator will need to use your data. This can include, but is not limited to, who created the data, when it was created, and a persistent identifier - like a DOI (digital object identifier) or URL (universal resource locator). Other likely metadata includes your naming convention documentation, variables, when the data was created or collected, and data analysis documentation. The policy states: 
 
 > the standards to be used for data and metadata format and content (where existing standards are absent or deemed inadequate, this should be documented along with any proposed solutions or remedies).
 
@@ -56,17 +56,17 @@ It is worth noting that if there are no common standards for your field you shou
 
 ```Metadata is a love note to the future. ```[[1]](https://www.flickr.com/photos/33255628@N00/8071729256/)
 
-And for multi-year projects, it is important to remember that note to the future is likely to be to your future self. While creating metadata takes time, the efforts are normally rewarded <<suggestion: sounds a bit awk to say 'normally rewarded'>> with not only clear project documentation but also increasing <<suggestion: is 'increasing' the best word?>> the reproducibility of your research. 
+For multi-year projects it is important to remember that note to the future is likely to be to your future self. While creating metadata takes time, the efforts are almost always rewarded not only clear project documentation but also by enhancing the reproducibility of your research. 
 
 ### Access and Sharing
 
-One of the goals of a data management plan is to increase researchers' ability to share their data and access other's data. Ideally, this will help verify research results and help researchers build on the work of others. However, the NSF understands that not all data can be made available such as data on human research subjects, patented data, and data involving nationally sensitive projects. With that said, much of the research that NSF sponsors has data that can be shared with the public. From the policy you should include <<suggestion: you say "policy" twice in same sentence, change one>>: 
+One of the goals of a data management plan is to increase researchers' ability to share their data and access other's data. Ideally, this will help verify research results and help researchers build on the work of others. However, the NSF understands that not all data can be made available such as data on human research subjects, patented data, and data involving nationally sensitive projects. With that said, much of the research that NSF sponsors creates data that can be shared with the public. NSF suggests you include: 
 
 > policies for access and sharing including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements
 
 This section of your data management plan details the policies and ground rules you'll have for sharing your data. Will your data be put in a data repository? Will their be an initial embargo on access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? 
 
-As you think through the access and sharing part of your data management plan, you'll likely also want to think <<suggestion: change one of the 'think', redundant>> about how others can reuse and redistribute your data. 
+As you write the access and sharing part of your data management plan, you'll likely also want to take time to anticipate how others can reuse and redistribute your data. 
 
 ### Reuse and Redistribution
 
@@ -84,4 +84,8 @@ The last part of the data management plan is to describe the long-term usage for
 
 > plans for archiving data, samples, and other research products, and for preservation of access to them.
 
-The best solution to archive and preserve your data is to partner with an exsiting service or institution. There are many data repositories and [selecting the right one]({{site.baseurl}}/share/selecting-a-data-repository) is important. Many fields have data repositories that are well known to researchers in that discipline, however, not everyone is so lucky. <<suggestion: not sure if I would say '...not everyone is so lucky', is there another way to phrase this?>>
+The best solution to archive and preserve your data is to partner with an existing service or institution. There are many data repositories and [selecting the right one]({{site.baseurl}}/share/selecting-a-data-repository) is important. Many fields have data repositories that are well known to researchers in that discipline, however, not everyone is so lucky. <<suggestion: not sure if I would say '...not everyone is so lucky', is there another way to phrase this?>>
+
+## Maintain Your Plan
+
+Hopefully your NSF grant application will be accepted and you'll soon be starting your research project. As you begin your work you'll want to periodically revisit your data management plan to ensure it is still fitting the needs of your work. Maintaining your DMP will help you follow through on your commitments to the NSF to share your data and allow you to showcase to NSF in the future that you're committed to properly managing your data. 
