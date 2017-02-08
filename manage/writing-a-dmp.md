@@ -18,7 +18,7 @@ If you have any questions, be sure to [email us](mailto:data@bu.edu).
 
 Managing your data allows you to:
 
-+ Comply with federal funding 
++ Comply with federal funding requirements 
 + Document your work and workflows
 + Facilitate the reuse and sharing of your data 
 + Ensure your data is backed up
@@ -31,7 +31,7 @@ There are several parts to a data management plan. If you're writing a data mana
 
 ### Types of Data 
 
-The type of data researchers collect is as varied as the researchers themselves. Examples include experimental measurements, survey results, images, text, or numerical data. When working with data, think about the following two questions<:>
+The types of data researchers collect is as varied as the researchers themselves. Examples include experimental measurements, survey results, images, text, or numerical data. When working with data, think about the following two questions:
 
 + What types of data will you be creating or capturing? 
 + How will you capture, create, and/or process the data?
@@ -40,7 +40,7 @@ Documenting the types of data you will be working with and how you will capture,
 
 ### Contextual Details 
 
-Contextual details, or metadata, is information that will help others understand your data. While you may be familiar with your data, others may not know about your equipment settings, variable names, or file organization. It is important to think about the file types that you're using to share your data. Some formats, like .csv or .txt, are open and can be understood by many programs. Others, like .pdf or .docx, are proprietary and may not be understood by some programs or people. <<suggestion: "possibly take out 'people' or re-write the sentence, as the sentence makes it seem like people don't know how to read a pdf or .docx">>
+Contextual details, or metadata, is information that will help others understand your data. While you may be familiar with your data, others may not know about your equipment settings, variable names, or file organization. It is important to think about the file types that you're using to share your data. Some formats, like .csv or .txt, are open and can be understood by many programs in multiple operating systems. Others, like .pdf or .docx, are proprietary and may not be accessible by some programs or people who do not have access to the same software.
 
 You should also explain your data set in terms of the who, what, when, where, why, and how. Doing so will help others use your data effectively and within the right context. 
 
@@ -52,7 +52,6 @@ You should also explain your data set in terms of the who, what, when, where, wh
 
 When managing data, it is crucial to think about storage, backup, and security. These are key components to your data management plan and, because they can require institutional resources, they are best planned ahead of time. If you're working with sensitive data or data that involves human research subjects, a data security plan is critical.
 
-
 Planning who will have access to what is an important step in managing your data. When you implement a file permissions structure for your research team, you will not only save time but also prevent inappropriate access to sensitive data and the mishandling of personally identifiable information. Additionally, ensuring that you have a backup plan for your data could potentially save your research project should your personal laptop or desktop become damaged. 
 
 + Where will your data be stored? 
@@ -62,9 +61,9 @@ Planning who will have access to what is an important step in managing your data
 
 ### Provisions for Protection and Privacy
 
-If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or ethical issues. For instance, your methodology will often times address the anonymization of your human research subject data or your grant application might state intellectual property concerns.
+If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or legal issues. For instance, your methodology will often times address the anonymization of your human research subject data or your grant application might state intellectual property concerns. It is important to ensure those details are also reflected in your data management plan. 
 
-Also, make sure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data.
+Also, ensure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. For assistance ensuring your storage solution is appropriate for your data type, [contact IS\&T's Information Security Team](buinfosec@bu.edu). 
 
 + How are you addressing any ethical or privacy issues with human research subjects? 
 + Who will own any copyright or intellectual property rights to the data?
