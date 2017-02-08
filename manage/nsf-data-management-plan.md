@@ -73,13 +73,13 @@ As you think through the access and sharing part of your data management plan, y
 
 ### Reuse and Redistribution
 
+In this part of your plan you'll want to document how others can access your data and any restrictions on how the data is to be shared and/or reused. If you are placing restrictions, this is the place to describe why and how others can comply with them.
+
 Your NSF data management plan should include: 
 
-> policies and provisions for re-use, re-distribution, and the production of derivatives. 
+> policies and provisions for re-use, re-distribution, and the production of derivatives. <<suggestion: maybe targeted audience would know this, but I'm not sure what "production of derivatives" mean>>
 
-In this part of your plan you'll want to document how others will be able access your data and if there will be restrictions on what they can do with your data. You might want allow anyone to have access and distribution rights but you might also need to control how the data is shared and reused. If you do need to place restrictions on your data this is the place to discribe why and how others can comply with those restrictions.
-
-The NSF is understanding that not all data can be made open and freely available. If you do need to place limits on the use of your data you'll need to clearly document and justify them. 
+The NSF acknowledges that not all data can be made open and freely available. If you do need to place limits on the use of your data you'll need to clearly document and justify them. 
 
 ### Archiving and Preserving 
 
