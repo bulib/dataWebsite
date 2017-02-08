@@ -63,7 +63,7 @@ Planning who will have access to what is an important step in managing your data
 
 If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or legal issues. For instance, your methodology will often times address the anonymization of your human research subject data or your grant application might state intellectual property concerns. It is important to ensure those details are also reflected in your data management plan. 
 
-Also, ensure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. For assistance ensuring your storage solution is appropriate for your data type, [contact IS\&T's Information Security Team](buinfosec@bu.edu). 
+Also, ensure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. For assistance ensuring your storage solution is appropriate for your data type, [contact IS&T's Information Security Team](buinfosec@bu.edu). 
 
 + How are you addressing any ethical or privacy issues with human research subjects? 
 + Who will own any copyright or intellectual property rights to the data?
@@ -82,4 +82,8 @@ Many funding agencies require that you make your data publicly available for the
 
 + What is your long-term plan for preservation and maintenance of the data? 
 + If you're using a data repository, who is sponsoring it and what are the terms?
-+ Who will be responsible for making sure your data is accessible in 5+ years? 
++ Who will be responsible for making sure your data is accessible in 5+ years?
+
+## Maintain Your DMP
+
+Once you have an interstitial version of your data management plan you will want to share it with your team, laboratory, or other appropriate people. Your DMP is only useful if your colleagues understand it and can follow it. Finally, you should periodically review your DMP to ensure you're following it and that it meets the needs of your research. As projects evolve it is important to keep the DMP current and useful. Data management plans are living documents! 
