@@ -14,13 +14,16 @@ The National Science Foundation (NSF) required data management plans since 2011.
 
 **Quick Links to NSF Resources** 
 
-> Be mindful that **directorates and divisions may have more specific requirements!**
+> Be mindful that **directorates and divisions may have more specific requirements!** <<suggestion: Would the targeted audience know what directorates and divisions are? If yes, ignore this comment>>
 
 + <a href="http://www.nsf.gov/bfa/dias/policy/dmp.jsp" title="NSF's Dissemination and Sharing of Research Results Guidance">NSF's Dissemination and Sharing of Research Results</a> 
 + <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4" title="NSF's Award and Administration Guide (AAG) Chapter VI.D.4">NSF's Award and Administration Guide (AAG) Chapter VI.D.4</a> 
 +  <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_2.jsp#dmp" title="NSF's Grant Proposal Guide, Chapter II.C.2.J">NSF's Grant Proposal Guide, Chapter II.C.2.J</a> 
 
-If you need help writing a data management plan for your NSF grant be sure to [email us](mailto:data@bu.edu). 
+<<suggestion: I would possibly take off the bullet points, would look cleaner. And the bullet points are not necessary>>
+
+[Email us](mailto:data@bu.edu) if you need assistance in writing a data management plan for your NSF grant.
+
 
 ## Templates and Examples 
 
