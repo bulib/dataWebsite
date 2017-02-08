@@ -63,13 +63,13 @@ And for multi-year projects, it is important to remember that note to the future
 
 ### Access and Sharing
 
-One of the goals of a data management plan is to increase researchers' ability to share thier data and access other's data. Ideally, this will help varify research results and help researchers build on the work of others. However, the NSF understands that not all data can be made available. Examples of data that is best kept private includes data about human research subjects, data that might be patented, and data involving nationally senstive projects. With that said, much of the research that NSF sponsors has data that can be shared with other researchers and the public. From the policy you should include: 
+One of the goals of a data management plan is to increase researchers' ability to share their data and access other's data. Ideally, this will help verify research results and help researchers build on the work of others. However, the NSF understands that not all data can be made available such as data on human research subjects, patented data, and data involving nationally sensitive projects. With that said, much of the research that NSF sponsors has data that can be shared with the public. From the policy you should include <<suggestion: you say "policy" twice in same sentence, change one>>: 
 
 > policies for access and sharing including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements
 
-This section of your data management plan details the policies and groundrules you'll have for sharing your data. Will your data be put in a data repository? Will their be an initial embargo on access to your data? If your data won't be publically available, are there ways you can make it available to others? And if so, how will that be done? 
+This section of your data management plan details the policies and ground rules you'll have for sharing your data. Will your data be put in a data repository? Will their be an initial embargo on access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? 
 
-As you think through the access and sharing part of your data management plan, you'll likely also be thinking about how others can reuse and redistribute your data. 
+As you think through the access and sharing part of your data management plan, you'll likely also want to think <<suggestion: change one of the 'think', redundant>> about how others can reuse and redistribute your data. 
 
 ### Reuse and Redistribution
 
