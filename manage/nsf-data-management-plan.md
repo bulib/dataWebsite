@@ -27,7 +27,7 @@ The National Science Foundation (NSF) required data management plans since 2011.
 
 ## Templates and Examples 
 
-If you'd like to look at a template or example, check out the DMPTool's [list of templates](https://dmptool.org/guidance?e=z&method=get&s=a&scope1=all) and [public examples](https://dmptool.org/public_dmps?public%3Aall_scope=all). 
+For reference, check out the DMPTool's [list of templates](https://dmptool.org/guidance?e=z&method=get&s=a&scope1=all) and [public examples](https://dmptool.org/public_dmps?public%3Aall_scope=all). 
 
 ## Requirements 
 
@@ -35,11 +35,11 @@ You have 2 pages - and only 2 pages - to write your data management plan. Let's 
 
 ### Types 
 
-It is normally easiest to start your data management plan with the types of data you'll be collecting. Reviewing your data types first will help ensure everyone is on the same page. It is okay to be detailed and specific when discussing your data types. If you know you're using a piece of equipement or data collection methodology be sure to mention that. The policy states you should include: 
+The best way to start your data management plan is to think about the types of data you'll be collecting. Reviewing your data types first will help ensure everyone is on the same page. It is okay to be detailed and specific when discussing your data types. If you know you're using a piece of equipement or data collection methodology be sure to mention that. The policy states you should include: 
 
 > the types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
 
-The types of data researchers work with are as diverse as the researchers themselves and their research interests. Common data types include images, numerical data, experimental data, observational data, text, or other samples. A sample from [Kimberly Anderson's DMP on "REU Site: A Multidisciplinary Research Experience in Engineered Bioactive Interfaces and Devies"](https://dmptool.org/plans/11390.pdf) starts:
+The types of data researchers work with are as diverse as the researchers themselves and their research interests. <<suggestion: similar to the sentence in 'What is a Data Management Plan?" page (quote: 'The type of data researchers collect is as varied as the researchers themselves.')>> Common data types include images, numerical data, experimental data, observational data, and text. A sample from [Kimberly Anderson's DMP on "REU Site: A Multidisciplinary Research Experience in Engineered Bioactive Interfaces and Devies"](https://dmptool.org/plans/11390.pdf) starts: <<suggestion: would change the block quote into a different style to fit the rest of the block quotes>>
 
 ```
 The data generated from this project will be of two types. Each REU student will generate experimental data specific to his/her research project related to Engineered Bioactive Interfaces and Devices. In addition, both quantitative and qualitative data will be generated that assesses the outcomes of the REU program. 
