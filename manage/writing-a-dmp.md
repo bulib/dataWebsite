@@ -44,7 +44,7 @@ Contextual details, or metadata, is information that will help others understand
 
 You should also explain your data set in terms of the who, what, when, where, why, and how. Doing so will help others use your data effectively and within the right context. 
 
-+ What are the file formats you plan to use (and if they are open or proprietary)?
++ What are the file formats you plan to use (and are they open or proprietary)?
 + What are the who, what, when, where, why, and how of your data set? 
 + What naming conventions will you use for files and variables? 
 
