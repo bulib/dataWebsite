@@ -63,7 +63,7 @@ Planning who will have access to what is an important step in managing your data
 
 If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or legal issues. For instance, your methodology will often times address the anonymization of your human research subject data or your grant application might state intellectual property concerns. It is important to ensure those details are also reflected in your data management plan. 
 
-Also, ensure the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. For assistance ensuring your storage solution is appropriate for your data type, [contact IS&T's Information Security Team](buinfosec@bu.edu). 
+Also, check that the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. For assistance on ensuring that your storage solution is appropriate for your data type, [contact IS&T's Information Security Team](buinfosec@bu.edu). 
 
 + How are you addressing any ethical or privacy issues with human research subjects? 
 + Who will own any copyright or intellectual property rights to the data?
