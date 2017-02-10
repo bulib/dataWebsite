@@ -7,6 +7,24 @@
     <atom:link href="http://www.bu.edu/data/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Office of Research - Understanding the Rules of Life</title>
+        <description>
+</description>
+        <pubDate>Tue, 25 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/2017/04/25/Understanding-the-rules-of-life.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/2017/04/25/Understanding-the-rules-of-life.html</guid>
+      </item>
+    
+      <item>
+        <title>Office of Research - Targets, Tools, and Drugs</title>
+        <description>
+</description>
+        <pubDate>Tue, 04 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/2017/04/04/Targets-Tools-and-Drugs.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/2017/04/04/Targets-Tools-and-Drugs.html</guid>
+      </item>
+    
+      <item>
         <title>Office of Research - Incarceration and Its Impacts</title>
         <description>
 </description>
@@ -76,24 +94,6 @@
         <pubDate>Tue, 31 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://www.bu.edu/data/workshops/2017/01/31/Intermediate-Usage-of-the-SCC.html</link>
         <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/01/31/Intermediate-Usage-of-the-SCC.html</guid>
-      </item>
-    
-      <item>
-        <title>IS&amp;T - Introduction to C Programming, Part One</title>
-        <description>
-</description>
-        <pubDate>Mon, 30 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://www.bu.edu/data/workshops/2017/01/30/Introduction-to-C-Programing-part-1.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/01/30/Introduction-to-C-Programing-part-1.html</guid>
-      </item>
-    
-      <item>
-        <title>IS&amp;T -  Introduction to Linux (Hands On)</title>
-        <description>
-</description>
-        <pubDate>Thu, 26 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://www.bu.edu/data/workshops/2017/01/26/Introduction-to-linux.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/01/26/Introduction-to-linux.html</guid>
       </item>
     
   </channel>
