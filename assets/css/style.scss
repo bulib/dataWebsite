@@ -482,8 +482,12 @@ div.section-index-item {
 
     div.section-index-item:nth-child(even) .section-index-title,
     div.section-index-item:nth-child(even) p {
-	margin-left: 10%; 
-    } 
+	margin-left: 5%; 
+    }
+
+    div.section-index-item:nth-child(odd) .section-index-title {
+	margin-right: 5%
+    }
 
     div.section-index-item:nth-child(even) p {
 	padding: 0 10px;
@@ -625,7 +629,7 @@ article.page {
 
 article.page > div.entry h2,
 article.page > div.entry p {
-    margin-bottom: 20px; 
+    margin-bottom: 25ypx; 
 }
 
 article.page > div.entry h2 {
