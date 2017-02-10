@@ -86,8 +86,8 @@ The last part of the data management plan is to describe the long-term usage for
 
 > plans for archiving data, samples, and other research products, and for preservation of access to them.
 
-The best solution to archive and preserve your data is to partner with an existing service or institution. There are many data repositories and [selecting the right one]({{site.baseurl}}/share/selecting-a-data-repository) is important. Many fields have data repositories that are well known to researchers in that discipline, however, not everyone is so lucky. <<suggestion: not sure if I would say '...not everyone is so lucky', is there another way to phrase this?>>
+The best solution to archive and preserve your data is to partner with an existing service or institution. There are many data repositories and [selecting the right one]({{site.baseurl}}/share/selecting-a-data-repository) is important. Many fields have data repositories that are well known to researchers in that discipline, however, not everyone is so lucky.
 
 ## Maintain Your Plan
 
-Hopefully your NSF grant application will be accepted and you'll soon be starting your research project. As you begin your work you'll want to periodically revisit your data management plan to ensure it is still fitting the needs of your work. Maintaining your DMP will help you follow through on your commitments to the NSF to share your data and allow you to showcase to NSF in the future that you're committed to properly managing your data. 
+Hopefully your NSF grant application will be accepted and you'll soon be starting your research project. As you begin your work you'll want to periodically revisit your data management plan to ensure that it still fits the needs of your work. Maintaining your DMP will help you follow through on your commitments to the NSF to share your data and allow you to showcase to NSF in the future that you're committed to properly managing your data. <<suggestion: re-write last sentence, a bit hard to read>>
