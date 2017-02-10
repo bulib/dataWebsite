@@ -52,7 +52,7 @@ You should also explain your data set in terms of the who, what, when, where, wh
 
 When managing data, it is crucial to think about storage, backup, and security. These are key components to your data management plan and, because they can require institutional resources, they are best planned ahead of time. If you're working with sensitive data or data that involves human research subjects, a data security plan is critical.
 
-Planning who will have access to what is an important step in managing your data. When you implement a file permissions structure for your research team, you will not only save time but also prevent inappropriate access to sensitive data and the mishandling of personally identifiable information. Additionally, ensuring that you have a backup plan for your data could potentially save your research project should your personal laptop or desktop become damaged. 
+Planning who will have access to what is an important step in managing your data. When you implement a file permissions structure for your research team, you will not only save time but also prevent inappropriate access to sensitive data and the mishandling of personally identifiable information. Additionally, should your personal laptop or desktop become damaged, your backup plan for your data could potentially save your research project.
 
 + Where will your data be stored? 
 + What is your backup plan for the data?
