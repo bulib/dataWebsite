@@ -36,7 +36,7 @@ The types of data researchers collect is as varied as the researchers themselves
 + What types of data will you be creating or capturing? 
 + How will you capture, create, and/or process the data?
 
-Documenting the types of data you will be working with and how you will capture, create, or process that data will help you think through your methodology and how each step alters or enhances your data. 
+Documenting the types of data you will be working with and how you will do so will help you think through your methodology and how each step alters or enhances your data. 
 
 ### Contextual Details 
 
