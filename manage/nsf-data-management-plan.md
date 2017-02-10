@@ -54,11 +54,11 @@ What's metadata? Metadata is the information about your data that another resear
 
 > The standards to be used for data and metadata format and content (where existing standards are absent or deemed inadequate, this should be documented along with any proposed solutions or remedies).
 
-It is worth noting that if there are no common standards for your field you should document this as well as provide a potential solution. While metadata can be complex and take time to create, much of it can be automated to save time it is planned before the data is gathered. The best quote we've found about metadata comes from [cea+](https://www.flickr.com/people/centralasian/?rb=1) and [the Mozilla Science Lab](https://docs.google.com/presentation/d/1kZd-ZD5lru5a7jIbyi9q8cBYCCAKRnIBSRvixYFtoF0/edit?pref=2&pli=1#slide=id.gef38dfd1f_0_100): 
+If there are no common standards for your field, you should document this and provide a potential solution. While metadata can be complex and take time to create, much of it can be automated to save time if it is planned before the data is gathered. The best quote we've found about metadata comes from [cea+](https://www.flickr.com/people/centralasian/?rb=1) and [the Mozilla Science Lab](https://docs.google.com/presentation/d/1kZd-ZD5lru5a7jIbyi9q8cBYCCAKRnIBSRvixYFtoF0/edit?pref=2&pli=1#slide=id.gef38dfd1f_0_100): 
 
 ```Metadata is a love note to the future. ```[[1]](https://www.flickr.com/photos/33255628@N00/8071729256/)
 
-For multi-year projects it is important to remember that note to the future is likely to be to your future self. While creating metadata takes time, the efforts are almost always rewarded not only clear project documentation but also by enhancing the reproducibility of your research. 
+For multi-year projects it is important to remember that "note to the future" is likely to be to your future self <<suggestion: put quotes on 'note to the future'>>. While creating metadata takes time, the efforts are almost always rewarded with clear project documentation and also enhances the reproducibility of your research. 
 
 ### Access and Sharing
 
@@ -66,7 +66,7 @@ One of the goals of a data management plan is to increase researchers' ability t
 
 > policies for access and sharing including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements
 
-This section of your data management plan details the policies and ground rules you'll have for sharing your data. Will your data be put in a data repository? Will their be an initial embargo on access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? 
+This section of your data management plan details the policies and ground rules you'll have for sharing your data. Will your data be put in a data repository? Will there be an initial embargo on access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? 
 
 As you write the access and sharing part of your data management plan, you'll likely also want to take time to anticipate how others can reuse and redistribute your data. 
 
