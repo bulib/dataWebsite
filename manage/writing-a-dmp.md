@@ -23,7 +23,7 @@ Managing your data allows you to:
 + Facilitate the reuse and sharing of your data 
 + Ensure your data is backed up
 
-Data management will help prevent future headaches, like mistakenly deleting valuable research results, misplacing files, or having to redo the analysis of your data. When done properly, data management will keep your work organized and intelligible to others as well as your future self. This will make your work reproducible and give your data value after you have completed your project. 
+Data management will help prevent future headaches, like mistakenly deleting valuable research results, misplacing files, or having to redo the analysis of your data. When done properly, data management will keep your work organized and intelligible to others as well as your future self. This will make your work reproducible and give your data value <<suggestion: possibly vague saying "give your data value">> after you have completed your project. 
 
 ## Components of a DMP
 
