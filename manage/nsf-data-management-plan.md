@@ -36,7 +36,7 @@ You have 2 pages - and only 2 pages - to write your data management plan. Let's 
 
 ### Types 
 
-The best way to start your data management plan is to think about the types of data you'll be collecting. Reviewing your data types first will help ensure everyone is on the same page. It is okay to be detailed and specific when discussing your data types. If you know you're using a piece of equipment or data collection methodology be sure to mention that. The policy states you should include: 
+The best way to start your data management plan is to think about the types of data you'll be collecting. When reviewing your data types, it is okay to be detailed and specific so everyone is on the same page. If you know you're using a piece of equipment or data collection methodology be sure to mention that. The policy states you should include: 
 
 > the types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
 
