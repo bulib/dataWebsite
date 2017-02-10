@@ -10,7 +10,9 @@ excerpt: Learn the basics of writing a data management plan for a NSF grant appl
 
 ## Introduction 
 
-Since 2011 the National Science Foundation (NSF) has required data management plans (DMPs) for incoming grant applications. This guide will help you understand the NSF's data management requirements and help you write a useful, compliant data management plan. At first the inclusion of data management plans seemed more like another box to check off in the grant application process; however, data management plans are becoming increasingly important part of NSF grant applications and are being more thoroughly reviewed. To keep your application competitive you'll want a DMP that is as good as your research. 
+Since 2011 the National Science Foundation (NSF) has required data management plans (DMPs) for incoming grant applications. This guide will help you understand the NSF's data management requirements and help you write a useful, compliant data management plan. At first glance, the inclusion of data management plans may seem like another box to check off in the grant application process; however, data management plans are becoming an increasingly important part of NSF grant applications and are being more thoroughly reviewed. To keep your application competitive you'll want a DMP that is as good as your research. 
+
+<<suggestion: too much mention of data management in paragraph above, replace some/take out some!!>>
 
 **Quick Links to NSF Resources** 
 
