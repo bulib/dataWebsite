@@ -66,7 +66,7 @@ One of the goals of a data management plan is to increase researchers' ability t
 
 > policies for access and sharing including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements
 
-This section of your data management plan details the policies and ground rules you'll have for sharing your data. Will your data be put in a data repository? Will there be an initial embargo on access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? 
+This section of your data management plan details the policies and ground rules you'll have for sharing your data. Will your data be put in a data repository? Will there be an initial embargo on the access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? 
 
 As you write the access and sharing part of your data management plan, you'll likely also want to take time to anticipate how others can reuse and redistribute your data. 
 
