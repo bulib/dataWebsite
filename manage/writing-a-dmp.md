@@ -10,7 +10,7 @@ excerpt: Use this guide to get started with writing your first data management p
 
 ## What is a Data Management Plan (DMP)? 
 
-A data management plan (DMP) will help you think about how to manage your data for a research project, an entire lab, a department, an individual, or an entire organization. DMPs can be as long or short as needed. However, for your DMP to be effective it should cover a few key topics that will require you manage your data for the life of your project and beyond. 
+A data management plan (DMP) will help you think about how to manage your data for a research project, an entire lab, a department, an individual, or an entire organization. DMPs can be as long or as short as needed. However, for your DMP to be effective it should cover a few key topics that will help you manage your data for the life of your project and beyond. 
 
 If you have any questions, be sure to [email us](mailto:data@bu.edu).
 
