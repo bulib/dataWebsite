@@ -86,4 +86,4 @@ Many funding agencies require that you make your data publicly available for the
 
 ## Maintain Your DMP
 
-Once you have an interstitial version of your data management plan you will want to share it with your team, laboratory, or other appropriate people. Your DMP is only useful if your colleagues understand it and can follow it. Finally, you should periodically review your DMP to ensure you're following it and that it meets the needs of your research. As projects evolve it is important to keep the DMP current and useful. Data management plans are living documents! 
+Once you have an interstitial <<suggestion: correct word?>> version of your data management plan you will want to share it with your team, laboratory, or others. Your DMP is only useful if your colleagues understand it and can follow it. Finally, you should periodically review your DMP to ensure you're following it and that it meets the needs of your research. As your project evolve sit is important to keep the DMP current and useful. Data management plans are living documents! 
