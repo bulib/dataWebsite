@@ -52,8 +52,6 @@ Basic structure:<br>
 
 Example 1:
 
-Example 1:
-
 > United States Census Bureau. <i>Statistics for owners of respondent firms by owner's age by gender, ethnicity, race, and veteran status for the U.S.: 2012</i>. American FactFinder version. Distributed by The United States Census Bureau, 2016. ht<i></i>tp://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table
 
 Example 2:
@@ -66,8 +64,6 @@ Add basic intro here. [Chicago Style, 16th Edition: Author-Date Style](http://ww
 
 Basic structure:<br>
 **Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository. URL or DOI**
-
-Example 1:
 
 Example 1:
 
@@ -84,8 +80,6 @@ Add intro here. [MLA Style (7th Edition)](https://owl.english.purdue.edu/owl/res
 
 Basic structure:<br>
 **Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Hosting Organization or Repository, Year of Publication. Format of Source. Date of Access. URL or DOI**
-
-Example 1:
 
 Example 1:
 
