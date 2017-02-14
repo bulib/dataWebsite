@@ -130,7 +130,6 @@ footer,
  *
  * * * * * * * * * * * * * */
 
-
 .intro-text > h1 {
 	font-size: 60px; 
 	text-align: left;
@@ -164,7 +163,8 @@ footer,
 }
 
 .service > div,
-.dmptool > div {
+.dmptool > div,
+.partner > div{
     border: 2px solid $box-edge;
     min-height: 200px;
     padding: 12px 20px;
@@ -174,6 +174,11 @@ footer,
 
 .dmptool > div > p {
     padding-top: 15px;
+    margin-bottom: 25px; 
+}
+
+.dmptool > div {
+    padding-bottom: 25px;
 } 
 
 .calendar-box:hover,
@@ -217,8 +222,6 @@ footer,
 .citation {
     font-size: 10px;
     line-height: 1;
-    position: relative;
-    bottom: -200px;    
     margin: 0 15px;
 }
 
@@ -401,6 +404,34 @@ a.news-title  {
 	min-height: 600px;
 	position: relative;
 }
+
+#partners {
+    background-color: #E6E6E6;
+    margin-top: 50px;
+    padding: 50px 0;
+    border-top: 1px solid #B7B6B5;
+    border-bottom: 1px solid #B7B6B5; 
+}
+
+#partners h2 {
+    padding-left: 15px;
+    margin-bottom: 50px;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.partner > div {
+    background-color: #F8F8F8;
+    padding-bottom: 25px; 
+}
+
+.partner h3 {
+    font-weight: 800;
+} 
+
+.partner p {
+    margin-bottom: 25px;
+} 
 
 .intro-background-image{
   content: "";
@@ -852,7 +883,6 @@ p.author {
 footer {
     background-color: $footer-color;
     min-height: 155px;
-    margin-top: 200px; 
 }
 
 .footer-bu-text {
