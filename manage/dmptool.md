@@ -29,4 +29,6 @@ The most notable features of the DMPTool include:
 ## Finding Data Management Plans
 Under the Public DMPs section, you will find dozens of data management plans available for browsing.  Use the search box to search for DMPs by keyword.
 
-## Getting Help 
+
+## Getting Help
+On each page of the DMPTool site, you will find links leading back to this site and to our email.  Please contact us whenever you need assistance with the DMPTool or any other aspect of data management: data@bu.edu
