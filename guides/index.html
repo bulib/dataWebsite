@@ -1,0 +1,29 @@
+---
+layout: default
+title: Guides
+permalink: /guides/
+---
+
+<div class="section-introduction">
+ 	<h1>Guides</h1> 
+ 	<p>Here you'll find all of our guides</p> 
+</div> 
+
+<div class="container">
+	<div class="row no-margin">
+
+	{% for page in site.pages %}
+	 	{% if page.category contains "guide" %}
+	 	<div class="col-md-6 section-index-item">
+	 		<div class="section-index-title {{ page.css }}">
+	 		  <a href="{{ site.baseurl }}{{ page.url }}">
+			    <h3>{{ page.title }}</h3>
+			  </a>
+	 		</div> 
+	 		 <p>{{ page.excerpt }}<p>
+	 	</div>
+ 		{% endif %} 
+	{% endfor %} 
+
+	</div> 	
+</div> 

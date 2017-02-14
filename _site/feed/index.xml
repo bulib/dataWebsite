@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boston University Data Services</title>
+    <description>Data Services at Boston University</description>
+    <link>http://www.bu.edu/data</link>
+    <atom:link href="http://www.bu.edu/data/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Office of Research - Understanding the Rules of Life</title>
+        <description>
+</description>
+        <pubDate>Tue, 25 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/2017/04/25/Understanding-the-rules-of-life.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/2017/04/25/Understanding-the-rules-of-life.html</guid>
+      </item>
+    
+      <item>
+        <title>Office of Research - Targets, Tools, and Drugs</title>
+        <description>
+</description>
+        <pubDate>Tue, 04 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/2017/04/04/Targets-Tools-and-Drugs.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/2017/04/04/Targets-Tools-and-Drugs.html</guid>
+      </item>
+    
+      <item>
+        <title>Office of Research - Incarceration and Its Impacts</title>
+        <description>
+</description>
+        <pubDate>Wed, 15 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/2017/03/15/Incarceration-and-its-impacts.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/2017/03/15/Incarceration-and-its-impacts.html</guid>
+      </item>
+    
+      <item>
+        <title>Office of Research - Materials Science</title>
+        <description>
+</description>
+        <pubDate>Tue, 28 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/2017/02/28/Materials-Science.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/2017/02/28/Materials-Science.html</guid>
+      </item>
+    
+      <item>
+        <title>How Registered Reports and Preregistration Benefit Early Career Researchers</title>
+        <description>
+</description>
+        <pubDate>Tue, 28 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/workshops/2017/02/28/How-Registed-Reposts-and-Preregistration-Benefit-Early-Career-Researchers.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/02/28/How-Registed-Reposts-and-Preregistration-Benefit-Early-Career-Researchers.html</guid>
+      </item>
+    
+      <item>
+        <title>Office of Research - From Earth Orbit to Distant Galaxies</title>
+        <description>
+</description>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/2017/02/13/From-Earth-Orbit-To-Distant-Galaxies.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/2017/02/13/From-Earth-Orbit-To-Distant-Galaxies.html</guid>
+      </item>
+    
+      <item>
+        <title>Reproducibility Project - Cancer Biology Webinar</title>
+        <description>
+</description>
+        <pubDate>Wed, 08 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/workshops/2017/02/08/Reproducibility-Project-Webinar.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/02/08/Reproducibility-Project-Webinar.html</guid>
+      </item>
+    
+      <item>
+        <title>IS&amp;T - Introduction to C Programming, Part Two</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/workshops/2017/02/01/Introduction-to-C-Programming-part-2.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/02/01/Introduction-to-C-Programming-part-2.html</guid>
+      </item>
+    
+      <item>
+        <title>Get started with the Open Science Framework</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/workshops/2017/02/01/Get-Started-With-the-OSF.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/02/01/Get-Started-With-the-OSF.html</guid>
+      </item>
+    
+      <item>
+        <title>IS&amp;T -  Intermediate Usage of the SCC</title>
+        <description>
+</description>
+        <pubDate>Tue, 31 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/workshops/2017/01/31/Intermediate-Usage-of-the-SCC.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/01/31/Intermediate-Usage-of-the-SCC.html</guid>
+      </item>
+    
+  </channel>
+</rss>

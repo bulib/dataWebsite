@@ -1,0 +1,41 @@
+[
+  {
+    "index":0,
+    "edge" : {
+    	"source": 0,
+    	"target": 1,
+    	"source": 0,
+    	"target": 2
+    }
+  }, {
+    "index":1,
+    "edge" : {
+    	"source": 1,
+    	"target": 2
+    }
+  },{
+    "index":2,
+    "edge" : {
+    	"source": 2,
+    	"target": 3
+    }
+  },{
+    "index":3,
+    "edge" : {
+    	"source": 3,
+    	"target": 4
+    }
+  },{
+    "index":4,
+    "edge" : {
+    	"source": 4,
+    	"target": 5
+    }
+  },{
+    "index":5,
+    "edge" : {
+    	"source": 5,
+    	"target": 1
+    }
+  }
+ ]

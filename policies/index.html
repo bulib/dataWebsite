@@ -1,0 +1,27 @@
+---
+layout: default
+title: Policies
+permalink: /policies/
+---
+<div class="section-introduction">
+ 	<p>Quick 5 line intro about policies</p> 
+</div> 
+
+<div class="container">
+	<div class="row">
+
+	{% for page in site.pages %}
+		{% if page.category == "policy" %}
+	 	
+	 	<div class="col-md-5 section-index-item">
+	 		 <a href="{{ site.baseurl }}{{ page.url }}">
+	 		 	<h3>{{ page.title }}</h3>
+	 		 </a>
+	 		 <p>{{ page.excerpt }}<p>
+	 	</div>
+	 
+		{% endif %}
+	{% endfor %} 
+
+	</div> 	
+</div> 
