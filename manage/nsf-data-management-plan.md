@@ -55,7 +55,7 @@ What's metadata? Metadata is the information about your data that another resear
 If there are no common standards for your field, you should document this and provide a potential solution. While metadata can be complex and take time to create, much of it can be automated to save time if it is planned before the data is gathered. The best quote we've found about metadata comes from [cea+](https://www.flickr.com/people/centralasian/?rb=1) and [the Mozilla Science Lab](https://docs.google.com/presentation/d/1kZd-ZD5lru5a7jIbyi9q8cBYCCAKRnIBSRvixYFtoF0/edit?pref=2&pli=1#slide=id.gef38dfd1f_0_100): 
 
 ```Metadata is a love note to the future. ```[[1]](https://www.flickr.com/photos/33255628@N00/8071729256/)
-y
+
 For multi-year projects it is important to remember that "note to the future" is likely to be to your future self. While creating metadata takes time, the efforts are almost always rewarded with clear project documentation and also enhances the reproducibility of your research. 
 
 ### Access and Sharing
