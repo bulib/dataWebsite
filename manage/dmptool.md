@@ -13,11 +13,11 @@ The DMPTool is a guide to creating comprehensive data management plans (DMPs) th
 
 ## Features
 The most notable features of the DMPTool include:
-*A step-by-step walkthrough for the DMP writing process
-*Templates for DMP-writing based on the the requirements of funding agencies
-*A library of published data management plans from diverse fields of study
-*Handy links to funding agencies' data management policies
-*Email notifications alerting you to activity related to your DMPs
+* A step-by-step walkthrough for the DMP writing process
+* Templates for DMP-writing based on the the requirements of funding agencies
+* A library of published data management plans from diverse fields of study
+* Handy links to funding agencies' data management policies
+* Email notifications alerting you to activity related to your DMPs
 
 ## Getting Started
 1. Go to https://dmptool.org and click the Log In link.
