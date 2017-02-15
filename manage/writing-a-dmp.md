@@ -23,7 +23,7 @@ Managing your data allows you to:
 + Facilitate the reuse and sharing of your data 
 + Ensure your data is backed up
 
-Data management will help prevent future headaches, like mistakenly deleting valuable research results, misplacing files, or having to redo the analysis of your data. When done properly, data management will keep your work organized and intelligible to others as well as your future self. This will make your work reproducible and increase your data's value after you have completed your project. 
+Data management will help prevent future headaches, like mistakenly deleting valuable research results, misplacing files, or having to redo the analysis of your data. When done properly, data management will keep your work organized and intelligible to others as well as to your future self. This will make your work reproducible and increase your data's value after you have completed your project. 
 
 ## Components of a DMP
 
@@ -52,7 +52,7 @@ You should also explain your data set in terms of the who, what, when, where, wh
 
 When managing data, it is crucial to think about storage, backup, and security. These are key components to your data management plan and, because they can require institutional resources, they are best planned ahead of time. If you're working with sensitive data or data that involves human research subjects, a data security plan is critical.
 
-Planning who will have access to what is an important step in managing your data. When you implement a file permissions structure for your research team, you will not only save time but also prevent inappropriate access to sensitive data and the mishandling of personally identifiable information. Additionally, should your personal laptop or desktop become damaged, your backup plan for your data could potentially save your research project.
+Planning who will have access to what is an important step in managing your data. When you implement a file permissions plan for your research team, you will not only save time but also prevent inappropriate access to sensitive data and the mishandling of personally identifiable information. Additionally, should your personal laptop or desktop become damaged, your backup plan for your data could potentially save your research project.
 
 + Where will your data be stored? 
 + What is your backup plan for the data?
@@ -86,4 +86,4 @@ Many funding agencies require that you make your data publicly available for the
 
 ## Maintain Your DMP
 
-Once you have an final version of your data management plan you will want to share it with your team, laboratory, or others. Your DMP is only useful if your colleagues understand it and can follow it. Finally, you should periodically review your DMP to ensure you're following it and that it meets the needs of your research. As your project evolve sit is important to keep the DMP current and useful. Data management plans are living documents! 
+Once you have an final version of your data management plan you will want to share it with your team, laboratory, or others. Your DMP is only useful if your colleagues can understand it. Finally, you should periodically review your DMP to ensure you're continuing to meet the needs of your research. As your project evolves, remember to keep the DMP current and useful. Data management plans are living documents! 
