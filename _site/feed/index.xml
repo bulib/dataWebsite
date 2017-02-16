@@ -7,6 +7,24 @@
     <atom:link href="http://www.bu.edu/data/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>The Principal Investigator Role&amp;#58; What Every New and Seasoned PI Needs To Know</title>
+        <description>
+</description>
+        <pubDate>Tue, 06 Jun 2017 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/workshops/2017/06/06/The-principle-investigator-role.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/06/06/The-principle-investigator-role.html</guid>
+      </item>
+    
+      <item>
+        <title>Fundamentals in the Conduct of Clinical Research</title>
+        <description>
+</description>
+        <pubDate>Fri, 12 May 2017 00:00:00 -0400</pubDate>
+        <link>http://www.bu.edu/data/workshops/2017/05/12/Fundamentals-in-the-conduct-of-clinical-research.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/05/12/Fundamentals-in-the-conduct-of-clinical-research.html</guid>
+      </item>
+    
+      <item>
         <title>Office of Research - Understanding the Rules of Life</title>
         <description>
 </description>
@@ -52,6 +70,15 @@
       </item>
     
       <item>
+        <title>Fundamentals in the Conduct of Clinical Research</title>
+        <description>
+</description>
+        <pubDate>Thu, 16 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://www.bu.edu/data/workshops/2017/02/16/Fundamentals-in-the-conduct-of-clinical-research.html</link>
+        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/02/16/Fundamentals-in-the-conduct-of-clinical-research.html</guid>
+      </item>
+    
+      <item>
         <title>Office of Research - From Earth Orbit to Distant Galaxies</title>
         <description>
 </description>
@@ -67,33 +94,6 @@
         <pubDate>Wed, 08 Feb 2017 00:00:00 -0500</pubDate>
         <link>http://www.bu.edu/data/workshops/2017/02/08/Reproducibility-Project-Webinar.html</link>
         <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/02/08/Reproducibility-Project-Webinar.html</guid>
-      </item>
-    
-      <item>
-        <title>IS&amp;T - Introduction to C Programming, Part Two</title>
-        <description>
-</description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://www.bu.edu/data/workshops/2017/02/01/Introduction-to-C-Programming-part-2.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/02/01/Introduction-to-C-Programming-part-2.html</guid>
-      </item>
-    
-      <item>
-        <title>Get started with the Open Science Framework</title>
-        <description>
-</description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://www.bu.edu/data/workshops/2017/02/01/Get-Started-With-the-OSF.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/02/01/Get-Started-With-the-OSF.html</guid>
-      </item>
-    
-      <item>
-        <title>IS&amp;T -  Intermediate Usage of the SCC</title>
-        <description>
-</description>
-        <pubDate>Tue, 31 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://www.bu.edu/data/workshops/2017/01/31/Intermediate-Usage-of-the-SCC.html</link>
-        <guid isPermaLink="true">http://www.bu.edu/data/workshops/2017/01/31/Intermediate-Usage-of-the-SCC.html</guid>
       </item>
     
   </channel>
