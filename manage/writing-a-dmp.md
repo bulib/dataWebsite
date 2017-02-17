@@ -87,3 +87,5 @@ Many funding agencies require that you make your data publicly available for the
 ## Maintain Your DMP
 
 Once you have the final version of your data management plan you will want to share it with your team, laboratory, or others. However, your DMP is only useful if your colleagues can understand it. As your project evolves, remember to keep the DMP current and useful. Finally, you should periodically review your DMP to ensure you're continuing to meet the needs of your research. Data management plans are living documents! 
+
+<<suggestion: Once you mention data management plan on first reference, do you want to stick with just the acronym DMP or to still be able to write data management plan? If you want to only use data management plan on first reference, then need to change all instances of data management plan to DMP after first one mentioned!>>
