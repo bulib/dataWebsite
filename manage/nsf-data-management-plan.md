@@ -12,22 +12,17 @@ excerpt: Learn the basics of writing a data management plan for a NSF grant appl
 
 Since 2011, the National Science Foundation (NSF) has required data management plans (DMPs) for incoming grant applications. This guide will help you understand the NSF's data management requirements and help you write a useful, compliant plan. At first glance, the inclusion of data management plans may seem like another box to check off in the grant application process; however, these plans are becoming an increasingly important part of NSF grant applications and are becoming more thoroughly reviewed. To keep your application competitive you'll want a DMP that is as good as your research. 
 
+> **Be mindful that NSF directorates and divisions may have more specific requirements!** 
+
 **Quick Links to NSF Resources** 
 
-<<suggestion: rearrange the block quote above to a more appropriate space, maybe after links because after seeing the headline 'Quick Links to NSF Resources', I would expect to see links after rather than a block quote that doesn't relate to the quick links>>
-
-The following are links to NSF's general guidance: <<suggestion: get rid of this line, redundant>>
+The following are links to NSF's general guidance:
 
 + <a href="http://www.nsf.gov/bfa/dias/policy/dmp.jsp" title="NSF's Dissemination and Sharing of Research Results Guidance">NSF's Dissemination and Sharing of Research Results</a> 
 + <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4" title="NSF's Award and Administration Guide (AAG) Chapter VI.D.4">NSF's Award and Administration Guide (AAG) Chapter VI.D.4</a> 
 +  <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_2.jsp#dmp" title="NSF's Grant Proposal Guide, Chapter II.C.2.J">NSF's Grant Proposal Guide, Chapter II.C.2.J</a> 
 
-<<suggestion: possibly get rid of 'NSF' before each link since that's already acknowledged>>
-
-> **Be mindful that NSF directorates and divisions may have more specific requirements!** 
-
-
-[Email us](mailto:data@bu.edu) if you need assistance in writing a data management plan <<suggestion: maybe change to DMP?>> for your NSF grant.
+[Email us](mailto:data@bu.edu) if you need assistance in writing a data management plan for your NSF grant.
 
 ## Templates and Examples 
 
@@ -53,7 +48,7 @@ The data generated from this project will be of two types. Each REU student will
 
 After you've figured out the data types, the next step is to think about the metadata standards you'll be using. This section allows you to explain the specific file formats you'll be using and why you're using them. 
 
-What's metadata? Metadata is the information about your data that another researcher or future collaborator will need to know before using your data. This can include, but is not limited to, who created the data, when it was created, and a persistent identifier - like a DOI (digital object identifier) or a URL (universal resource locator). Other likely metadata includes your naming convention documentation, variables, when the data was created or collected <<suggestion: repetitive, get rid of>>, and data analysis documentation. <<suggestion: possibly combine this sentence with the sentence above since you are giving examples of what should be included in metadata>> The policy states: 
+What's metadata? Metadata is the information about your data that another researcher or future collaborator will need to know before using your data. This can include, but is not limited to, who created the data, when it was created, and a persistent identifier - like a DOI (digital object identifier) or a URL (universal resource locator). Other likely metadata includes your naming convention documentation, variables, date of creation or collection, and data analysis documentation. The policy states: 
 
 > the standards to be used for data and metadata format and content (where existing standards are absent or deemed inadequate, this should be documented along with any proposed solutions or remedies).
 
@@ -69,15 +64,13 @@ One of the goals of a data management plan is to increase researchers' ability t
 
 > policies for access and sharing including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements
 
-This section of your data management plan details the policies and ground rules you'll use for sharing your data. Will your data be put in a data repository? Will there be an initial embargo on the access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? <<suggestion: put questions into bullet points>>
+This section of your data management plan details the policies and ground rules you'll use for sharing your data. Will your data be put in a data repository? Will there be an initial embargo on the access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? 
 
 As you write this section of your data management plan, you'll also likely want to think about how others can reuse and redistribute your data. 
 
 ### Reuse and Redistribution
 
-Now we're at the point where you'll want to document how others can access your data and any restrictions on the usage of your data. If you are placing restrictions, this is the place to describe why and how others can comply with them.
-
-Your NSF data management plan should include: 
+Now we're at the point where you'll want to document how others can access your data and any restrictions on the usage of your data. If you are placing restrictions, this is the place to describe why and how others can comply with them. Your NSF data management plan should include: 
 
 > policies and provisions for re-use, re-distribution, and the production of derivatives. 
 
@@ -94,5 +87,3 @@ The best solution to archive and preserve your data is to partner with an existi
 ## Maintain Your Plan
 
 Hopefully your NSF grant application will be accepted and that you'll soon be on your way to starting your research project! As you begin your work you'll want to periodically revisit your data management plan to ensure that it still fits the needs of your work. Maintaining your DMP will help you follow through on your commitments to the NSF and help showcase your ability to properly managing your data in future grants. 
-
-<<suggestion: Once you mention data management plan on first reference, do you want to stick with just the acronym DMP or to still be able to write data management plan? If you want to only use data management plan on first reference, then need to change all instances of data management plan to DMP after first one mentioned!>>
