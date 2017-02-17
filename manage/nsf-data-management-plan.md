@@ -81,7 +81,7 @@ Your NSF data management plan should include:
 
 > policies and provisions for re-use, re-distribution, and the production of derivatives. 
 
-Or more simply you should document how others can use and share your data, as well as the new data sets others might be produced from your work. The NSF acknowledges that not all data can be made open and freely available. If you do need to limit the use of your data you'll need to clearly document and justify them. 
+Or more simply you should document how others can use and share your data, as well as any new data sets that might be produced from your work. The NSF acknowledges that not all data can be made open and freely available. If you do need to limit the use of your data you'll need to clearly document and justify them. 
 
 ### Archiving and Preserving 
 
