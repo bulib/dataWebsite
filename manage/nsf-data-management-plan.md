@@ -10,17 +10,20 @@ excerpt: Learn the basics of writing a data management plan for a NSF grant appl
 
 ## Introduction 
 
-Since 2011 the National Science Foundation (NSF) has required data management plans (DMPs) for incoming grant applications. This guide will help you understand the NSF's data management requirements and help you write a useful, compliant plan. At first glance, the inclusion of data management plans may seem like another box to check off in the grant application process; however, these plans are becoming an increasingly important part of NSF grant applications and becoming more thoroughly reviewed. To keep your application competitive you'll want a DMP that is as good as your research. 
+Since 2011, the National Science Foundation (NSF) has required data management plans (DMPs) for incoming grant applications. This guide will help you understand the NSF's data management requirements and help you write a useful, compliant plan. At first glance, the inclusion of data management plans may seem like another box to check off in the grant application process; however, these plans are becoming an increasingly important part of NSF grant applications and are becoming more thoroughly reviewed. To keep your application competitive you'll want a DMP that is as good as your research. 
 
 **Quick Links to NSF Resources** 
 
-> **Be mindful that NSF directorates and divisions may have more specific requirements!** 
+<<suggestion: rearrange the block quote above to a more appropriate space, maybe after links because after seeing the headline 'Quick Links to NSF Resources', I would expect to see links after rather than a block quote that doesn't relate to the quick links>>
 
-The following are links to NSF's general guidance:
+The following are links to NSF's general guidance: <<suggestion: get rid of this line, redundant>>
 
 + <a href="http://www.nsf.gov/bfa/dias/policy/dmp.jsp" title="NSF's Dissemination and Sharing of Research Results Guidance">NSF's Dissemination and Sharing of Research Results</a> 
 + <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4" title="NSF's Award and Administration Guide (AAG) Chapter VI.D.4">NSF's Award and Administration Guide (AAG) Chapter VI.D.4</a> 
 +  <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_2.jsp#dmp" title="NSF's Grant Proposal Guide, Chapter II.C.2.J">NSF's Grant Proposal Guide, Chapter II.C.2.J</a> 
+
+> **Be mindful that NSF directorates and divisions may have more specific requirements!** 
+
 
 [Email us](mailto:data@bu.edu) if you need assistance in writing a data management plan for your NSF grant.
 
