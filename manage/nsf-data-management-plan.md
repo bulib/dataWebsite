@@ -35,15 +35,15 @@ For reference, check out the DMPTool's [list of templates](https://dmptool.org/g
 
 ## Requirements 
 
-You have 2 pages - and only 2 pages - to write your data management plan. Let's review the sections your data management plan might require to adhere to NSF's policy. 
+You have 2 pages – and only 2 pages – to write your data management plan. Let's review the sections your data management plan might require to adhere to NSF's policy. 
 
 ### Types 
 
-The best way to start your data management plan is to think about the types of data you'll be collecting. When reviewing your data types, it is okay to be detailed and specific so everyone is on the same page. If you know you're using a piece of equipment or data collection methodology be sure to mention that. The policy states you should include: 
+The best way to start your data management plan is to think about the types of data you'll be collecting. When reviewing your data types, be detailed and specific so everyone is on the same page. For instance, if you know you're using a piece of equipment or data collection methodology be sure to mention that. The policy states you should include: 
 
 > the types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
 
-The types of data researchers work with are as diverse as the researchers themselves and their particular interests. Common data types include images, numerical data, experimental data, observational data, and text. A sample from [Kimberly Anderson's DMP on "REU Site: A Multidisciplinary Research Experience in Engineered Bioactive Interfaces and Devices"](https://dmptool.org/plans/11390.pdf) starts: 
+The types of data researchers work with are as diverse as the researchers themselves and their particular interests. Common data types range from numerical data to experimental data to images. A sample from [Kimberly Anderson's DMP on "REU Site: A Multidisciplinary Research Experience in Engineered Bioactive Interfaces and Devices"](https://dmptool.org/plans/11390.pdf) starts: 
 
 ```
 The data generated from this project will be of two types. Each REU student will generate experimental data specific to his/her research project related to Engineered Bioactive Interfaces and Devices. In addition, both quantitative and qualitative data will be generated that assesses the outcomes of the REU program. 
