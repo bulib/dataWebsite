@@ -10,23 +10,23 @@ excerpt: Find out what metadata are and how to use them
 ---
 ## What are Metadata? ##
 
-Metadata are documentation for your data set, expressed using a formal syntax.  They are used to record all information needed for your data's future use, and attached to the data set itself, usually as separate files. Here is a list of what metadata might contain:
+Metadata are documentation for your data set that is expressed with a formal syntax. They are used to record all information needed for your data's future use and attached to the data set itself, usually as separate files. Here is a list of what metadata might contain:
 
 + a brief or detailed description of the data itself;
 + names, labels and descriptions for variables, records and their values;
 + explanation of codes and classification schemes used; 
 + codes of, and reasons for, missing values; 
-+ derived data created after collection, with code, algorithm or command file used to create them; 
++ derived data created after collection, with code, algorithm or command file used to create them; <<suggestion: kind of hard to understand? Might also just not know what dervided data is!, or maybe just say dervided data with code, algorithm or command file used to create them>>
 + weighting and grossing variables created and how they should be used; 
-+ data listing with descriptions for cases, individuals or items studied, for example for logging qualitative interviews; 
-+ descriptions of applications (commercial or open-source) were used to run analyses, and the versions of those applications; 
++ data listing with descriptions for cases, individuals or items studied, for example for logging qualitative interviews <<suggestion: a bit confusing, do you mean to say logging qualitative interviews is an example? If so, maybe do (example: logging qualitative interviews); 
++ descriptions of applications (commercial or open-source) used to run analyses, and the versions of those applications; 
 + descriptions of file formats used to store the data; 
 + documentation of experimental protocols; 
 + documentation of the code written for statistical and other analyses. 
 
 
 ## What Kind of Metadata Should I Use? ##
-That depends on your field.  Here are some standards and controlled vocabularies (standard terminology for specific fields). If you don't see your field represented, let's talk -- we may be able to find a standard for you, or help in some other way.
+That depends on your field.  Here are some standards and controlled vocabularies (standard terminology for specific fields). If you don't see your field represented, let us know -- we may be able to find a standard for you, or help in some other way.
 
 + <a href="http://www.virtualastronomy.org/AVM_DRAFTVersion1.1_rlh27.pdf">Astronomy Visualization Metadata Standard</a> 
 + <a href="http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata/v2_0698.pdf">Content Standard for Digital Geospatial Metadata</a> 
@@ -47,5 +47,8 @@ This really depends on your project, but here are some ideas to get you started.
 + structure and organization of data files; 
 + data sources used; 
 + data validation, quality assurance procedures carried out; 
-+ transformations of data from the raw data through analysis; 
-+ information on confidentiality, access &amp; use conditions. 
++ <<suggestion: 'analysis of the transformation of raw data to its current state?'>>transformations of data from the raw data through analysis; 
++ information on confidentiality, access and use conditions. 
+
+
+<<suggestion: notice that there are ; at the end of each bullet point. Might be better just to take them out or to change to periods>>
