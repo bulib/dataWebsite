@@ -22,10 +22,12 @@ The following are links to NSF's general guidance: <<suggestion: get rid of this
 + <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4" title="NSF's Award and Administration Guide (AAG) Chapter VI.D.4">NSF's Award and Administration Guide (AAG) Chapter VI.D.4</a> 
 +  <a href="http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_2.jsp#dmp" title="NSF's Grant Proposal Guide, Chapter II.C.2.J">NSF's Grant Proposal Guide, Chapter II.C.2.J</a> 
 
+<<suggestion: possibly get rid of 'NSF' before each link since that's already acknowledged>>
+
 > **Be mindful that NSF directorates and divisions may have more specific requirements!** 
 
 
-[Email us](mailto:data@bu.edu) if you need assistance in writing a data management plan for your NSF grant.
+[Email us](mailto:data@bu.edu) if you need assistance in writing a data management plan <<suggestion: maybe change to DMP?>> for your NSF grant.
 
 ## Templates and Examples 
 
