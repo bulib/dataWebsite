@@ -10,16 +10,16 @@ excerpt: Find out what metadata are and how to use them
 ---
 ## What are Metadata? ##
 
-Metadata are documentation for your data set, expressed using a formal syntax.  They are used to record all information needed for your data's future use, and attached to the data set itself, usually as separate files. Here is a list of what metadata might contain:
+Metadata are documentation for your data set that is expressed with a formal syntax. They are used to record all information needed for your data's future use and attached to the data set itself, usually as separate files. Here is a list of what metadata might contain:
 
 + a brief or detailed description of the data itself;
 + names, labels and descriptions for variables, records and their values;
 + explanation of codes and classification schemes used; 
 + codes of, and reasons for, missing values; 
-+ derived data created after collection, with code, algorithm or command file used to create them; 
++ derived data created after collection, with code, algorithm or command file used to create them; <<suggestion: kind of hard to understand? Might also just not know what dervided data is!, or maybe just say dervided data with code, algorithm or command file used to create them>>
 + weighting and grossing variables created and how they should be used; 
-+ data listing with descriptions for cases, individuals or items studied, for example for logging qualitative interviews; 
-+ descriptions of applications (commercial or open-source) were used to run analyses, and the versions of those applications; 
++ data listing with descriptions for cases, individuals or items studied, for example for logging qualitative interviews <<suggestion: a bit confusing, do you mean to say logging qualitative interviews is an example? If so, maybe do (example: logging qualitative interviews); 
++ descriptions of applications (commercial or open-source) used to run analyses, and the versions of those applications; 
 + descriptions of file formats used to store the data; 
 + documentation of experimental protocols; 
 + documentation of the code written for statistical and other analyses. 
