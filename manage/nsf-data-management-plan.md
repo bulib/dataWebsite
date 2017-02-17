@@ -65,13 +65,13 @@ For multi-year projects it is important to remember that "note to the future" is
 
 ### Access and Sharing
 
-One of the goals of a data management plan is to increase researchers' ability to not only share their data but also access other's data. Ideally, this will help verify research results and help researchers build on the work of others. However, the NSF understands that not all data can be made available such as data on human research subjects, patented data, and data involving nationally sensitive projects. However, much of the research that NSF sponsors creates data that can be shared with the public. NSF suggests you include: 
+One of the goals of a data management plan is to increase researchers' ability to not only share their data but also access other's data. Ideally, this will help verify research results and help researchers build on the work of others. However, the NSF understands that not all data can be made available such as data on human research subjects, patented data, and data involving nationally sensitive projects. However, much of the research that NSF sponsors can be shared with the public. NSF suggests you include: 
 
 > policies for access and sharing including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements
 
-This section of your data management plan details the policies and ground rules you'll use for sharing your data. Will your data be put in a data repository? Will there be an initial embargo on the access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? 
+This section of your data management plan details the policies and ground rules you'll use for sharing your data. Will your data be put in a data repository? Will there be an initial embargo on the access to your data? If your data won't be publicly available, are there ways you can make it available to others? If so, how will that be done? <<suggestion: put questions into bullet points>>
 
-As you write the access and sharing part of your data management plan, you'll likely alsowant to take time to think about how others can reuse and redistribute your data. 
+As you write this section of your data management plan, you'll also likely want to think about how others can reuse and redistribute your data. 
 
 ### Reuse and Redistribution
 
