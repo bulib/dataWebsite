@@ -85,11 +85,11 @@ Or more simply you should document how others can use and share your data, as we
 
 ### Archiving and Preserving 
 
-The last part of the data management plan is to describe the long-term usage for your data, which can be tricky for researchers who are used to thinking about their data within the life of a particular grant. In addition, you will unlikely to have more funds for your data 5 years after your grant ends. The policy asks that you describe the 
+The last part of the data management plan is to describe the long-term usage for your data, which can be tricky for researchers who are used to thinking about their data within the life of a particular grant. In addition, you will unlikely have more funds for your data 5 years after your grant ends. The policy asks that you describe the 
 
 > plans for archiving data, samples, and other research products, and for preservation of access to them.
 
-The best solution to archive and preserve your data is to partner with an existing service or institution. There are many data repositories so [selecting the right one]({{site.baseurl}}/share/selecting-a-data-repository) is important. Many fields have data repositories that are well known to researchers in that discipline, however, not everyone is so lucky.
+The best solution to archive and preserve your data is to partner with an existing service or institution. There are many data repositories so [selecting the right one]({{site.baseurl}}/share/selecting-a-data-repository) is important. Many fields have data repositories that are well known to researchers in that discipline; however, not everyone is so lucky.
 
 ## Maintain Your Plan
 
