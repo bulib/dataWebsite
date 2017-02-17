@@ -26,7 +26,7 @@ Metadata are documentation for your data set that is expressed with a formal syn
 
 
 ## What Kind of Metadata Should I Use? ##
-That depends on your field.  Here are some standards and controlled vocabularies (standard terminology for specific fields). If you don't see your field represented, let's talk -- we may be able to find a standard for you, or help in some other way.
+That depends on your field.  Here are some standards and controlled vocabularies (standard terminology for specific fields). If you don't see your field represented, let us know -- we may be able to find a standard for you, or help in some other way.
 
 + <a href="http://www.virtualastronomy.org/AVM_DRAFTVersion1.1_rlh27.pdf">Astronomy Visualization Metadata Standard</a> 
 + <a href="http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata/v2_0698.pdf">Content Standard for Digital Geospatial Metadata</a> 
@@ -47,5 +47,8 @@ This really depends on your project, but here are some ideas to get you started.
 + structure and organization of data files; 
 + data sources used; 
 + data validation, quality assurance procedures carried out; 
-+ transformations of data from the raw data through analysis; 
-+ information on confidentiality, access &amp; use conditions. 
++ <<suggestion: 'analysis of the transformation of raw data to its current state?'>>transformations of data from the raw data through analysis; 
++ information on confidentiality, access and use conditions. 
+
+
+<<suggestion: notice that there are ; at the end of each bullet point. Might be better just to take them out or to change to periods>>
