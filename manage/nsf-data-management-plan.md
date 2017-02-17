@@ -93,4 +93,4 @@ The best solution to archive and preserve your data is to partner with an existi
 
 ## Maintain Your Plan
 
-Hopefully your NSF grant application will be accepted and that you'll soon be on your way to starting your research project. As you begin your work you'll want to periodically revisit your data management plan to ensure that it still fits the needs of your work. Maintaining your DMP will help you follow through on your commitments to the NSF and help showcase your ability to properly managing your data in future grants. 
+Hopefully your NSF grant application will be accepted and that you'll soon be on your way to starting your research project! As you begin your work you'll want to periodically revisit your data management plan to ensure that it still fits the needs of your work. Maintaining your DMP will help you follow through on your commitments to the NSF and help showcase your ability to properly managing your data in future grants. 
