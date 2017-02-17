@@ -51,13 +51,13 @@ The data generated from this project will be of two types. Each REU student will
 
 ### Data and Metadata Standards 
 
-After you've figured out the data types, the next step is to think about the data and metadata standards you'll be using. This section allows you to detail the specific file formats you'll be using and why you're using them. 
+After you've figured out the data types, the next step is to think about the metadata standards you'll be using. This section allows you to explain the specific file formats you'll be using and why you're using them. 
 
-What's metadata? Metadata is the information about your data that another researcher or future collaborator will need to know before using your data. This can include, but is not limited to, who created the data, when it was created, and a persistent identifier - like a DOI (digital object identifier) or a URL (universal resource locator). Other likely metadata includes your naming convention documentation, variables, when the data was created or collected, and data analysis documentation. The policy states: 
+What's metadata? Metadata is the information about your data that another researcher or future collaborator will need to know before using your data. This can include, but is not limited to, who created the data, when it was created, and a persistent identifier - like a DOI (digital object identifier) or a URL (universal resource locator). Other likely metadata includes your naming convention documentation, variables, when the data was created or collected <<suggestion: repetitive, get rid of>>, and data analysis documentation. <<suggestion: possibly combine this sentence with the sentence above since you are giving examples of what should be included in metadata>> The policy states: 
 
-> The standards to be used for data and metadata format and content (where existing standards are absent or deemed inadequate, this should be documented along with any proposed solutions or remedies).
+> the standards to be used for data and metadata format and content (where existing standards are absent or deemed inadequate, this should be documented along with any proposed solutions or remedies).
 
-If there are no common standards for your field, you should document this and provide a possible solution. While metadata can be complex and time consuming to create, much of it can be automated if it is planned before the data is gathered. The best quote we've found about metadata comes from [cea+](https://www.flickr.com/people/centralasian/?rb=1) and [the Mozilla Science Lab](https://docs.google.com/presentation/d/1kZd-ZD5lru5a7jIbyi9q8cBYCCAKRnIBSRvixYFtoF0/edit?pref=2&pli=1#slide=id.gef38dfd1f_0_100): 
+If there are no common standards for your field, you should document this and provide a possible solution. While metadata can be complex and time consuming to create, much of it can be automated if it is planned before the data is gathered. A great quote that sums up metadata comes from [cea+](https://www.flickr.com/people/centralasian/?rb=1) and [the Mozilla Science Lab](https://docs.google.com/presentation/d/1kZd-ZD5lru5a7jIbyi9q8cBYCCAKRnIBSRvixYFtoF0/edit?pref=2&pli=1#slide=id.gef38dfd1f_0_100): 
 
 ```Metadata is a love note to the future. ```[[1]](https://www.flickr.com/photos/33255628@N00/8071729256/)
 
