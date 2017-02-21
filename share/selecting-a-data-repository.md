@@ -40,17 +40,17 @@ The usability of a data repository is also important in ensuring that others wil
 
 ### Features
 
-Some data repositories have really great features like integrations with Open Science Framework, GitHub, or other commercial storage solutions. While these feature may not be the keystones to providing long-term access to your data, they can help you share your data more frequently and effectively. Additionally, having an author dashboard or easy-to-understand licensing - like Creative Commons - can make your life a little easier. Lastly, you'll want to review the upload and storage limits. Some repositories offer limited free storage before a fee is charged. Be sure to look over each data repositories features and compare them with comparable services. 
+Some data repositories have really great features like integrations with Open Science Framework, GitHub, or other commercial storage solutions. While these feature may not be the keystones to providing long-term access to your data, they can help you share your data more frequently and effectively. Additionally, having an author dashboard <<suggestion: what is an author dashboard?>> or easy-to-understand licensing - like Creative Commons - can make your life a little easier. Lastly, you'll want to review the upload and storage limits. Some repositories offer limited free storage before a fee is charged. Be sure to look over each data repositories features and compare them with comparable services. 
 
 ### Formats 
 
-Most data repositories are able to handle most formats, however, that doesn't always guarantee that they'll be able to work with your data. Be sure to take a look at the repositories documentation to ensure they can store the data you've generated. Less importantly, but still worth considering, is learn if the repository can generate previews or provide other user interactions with your data. While these features are not essential from a preservation perspective, they do help users understand and access your data. 
+Most data repositories are able to handle most formats; however, that doesn't always guarantee that they'll be able to work with your data. Be sure to take a look at the repositories documentation to ensure they can store the data you've generated. In addition, see if the repository can generate previews or provide other user interactions with your data. While these features are not essential from a preservation perspective, they do help users understand and access your data. 
 
 ### Rights
 
-Know your rights! Take time to read the terms of use and to understand what permissions you're giving the data repository. Additionally, does your data repository use common licensing agreements (again like Creative Commons) that will help others understand what they can and cannot do with your data?
+Know your rights! Take time to read the terms of use and to understand what permissions you're giving the data repository. For instance, does your data repository use common licensing agreements (again like Creative Commons) that will help others understand what they can and cannot do with your data?
 
-Is a best practice for data repository to clearly state the terms of use and have a FAQ (frequently asked questions) section to help users understand the service being provided. If you're unsure about your rights as a user, contact the repository to learn more. 
+It's best practice for data repository to clearly state the terms of use and have a FAQ (frequently asked questions) section to help users understand the service being provided. If you're unsure about your rights as a user, contact the repository to learn more. 
 
 ### Additional Resources
 
