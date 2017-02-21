@@ -26,17 +26,17 @@ Is the repository a reputable source? Check to see if it is endorsed by a fundin
 
 ### Sustainability 
 
-Having you data deposited in a repository that is unsustainable kind of defeats the point of depositing it. This is why it is important to make sure your repository has the backing of an institution, community, or funder. You'll want to ensure the depository you select will be providing access to your data for well over 5 years. Many repositories will also have preservation plans and contingency plans on the outside chance funding is ceased. Don't be afraid to ask about these plans. 
+Having you data deposited in a repository that is unsustainable kind of defeats the purpose of depositing it. This is why it is important to make sure your repository has the backing of an institution, community, or funder. You'll want to ensure the depository you select will be providing access to your data for well over 5 years. Many repositories will also have preservation plans and contingency plans on the outside chance funding is ceased. Don't be afraid to ask about these plans. 
 
 ### Visibility
 
-One of the primary reasons to deposit your data in a repository is to obtain a unique identifier that others can use you to cite your data. This service will increase the visibility of your data within the scholarly literature and allow researchers to find it later on. Ensure your data repository offers a DOI (digital object identifier), handle, or another unique indentifer.
+One of the primary reasons to deposit your data in a repository is to obtain a unique identifier that others can use to cite your data. This service will increase the visibility of your data within the scholarly literature and allows researchers to find it later on. Ensure your data repository offers a DOI (digital object identifier), handle, or another unique indentifer.
 
-Another way to think about visibility is ask if researchers in your field use a repository. Some disciplines have an agreed upon repository that everyone uses and knows about. Ensure that you're putting your data where the appropriate researchers are likely to find it (and hopefully use it). 
+Another way to think about visibility is to ask if researchers in your field use a repository. Some disciplines have an agreed upon repository that everyone uses and knows about. Ensure that you're putting your data where the appropriate researchers are likely to find it (and hopefully use it). 
 
 ### Usability
 
-Selecting a data repository that is usable is also important to ensuring others will be able to access your data. Unfortunately, not all repositories have the funding for creating great web interfaces with simple, intuitive interactions. However, if your peers are unable to find and download your data it will limit the effectiveness of sharing your data. A usable data repository should allow for users to easily upload, download, and cite data sets. 
+The usability of a data repository is also important in ensuring that others will be able to access your data. Unfortunately, not all repositories have the funding for creating great web interfaces with simple, intuitive interactions. However, if your peers are unable to find and download your data it will limit the effectiveness of sharing your data. A usable data repository should allow for users to easily upload, download, and cite data sets. 
 
 ### Features
 
