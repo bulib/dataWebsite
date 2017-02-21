@@ -40,9 +40,9 @@ The best way to start your data management plan is to think about the types of d
 
 The types of data researchers work with are as diverse as the researchers themselves and their particular interests. Common data types range from numerical data to experimental data to images. A sample from [Kimberly Anderson's DMP on "REU Site: A Multidisciplinary Research Experience in Engineered Bioactive Interfaces and Devices"](https://dmptool.org/plans/11390.pdf) starts: 
 
-```
+<code> 
 The data generated from this project will be of two types. Each REU student will generate experimental data specific to his/her research project related to Engineered Bioactive Interfaces and Devices. In addition, both quantitative and qualitative data will be generated that assesses the outcomes of the REU program. 
-```
+</code> 
 
 ### Data and Metadata Standards 
 
