@@ -36,7 +36,7 @@ Another way to think about visibility is to ask if researchers in your field use
 
 ### Usability
 
-The usability of a data repository is also important in ensuring that others will be able to access your data. Unfortunately, not all repositories have the funding for creating great web interfaces with simple, intuitive interactions. However, if your peers are unable to find and download your data it will limit the effectiveness of sharing your data. A usable data repository should allow for users to easily upload, download, and cite data sets. 
+The usability of a data repository is also important in ensuring that others will be able to access your data. Unfortunately, not all repositories have the funding to create great web interfaces with simple, intuitive interactions. However, if your peers are unable to find and download your data it will limit the effectiveness of sharing your data. A usable data repository should allow for users to easily upload, download, and cite data sets. 
 
 ### Features
 
