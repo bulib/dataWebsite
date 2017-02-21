@@ -26,7 +26,7 @@ Is the repository a reputable source? Check to see if it is endorsed by a fundin
 
 ### Sustainability 
 
-Having you data deposited in a repository that is unsustainable kind of defeats the purpose of depositing it. This is why it is important to make sure your repository has the backing of an institution, community, or funder. You'll want to ensure the depository you select will be providing access to your data for well over 5 years. Many repositories will also have preservation plans and contingency plans on the outside chance funding is ceased. Don't be afraid to ask about these plans. 
+Having you data deposited in a repository that is unsustainable defeats the point of depositing it. This is why it is important to make sure your repository has the backing of an institution, community, or funder. You'll want to ensure the depository you select will be providing access to your data for well over 5 years. Many repositories will also have preservation plans and contingency plans on the outside chance funding is ceased. Don't be afraid to ask about these plans. 
 
 ### Visibility
 
