@@ -18,7 +18,7 @@ Phrased differently, a data repository provides long-term storage to the data th
 
 ## Things to Consider
 
-Many data repositories exist today. Some will be a better fit for your needs than others. Here are some tips on selecting a data repository for your research:
+Many data repositories exist today. Some will be a better fit for your needs more than others. Here are some tips on selecting a data repository for your research:
 
 ### Reputation 
 
