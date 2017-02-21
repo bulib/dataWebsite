@@ -50,7 +50,7 @@ Most data repositories are able to handle most formats; however, that doesn't al
 
 Know your rights! Take time to read the terms of use and to understand what permissions you're giving the data repository. For instance, does your data repository use common licensing agreements (again like Creative Commons) that will help others understand what they can and cannot do with your data?
 
-It's best practice for data repository to clearly state the terms of use and have a FAQ (frequently asked questions) section to help users understand the service being provided. If you're unsure about your rights as a user, contact the repository to learn more. 
+It's best practice for a data repository to clearly state the terms of use and to have a FAQ (frequently asked questions) section to help users understand the service being provided. If you're unsure about your rights as a user, contact the repository to learn more. 
 
 ### Additional Resources
 
@@ -69,7 +69,7 @@ OpenBU is the institutional repository for all creative and scholarly research o
 
 For help using [OpenBU, please contact us](mailto:open-help@bu.edu)!
 
-Beyond BU, there are a number of data repositories to scholars but there are a few things to keep in mind when you deposit your data. 
+There are a number of data repositories available to scholars beyond BU. But there are a few things to keep in mind when you deposit your data. 
 
 ## General Solutions 
 
