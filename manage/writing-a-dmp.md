@@ -23,11 +23,11 @@ Managing your data allows you to:
 + Facilitate the reuse and sharing of your data 
 + Ensure your data is backed up
 
-Data management will help prevent future headaches, like mistakenly deleting valuable research results, misplacing files, or having to redo the analysis of your data. When done properly, data management will keep your work organized and intelligible to others as well as to your future self. This will make your work reproducible and increase your data's value you have completed your project. 
+Data management will help prevent future headaches, like mistakenly deleting valuable research results, misplacing files, or having to redo the analysis of your data. When done properly, data management will keep your work organized and intelligible to others as well as to your future self. This will make your work reproducible and increase your data's value after you have completed your project. 
 
 ## Components of a DMP
 
-There are several parts to a data management plan. If you're writing a data management plan for a specific funder, like the National Science Foundation, these common components will likely apply. However, if you are applying for a grant,<> check your application materials for more detailed information or [ask for assistance](mailto:data@bu.edu). 
+There are several parts to a data management plan. If you're writing a data management plan for a specific funder, like the National Science Foundation, these common components will likely apply. However, if you are applying for a grant, the application materials will have for more detailed information or you can alwasy [ask for assistance](mailto:data@bu.edu). 
 
 ### Types of Data 
 
@@ -45,7 +45,7 @@ Contextual details, or metadata, is information that will help others understand
 You should also explain your data set in terms of the who, what, when, where, why, and how. Doing so will help others use your data effectively and within the right context. 
 
 + What are the file formats you plan to use (and are they open or proprietary)?
-+ What are the who, what, when, where, why, and how of your data set? 
++ Explain the who, what, when, where, why, and how of your data set. 
 + What naming conventions will you use for files and variables? 
 
 ### Storage, Backup, and Security 
@@ -61,7 +61,7 @@ Planning who will have access to what is an important step in managing your data
 
 ### Provisions for Protection and Privacy
 
-If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or legal issues. For instance, your methodology will often times address the anonymization of your human research subject data or your grant application might state intellectual property concerns. It is important to ensure those details are also reflected in your data management plan. 
+If you're working with sensitive data or data with copyright restrictions, you'll want to have a clear plan that addresses any potential privacy or legal issues. For instance, your methodology will often address the anonymization of your human research subject data or your grant application might state intellectual property concerns. It is important to ensure those details are also reflected in your data management plan. 
 
 Also, check that the systems you're using to store your data are approved for those data types. For example, not all systems can safely work with HIPPA (Health Insurance Portability and Accountability Act) data. For assistance on ensuring that your storage solution is appropriate for your data type, [contact IS&T's Information Security Team](buinfosec@bu.edu). 
 
