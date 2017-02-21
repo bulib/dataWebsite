@@ -156,43 +156,37 @@
     <loc>http://www.bu.edu/data/dataWebsite/manage/dmptool/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/guides/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/calendar/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/</loc>
-  </url>
-  <url>
     <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/software/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/storage/</loc>
-  </url>
-  <url>
-    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/workshops/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/storage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nih/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/guides/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/software/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/calendar/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/sbe/</loc>
@@ -201,7 +195,13 @@
     <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nih/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/metadata/</loc>
@@ -223,34 +223,34 @@
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/citing-data/index.html</loc>
-    <lastmod>2016-09-22T11:13:24-04:00</lastmod>
+    <lastmod>2017-02-16T10:32:44-05:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/minting-a-doi-for-your-data-zenodo/index.html</loc>
-    <lastmod>2016-10-06T11:01:50-04:00</lastmod>
+    <lastmod>2017-02-16T10:32:44-05:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/open-data/index.html</loc>
-    <lastmod>2016-10-26T13:58:21-04:00</lastmod>
+    <lastmod>2017-02-16T10:32:44-05:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/revealjs/plugin/markdown/example.html</loc>
-    <lastmod>2015-11-25T11:12:27-05:00</lastmod>
+    <lastmod>2017-02-16T10:32:44-05:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/revealjs/plugin/notes/notes.html</loc>
-    <lastmod>2015-11-25T11:12:27-05:00</lastmod>
+    <lastmod>2017-02-16T10:32:44-05:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/revealjs/plugin/notes-server/notes.html</loc>
-    <lastmod>2015-11-25T11:12:27-05:00</lastmod>
+    <lastmod>2017-02-16T10:32:44-05:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/write-a-dmp/index.html</loc>
-    <lastmod>2016-09-14T10:46:16-04:00</lastmod>
+    <lastmod>2017-02-16T10:32:44-05:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/talks/writing-a-nsf-dmp/index.html</loc>
-    <lastmod>2016-09-23T15:48:16-04:00</lastmod>
+    <lastmod>2017-02-16T10:32:44-05:00</lastmod>
   </url>
 </urlset>
