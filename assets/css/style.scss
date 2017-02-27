@@ -1,7 +1,6 @@
 ---
 ---
 
-
 @import '_variables.scss'; 
 
 html,
@@ -11,7 +10,7 @@ body {
 }
 
 article {
-    max-width: $article-width;
+/*    max-width: $article-width; */ 
     margin: 0 auto; 
 }
 
@@ -892,10 +891,13 @@ footer {
 
 @media (min-width: 600px) {
     footer .footer-bu-text {
-	color: white;
+	color: #B7B6B5;
 	display: inline-block;
 	float: left;
 	margin: 40px 0;
+    }
+    footer .footer-bu-text span {
+	font-weight: 800; 
     }
 }
 
@@ -906,10 +908,15 @@ footer ul {
 }
 
 footer ul li {
+    display: inline; 
     line-height: 2;
     font-size: 1.1em; 
     font-weight: 200;
     text-align: right; 
+}
+
+footer ul li:first-child {
+    margin-right: 15px;
 }
 /*
 footer ul li:first-child {
