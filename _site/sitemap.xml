@@ -272,19 +272,19 @@
     <loc>http://www.bu.edu/data/dataWebsite/manage/dmptool/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
-  </url>
-  <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/guides/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/calendar/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/calendar/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
@@ -302,19 +302,19 @@
     <loc>http://www.bu.edu/data/dataWebsite/workshops/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nih/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nih/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/sbe/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
