@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/workshops/2017/06/15/BERD-Seminar.html</loc>
+    <lastmod>2017-06-15T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/workshops/2017/06/06/The-principle-investigator-role.html</loc>
     <lastmod>2017-06-06T00:00:00-04:00</lastmod>
   </url>
@@ -9,8 +13,16 @@
     <lastmod>2017-05-12T00:00:00-04:00</lastmod>
   </url>
   <url>
+    <loc>http://www.bu.edu/data/dataWebsite/workshops/2017/05/11/BERD-Seminar.html</loc>
+    <lastmod>2017-05-11T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.bu.edu/data/dataWebsite/2017/04/25/Understanding-the-rules-of-life.html</loc>
     <lastmod>2017-04-25T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/workshops/2017/04/20/BERD-Seminar.html</loc>
+    <lastmod>2017-04-20T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/2017/04/04/Targets-Tools-and-Drugs.html</loc>
@@ -19,6 +31,10 @@
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/2017/03/15/Incarceration-and-its-impacts.html</loc>
     <lastmod>2017-03-15T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/workshops/2017/03/09/BERD-Seminar.html</loc>
+    <lastmod>2017-03-09T00:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/2017/02/28/Materials-Science.html</loc>
