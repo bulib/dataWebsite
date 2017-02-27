@@ -298,7 +298,7 @@ div.calendar-box > h3::before {
     .news-date {
 	padding: 0;
 	width: 10%; 
-    }
+   }
 
     .news-title {
 	max-width: 80%;
@@ -429,8 +429,16 @@ a.news-title  {
 
 .partner p {
     margin-bottom: 25px;
-} 
+}
 
+
+.home-page.page-wrapper {
+  background: url("../images/home-background-images/home-background-image.png");
+  background-repeat: no-repeat; 
+  background-position: right top;
+
+}
+/*
 .intro-background-image{
   content: "";
   background: url("../images/home-background-images/home-background-image.png");
@@ -443,7 +451,7 @@ a.news-title  {
   position: absolute;
   min-height: 800px;  
 }
-
+*/
 
 /* * * * * * * * * * * * * * 
  *
