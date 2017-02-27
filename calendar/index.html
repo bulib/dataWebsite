@@ -24,12 +24,12 @@ permalink: /calendar/
              {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
              {% assign postday = postday | plus: 0 %}
              {% assign nowday = nowday | minus: 1 %}
-             {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
+             {% if postyear > nowyear or (postday >= nowday and postyear >= nowyear) %}
               {% assign isEvent = 1 %}
 	      {% assign m = post.date | date: "%B" %}
 	      {% case m %}
 	       {% when 'April' or 'May' or 'June' or 'July' %}
-	       {% when 'September' %}{% assign m = Sept %}
+	       {% when 'September' %}{% assign m = "Sept" %}
 	       {% else %}{% assign m = post.date | date: "%b" %}
 	      {% endcase %}
 	    <li class="news-item">
@@ -93,7 +93,7 @@ permalink: /calendar/
 	  {% assign m = post.date | date: "%B" %}
 	  {% case m %}
 	    {% when 'April' or 'May' or 'June' or 'July' %}
-	    {% when 'September' %}{% assign m = Sept %}
+	    {% when 'September' %}{% assign m = "Sept" %}
 	    {% else %}{% assign m = post.date | date: "%b" %}
 	    {% endcase %}	
 

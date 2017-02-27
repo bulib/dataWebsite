@@ -1,6 +1,8 @@
 ---
 title: Minting a DOI for your data using Zenodo
-category: workshops
+category:
+- workshops
+- webinar 
 tag: 
 - citing-data
 - news 

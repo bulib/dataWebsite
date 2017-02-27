@@ -28,7 +28,7 @@ permalink: /workshops/
             {% assign isEvent = 1 %}
 	    {% assign m = post.date | date: "%B" %}
 	    {% case m %}
-	    {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
+	    {% when 'April' or 'May' or 'June' or 'July' %}
 	    {% when 'September' %}{% assign m = Sept %}
 	    {% else %}{% assign m = post.date | date: "%b" %}
 	    {% endcase %}
@@ -70,7 +70,7 @@ permalink: /workshops/
 </section>
 
 <div class="section-introduction-past-workshops">
-  <h2>Past Workshops</h2>
+  <h2>Past Workshops and Webinars</h2>
 </div>
 
 <section class="past-workshops">
@@ -81,7 +81,7 @@ permalink: /workshops/
 	  <div>
 	  <ul> 
 	{% for post in site.posts %}
-	{% if post.category contains "workshops" %} 
+	{% if post.category contains "workshops" and post.category contains "webinar" %} 
 
 	    {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
             {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
@@ -89,13 +89,13 @@ permalink: /workshops/
             {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
             {% assign postday = postday | plus: 0 %}
             {% assign nowday = nowday | plus: 0  %}
-        {% if postyear < nowyear or postday <= nowday and postyear >= nowyear %}
-	  {% case m %}
-	    {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
-	    {% when 'September' %}{% assign m = Sept %}
+            {% if postyear < nowyear or (postday <= nowday and postyear >= nowyear) %}
+	    {% assign m = post.date | date: "%B" %}
+	    {% case m %}
+	    {% when 'April' or 'May' or 'June' or 'July' %}
+	    {% when 'September' %}{% assign m = "Sept" %}
 	    {% else %}{% assign m = post.date | date: "%b" %}
 	    {% endcase %}	
-
 	<li class="news-item">
 		            <div class="row">
 		              <div class="news-date">

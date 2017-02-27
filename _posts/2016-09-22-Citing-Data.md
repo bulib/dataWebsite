@@ -1,6 +1,8 @@
 ---
 title: Citing Data
-category: workshops
+category:
+- workshops
+- webinar
 tag: 
 - citing-data
 - news 

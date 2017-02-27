@@ -1,6 +1,8 @@
 ---
 title: Writing a Data Management Plan (DMP)
-category: workshops
+category:
+ - workshops
+ - webinar
 tag: 
 - writing-a-dmp
 - news
