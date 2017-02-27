@@ -10,8 +10,7 @@ body {
 }
 
 article {
-/*    max-width: $article-width; */ 
-    margin: 0 auto; 
+    margin: 0 auto 150px;
 }
 
 blockquote {
@@ -35,7 +34,7 @@ code {
     color: #333; 
 }
 
-p
+p,
 .row {
 	margin-right: 0;
 	margin-left: 0; 
@@ -315,8 +314,7 @@ div.calendar-box > h3::before {
 
     .news-item .news-title .news-title-link {
 	display: inline-block; 
-    }
-    
+    }  
 }
 
 #timely-news .news-date {
@@ -466,7 +464,7 @@ div.section-index-title {
     border-radius: $rounded-corner; 
     padding: 0;
     position: relative;
-    background-color: rgba(126, 126, 255, 0.8);
+    bnackground-color: rgba(126, 126, 255, 0.8);
 }
 
 div.section-index-title:hover,
@@ -769,6 +767,10 @@ p.author {
  *
  * * * * * * * * * * * * * */
 
+article.max-width {
+    max-width: 650px;
+} 
+
 .post-title-wrapper .page-title h1 {
     text-align: center;
     color: $cta-color; 
@@ -871,10 +873,51 @@ p.author {
     border: none
 }
 
+/* * * * * * * * * * * * * * 
+ *
+ * 404 / error page 
+ *
+ *
+ * * * * * * * * * * * * * */
 
+div.page-title.error h1 {
+    color: $primary-text;
+    text-align: center;
+    width: 100%; 
+} 
+
+a#error-back-button {
+    width: 150px;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: block;
+    margin: 0 auto; 
+}
+
+div.error.container {
+    width: 100%;
+    background: url("../images/home-background-images/error-background.jpg");
+}
+
+div.error-page-url {
+    text-align: center;
+    margin-bottom: 100px;
+    background-color: #FFFFFF;
+    font-size: 18px;
+    color: #000000;
+    border: 1px solid #B7B6B5; 
+
+}
+
+div.error-page-url > p {
+    margin-bottom: 2px;
+    padding: 5px; 
+}
 
 /* * * * * * * * * * * * * * 
- *c
+ *
  * footer 
  *
  *
@@ -964,6 +1007,7 @@ footer h3 {
 footer h3 span {
 	font-weight: 300; 
 }
+
 /* * * * * * * * * * * * * * 
  *
  * modal  
