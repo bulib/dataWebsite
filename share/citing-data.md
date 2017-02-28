@@ -75,7 +75,7 @@ Example 2:
 
 ### MLA 
 
-MLA (Modern Language Association) is the most widely used style when it comes to writing papers and citing sources within the liberal arts and humanities community. [MLA Style (7th Edition)](https://owl.english.purdue.edu/owl/resource/747/01/)
+The Modern Language Association [MLA Style (7th Edition)](https://owl.english.purdue.edu/owl/resource/747/01/) is the most widely used style when it comes to writing papers and citing sources within the liberal arts and humanities community.
 
 
 Basic structure:<br>
