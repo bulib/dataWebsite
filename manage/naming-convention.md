@@ -10,7 +10,7 @@ excerpt: Discover how to design a simple and effective naming convention for you
 
 ## What is a File Naming Convention?
 
-Researchers often use structured guidelines called filled naming conventions to describe the content and date of the file. These conventions help you track different versions of a file and determine which is the most current.
+Researchers often use structured guidelines known as filled naming conventions to describe the content and date of the file. These conventions help you track different versions of a file and determine which is the most current.
 
 ## Why Use a File Naming Conventions? 
 
