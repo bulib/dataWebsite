@@ -11,7 +11,7 @@ excerpt: Learn how to cite data properly in your papers, reports, and presentati
 
 ## What You'll Need 
 
-You are familiar with citing books, films, articles and even images – but what about a a collection of data from the United States Census or field notes from an anthropological study? Often, the same principles apply.
+You are familiar with citing books, films, articles and even images – but what about a a collection of data from the United States Census or field notes from an anthropological study? Fortunately, the same principles apply.
 
 When citing data, here's the information you'll need (when available):
 
@@ -28,7 +28,7 @@ Let's cite some data! The examples below show you how to cite two datasets: char
 
 ### APA 
 
-The American Psychological Association stype is commonly used to cite sources in the social sciences. Materials in this section are based on [APA Style, 6th Edition](https://owl.english.purdue.edu/owl/resource/560/01/) and from Purdue's Online Writing Lab.
+The American Psychological Association style is commonly used to cite sources in the social sciences. Materials in this section are based on [APA Style, 6th Edition](https://owl.english.purdue.edu/owl/resource/560/01/) and from Purdue's Online Writing Lab. <<suggestion: missing link?>>
 
 
 Basic structure: <br>
