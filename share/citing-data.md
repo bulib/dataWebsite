@@ -28,7 +28,7 @@ Let's cite some data! The examples below show you how to cite two datasets: char
 
 ### APA 
 
-The American Psychological Association stype is commonly used to cite sources in the social cciences. Materials in this section are based on [APA Style, 6th Edition](https://owl.english.purdue.edu/owl/resource/560/01/) and from Purdue's Online Writing Lab.
+The American Psychological Association stype is commonly used to cite sources in the social sciences. Materials in this section are based on [APA Style, 6th Edition](https://owl.english.purdue.edu/owl/resource/560/01/) and from Purdue's Online Writing Lab.
 
 
 Basic structure: <br>
@@ -43,9 +43,9 @@ Example 2:
 > Gomes, D. G. E., Page, R. A., Geipel, I., Taylor, R. C., Ryan, M. J., & Halfwerk, W. (2016). <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. [Data file].	doi:10.5061/dryad.5gk8j
 
 
-### Chicago - Bibliograhpy 
+### Chicago - Bibliography 
 
-The [Chicago Style, 16th Edition: Bibliography Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) is common citation sytle in the humanities. 
+The [Chicago Style, 16th Edition: Bibliography Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) is a common citation style in the areas like literature, history, and the arts. The style provides bibliographic information in the notes and usually a bibliography.
 
 Basic structure:<br>
 **Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository, Year of publication. URL or DOI**
@@ -60,7 +60,7 @@ Example 2:
 
 ### Chicago - Author-Date
 
-Add basic intro here. [Chicago Style, 16th Edition: Author-Date Style](http://www.chicagomanualofstyle.org/tools_citationguide.html)**
+The author-date style differs from the bibliography style by briefing sources in the text, usually in parenthesis, by author's last name and data of publication. The short citations are then fleshed out in a list of references, where the complete bibliographic information is provided. This format is often used in the physical, natural and social sciences. [Chicago Style, 16th Edition: Author-Date Style](http://www.chicagomanualofstyle.org/tools_citationguide.html)**
 
 Basic structure:<br>
 **Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository. URL or DOI**
@@ -75,7 +75,7 @@ Example 2:
 
 ### MLA 
 
-Add intro here. [MLA Style (7th Edition)](https://owl.english.purdue.edu/owl/resource/747/01/)
+MLA (Modern Language Association) is the most widely used style when it comes to writing papers and citing sources within the liberal arts and humanities community. [MLA Style (7th Edition)](https://owl.english.purdue.edu/owl/resource/747/01/)
 
 
 Basic structure:<br>
