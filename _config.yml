@@ -47,7 +47,7 @@ baseurl: "/dataWebsite"
 # !! You don't need to change any of the configuration flags below !!
 #
 
-highlighter: rouge
+# highlighter: rouge
 
 # Set the Sass partials directory, as we're using @imports
 sass:

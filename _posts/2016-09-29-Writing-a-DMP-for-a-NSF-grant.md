@@ -1,6 +1,8 @@
 ---
 title: Writing a DMP for a NSF Grant
-category: workshops
+category:
+- workshops
+- webinar 
 tag: 
 - grant writing 
 - news 
