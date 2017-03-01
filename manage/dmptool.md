@@ -28,7 +28,7 @@ The DMPTool is in continuous development. The most notable features are:
 
 The DMPTool provides step-by-step directions to selecting and writing a data management plan. This is especially useful because the DMPTool so many funder templates and requirements already on file. This allows you to simply select the funder template, type, save, and follow along. At the end of the process you'll have your data management plan prepared! 
 
-<< add image from within the dmptool 
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-step-by-step.jpeg" class="img-responsive" alt="DMPTool Step by Step"/>
 
 ### Templates 
 
@@ -42,9 +42,13 @@ The usefulness of the DMPTool is in the [numerous data management plan templates
 
 Use these templates to review the requirements for your data management plan and to start writing. 
 
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-templates.jpeg" class="img-responsive" alt="DMPTool Templates"/>
+
 ### Published DMPs
 
 Many researchers writing their first data management plan often like to look at a completed DMP before drafting one themselves. Thankfully, [the DMPTool has a library of public](https://dmptool.org/public_dmps?public%3Aall_scope=all), published data management plans from diverse fields of study. While we don't guarantee their quality, the are a great place to start. 
+
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-public-dmps.jpeg" class="img-responsive" alt="DMPTool Public DMPs"/>
 
 ### Institutional Resources
 
