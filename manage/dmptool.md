@@ -48,7 +48,7 @@ Use these templates to review the requirements for your data management plan and
 
 Many researchers writing their first data management plan often like to look at a completed DMP before drafting one themselves. Thankfully, [the DMPTool has a library of public](https://dmptool.org/public_dmps?public%3Aall_scope=all), published data management plans from diverse fields of study. While we don't guarantee their quality, the are a great place to start. 
 
-<img src="{{ site.baseurl }}/assets/images/guides/dmptool-public-dmps.jpeg" class="img-responsive" alt="DMPTool Public DMPs"/>
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-public-dmps.jpeg" class="img-responsive" alt="DMPTool Public DMPsg"/>
 
 ### Institutional Resources
 
@@ -56,11 +56,7 @@ In addition to providing links to funding agency requirements the DMPTool will a
 
 To get help from us (from within the DMPTool)
 
-<< add image >> 
-
-To add collaborates
-
-<< add images >> 
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-help.png" class="img-responsive" alt="DMPTool Step by Step"/>
 
 ## Getting Started
 
