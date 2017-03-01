@@ -62,13 +62,13 @@ To get help from us (from within the DMPTool)
 
 <<suggestion: possibly bold key words (https://dmptool.org/requirements_templates/77/basic.docxbold possibly the ones inside <>)>>
 
-### Visit DMPTool.org 
+### Visit DMPTool.org and Login 
 
-<< add image >> 
+<< add image here >> 
 
-### Login and Select
+### Select Boston University 
 
-<< add image >> 
+<< add animated gif here >> 
 
 ### Authenticate 
 
@@ -76,7 +76,7 @@ To get help from us (from within the DMPTool)
 
 ### Start a DMP
 
-<< add image >> 
+<< add animated gif here >> 
 
 ### Select a Template 
 
