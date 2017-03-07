@@ -14,7 +14,7 @@ The DMPTool is a guide to creating comprehensive data management plans (DMPs) th
 
 The DMPTool has over 50 partner institutions, including Boston University, and is a service of the University of California Digital Library.
 
-<div class="videoWrapper">
+<div class="responsive-video">
 <iframe src="https://player.vimeo.com/video/82408192" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/82408192">DMPTool2 Promotional Video</a> from <a href="https://vimeo.com/cdlib">California Digital Library</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div> 
