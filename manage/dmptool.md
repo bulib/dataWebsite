@@ -60,11 +60,9 @@ To get help from us (from within the DMPTool)
 
 ## Getting Started
 
-<<suggestion: possibly bold key words (https://dmptool.org/requirements_templates/77/basic.docxbold possibly the ones inside <>)>>
-
 ### Visit DMPTool.org and Login 
 
-<< add image here >> 
+<< add gif here >> 
 
 ### Select Boston University 
 
@@ -72,19 +70,15 @@ To get help from us (from within the DMPTool)
 
 ### Authenticate 
 
-<< add image >> 
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-bu-login.jpeg" class="img-responsive" alt="DMPTool BU Login"/>
 
 ### Start a DMP
 
-<< add animated gif here >> 
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-create-new-dmp.jpeg" class="img-responsive" alt="DMPTool Create a New Data Management Plan"/>
 
 ### Select a Template 
 
-1. Go to https://dmptool.org and click the <Log In> link.
-2. Choose <Boston University> from the drop-down menu of institutions.
-3. Enter your <BU username> and <password>.
-4. To start a new data management plan, click the <Create New DMP> button.
-5. To write a DMP based on a funding agency's requirements, click the <Select Template> button (recommended), or you can copy an existing DMP from the list on the right.
+<< add animated gif here >> 
 
 ## Help
 
