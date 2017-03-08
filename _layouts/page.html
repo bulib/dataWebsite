@@ -14,34 +14,34 @@ layout: default
 
 <div class="container">
   <div class="row no-margin">	 
-	<article class="page col-md-8">
-	  <div class="entry">
-	    {{ content }}
+    <article class="page col-md-8">
+      <div class="entry">
+	{{ content }}
 
-{% comment %}
-	    <div class="workshops">
-	    	{% for tag in site.tags %}
-    			{% assign t = tag | first %}
-	  			{% if page.url contains t %}
-	  				<h2>Workshops</h2> 
-	  				<p>Here are some workshops that we have hosted that you might be interested in.</p>	  			
-	  			{% endif %}
-  			{% endfor %}
-	  		<div class="row">
-		    {% for post in site.categories.workshops %}
-		    	{% if page.url contains post.tag %}
-			    	<div class="workshop col-md-6">
-			    		<h4>{{post.title }}</h4>
-			    		<a href="{{site.baseurl }}{{ post.url }}">Visit</a>
-			    	</div> 	 
-		    	{% endif %}    	
-		    {% endfor %}
-		  	</div> 
-		  	{% endcomment %}
-	  </div>
-	</article>
-	<div class="col-md-3">
-	  <nav id="toc" data-toggle="toc"></nav>
+	{% comment %}
+	<div class="workshops">
+	  {% for tag in site.tags %}
+    	  {% assign t = tag | first %}
+	  {% if page.url contains t %}
+	  <h2>Workshops</h2> 
+	  <p>Here are some workshops that we have hosted that you might be interested in.</p>	  			
+	  {% endif %}
+  	  {% endfor %}
+	  <div class="row">
+	    {% for post in site.categories.workshops %}
+	    {% if page.url contains post.tag %}
+	    <div class="workshop col-md-6">
+	      <h4>{{post.title }}</h4>
+	      <a href="{{site.baseurl }}{{ post.url }}">Visit</a>
+	    </div> 	 
+	    {% endif %}    	
+	    {% endfor %}
+	  </div> 
+	  {% endcomment %}
 	</div>
-	</div> 
-</div> 
+    </article>
+    <div class="col-md-3">
+      <nav id="toc" data-toggle="toc"></nav>
+    </div>
+    </div> 
+  </div> 

@@ -1,7 +1,7 @@
 $(function() {
 
 	console.log("Hello Developer!");
-
+/*
     // shrink the navbar 
 	$(window).scroll(function() {
   		if ($(document).scrollTop() > 50) {
@@ -10,10 +10,10 @@ $(function() {
     		$('nav.navbar').removeClass('shrink');
   		}
 	});
-
+*/
     //offset side nav on pages
     
-	var offsetheight =90; 
+	var offsetheight =100; 
 	//adjusts for the navbar height while scrolling
 	$('body').scrollspy({
    		offset:  offsetheight 
@@ -21,7 +21,7 @@ $(function() {
 
 	$('nav#toc').affix({
 	    offset: {
-		top: 250,
+		top: 270,
 		bottom: function () {
 		    return (this.bottom = $('.footer').outerHeight(true))
 		}
