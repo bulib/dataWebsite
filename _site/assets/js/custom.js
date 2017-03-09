@@ -38,6 +38,7 @@ $(function() {
     
     //form submit process
     $("#contact-form").submit(function(){
+	console.log("click on form") 
 	event.preventDefault();	
 	
 	var post_data = $(this).serializeArray();
@@ -51,32 +52,32 @@ $(function() {
 	    success: function(data, status, xhr){
 		$("#name, #email, #question").css("background-color", "unset"); 
 
-//		console.log("success");
+		console.log("success");
 		html = $.parseHTML(data);
 		var return_errors = $(html).find(".errors");
-//		console.log(return_errors.length); 
+		console.log(return_errors.length); 
 		if (return_errors.length > 0) {
-//		    console.log("errors returned");
-//		    console.log(return_errors);
+		    console.log("errors returned");
+		    console.log(return_errors);
 		    return_errors_text = return_errors.prop('outerHTML');
-//		    console.log(return_errors_text); 
+		    console.log(return_errors_text); 
 		    var name_error = return_errors_text.search("Name");
 		    if (name_error > 0 ){
 			$("#name").css("background-color", "#ffd4d4"); 
-//			console.log(name_error);
+			console.log(name_error);
 		    }
 		    var email_error = return_errors_text.search("email");
 		    if (email_error > 0) {
-//			console.log(email_error);
+			console.log(email_error);
 			$("#email").css("background-color", "#ffd4d4");
 		    }
 		    var question_error = return_errors_text.search("Question");
 		    if(question_error > 0 ){
-//			console.log(question_error);
+			console.log(question_error);
 			$("#question").css("background-color", "#ffd4d4");
 		    }
 		} else {
-//		    console.log("close modal");
+		    console.log("close modal");
 		    $("#contact-form").trigger("reset");
 		    $("#submit").prop('disabled', true);
 		    grecaptcha.reset();
@@ -84,8 +85,8 @@ $(function() {
 		}
 	    },
 	    error: function(xhr, status, return_error){
-//		console.log("error");
-//		console.log(status); 
+		console.log("error");
+		console.log(status); 
 	    }
 	    
 	}); 
