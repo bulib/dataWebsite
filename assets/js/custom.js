@@ -1,6 +1,7 @@
 $(function() {
 
-	console.log("Hello Developer!");
+    console.log("Hello Developer!");
+    console.log("testing"); 
 /*
     // shrink the navbar 
 	$(window).scroll(function() {
