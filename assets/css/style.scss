@@ -182,6 +182,8 @@ footer,
 
 .dmptool > div {
     padding-bottom: 25px;
+    padding-top: 20px; 
+    min-height: 370px; 
 } 
 
 .calendar-box:hover,
@@ -516,7 +518,7 @@ div.section-index-item {
     padding: 0px; 
 }
 
-@media (min-width: 970px) {
+@media (min-width: 992px) {
 
     div.section-index-item:nth-child(odd){
 	clear: both;
@@ -644,7 +646,7 @@ Unique backgrounds
  *
  * * * * * * * * * * * * * */
 
-.page-title-wrapper{
+.page-titl-wrapper{
     width: 100%;
     background-color: rgba(126, 126, 255, 0.8);	      
 }
@@ -670,6 +672,12 @@ Unique backgrounds
     text-align: left;
     color: $white-text; 
     font-weight: 800;
+}
+
+@media (min-width: 550px) {
+    .page-title h1 {
+	font-size: 60px;
+    } 
 }
 
 .page-author {
