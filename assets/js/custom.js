@@ -38,7 +38,7 @@ $(function() {
 	});
     
     //form submit process
-    $("#contact-form").submit(function(){
+    $("#contact-form").submit(function(event){
 	console.log("click on form") 
 	event.preventDefault();	
 	
