@@ -78,7 +78,6 @@ layout: default
 
       {% else %}
 
-
       <div class="workshop-page-date" >
 	<p>This workshop was on<br/> 
 	  <span> {{ page.date | date: "%B %e, %Y"}}</span></p> 
@@ -96,7 +95,7 @@ layout: default
 
       {% if page.slides %}
       <div class="workshop-page-registration-slides"> 
-	<a class="btn-lg btn-success" href="{{ site.baseurl }}/workshops" role="button">Slides</a>
+	<a class="btn-lg btn-success" href="{{ site.baseurl }}/talks/{{ page.slides }}" role="button">Slides</a>
       </div> 
 
       {% endif %} 
