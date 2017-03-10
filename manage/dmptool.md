@@ -12,21 +12,20 @@ excerpt: Start using the DMPTool to find templates for writing data management p
 
 The DMPTool is a guide to creating comprehensive data management plans (DMPs) that meet the requirements of dozens of funding agencies. The DMPTool can also serve as a place to save your DMP and work on it with collaborators.
 
-The DMPTool has over 50 partner institutions, including Boston University, and is a service of the University of California Digital Library.
+The DMPTool has over 50 partner institutions, including Boston University, and is a service of the University of California Digital Library. For more information about the DMPTool, check out the following video. 
 
 <div class="responsive-video">
 <iframe src="https://player.vimeo.com/video/82408192" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/82408192">DMPTool2 Promotional Video</a> from <a href="https://vimeo.com/cdlib">California Digital Library</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/82408192">DMPTool Promotional Video</a> from <a href="https://vimeo.com/cdlib">California Digital Library</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div> 
-
 
 ## Features
 
-The DMPTool is in continuous development. The most notable features are: 
+The DMPTool is in continuous development but the most notable features are: 
 
 ### Step-by-Step Process
 
-The DMPTool provides step-by-step directions to selecting and writing a data management plan. This is especially useful because the DMPTool so many funder templates and requirements already on file. This allows you to simply select the funder template, type, save, and follow along. At the end of the process you'll have your data management plan prepared! 
+The DMPTool provides step-by-step directions to selecting and writing a data management plan. This is especially useful because the DMPTool so many funder templates and requirements already on file. This allows you to simply select the funder template, type, save, and walk through the template. At the end of the process you'll have your data management plan prepared! 
 
 <img src="{{ site.baseurl }}/assets/images/guides/dmptool-step-by-step.jpeg" class="img-responsive" alt="DMPTool Step by Step"/>
 
@@ -40,7 +39,7 @@ The usefulness of the DMPTool is in the [numerous data management plan templates
 + [Sloan Foundation](https://dmptool.org/requirements_templates/77/basic.docx)
 + [Department of Defense](https://dmptool.org/requirements_templates/260/basic.docx)
 
-Use these templates to review the requirements for your data management plan and to start writing. 
+Use these templates to review the requirements for your data management plan and to start writing. The image below shows some of the templates free accessible from the DMPTool. 
 
 <img src="{{ site.baseurl }}/assets/images/guides/dmptool-templates.jpeg" class="img-responsive" alt="DMPTool Templates"/>
 
@@ -48,35 +47,47 @@ Use these templates to review the requirements for your data management plan and
 
 Many researchers writing their first data management plan often like to look at a completed DMP before drafting one themselves. Thankfully, [the DMPTool has a library of public](https://dmptool.org/public_dmps?public%3Aall_scope=all), published data management plans from diverse fields of study. While we don't guarantee their quality, the are a great place to start. 
 
-<img src="{{ site.baseurl }}/assets/images/guides/dmptool-public-dmps.jpeg" class="img-responsive" alt="DMPTool Public DMPsg"/>
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-public-dmps.jpeg" class="img-responsive" alt="DMPTool Public DMPs"/>
 
 ### Institutional Resources
 
 In addition to providing links to funding agency requirements the DMPTool will also allow you to collaborate with institutional resources and work collaboratively with other researchers.
 
-To get help from us (from within the DMPTool)
+To get help from us (from within the DMPTool) click on the icons in the upper right of your page. 
 
 <img src="{{ site.baseurl }}/assets/images/guides/dmptool-help.png" class="img-responsive" alt="DMPTool Step by Step"/>
 
 ## Getting Started
 
+Follow these quick steps to get started using the DMPTool. 
+
 ### Visit DMPTool.org and Login 
+
+Visit [DMPTool.org](https://dmptool.org/) and click on the login button in the upper right of the page. 
 
 << add gif here >> 
 
 ### Select Boston University 
 
+In the drop down, select Boston University. 
+
 << add animated gif here >> 
 
 ### Authenticate 
+
+Authenticate using your BU credentials. 
 
 <img src="{{ site.baseurl }}/assets/images/guides/dmptool-bu-login.jpeg" class="img-responsive" alt="DMPTool BU Login"/>
 
 ### Start a DMP
 
+Click on "Create New DMP" to start a new data management plan. 
+
 <img src="{{ site.baseurl }}/assets/images/guides/dmptool-create-new-dmp.jpeg" class="img-responsive" alt="DMPTool Create a New Data Management Plan"/>
 
 ### Select a Template 
+
+Lastly, select a template to get started! 
 
 << add animated gif here >> 
 
