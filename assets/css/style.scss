@@ -481,23 +481,19 @@ a.news-title  {
 div.section-index-title {
     height: 230px;
     border: 1px solid #e6e6e6;
-    boryder-radius: $rounded-corner; 
+    border-radius: $rounded-corner; 
     padding: 0;
     position: relative;
     background-color: rgba(126, 126, 255, 0.8);
     display: flex;
     flex-direction: column;
-    justify-content: center; 
+    justify-content: center;
 }
 
 div.section-index-title:hover,
 div.section-index-title:active,
 div.section-index-title:focus {
     opacity: 0.7; 
-}
-
-div.section-index-title > a {
-    text-align: center; 
 }
 
 div.section-index-title > a:hover,
@@ -510,8 +506,13 @@ div.section-index-title > a > h3 {
     color: #fff;
     font-size: 36px;
     font-weight: 800;
-    margin: 0 10px; 
+    margin: 0 10px;
+    text-align: center; 
 }
+
+div.section-index-title > p {
+    text-align: center;
+} 
 
 div.section-index-item {
     margin-bottom: 50px;
@@ -552,10 +553,18 @@ div.section-index-item {
     padding-top: 10px;
 }
 
-.section-index-item > p {
+.section-index-item > p.page-excerpt {
     margin: 0 10px;
-    width: 90%; 
+    width: 90%;
+    text-align: center;
 }
+
+@media (min-width: 992px) {
+    .section-index-item > p.page-excerpt {
+	text-align: left;
+    }
+}
+		    
 
 .section-introduction {
     text-align: center;
@@ -657,7 +666,6 @@ Unique backgrounds
     margin-bottom: 50px;
     position: relative;
     display: flex;
-    justify-content: center;
     align-items: center; 
 }
 
