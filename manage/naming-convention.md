@@ -64,7 +64,7 @@ A lab has weekly meetings to discuss their work, issues, and upcoming events. Ea
 
 ## Biomedical Samples
 
-A biomedical engineering lab is taking numerous samples from a heart and staining them to learn more about the tissue samples. The lab would like the samples to link with an experiment and lab notebook in a systematic method so the entire lab understand which samples connect to which experiment. 
+A biomedical engineering lab is taking numerous samples from a heart and staining them to learn more about the tissue samples. The lab would like the samples to link the experiment and lab notebook in a systematic method so the entire lab understands which samples connect to which experiment. 
 
 The team develops a method that formats their naming convention using the experiment number, A or B, section number, and stain used. An example of this naming convention would look like **0231A_216_act** where **0231** is the experiment number, **A** stands for apex, **216** is the section number, and **act** is the stain (actinin). A folder of these slides might be organized like: 
 
@@ -74,6 +74,6 @@ The team develops a method that formats their naming convention using the experi
 	0232A_215
 	0232B_215_act
 
-In this way the researchers can programmatically sort a large number of files by experiment number, section, or stain. While this naming convention is more complex than our other examples it fits the needs of a particular lab.
+In this way, the researchers can programmatically sort a large number of files by experiment number, section, or stain. While this naming convention is more complex than our other examples it fits the needs of a particular lab.
 
 This example is provided by University of Massachusetts Medical School’s Lamar Soutter Library in the [New England Collaborative Data Management Curriculum](http://library.umassmed.edu/necdmc/index) in [Module 1](http://library.umassmed.edu/necdmc/modules).
