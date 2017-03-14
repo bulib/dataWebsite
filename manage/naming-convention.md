@@ -10,16 +10,16 @@ excerpt: Discover how to design a simple and effective naming convention for you
 
 ## What is a File Naming Convention?
 
-Researchers often use structured guidelines known as filled naming conventions to describe the content and date of the file. These conventions help you track different versions of a file and determine which is the most current.
+Researchers often use structured guidelines known as file naming conventions to describe the content and date of the file. These conventions help you track different versions of a file and determine which is the most current.
 
 ## Why Use a File Naming Conventions? 
 
 A file naming convention will: 
-+ Help you to organize, track, and find the data you have collected.
++ Help you organize, track, and find the data you have collected.
 + Prevent confusion among other researchers who may also be creating and modifying files.
 + Make it easier for other researchers to find and interpret your data.
 
-In short, using a file naming convention will save you time by keeping your work organized and understandable. Consistently organizing your files in a logical way will also allow you to analyze and process your files, and the data they contain, with scripts and other tools. This ability to automate your workflows will not only cut down time but also make it easier to reproduce your research and rerun analysis in a timely fashion. 
+In short, using a file naming convention will save you time by keeping your work organized and understandable. Consistently organizing your files in a logical way will also make it easier to analyze and process your files, and the data they contain, with scripts and other tools. This ability to automate your workflows will not only cut down time but also make it easier to reproduce your research and rerun analysis in a timely fashion. 
 
 ## General Guidelines
 
