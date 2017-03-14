@@ -26,7 +26,7 @@ The DMPTool is in continuous development. The most notable features are:
 
 ### Step-by-Step Process
 
-The DMPTool provides step-by-step directions to selecting and writing a data management plan. This is especially useful because the DMPTool so many funder templates and requirements already on file. This allows you to simply select the funder template, type, save, and follow along. At the end of the process you'll have your data management plan prepared! 
+The DMPTool provides step-by-step directions to selecting and writing a data management plan. This is especially useful because the DMPTool has many funder templates and requirements already on file. This allows you to simply select the funder template, type, save, and follow along <<suggestion: process doesn't really follow through..do you mean to say 'select the funder template, save, and follow along'?>>. By the end of the process you'll have your data management plan entirely prepared! 
 
 << add image from within the dmptool 
 
@@ -44,13 +44,13 @@ Use these templates to review the requirements for your data management plan and
 
 ### Published DMPs
 
-Many researchers writing their first data management plan often like to look at a completed DMP before drafting one themselves. Thankfully, [the DMPTool has a library of public](https://dmptool.org/public_dmps?public%3Aall_scope=all), published data management plans from diverse fields of study. While we don't guarantee their quality, the are a great place to start. 
+Many researchers writing their first data management plan often like to look at a completed DMP before drafting one themselves. Fortunately, [the DMPTool has a library of publicly](https://dmptool.org/public_dmps?public%3Aall_scope=all), published data management plans from diverse fields of study. While we don't guarantee their quality, this is a great place to start. 
 
 ### Institutional Resources
 
-In addition to providing links to funding agency requirements the DMPTool will also allow you to collaborate with institutional resources and work collaboratively with other researchers.
+In addition to providing links to funding agency requirements the DMPTool will also allow you to collaborate with institutional resources and to work collaboratively with other researchers.
 
-To get help from us (from within the DMPTool)
+To get help from us click on the icons in the upper right of your page (from within the DMPTool).
 
 << add image >> 
 
