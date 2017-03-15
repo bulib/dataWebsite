@@ -4,7 +4,7 @@ permalink: /manage/writing-a-dmp/
 category: 
 - manage
 - guide 
-css: green-diamonds
+css: burgundy-triangles
 excerpt: Use this guide to get started with writing your first data management plan 
 ---
 
