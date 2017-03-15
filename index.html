@@ -2,42 +2,41 @@
 layout: land
 ---
 <header id="welcome">
-	<div class="container">
-	<div class="intro-background-image"></div> 
-	  <div class="intro-text">
-			<h1>Helping researchers with their data</h1> 
-			<a class="btn-lg btn-success" href="#" role="button" data-toggle="modal" data-target="#myModal">Contact</a>
-		</div>
-
-	</div>
+  <div class="container">
+    <div class="intro-background-image"></div> 
+    <div class="intro-text">
+      <h1>Helping researchers with their data</h1> 
+      <a class="btn-lg btn-success" href="#" role="button" data-toggle="modal" data-target="#myModal">Contact</a>
+    </div>
+  </div>
 </header> 
 
 <section id="services">
-	<div class="container">
-		<div class="row" id="services">
-			<div class="col-md-4 service">
-				<div>
-					<h3>Consultations</h3>
-					<p>Need help? Schedule a one-on-one consultation</p> 
-					<a class="btn-lg btn-success" href="#" role="button" data-toggle="modal" data-target="#myModal">Request</a>
-				</div> 	
-			</div> 
-			<div class="col-md-4 service">
-				<div>
-					<h3>Guides</h3>
-					<p>Use our guides to get started managing your data.</p>
-					<a class="btn-lg btn-success" href="{{ site.baseurl }}/guides" role="button">View</a> 
-				</div>
-			</div> 
-			<div class="col-md-4 service">
-				<div>
-					<h3>Workshops</h3>
-					<p>Learn additional skills at one of our workshops.</p> 
-					<a class="btn-lg btn-success" href="{{ site.baseurl }}/workshops" role="button">View</a>
-				</div> 
-			</div> 
-		</div>
+  <div class="container">
+    <div class="row" id="services">
+      <div class="col-md-4 service">
+	<div>
+	  <h3>Consultations</h3>
+	  <p>Need help? Schedule a one-on-one consultation</p> 
+	  <a class="btn-lg btn-success" href="#" role="button" data-toggle="modal" data-target="#myModal">Request</a>
+	</div> 	
+      </div> 
+      <div class="col-md-4 service">
+	<div>
+	  <h3>Guides</h3>
+	  <p>Use our guides to get started managing your data.</p>
+	  <a class="btn-lg btn-success" href="{{ site.baseurl }}/guides" role="button">View</a> 
 	</div>
+      </div> 
+      <div class="col-md-4 service">
+	<div>
+	  <h3>Workshops</h3>
+	  <p>Learn additional skills at one of our workshops.</p> 
+	  <a class="btn-lg btn-success" href="{{ site.baseurl }}/workshops" role="button">View</a>
+	</div> 
+      </div> 
+    </div>
+  </div>
 </section>
 
 <section id="calendar">
@@ -47,103 +46,101 @@ layout: land
 	<div class="calendar-box">
 	  <h3>Calendar <span><a class="calendar-more" href="{{ site.baseurl }}/calendar" title="calendar">more >>></a></span></h3> 
 	  <div>
-	  <ul> 
-	    {% assign isEvent = 0 %}
-	    {% assign counter = '0' %}
-	    {% for post in site.posts reversed %}
- 	    {% if post.tag contains "news" and counter < '5' %}
- 	    {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
-            {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
-            {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
-            {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
-            {% assign postday = postday | plus: 0 %}
-            {% assign nowday = nowday | minus: 1 %}
-            {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
-            {% assign isEvent = 1 %}
-	    {% assign m = post.date | date: "%B" %}
-	    {% case m %}
-	    {% when 'April' or 'May' or 'June' or 'July' %}
-	    {% when 'September' %}{% assign m = "Sept" %}
-	    {% else %}{% assign m = post.date | date: "%b" %}
-	    {% endcase %}
-	    <li class="news-item">
-		            <div class="row">
-		              <div class="news-date">
-		              	<p> {{ m }} {{ post.date | date: "%-d" }} </p>
-		              </div>
-		              <div class="news-title">
-		                <a class='news-title-link' href="{{ post.link }}">
-		                  <h5>{{ post.title }}</h5>
-		                </a> 
-		              </div> 
-		            </div>         
-	    </li>
-	    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+	    <ul> 
+	      {% assign isEvent = 0 %}
+	      {% assign counter = '0' %}
+	      {% for post in site.posts reversed %}
+ 	      {% if post.tag contains "news" and counter < '5' %}
+ 		{% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+		{% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+		{% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
+		{% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
+		{% assign postday = postday | plus: 0 %}
+		{% assign nowday = nowday | minus: 1 %}
+		{% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
+		{% assign isEvent = 1 %}
+		{% assign m = post.date | date: "%B" %}
+		{% case m %}
+		{% when 'April' or 'May' or 'June' or 'July' %}
+		{% when 'September' %}{% assign m = "Sept" %}
+		{% else %}{% assign m = post.date | date: "%b" %}
+		{% endcase %}
+		<li class="news-item">
+		  <div class="row">
+		    <div class="news-date">
+		      <p> {{ m }} {{ post.date | date: "%-d" }} </p>
+		    </div>
+		    <div class="news-title">
+		      <a class='news-title-link' href="{{ post.link }}">
+		        <h5>{{ post.title }}</h5>
+		      </a> 
+		    </div> 
+		  </div>         
+		</li>
+		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
         	{% endif %}
 		{% endif %}
-	{% endfor %} 
-	{% if isEvent == 0 %}
+		{% endfor %} 
+		{% if isEvent == 0 %}
 		<li>
-			<div class="row">
-				<div class="news-date col-lg-2 col-lg-offset-2"></div> 
+		  <div class="row">
+		    <div class="news-date col-lg-2 col-lg-offset-2"></div> 
 	            <div class="col-lg-6">
-		        	<h4>All quiet for now. Visit again soon.</h4>    
-		         </div> 
+		      <h4>All quiet for now. Visit again soon.</h4>    
 		    </div> 
-       	</li>
-    {% endif %}
-			</ul> 
+		  </div> 
+       		</li>
+		{% endif %}
+	    </ul> 
 	  </div>
-	  
 	</div>	
       </div>
       <div class="col-md-4 dmptool">
 	<div> 
    	  <a href="https://dmptool.org/user_sessions/institution" title="DMPTool"><img src="{{ site.baseurl }}/assets/images/logo/DMPTool_logo.png" class="img-responsive" alt="DMPTool Logo"/></a> 
-	  <p>Use the DMPTool to build your data management plan. With over 30 data management plan templates from funders such as the National Science Foundation and the Sloan Foundation. congue dui eu dapibus placerat. Integer to add y</p>
+	  <p>Use the DMPTool to build your data management plan (DMP). With over 30 DMP templates from organizations like the National Science Foundation and the Sloan Foundation the DMPTool has the template you need to get started.</p>
 	  <a class="btn-lg btn-success" href="https://dmptool.org/user_sessions/institution" role="button">Visit</a> 
-
-	  </div> 
 	</div> 
+      </div> 
     </div> 
-   </div>
+  </div>
 </section> 
 
 <section id="partners">
-	<div class="container">
-	  <div class="row" id="partners-row">
-	    <h2>On Campus Partners</h2> 
-			<div class="col-md-4 partner">
-				<div>
-					<h3>Data Coordinating Center</h3>
-					<p>The Data Coordinating Center (DCC) assists with questionnaire and data collection form design, implementation of study protocols, data management, data entry, and statistical, database, and web-based programming.</p> 
-					<a class="btn-lg btn-success" href="http://www.bu.edu/dcc/" role="button">Learn More</a>
-				</div> 	
-			</div> 
-			<div class="col-md-4 partner">
-				<div>
-					<h3>IS&amp;T</h3>
-					<p>IS&amp;T's services include research computing, information security, and information technology infrastructure. The IS&T team can also help you program, access the MGHPCC, secure your work, and store your data.</p>
-					<a class="btn-lg btn-success" href="https://www.bu.edu/tech/services" role="button">Learn More</a> 
-				</div>
-			</div> 
-			<div class="col-md-4 partner">
-				<div>
-					<h3>Libraries</h3>
-					<p>ipsum dolor sit amet, consectetur adipiscing elit. In congue dui eu dapibus placerat. Integer id mollis ex. Donec facilisis vitae lectus sed pulvinar. Vestibulum et lacus quis nisi congue tempus. Donec consequa</p> 
-					<a class="btn-lg btn-success" href="{{ site.baseurl }}/workshops" role="button">Learn More</a>
-				</div> 
-			</div> 
-		</div>
+  <div class="container">
+    <div class="row" id="partners-row">
+      <h2>On Campus Partners</h2> 
+      <div class="col-md-4 partner">
+	<div>
+	  <h3>DCC</h3>
+	  <p>The Data Coordinating Center (DCC) assists with questionnaire and data collection form design, implementation of study protocols, data management, data entry, and statistical, database, and web-based programming.</p> 
+	  <a class="btn-lg btn-success" href="http://www.bu.edu/dcc/" role="button">Learn More</a>
+	</div> 	
+      </div> 
+      <div class="col-md-4 partner">
+	<div>
+	  <h3>IS&amp;T</h3>
+	  <p>IS&amp;T's services include research computing, information security, and information technology infrastructure. The IS&T team can also help you program, access the MGHPCC, secure your work, and store your data.</p>
+	  <a class="btn-lg btn-success" href="https://www.bu.edu/tech/services" role="button">Learn More</a> 
+	</div>
+      </div> 
+      <div class="col-md-4 partner">
+	<div>
+	  <h3>Libraries</h3>
+	  <p>The BU Libraries help researchers write data management plans, find archival storage solutions for thier data, and access open data. Library staff can help you publish your data and make it accessbile to others.</p> 
+	  <a class="btn-lg btn-success" href="{{ site.baseurl }}/workshops" role="button">Learn More</a>
 	</div> 
+      </div> 
+    </div>
+  </div> 
 
-	<div class="container">
-	  <div class="row">
-	    <div class="col-md-4">
-	      <p class="citation">Image from: P. Bartsch, Ronny; K. L. Liu, Kang; Bashan, Amir; Ch. Ivanov, Plamen (2015): Networks of physiologic interactions between brain areas and key organ systems during different physiologic states. <a href="https://dx.doi.org/10.1371/journal.pone.0142143.g017">https://dx.doi.org/10.1371/journal.pone.0142143.g017</a>
-	      </p>
-	    </div> 
-	  </div>
-	</div> 
+  <div class="container">
+    <div id="citation-row" class="row">
+      <div class="col-md-4">
+	<p class="citation">Image from: P. Bartsch, Ronny; K. L. Liu, Kang; Bashan, Amir; Ch. Ivanov, Plamen (2015): Networks of physiologic interactions between brain areas and key organ systems during different physiologic states. <a href="https://dx.doi.org/10.1371/journal.pone.0142143.g017">https://dx.doi.org/10.1371/journal.pone.0142143.g017</a>
+	</p>
+      </div> 
+    </div>
+  </div> 
 
 </section> 

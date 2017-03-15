@@ -41,7 +41,7 @@ As you and your research partners establish file naming conventions, we recommen
 
 ## Examples 
 
-## A Daily Journal 
+### A Daily Journal 
 
 A researcher often keeps a daily electronic journal. In her research project folder she has a folder titled “journal.” Inside this folder are text files named with a simple date format - YYYYMMDD. 
 
@@ -52,7 +52,7 @@ A researcher often keeps a daily electronic journal. In her research project fol
 			20170102.txt
 		other-sub-folder 
 
-## Meeting Minutes
+### Meeting Minutes
 
 A lab has weekly meetings to discuss their work, issues, and upcoming events. Each week a different lab member takes the meeting minutes to help distribute the workload. A file naming convention for this group might be: 
 
@@ -62,7 +62,7 @@ A lab has weekly meetings to discuss their work, issues, and upcoming events. Ea
 			20170213-project-weekly-minutes.docx
 			20170220-project-weekly-minutes.docx 
 
-## Biomedical Samples
+### Biomedical Samples
 
 A biomedical engineering lab is taking numerous samples from a heart and staining them to learn more about the tissue samples. The lab would like the samples to link the experiment and lab notebook in a systematic method so the entire lab understands which samples connect to which experiment. 
 

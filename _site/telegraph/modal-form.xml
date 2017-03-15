@@ -6,5 +6,4 @@
 	<directive action="email" to="data@bu.edu" from="[email]" subject="Data Services Website Question" />
 	<directive action="captcha"/>
 	<directive action="imperius" url="http://www-staging.bu.edu/dev/data/index.html" /> 
-
 </telegraph>

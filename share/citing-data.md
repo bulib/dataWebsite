@@ -24,11 +24,10 @@ When citing data, here's the information you'll need (when available):
  
 ## How to Cite 
 
-Let's cite some data! The examples below show you how to cite two datasets: characteristics of business owners collected in the Survey of Business Owners, and a dataset of behavioral measurements of hunting bats collected by Gomes, et al. <<suggestion: add hyperlinks to the datasets mentioned>>
-
+Let's cite some data! The examples below show you how to cite two datasets: [characteristics of business owners collected in the Survey of Business Owners](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table), and [a dataset of behavioral measurements of hunting bats collected by Gomes, et al.](http://datadryad.org/resource/doi:10.5061/dryad.5gk8j)
 ### APA 
 
-The American Psychological Association (APA) style is commonly used to cite sources in the social sciences. Materials in this section are based on [APA Style, 6th Edition](https://owl.english.purdue.edu/owl/resource/560/01/) and from Purdue's Online Writing Lab. <<suggestion: missing link?>>
+The American Psychological Association (APA) style is commonly used to cite sources in the social sciences. Materials in this section are based on [APA Style, 6th Edition](https://owl.english.purdue.edu/owl/resource/560/01/) from Purdue's Online Writing Lab.
 
 
 Basic structure: <br>
@@ -45,7 +44,7 @@ Example 2:
 
 ### Chicago - Bibliography 
 
-The [Chicago Style, 16th Edition: Bibliography Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) is a common citation style used in the areas like literature, history, and the arts. The style provides bibliographic information in the notes and usually a bibliography.
+The [Chicago Style, 16th Edition: Bibliography Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) is a common citation style used in literature, history, and the arts. The style provides bibliographic information in the notes and usually a bibliography.
 
 Basic structure:<br>
 **Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository, Year of publication. URL or DOI**

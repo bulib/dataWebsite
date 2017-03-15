@@ -11,62 +11,62 @@ permalink: /workshops/
 <section>
   <div class="container">
     <div class="row no-margin">
-      <div class="col-md-8 col-md-offset-2">
+      <div class="col-md-8 col-md-offset-2 no-padding">
 	<div class="calendar-box">
 	  <div>
-	  <ul> 
-	    {% assign isEvent = 0 %}
-	    {% for post in site.posts reversed %}
- 	    {% if post.category contains "workshops" %}
-	    {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
-            {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
-            {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
-            {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
-            {% assign postday = postday | plus: 0 %}
-            {% assign nowday = nowday | minus: 1 %}
-            {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
-            {% assign isEvent = 1 %}
-	    {% assign m = post.date | date: "%B" %}
-	    {% case m %}
-	    {% when 'April' or 'May' or 'June' or 'July' %}
-	    {% when 'September' %}{% assign m = Sept %}
-	    {% else %}{% assign m = post.date | date: "%b" %}
-	    {% endcase %}
-	    <li class="news-item">
-		            <div class="row">
-		              <div class="news-date">
-		              	<p> {{ m }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }} </p>
-		              </div>
-		              <div class="news-title">
-		                <a class='news-title-link' href=" {% if post.link %} {{post.link}} {% else %} {{site.baseurl}}{{ post.url }} {% endif %}">
-		                  <h4>{{ post.title }}</h4>
-		                </a>
-		              </div> 
-		            </div>
-			    <div class="row">
-			      <div class="news-date"></div>
-			      <p class="workshop-excerpt">{{ post.excerpt}}</p>
-			    </div>
-		        </li>
-        	{% endif %}
-		{% endif %}
-	    {% endfor %} 
-	    {% if isEvent == 0 %}
-	    <li>
-	      <div class="row">
-		<div class="news-date col-lg-2 col-lg-offset-2"></div> 
-	        <div class="col-lg-6">
-		  <h4>All quiet for now. Visit again soon.</h4>    
-	        </div>
-	      </div> 
-       	    </li>
-	    {% endif %}
-	  </ul>
+	    <ul> 
+	      {% assign isEvent = 0 %}
+	      {% for post in site.posts reversed %}
+ 	      {% if post.category contains "workshops" %}
+	      {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+              {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+              {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
+              {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
+              {% assign postday = postday | plus: 0 %}
+              {% assign nowday = nowday | minus: 1 %}
+              {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
+              {% assign isEvent = 1 %}
+	      {% assign m = post.date | date: "%B" %}
+	      {% case m %}
+	      {% when 'April' or 'May' or 'June' or 'July' %}
+	      {% when 'September' %}{% assign m = Sept %}
+	      {% else %}{% assign m = post.date | date: "%b" %}
+	      {% endcase %}
+	      <li class="news-item">
+		<div class="row">
+		  <div class="news-date">
+		    <p> {{ m }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }} </p>
+		  </div>
+		  <div class="news-title">
+		    <a class='news-title-link' href=" {% if post.link %} {{post.link}} {% else %} {{site.baseurl}}{{ post.url }} {% endif %}">
+		      <h4>{{ post.title }}</h4>
+		    </a>
+		  </div> 
+		</div>
+		<div class="row">
+		  <div class="news-date"></div>
+		  <p class="workshop-excerpt">{{ post.excerpt}}</p>
+		</div>
+	      </li>
+              {% endif %}
+	      {% endif %}
+	      {% endfor %} 
+	      {% if isEvent == 0 %}
+	      <li>
+		<div class="row">
+		  <div class="news-date col-lg-2 col-lg-offset-2"></div> 
+	          <div class="col-lg-6">
+		    <h4>All quiet for now. Visit again soon.</h4>    
+	          </div>
+		</div> 
+       	      </li>
+	      {% endif %}
+	    </ul>
 	  </div>
 	</div>
       </div>	
-   </div>
-</div> 
+    </div>
+  </div> 
 </section>
 
 <div class="section-introduction-past-workshops">
@@ -76,46 +76,46 @@ permalink: /workshops/
 <section class="past-workshops">
   <div class="container">
     <div class="row no-margin">
-      <div class="col-md-8 col-md-offset-2">
+      <div class="col-md-8 col-md-offset-2 no-padding">
 	<div class="calendar-box">
 	  <div>
-	  <ul> 
-	{% for post in site.posts %}
-	{% if post.category contains "workshops" and post.category contains "webinar" %} 
+	    <ul> 
+	      {% for post in site.posts %}
+	      {% if post.category contains "workshops" and post.category contains "webinar" %} 
 
-	    {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
-            {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
-            {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
-            {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
-            {% assign postday = postday | plus: 0 %}
-            {% assign nowday = nowday | plus: 0  %}
-            {% if postyear < nowyear or (postday <= nowday and postyear >= nowyear) %}
-	    {% assign m = post.date | date: "%B" %}
-	    {% case m %}
-	    {% when 'April' or 'May' or 'June' or 'July' %}
-	    {% when 'September' %}{% assign m = "Sept" %}
-	    {% else %}{% assign m = post.date | date: "%b" %}
-	    {% endcase %}	
-	<li class="news-item">
-		            <div class="row">
-		              <div class="news-date">
-		              	<p> {{ m }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }} </p>
-		              </div>
-		              <div class="news-title">
-		                <a class='news-title-link' href="{% if post.link %} {{post.link}} {% else %} {{site.baseurl}}{{ post.url }}{% endif %}">
-		                  <h4>{{ post.title }}</h4>
-		                </a>
-		              </div> 
-		            </div>
-			    <div class="row">
-			      <div class="news-date"></div>
-			      <p class="workshop-excerpt">{{ post.excerpt}}</p>
-			    </div>
-	</li>
-	{% endif %}
-		{% endif %}
-	{% endfor %} 
-	</div>	
-      </div>
-</div> 
+	      {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+              {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+              {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
+              {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
+              {% assign postday = postday | plus: 0 %}
+              {% assign nowday = nowday | plus: 0  %}
+              {% if postyear < nowyear or (postday <= nowday and postyear >= nowyear) %}
+			       {% assign m = post.date | date: "%B" %}
+			       {% case m %}
+			       {% when 'April' or 'May' or 'June' or 'July' %}
+			       {% when 'September' %}{% assign m = "Sept" %}
+			       {% else %}{% assign m = post.date | date: "%b" %}
+			       {% endcase %}	
+			       <li class="news-item">
+				 <div class="row">
+				   <div class="news-date">
+		              	     <p> {{ m }} {{ post.date | date: "%-d" }}, {{ post.date | date: "%Y" }} </p>
+				   </div>
+				   <div class="news-title">
+		                     <a class='news-title-link' href="{% if post.link %} {{post.link}} {% else %} {{site.baseurl}}{{ post.url }}{% endif %}">
+		                       <h4>{{ post.title }}</h4>
+		                     </a>
+				   </div> 
+				 </div>
+				 <div class="row">
+				   <div class="news-date"></div>
+				   <p class="workshop-excerpt">{{ post.excerpt}}</p>
+				 </div>
+			       </li>
+			       {% endif %}
+			       {% endif %}
+			       {% endfor %} 
+	  </div>	
+	</div>
+      </div> 
 </section> 

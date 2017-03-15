@@ -36,17 +36,21 @@ code {
 
 p,
 .row {
-	margin-right: 0;
-	margin-left: 0; 
+    margin-right: 0;
+    margin-left: 0; 
 }
 
 .btn-lg.btn-success {
-	border: 0; 
+    border: 0; 
 }
 
 .no-margin {
     margin: 0 0 0 0; 
 }
+
+.no-padding {
+    padding: 0 0 0 0;
+} 
 
 /* * * * * * * * * * * * * * 
  *
@@ -65,18 +69,18 @@ p,
 }
 
 nav.navbar.navbar-default.shrink {
-	padding: 10px 0; 
+    padding: 10px 0; 
 }
 
 .navbar-nav > li:hover {
-	border: 1px solid #4fc3a0;
+    border: 1px solid #4fc3a0;
 }
 
 
 .navbar-brand {
-	margin-left: 20px;
-	padding-top: 5px; 
-	width: 240px; 
+    margin-left: 20px;
+    padding-top: 5px; 
+    width: 240px; 
 }
 
 
@@ -96,7 +100,7 @@ nav.navbar.navbar-default.shrink {
 }
 
 #navbar-collapse-1 > ul > li {
-	text-align: right; 
+    text-align: right; 
 }
 
 /* * * * * * * * * * * * * * 
@@ -107,18 +111,18 @@ nav.navbar.navbar-default.shrink {
  * * * * * * * * * * * * * */
 
 .page-wrapper {
-	min-height: 100%;
-	margin-bottom: -150px;  
+    min-height: 100%;
+    margin-bottom: -150px;  
 }
 
 .page-wrapper:after {
-  content: "";
-  display: block;
+    content: "";
+    display: block;
 }
 
 footer, 
 .page-wrapper:after {
-  	height: 150px; 
+    height: 150px; 
 }
 
 /* * * * * * * * * * * * * * 
@@ -128,36 +132,45 @@ footer,
  *
  * * * * * * * * * * * * * */
 
+
 .intro-text > h1 {
-	font-size: 60px; 
-	text-align: left;
-	color: $primary-text; 
+    font-size: 55px; 
+    text-align: left;
+    color: $primary-text; 
 }
 
 @media (min-width: 500px) {
-	.intro-text > h1 {
-	    font-size: 80px;
-	}
+    .intro-text > h1 {
+	font-size: 80px;
+    }
 }
 
 @media (min-width: 970px) {
-	.intro-text {
-		width: 55%;
-	}
-	.intro-text > a {
-		font-size: 20px; 
-		width: 25%;
-	}
+    .intro-text {
+	width: 55%;
+    }
+    .intro-text > a {
+	font-size: 20px; 
+	width: 25%;
+    }
 }
 
 .intro-text > a {
     display: block;
-	text-align: center;
-	min-height: 50px;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	font-size: $font-size; 
-	font-weight: 500;
+    text-align: center;
+    min-height: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: $font-size; 
+    font-weight: 500;
+}
+
+#services .row,
+#calendar > div.container div.row,
+#partners-row,
+#citation-row {
+    margin-right: -15px;
+    margin-left: -15px;
 }
 
 .service > div,
@@ -177,11 +190,14 @@ footer,
 
 .dmptool > div {
     padding-bottom: 25px;
+    padding-top: 20px; 
+    min-height: 370px; 
 } 
 
 .calendar-box:hover,
 .service > div:hover, 
-.dmptool > div:hover {
+.dmptool > div:hover,
+.partner > div:hover{
     border-color: $cta-color; 
 }
 
@@ -220,7 +236,6 @@ footer,
 .citation {
     font-size: 10px;
     line-height: 1;
-    margin: 0 15px;
 }
 
 #welcome > div.container > p.citation{
@@ -228,16 +243,16 @@ footer,
 }
 
 #timely-news {
-	padding: 20px 0 4px;
-	max-width: 1136px; 
-	margin: 15px auto;
-	border-radius: 15px;
+    padding: 20px 0 4px;
+    max-width: 1136px; 
+    margin: 15px auto;
+    border-radius: 15px;
 }
 
 @media (min-width: 500px) {
-	#timely-news {
-		width: 75%;
-	}
+    #timely-news {
+	width: 75%;
+    }
 }
 
 #calendar {
@@ -245,16 +260,16 @@ footer,
 } 
 
 div.calendar-box > h3::before {
-  content: "";
-  background-color: $cta-color; 
-  background-repeat: no-repeat; 
-  top: 0px; 
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  max-height: 25px;  
-  margin: 0 15px; 
+    content: "";
+    background-color: $cta-color; 
+    background-repeat: no-repeat; 
+    top: 0px; 
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    max-height: 25px;  
+    margin: 0 15px; 
 }
 
 .calendar-box ul {
@@ -282,6 +297,11 @@ div.calendar-box > h3::before {
     font-weight: 400; 
 }
 
+.calendar-box a.calendar-more {
+    display: inline-block;
+    margin-top: 4px;
+} 
+
 .calendar-box a.calendar-more,
 .calendar-box a.calendar-more:visited {
     color: $cta-color; 
@@ -298,7 +318,7 @@ div.calendar-box > h3::before {
     .news-date {
 	padding: 0;
 	width: 10%; 
-   }
+    }
 
     .news-title {
 	max-width: 80%;
@@ -313,12 +333,13 @@ div.calendar-box > h3::before {
     }
 
     .news-item .news-title .news-title-link {
-	display: inline-block; 
-    }  
+	display: inline-block;
+	padding-left: 20px;
+    } 
 }
 
 #timely-news .news-date {
-	text-align: center; 
+    text-align: center; 
 }
 
 
@@ -327,80 +348,78 @@ div.calendar-box > h3::before {
     font-weight: 800;
     color: $cta-color;
     font-size: 18px;
-    text-align: center; 
+    text-align: left; 
 }
-
 
 .news-item .news-title .news-title-link {
     display: block; 
-    padding-left: 20px;
     color: $secondary-text;
     text-decoration: none;
     word-wrap: break-word;
 }
 
 #timely-news hr {
-	width: 50%
+    width: 50%
 }
 
 #timely-news ul {
-	list-style: none; 
+    list-style: none; 
 }
 
 #timely-news > h3 {
-	text-align: center; 
-	font-style: italic;
-	text-decoration: underline;
+    text-align: center; 
+    font-style: italic;
+    text-decoration: underline;
 }
 
 #timely-news li.news-item:nth-of-type(n+6),
 #timely-news hr:nth-of-type(n+6) {
-	display: none; 
+    display: none; 
 }
 
 a.news-title  {
-	color: #404040;
-	text-decoration: none; 
+    color: #404040;
+    text-decoration: none; 
 }
 
 #tool-tip {
-	min-height: 400px; 
-	text-align: center; 
+    min-height: 400px; 
+    text-align: center; 
 }
 
 #tool-tip h3 {
-	text-align: center;
+    text-align: center;
 }
 
 #tool-tip img {
-	padding: 20px;
+    padding: 20px;
 }
 
 #tool-tip > div.container > div.col-md-4 > p {
-	text-align: left;
-	padding: 0 20px;
+    text-align: left;
+    padding: 0 20px;
 }
 
 #tool-tip > div.container > div.col-md-8 > p:nth-child(3) {
-	margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 
 #about {
-	min-height: 400px; 
+    min-height: 400px; 
 }
 
 #about h3 {
-	text-align: center; 
+    text-align: center; 
 }
 
 #all {
-	display: block; 
+    display: block; 
 }
 
 #welcome {
-	padding-top: 120px;
-	min-height: 600px;
-	position: relative;
+    padding-top: 120px;
+    min-height: 600px;
+    position: relative;
 }
 
 #partners {
@@ -433,9 +452,9 @@ a.news-title  {
 
 
 .home-page.page-wrapper {
-  background: url("../images/home-background-images/home-background-image.png");
-  background-repeat: no-repeat; 
-  background-position: right top;
+    background: url("../images/home-background-images/home-background-image.png");
+    background-repeat: no-repeat; 
+    background-position: right top;
 
 }
 /*
@@ -463,7 +482,7 @@ a.news-title  {
 .section-introduction,
 #main > .workshops:first-child,
 #main > article.post {
-	padding: 120px 0 0;
+    padding: 120px 0 0;
 }
 
 div.section-index-title {
@@ -472,21 +491,16 @@ div.section-index-title {
     border-radius: $rounded-corner; 
     padding: 0;
     position: relative;
-    bnackground-color: rgba(126, 126, 255, 0.8);
+    background-color: rgba(126, 126, 255, 0.8);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 div.section-index-title:hover,
 div.section-index-title:active,
 div.section-index-title:focus {
     opacity: 0.7; 
-}
-
-div.section-index-title > a {
-    text-align: center; 
-    position: absolute;
-    top: 35%;
-    height: 100%; 
-    width: 100%; 
 }
 
 div.section-index-title > a:hover,
@@ -499,15 +513,20 @@ div.section-index-title > a > h3 {
     color: #fff;
     font-size: 36px;
     font-weight: 800;
-    margin: 0 10px; 
+    margin: 0 10px;
+    text-align: center; 
 }
+
+div.section-index-title > p {
+    text-align: center;
+} 
 
 div.section-index-item {
     margin-bottom: 50px;
     padding: 0px; 
 }
 
-@media (min-width: 970px) {
+@media (min-width: 992px) {
 
     div.section-index-item:nth-child(odd){
 	clear: both;
@@ -533,27 +552,44 @@ div.section-index-item {
 }
 
 .section-index-item-header > a {
-	color: #fff;
-	text-align: center; 
+    color: #fff;
+    text-align: center; 
 }
 .section-index-item-header > a > h3 {
-	margin: 0; 
-	padding-top: 10px;
+    margin: 0; 
+    padding-top: 10px;
 }
 
-.section-index-item > p {
+.section-index-item > p.page-excerpt {
     margin: 0 10px;
-    width: 90%; 
+    width: 90%;
+    text-align: center;
 }
+
+@media (min-width: 992px) {
+    .section-index-item > p.page-excerpt {
+	text-align: left;
+    }
+}
+		    
 
 .section-introduction {
     text-align: center;
-    margin: 25px 0 50px 0; 
+    margin: 25px 0 50px 0;
+    padding-right: 15px;
+    padding-left: 15px; 
 }
 
 .section-introduction h1 {
     text-color: $primary-text;
-    font-weight: 800; 
+    font-weight: 800;
+    font-size: 32px; 
+}
+
+@media (min-width: 350px) {
+    .section-introduction h1 {
+	font-size: 36px; 
+    }
 }
 
 .section-introduction-past-workshops {
@@ -568,7 +604,7 @@ div.section-index-item {
 
 .section-index-item-header > a ,
 .section-index-item-header > a :hover {
-	text-decoration: none 
+    text-decoration: none 
 }
 
 /* * * * * 
@@ -618,7 +654,7 @@ Unique backgrounds
     background-repeat: no-repeat;
 }
 
- 
+
 /* * * * * * * * * * * * * * 
  *
  * Page Style 
@@ -626,38 +662,42 @@ Unique backgrounds
  *
  * * * * * * * * * * * * * */
 
-.page-title-wrapper{
+.page-titl-wrapper{
     width: 100%;
     background-color: rgba(126, 126, 255, 0.8);	      
 }
 
 .page-title {
-	padding: 120px 0 0 0;
-	min-height: 270px;
-	margin-bottom: 50px;
-	position: relative; 
+    padding: 120px 0 0 0;
+    min-height: 270px;
+    margin-bottom: 50px;
+    position: relative;
+    display: flex;
+    align-items: center; 
 }
 
 #main {
-	width: 100%;
-	margin: 0;
-	padding: 0;
-	position: relative; 
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative; 
 }
 
 .page-title h1 {
-	text-align: left;
-	color: $white-text; 
-	font-weight: 800;
-	font-size: 4.3em;
-	position: absolute;
-	top: 60%;
-	margin-top: 10px; 
+    text-align: left;
+    color: $white-text; 
+    font-weight: 800;
+}
+
+@media (min-width: 550px) {
+    .page-title h1 {
+	font-size: 60px;
+    } 
 }
 
 .page-author {
-	font-size: 18px; 
-	padding-bottom: 25px; 
+    font-size: 18px; 
+    padding-bottom: 25px; 
 }
 
 article.page {
@@ -681,17 +721,17 @@ article.page > div.entry p {
 
 /* table of contents */ 
 nav#toc {
-	display: none; 
+    display: none; 
 }
 
-@media (min-width: 1200px) {
-	nav#toc {
-		display: unset; 
-	}
+@media (min-width: 993px) {
+    nav#toc {
+	display: unset; 
+    }
 }
 
 nav[data-toggle=toc] .nav>li>a {
-	font-size: 15px; 
+    font-size: 15px; 
 }
 
 nav[data-toggle=toc] .nav>li>a:focus, 
@@ -708,7 +748,7 @@ nav#toc {
 }
 
 nav#toc.affix {
-    top: 75px;
+    top: 100px;
     position: fixed; 
 }
 
@@ -726,44 +766,44 @@ ul.nav {
  * * * * * * * * * * * * * */
 
 h1.title {
-	text-align: center; 
+    text-align: center; 
 }
 
 p.author {
-	font-size: 18px; 
-	text-align: center; 
+    font-size: 18px; 
+    text-align: center; 
 }
 
 .template {
-	margin: 10px auto;
+    margin: 10px auto;
     display: block;
     width: 25%;
 }
 
 .template > span.glyphicon {
-	font-size: 40px; 
-	line-height: 40px; 
-	top: 4px;
+    font-size: 40px; 
+    line-height: 40px; 
+    top: 4px;
 }
 
 .poc > p {
-	margin-top: 20px; 
+    margin-top: 20px; 
 }
 
 .poc > .member > ul {
-	list-style: none; 
-	display: inline-block;
+    list-style: none; 
+    display: inline-block;
     margin: 5px;
     padding: 0;
 }
 
 .poc > .member > img {
-	border-radius: 50%;
+    border-radius: 50%;
     float: left;   
 }
 
 .member {
-	background-color: #f5fff2;
+    background-color: #f5fff2;
     border-left: 2px solid #4fc3a0;
     height: 96px;
 }
@@ -778,6 +818,10 @@ p.author {
 article.max-width {
     max-width: 650px;
 } 
+
+article.max-width.workshop {
+    padding: 0 10px; 
+}
 
 .post-title-wrapper .page-title h1 {
     text-align: center;
@@ -835,7 +879,7 @@ article.max-width {
     display: block;
     margin: 0 auto; 
 }
-    
+
 .workshop-page-registration-slides {
     text-align: center;
     margin-top: 25px; 
@@ -859,7 +903,7 @@ article.max-width {
 }
 
 .workshops .no-workshops {
-	text-align: center; 
+    text-align: center; 
 }
 
 
@@ -872,9 +916,16 @@ article.max-width {
     }
 }
 
-.workshop-excerpt {
-    margin-left: 21px;
-    max-width: 70%; 
+.workshop-excerpt{
+    display: none;
+} 
+
+@media (min-width: 768px){
+    
+    .workshop-excerpt {
+	margin-left: 21px;
+	max-width: 70%; 
+    }
 }
 
 .workshops .calendar-box {
@@ -940,40 +991,20 @@ footer {
     display:none;
 }
 
-@media (min-width: 600px) {
-    footer .footer-bu-text {
-	color: #B7B6B5;
-	display: inline-block;
-	float: left;
-	margin: 40px 0;
-    }
-    footer .footer-bu-text span {
-	font-weight: 800; 
-    }
-}
-
 footer ul {
-	float: right; 
-	list-style: none; 
-	margin: 40px 0;
+    list-style: none; 
+    margin: 40px 0;
+    padding: 0; 
 }
 
 footer ul li {
-    display: inline; 
+    display: block; 
     line-height: 2;
     font-size: 1.1em; 
     font-weight: 200;
-    text-align: right; 
+    text-align: center; 
 }
 
-footer ul li:first-child {
-    margin-right: 15px;
-}
-/*
-footer ul li:first-child {
-    padding-right: 25px; 
-}
-********/ 
 
 footer ul li a span {
     margin-right: 10px;
@@ -991,30 +1022,47 @@ footer ul li a:visited {
     color: $gray-text; 
 }
 
-
 footer a.bu-logo {
-	float: left;
-	margin: 50px 40px 0 0;
+    float: left;
+    margin: 50px 40px 0 0;
 }
 
 footer address {
-	display: block; 
-	width: 500px; 
+    display: block; 
+    width: 500px; 
 }
 
 footer div.container div {
-	float: left;
-	text-align: left;
-	margin: 40px 0px 0px;
+    float: left;
+    text-align: left;
+    margin: 40px 0px 0px;
 }
 
 footer h3 {
-	margin: 0;
+    margin: 0;
 }
 
 footer h3 span {
-	font-weight: 300; 
+    font-weight: 300; 
 }
+
+@media (min-width: 600px) {
+    footer .footer-bu-text {
+	color: #B7B6B5;
+	display: inline-block;
+	float: left;
+	margin: 40px 0;
+    }
+    footer .footer-bu-text span {
+	font-weight: 800; 
+    }
+
+    footer ul li {
+	text-align: right;
+    }
+    
+}
+
 
 /* * * * * * * * * * * * * * 
  *
@@ -1024,11 +1072,39 @@ footer h3 span {
  * * * * * * * * * * * * * */
 
 .modal-title {
-	text-align: center;
-	font-size: 22px;
+    text-align: center;
+    font-size: 22px;
 }
 
 .g-recaptcha {
     float:right;
     margin-bottom: 20px; 
+}
+
+/* * * * * * * * * * * * * * 
+ *
+ * Responsive Elements 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+/*  From 
+https://bootstrapmaster.com/implement-responsive-youtube-vimeo-embed-iframe-twitter-bootstrap-3/ 
+*/
+
+.responsive-video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 60px; overflow: hidden;
+}
+
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
