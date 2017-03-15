@@ -65,13 +65,13 @@ Follow these quick steps to get started using the DMPTool.
 
 Visit [DMPTool.org](https://dmptool.org/) and click on the login button in the upper right of the page. 
 
-<< add gif here >> 
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-login.gif" class="img-responsive" alt="DMPTool Login"/>
 
 ### Select Boston University 
 
 In the drop down, select Boston University. 
 
-<< add animated gif here >> 
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-select-bu.gif" class="img-responsive" alt="DMPTool Select Boston University"/>
 
 ### Authenticate 
 
@@ -89,7 +89,7 @@ Click on "Create New DMP" to start a new data management plan.
 
 Lastly, select a template to get started! 
 
-<< add animated gif here >> 
+<img src="{{ site.baseurl }}/assets/images/guides/dmptool-select-template.gif" class="img-responsive" alt="DMPTool Select a Template"/>
 
 ## Help
 
