@@ -59,7 +59,7 @@ Example 2:
 
 ### Chicago - Author-Date
 
-The[Chicago Style, 16th Edition: Author-Date Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) differs from the bibliography style by briefly citing sources in the text, usually in parentheses, by author's last name and data of publication. The citations are then fleshed out in a list of references, where the complete bibliographic information is provided. This format is often used in the physical, natural and social sciences.
+The [Chicago Style, 16th Edition: Author-Date Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) differs from the bibliography style by briefing sources in the text, usually in parenthesis, by author's last name and data of publication. The citations are then fleshed out in a list of references, where the complete bibliographic information is provided. This format is often used in the physical, natural and social sciences.**
 
 Basic structure:<br>
 **Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository. URL or DOI**
