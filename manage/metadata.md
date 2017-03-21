@@ -34,7 +34,7 @@ There are only a few general guidelines for adding metadata to a data set: ensur
 
 ### Make Your Data Citable
 
-To help others find your data and to reuse it appropriately, we'll need to provide enough details to ensure your data is citable. To allow others to cite your data you'll need to provide:
+To help others find your data and to reuse it appropriately, we'll need to provide enough details to ensure your data is citable. You'll need to provide:
 
 + Creator(s) of the data
 + Title of the data set
@@ -42,7 +42,7 @@ To help others find your data and to reuse it appropriately, we'll need to provi
 + Version or edition of the data set
 + URL or DOI of the data
 
-For more information about how to [cite data read our guide](https://bulib.github.io/dataWebsite/manage/citing-data/). 
+For more information on how to cite data [read our guide](https://bulib.github.io/dataWebsite/manage/citing-data/). 
 
 ### Provide Documentation
 
