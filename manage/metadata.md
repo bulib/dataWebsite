@@ -30,7 +30,7 @@ Metadata provide the necessary information for others - sometimes your future se
 
 ## General Guidelines 
 
-There are a few general guidelines for adding metadata to a data set: ensuring your data is citable and providing documentation. 
+There are only a few general guidelines for adding metadata to a data set: ensuring your data is citable and providing documentation. 
 
 ### Make Your Data Citable
 
