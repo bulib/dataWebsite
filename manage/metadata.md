@@ -46,17 +46,17 @@ For more information on how to cite data [read our guide](https://bulib.github.i
 
 ### Provide Documentation
 
-Sharing documentation about your data set is the best way to help others reuse it. Additionally, developing the documentation will also help you articulate some of the subtleties living within your data.
+Sharing documentation about your data set is the best way to help others reuse it. Additionally, developing the documentation will also help you articulate some of the subtle details living within your data.
 
 A common method for documenting your data is writing a data dictionary. A data dictionary is great for explaining variable names, potential values, and format. Data dictionaries don't have to be complicated to be useful - a spreadsheet or text file will do the trick. 
 
-An example [data dictionary entry](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) from the [311 Service calls](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52) in Boston looks like:
+An example [data dictionary entry](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) from the [311 Service calls](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52) in Boston looks like this:
 
 | Vairable Name  | Label | Type | Value Codes | Missing Code|
 | ------------  | ----- | ---- | ----------- | -----------|	
 | OPEN_DT 	| Case open date | Date (mm/dd/yyyy <br/> hh:mm:ss AM/PM) | NA | (BLANK) | 
 
-This table quickly conveys a lot of useful information. The variable name (OPEN_DT), as represented in the data set, is more fully explained (case open date) as well as the type of data we'd expect to find in it (date-time data). Without this we'd have to contact the creator of the data set to ask "what does OPEN_DT stand for?" A potentially time consuming process for everyone involved. 
+The table above quickly conveys a lot of useful information. According to the table, the variable name OPEN_DT is more fully explained as case open date, and we'd expect to find it in data-time data in the dataset. Without this, we'd have to contact the creator of the data set to ask "what does OPEN_DT stand for?", which makes it more time consuming for everyone involved. 
 
 Other information to include with your data set might be: 
 
@@ -65,9 +65,9 @@ Other information to include with your data set might be:
 + Data collection methodology
 + Protocols for cleaning data 
 
-Finally, it is always valuable to provide a short story about your data that briefly explains the who, what, when, where, and why about your data set. Also, if the data set was the foundation of any published works be sure to mention that and provide a link if possible. 
+Finally, it is always important to provide a short story about your data that briefly explains the who, what, when, where, and why about your data set. Also, if the data set was the foundation of any published works be sure to mention that and provide a link, if possible. 
 
-Without the proper documentation your data is unlikely to be reused by others. 
+Without the proper documentation, your data is unlikely to be reused by others. 
 
 ## Things to Avoid
 
