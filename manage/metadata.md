@@ -71,12 +71,12 @@ Without the proper documentation, your data is unlikely to be reused by others.
 
 ## Things to Avoid
 
-Here are a few things to try to avoid when providing metadata about your data set. 
+Here are a few things to try to avoid when providing metadata about your data set: 
 
-+ Being inconsistent with creators names
++ Being inconsistent with creators' names
 + Cryptic variable names 
 + Misleading or dated documentation 
-+ Saving documentation in propriatary formats that others might not have access to.
++ Saving documentation in propriatary formats that others might not have access to
 + Inaccurate contact information 
 
 ## Additional Resources
