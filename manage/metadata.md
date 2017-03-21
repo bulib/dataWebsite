@@ -81,7 +81,7 @@ Here are a few things to try to avoid when providing metadata about your data se
 
 ## Additional Resources
 
-There are too many metadata standards and best practices for all the various disciplines for us to list in one place. Below are a list of places and resources you can visit to find more information. You can also [contact us](mailto:data@bu.edu) if you have any questions or issues. 
+There are too many metadata standards and best practices on all the various disciplines for us to list in one place. Below are a list of places and resources you can visit to find more information. You can also [contact us](mailto:data@bu.edu) if you have any questions or issues. 
 
 ### Discplinary Metadata Guide
 
