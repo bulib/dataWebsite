@@ -10,13 +10,13 @@ excerpt: Find out what metadata are and how to use them.
 ---
 ## What are Metadata?
 
-Metadata are data about data and are everywhere (we just don't always notice them). Examples of metadata that you might be more familiar with are:
+Metadata are data that describes data and are everywhere (we just don't always notice them). Examples of metadata that you might be familiar with are:
 
 + a book's author
 + a journal's publisher
 + an article's publication date
 
-Each one of these pieces of metadata provide more information about the item you're looking at. When metadata is standardized and brought together they become powerful tools for locating and discovering things - like a library catalog or an internet search engine. 
+Each metadata example provides more information about the item you're looking at. When metadata is standardized and brought together <<suggestion: with what?>>, they become powerful tools for locating and discovering things - like a library catalog or an internet search engine. 
 
 ## Why add Metadata? 
 
