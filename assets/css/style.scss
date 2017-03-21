@@ -718,6 +718,11 @@ article.page > div.entry p {
     color: $secondary-text; 
 }
 
+div.entry > table {
+    margin: 25px 0; 
+    width: 100%; 
+}
+
 
 /* table of contents */ 
 nav#toc {
