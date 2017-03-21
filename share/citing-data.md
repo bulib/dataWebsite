@@ -16,15 +16,15 @@ You are familiar with citing books, films, articles and even images – but what
 When citing data, here's the information you'll need (when available):
 
 * Creator(s) of the data
-* Title of the dataset
-* Year the dataset was published or submitted to a repository
-* Version or edition of the dataset
+* Title of the data set
+* Year the data set was published or submitted to a repository
+* Version or edition of the data set
 * URL or DOI used to access the data
 * Date you accessed the data
  
 ## How to Cite 
 
-Let's cite some data! The examples below show you how to cite two datasets: [characteristics of business owners collected in the Survey of Business Owners](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table), and [a dataset of behavioral measurements of hunting bats collected by Gomes, et al.](http://datadryad.org/resource/doi:10.5061/dryad.5gk8j)
+Let's cite some data! The examples below show you how to cite two data sets: [characteristics of business owners collected in the Survey of Business Owners](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table), and [a data set of behavioral measurements of hunting bats collected by Gomes, et al.](http://datadryad.org/resource/doi:10.5061/dryad.5gk8j)
 ### APA 
 
 The American Psychological Association (APA) style is commonly used to cite sources in the social sciences. Materials in this section are based on [APA Style, 6th Edition](https://owl.english.purdue.edu/owl/resource/560/01/) from Purdue's Online Writing Lab.
@@ -47,7 +47,7 @@ Example 2:
 The [Chicago Style, 16th Edition: Bibliography Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) is a common citation style used in literature, history, and the arts. The style provides bibliographic information in the notes and usually a bibliography.
 
 Basic structure:<br>
-**Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository, Year of publication. URL or DOI**
+**Creator/Rightsholder of Data. <i>Title of data set</i>. Version/Edition of data. Distributed by Organization or Repository, Year of publication. URL or DOI**
 
 Example 1:
 
@@ -62,7 +62,7 @@ Example 2:
 The [Chicago Style, 16th Edition: Author-Date Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) differs from the bibliography style by briefing sources in the text, usually in parenthesis, by author's last name and data of publication. The citations are then fleshed out in a list of references, where the complete bibliographic information is provided. This format is often used in the physical, natural and social sciences.**
 
 Basic structure:<br>
-**Creator/Rightsholder of Data. Year of publication. <i>Title of dataset</i>. Version/Edition of data. Distributed by Organization or Repository. URL or DOI**
+**Creator/Rightsholder of Data. Year of publication. <i>Title of data set</i>. Version/Edition of data. Distributed by Organization or Repository. URL or DOI**
 
 Example 1:
 
@@ -78,7 +78,7 @@ The Modern Language Association [MLA Style (7th Edition)](https://owl.english.pu
 
 
 Basic structure:<br>
-**Creator/Rightsholder of Data. <i>Title of dataset</i>. Version/Edition of data. Hosting Organization or Repository, Year of Publication. Format of Source. Date of Access. URL or DOI**
+**Creator/Rightsholder of Data. <i>Title of data set</i>. Version/Edition of data. Hosting Organization or Repository, Year of Publication. Format of Source. Date of Access. URL or DOI**
 
 Example 1:
 
