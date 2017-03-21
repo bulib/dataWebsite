@@ -83,7 +83,7 @@ Here are a few things to try to avoid when providing metadata about your data se
 
 There are too many metadata standards and best practices on all the various disciplines for us to list in one place. Below are a list of places and resources you can visit to find more information. You can also [contact us](mailto:data@bu.edu) if you have any questions or issues. 
 
-### Discplinary Metadata Guide
+### Disciplinary Metadata Guide
 
 A list of some additional guides we know about:
 
@@ -107,4 +107,4 @@ An incomplete list of existing metadata standards:
 + <a href="http://www.dlib.indiana.edu/~jenlrile/metadatamap/">Seeing Standards: A Visualization of the Metadata Universe</a> (humanities: information on over a hundred cultural heritage metadata standards) 
 + <a href="http://tei-c.org/">Text Encoding Initiative</a>
 + [DataCite Metadata Schema](https://schema.datacite.org/) 
-+ [Minimum Information for Biological and Biomedical Invesitations](https://biosharing.org/collection/MIBBI) 
++ [Minimum Information for Biological and Biomedical Investigations](https://biosharing.org/collection/MIBBI) 
