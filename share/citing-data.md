@@ -6,7 +6,7 @@ css: purple-hexagons
 category: 
 - share
 - guide
-excerpt: Learn how to cite data properly in your papers, reports, and presentations  
+excerpt: Learn how to cite data properly in your papers, reports, and presentations. 
 ---
 
 ## What You'll Need 

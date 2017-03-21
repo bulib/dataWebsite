@@ -5,7 +5,7 @@ category:
 - manage
 - guide 
 css: burgundy-triangles
-excerpt: Use this guide to get started with writing your first data management plan 
+excerpt: Use this guide to get started with writing your first data management plan.
 ---
 
 ## What is a Data Management Plan (DMP)? 

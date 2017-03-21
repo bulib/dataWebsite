@@ -5,7 +5,7 @@ css: gold-triangles
 category: 
 - manage
 - guide
-excerpt: Discover how to design a simple and effective naming convention for your project
+excerpt: Discover how to design a simple and effective naming convention for your project.
 ---
 
 ## What is a File Naming Convention?
