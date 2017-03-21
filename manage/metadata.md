@@ -20,11 +20,13 @@ Each metadata example provides more information about the item you're looking at
 
 ## Why add Metadata? 
 
-Adding metadata to data sets are particularly important because data sets exist within a certain context and this context must be communicated for others to reuse the data set. 
+Metadata are important because it explains a data set to others. Data sets exist within a certain context, and this context must be communicated well for others to reuse the data set. 
 
-Metadata explains a data set to others. For example, the [City of Boston has open data on 311 Service requests](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52). If a researcher didn't know the data was about Boston, what a 311 request is, or the year for the data represents it would be very difficult to reuse the data. Further, without the [data dictionary](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) it would be hard to understand what some variables are, what blank values mean, or what values are possible. 
+ For example, the [City of Boston has open data on 311 Service requests](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52). If a researcher didn't know the data was about Boston, what a 311 request is, or the year the data was created, it would be very difficult to reuse the data. Further, without the [data dictionary](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) it would be hard to understand what some variables are, what blank values mean, or what values are possible. 
 
-This is why metadata is important. It provides the necessary information for others - sometimes your future self - to understand a data set and how to properly reuse it. 
+<suggestion: kind of confused with line 25 above. So the sentence about the research not knowing the data was about Boston, blah blah, is that refering to the importance of also using a data dictionary? Or is that something else? Is that sentence and the sentence referring to the data dictionary? If so, mention the data dictionary before mentioning the research example. So like 'Without a data dictionary, the research wouldn't know the data was about Boston....'>
+
+Metadata provide the necessary information for others - sometimes your future self - to understand the data set and how to properly reuse it. 
 
 ## General Guidelines 
 
