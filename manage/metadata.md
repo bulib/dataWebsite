@@ -10,29 +10,31 @@ excerpt: Find out what metadata are and how to use them.
 ---
 ## What are Metadata?
 
-Metadata are data about data and are everywhere (we just don't always notice them). Examples of metadata that you might be more familiar with are:
+Metadata are data that describes data and are everywhere (we just don't always notice them). Examples of metadata that you might be familiar with are:
 
 + a book's author
 + a journal's publisher
 + an article's publication date
 
-Each one of these pieces of metadata provide more information about the item you're looking at. When metadata is standardized and brought together they become powerful tools for locating and discovering things - like a library catalog or an internet search engine. 
+Each metadata example provides more information about the item you're looking at. When metadata is standardized and brought together <<suggestion: with what?>>, they become powerful tools for locating and discovering things - like a library catalog or an internet search engine. 
 
 ## Why add Metadata? 
 
-Adding metadata to data sets are particularly important because data sets exist within a certain context and this context must be communicated for others to reuse the data set. 
+Metadata are important because it explains a data set to others. Data sets exist within a certain context, and this context must be communicated well for others to reuse the data set. 
 
-Metadata explains a data set to others. For example, the [City of Boston has open data on 311 Service requests](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52). If a researcher didn't know the data was about Boston, what a 311 request is, or the year for the data represents it would be very difficult to reuse the data. Further, without the [data dictionary](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) it would be hard to understand what some variables are, what blank values mean, or what values are possible. 
+ For example, the [City of Boston has open data on 311 Service requests](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52). If a researcher didn't know the data was about Boston, what a 311 request is, or the year the data was created, it would be very difficult to reuse the data. Further, without the [data dictionary](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) it would be hard to understand what some variables are, what blank values mean, or what values are possible. 
 
-This is why metadata is important. It provides the necessary information for others - sometimes your future self - to understand a data set and how to properly reuse it. 
+<suggestion: kind of confused with line 25 above. So the sentence about the research not knowing the data was about Boston, blah blah, is that refering to the importance of also using a data dictionary? Or is that something else? Is that sentence and the sentence referring to the data dictionary? If so, mention the data dictionary before mentioning the research example. So like 'Without a data dictionary, the research wouldn't know the data was about Boston....'>
+
+Metadata provide the necessary information for others - sometimes your future self - to understand the data set and how to properly reuse it. 
 
 ## General Guidelines 
 
-There are a few general guidelines for adding metadata to a data set: ensuring your data is citable and providing documentation. 
+There are only a few general guidelines for adding metadata to a data set: ensuring your data is citable and providing documentation. 
 
 ### Make Your Data Citable
 
-To help others find your data and to reuse it appropriately, we'll need to provide enough details to ensure your data is citable. To allow others to cite your data you'll need to provide:
+To help others find your data and to reuse it appropriately, we'll need to provide enough details to ensure your data is citable. You'll need to provide:
 
 + Creator(s) of the data
 + Title of the data set
@@ -40,21 +42,21 @@ To help others find your data and to reuse it appropriately, we'll need to provi
 + Version or edition of the data set
 + URL or DOI of the data
 
-For more information about how to [cite data read our guide](https://bulib.github.io/dataWebsite/manage/citing-data/). 
+For more information on how to cite data [read our guide](https://bulib.github.io/dataWebsite/manage/citing-data/). 
 
 ### Provide Documentation
 
-Sharing documentation about your data set is the best way to help others reuse it. Additionally, developing the documentation will also help you articulate some of the subtleties living within your data.
+Sharing documentation about your data set is the best way to help others reuse it. Additionally, developing the documentation will also help you articulate some of the subtle details living within your data.
 
 A common method for documenting your data is writing a data dictionary. A data dictionary is great for explaining variable names, potential values, and format. Data dictionaries don't have to be complicated to be useful - a spreadsheet or text file will do the trick. 
 
-An example [data dictionary entry](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) from the [311 Service calls](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52) in Boston looks like:
+An example [data dictionary entry](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) from the [311 Service calls](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52) in Boston looks like this:
 
 | Vairable Name  | Label | Type | Value Codes | Missing Code|
 | ------------  | ----- | ---- | ----------- | -----------|	
 | OPEN_DT 	| Case open date | Date (mm/dd/yyyy <br/> hh:mm:ss AM/PM) | NA | (BLANK) | 
 
-This table quickly conveys a lot of useful information. The variable name (OPEN_DT), as represented in the data set, is more fully explained (case open date) as well as the type of data we'd expect to find in it (date-time data). Without this we'd have to contact the creator of the data set to ask "what does OPEN_DT stand for?" A potentially time consuming process for everyone involved. 
+The table above quickly conveys a lot of useful information. According to the table, the variable name OPEN_DT is more fully explained as case open date, and we'd expect to find it in data-time data in the dataset. Without this, we'd have to contact the creator of the data set to ask "what does OPEN_DT stand for?", which makes it more time consuming for everyone involved. 
 
 Other information to include with your data set might be: 
 
@@ -63,25 +65,25 @@ Other information to include with your data set might be:
 + Data collection methodology
 + Protocols for cleaning data 
 
-Finally, it is always valuable to provide a short story about your data that briefly explains the who, what, when, where, and why about your data set. Also, if the data set was the foundation of any published works be sure to mention that and provide a link if possible. 
+Finally, it is always important to provide a short story about your data that briefly explains the who, what, when, where, and why about your data set. Also, if the data set was the foundation of any published works be sure to mention that and provide a link, if possible. 
 
-Without the proper documentation your data is unlikely to be reused by others. 
+Without the proper documentation, your data is unlikely to be reused by others. 
 
 ## Things to Avoid
 
-Here are a few things to try to avoid when providing metadata about your data set. 
+Here are a few things to try to avoid when providing metadata about your data set: 
 
-+ Being inconsistent with creators names
++ Being inconsistent with creators' names
 + Cryptic variable names 
 + Misleading or dated documentation 
-+ Saving documentation in propriatary formats that others might not have access to.
++ Saving documentation in propriatary formats that others might not have access to
 + Inaccurate contact information 
 
 ## Additional Resources
 
-There are too many metadata standards and best practices for all the various disciplines for us to list in one place. Below are a list of places and resources you can visit to find more information. You can also [contact us](mailto:data@bu.edu) if you have any questions or issues. 
+There are too many metadata standards and best practices on all the various disciplines for us to list in one place. Below are a list of places and resources you can visit to find more information. You can also [contact us](mailto:data@bu.edu) if you have any questions or issues. 
 
-### Discplinary Metadata Guide
+### Disciplinary Metadata Guide
 
 A list of some additional guides we know about:
 
@@ -105,4 +107,4 @@ An incomplete list of existing metadata standards:
 + <a href="http://www.dlib.indiana.edu/~jenlrile/metadatamap/">Seeing Standards: A Visualization of the Metadata Universe</a> (humanities: information on over a hundred cultural heritage metadata standards) 
 + <a href="http://tei-c.org/">Text Encoding Initiative</a>
 + [DataCite Metadata Schema](https://schema.datacite.org/) 
-+ [Minimum Information for Biological and Biomedical Invesitations](https://biosharing.org/collection/MIBBI) 
++ [Minimum Information for Biological and Biomedical Investigations](https://biosharing.org/collection/MIBBI) 
