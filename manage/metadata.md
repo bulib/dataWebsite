@@ -54,7 +54,7 @@ An example [data dictionary entry](https://data.cityofboston.gov/api/views/awu8-
 | ------------  | ----- | ---- | ----------- | -----------|	
 | OPEN_DT 	| Case open date | Date (mm/dd/yyyy <br/> hh:mm:ss AM/PM) | NA | (BLANK) | 
 
-The table above quickly conveys a lot of useful information. According to the table, the variable name OPEN_DT is more fully explained as case open date, and we'd expect to find it in data-time data in the data set. Without this, we'd have to contact the creator of the data set to ask "what does OPEN_DT stand for?", which makes it more time consuming for everyone involved. 
+The table above quickly conveys a lot of useful information. According to the table, the variable name OPEN_DT is a case open date, and we'd expect to find it in data-time data <<suggestion: do you mean data-time format?>> in the data set. Without this, we'd have to contact the creator of the data set to ask "What does OPEN_DT stand for?", which makes it more time consuming for everyone involved. 
 
 Other information to include with your data set might be: 
 
