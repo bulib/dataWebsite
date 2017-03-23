@@ -16,7 +16,7 @@ Metadata are data that describes data and are everywhere (we just don't always n
 + a journal's publisher
 + an article's publication date
 
-Each metadata example provides more information about the item you're looking at. When metadata for many items are brought together and use the same rules for naming and describing items they become powerful tools for locating and discovering things - like a library catalog or an internet search engine. 
+The metadata above provide more information about the item you're looking at. When metadata for many items are brought together and use the same rules for naming and describing items they become powerful tools for locating and discovering things - like a library catalog or an internet search engine. 
 
 ## Why add Metadata? 
 
