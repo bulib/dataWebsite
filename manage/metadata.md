@@ -16,13 +16,13 @@ Metadata are data that describes data and are everywhere (we just don't always n
 + a journal's publisher
 + an article's publication date
 
-Each metadata example provides more information about the item you're looking at. When metadata for many items are brought together and use the same rules for naming and describing items they become powerful tools for locating and discovering things - like a library catalog or an internet search engine. 
+The metadata above provide more information about the item you're looking at. When metadata for many items are brought together and use the same rules for naming and describing items they become powerful tools for locating and discovering things - like a library catalog or an internet search engine. 
 
 ## Why add Metadata? 
 
 Metadata are important because it explains a data set to others. Data sets exist within a certain context, and this context must be communicated well for others to reuse the data set. 
 
- For example, the [City of Boston has open data on 311 Service requests](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52). Without basic metadata descibing the data, like the year or location it covered, it would be really hard to know what the data was about. Imagine if a researcher didn't know the data was about Boston, what a 311 request is, or the year the data was created, it would be very difficult to understand what the data is about. Even with this information, without a [data dictionary](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) it would be hard to understand what some variables are, what blank values mean, or what values are possible. 
+ For example, the City of Boston has [open data on 311 Service requests](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52). Without basic metadata describing the data, such as if the researcher didn't know the data was about Boston, what a 311 request is, or the year the data was created, it would be very difficult to understand what the data is about. Even with this information, without a [data dictionary](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf), wit would be hard to understand what some variables are, what blank values mean, or what values are possible. 
 
 Metadata provide the necessary information for others - sometimes your future self - to understand the data set and how to properly reuse it. It often takes time to create metadata but the effort is worth it. 
 
@@ -32,7 +32,7 @@ There are only a few general guidelines for adding metadata to a data set: ensur
 
 ### Make Your Data Citable
 
-To help others find your data and to reuse it appropriately, we'll need to provide enough details to ensure your data is citable. You'll need to provide:
+To help others find your data and to reuse it appropriately, you'll need to provide enough details to ensure your data is citable. Here are the following items you will need:
 
 + Creator(s) of the data
 + Title of the data set
@@ -54,7 +54,7 @@ An example [data dictionary entry](https://data.cityofboston.gov/api/views/awu8-
 | ------------  | ----- | ---- | ----------- | -----------|	
 | OPEN_DT 	| Case open date | Date (mm/dd/yyyy <br/> hh:mm:ss AM/PM) | NA | (BLANK) | 
 
-The table above quickly conveys a lot of useful information. According to the table, the variable name OPEN_DT is more fully explained as case open date, and we'd expect to find it in data-time data in the data set. Without this, we'd have to contact the creator of the data set to ask "what does OPEN_DT stand for?", which makes it more time consuming for everyone involved. 
+The table above quickly conveys a lot of useful information. According to the table, the variable name OPEN_DT is a case open date, and we'd expect to find it in data-time data <<suggestion: do you mean data-time format?>> in the data set. Without this, we'd have to contact the creator of the data set to ask "What does OPEN_DT stand for?", which makes it more time consuming for everyone involved. 
 
 Other information to include with your data set might be: 
 
@@ -79,7 +79,7 @@ Here are a few things to try to avoid when providing metadata about your data se
 
 ## Additional Resources
 
-There are too many metadata standards and best practices on all the various disciplines for us to list in one place. Below are a list of places and resources you can visit to find more information. You can also [contact us](mailto:data@bu.edu) if you have any questions or issues. 
+There are many more metadata standards and best practices on all the various disciplines for us to list in one place. Below are a list of places and resources you can visit to find more information. You can also [contact us](mailto:data@bu.edu) if you have any questions or issues. 
 
 ### Disciplinary Metadata Guide
 
