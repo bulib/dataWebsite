@@ -22,7 +22,7 @@ The metadata above provide more information about the item you're looking at. Wh
 
 Metadata are important because it explains a data set to others. Data sets exist within a certain context, and this context must be communicated well for others to reuse the data set. 
 
- For example, the City of Boston has [open data on 311 Service requests](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52). Without basic metadata describing the data, such as if the researcher didn't know the data was about Boston, what a 311 request is, or the year the data was created, it would be very difficult to understand what the data is about. Even with this information, without a [data dictionary](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf), it would be hard to understand what some variables are, what blank values mean, or what values are possible. 
+ For example, the City of Boston has [open data on 311 Service requests](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52). Without basic metadata describing the data, such as if the researcher didn't know the data was about Boston, what a 311 request is, or the year the data was created, it would be very difficult to understand what the data is about. Even with this information, without a [data dictionary](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf), wit would be hard to understand what some variables are, what blank values mean, or what values are possible. 
 
 Metadata provide the necessary information for others - sometimes your future self - to understand the data set and how to properly reuse it. It often takes time to create metadata but the effort is worth it. 
 
@@ -32,7 +32,7 @@ There are only a few general guidelines for adding metadata to a data set: ensur
 
 ### Make Your Data Citable
 
-To help others find your data and to reuse it appropriately, we'll need to provide enough details to ensure your data is citable. You'll need to provide:
+To help others find your data and to reuse it appropriately, you'll need to provide enough details to ensure your data is citable. Here are the following items you will need:
 
 + Creator(s) of the data
 + Title of the data set
