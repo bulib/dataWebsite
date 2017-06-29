@@ -443,7 +443,10 @@
     <loc>http://www.bu.edu/data/dataWebsite/manage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/guides/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/calendar/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/</loc>
@@ -452,7 +455,7 @@
     <loc>http://www.bu.edu/data/dataWebsite/policies/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/calendar/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/guides/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/share/</loc>
@@ -464,16 +467,13 @@
     <loc>http://www.bu.edu/data/dataWebsite/storage/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/talks/citable-code-test/</loc>
-  </url>
-  <url>
     <loc>http://www.bu.edu/data/dataWebsite/workshops/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nih/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/libraries/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/help/</loc>
@@ -485,7 +485,10 @@
     <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/dmr/</loc>
   </url>
   <url>
-    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/</loc>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nih/</loc>
+  </url>
+  <url>
+    <loc>http://www.bu.edu/data/dataWebsite/data-management-plans/nsf/</loc>
   </url>
   <url>
     <loc>http://www.bu.edu/data/dataWebsite/manage/metadata/</loc>

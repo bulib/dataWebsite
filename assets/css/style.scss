@@ -132,7 +132,6 @@ footer,
  *
  * * * * * * * * * * * * * */
 
-
 .intro-text > h1 {
     font-size: 55px; 
     text-align: left;
@@ -161,7 +160,7 @@ footer,
     min-height: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size: $font-size; 
+    font-size: 22px; 
     font-weight: 500;
 }
 
@@ -449,7 +448,6 @@ a.news-title  {
 .partner p {
     margin-bottom: 25px;
 }
-
 
 .home-page.page-wrapper {
     background: url("../images/home-background-images/home-background-image.png");
@@ -978,6 +976,55 @@ div.error-page-url {
 div.error-page-url > p {
     margin-bottom: 2px;
     padding: 5px; 
+}
+
+/* * * * * * * * * * * * * * 
+ *
+ * BU Libraries Services Page 
+ *
+ *
+ * * * * * * * * * * * * * */
+
+#library-services-consultations, 
+#library-services-workshops,
+#library-services-tools,
+#library-services-guides{
+    margin: 0 0 50px 0; 
+}
+
+#library-services-consultations-cta > a {
+    display: block;
+    text-align: center;
+    min-height: 50px;
+    max-width: 150px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+@media (min-width: 992px) {
+
+    #library-services-consultations-cta {
+	margin-top: 20px;
+    }
+    
+    #library-services-consultations-cta > a {
+	margin: 0 auto; 
+    }
+}
+
+#library-services-workshops h2,
+#library-services-tools h2 {
+    text-align: center;
+}
+
+div#library-services-workshops-calendar.calendar-box > h3::before {
+    content: none; 
+}
+
+div.library-services-tool {
+    text-align: center; 
 }
 
 /* * * * * * * * * * * * * * 
