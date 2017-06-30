@@ -6,48 +6,52 @@ permalink: /libraries/
 
 <div id="library-services-introduction" class="section-introduction">
   <h1>Boston University Libraries</h1> 
-  <p>How the libraries can help you with your data</p> 
+  <p>How the libraries can help you with your data.</p> 
 </div> 
 
-<div class="container">
-  <div class="row no-margin">
-    <section id="library-services-consultations">
+<section id="library-services-consultations">
+  <div class="container">
+    <div class="row no-margin">
       <div class="row">
 	<div class="col-md-offset-1 col-md-5">
 	  <div>
 	    <h2>Consultations</h2>
-	    <p>Need help? Schedule a one-on-one consultation.</p> 
+	    <p>Need help? Schedule a one-on-one consultation.</p>
+	    <p>Librarians can help you with writing a data management plan, depositing your data into a data repository, finding relevant data sets, and organizing your data for analysis. We can also connect you with other partners on-campus to help with more in-depth data analysis or publishing your research.</p> 
 	  </div> 	
 	</div> 
-	<div class="col-md-5">
-	  <div id="library-services-consultations-cta">
+	<div id="library-services-consultations-cta" class="col-md-5">
+	  <div>
 	    <a class="btn-lg btn-success" href="#" role="button" data-toggle="modal" data-target="#myModal">Request</a>
 	  </div>
 	</div>
-    </section> 
-    <section id="library-services-workshops">
-      <div class="row">
-	<div class="col-md-offset-2 col-md-8">
-	  <div>
-	    <h2>Workshops</h2>
-	    <p>The Libraries offer a range of workshops on topics like data management, digital scholarship, digital publishing, and selected programming topics.</p> 
-	  </div>
+      </div> 	
+    </div> 
+</section> 
 
-	  <div id="library-services-workshops-calendar" class="calendar-box">
+<section id="library-services-workshops">
+  <div class="container">
+    <div class="row no-margin">
+      <div class="col-md-offset-2 col-md-8">
+	<div>
+	  <h2>Workshops</h2>
+	  <p>The Libraries offer a range of workshops on topics like data management, digital scholarship, digital publishing, and selected programming topics.</p> 
+	</div>
+	<div id="library-services-workshops-calendar" class="calendar-box">
 	  <h3>Upcoming</h3> 
 	  <div>
 	    <ul> 
 	      {% assign isEvent = 0 %}
 	      {% assign counter = '0' %}
 	      {% for post in site.posts reversed %}
- 	      {% if post.tag contains "library" and counter < '5' %}
- 		{% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
-		{% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
-		{% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
-		{% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
-		{% assign postday = postday | plus: 0 %}
-		{% assign nowday = nowday | minus: 1 %}
-		{% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
+ 	      {% if post.tag contains "news" and counter < '5' %}
+ 	      {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+	      {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+	      {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
+	      {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
+	      {% assign postday = postday | plus: 0 %}
+	      {% assign nowday = nowday | minus: 1 %}
+	      {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
 		{% assign isEvent = 1 %}
 		{% assign m = post.date | date: "%B" %}
 		{% case m %}
@@ -84,35 +88,48 @@ permalink: /libraries/
 	    </ul> 
 	  </div>
 	</div> 
-    </section>
-    <section id="library-services-tools">
+      </div> 	
+    </div> 
+</section>
+
+<section id="library-services-tools">
+  <div class="container">
+    <div class="row no-margin">
       <h2>Supported Tools</h2> 
       <div class="row">
-	<div class="col-md-offset-2 col-md-4">
+	<div class="col-md-offset-2 col-md-4 partner">
 	  <div class="library-services-tool">
 	    <h3>Open Science Framework</h3>
-	    <p>OSF Image here </p> 
+	    <p>Coming Soon!! The Open Science Framework (OSF) is project management tool developed by the Center for Open Science. With integrations to GitHub, figshare, and Google Drive (to name a few) the OSF can help you manage your work, archive your data, and control access.</p>
+	    <a class="btn-lg btn-success" href="https://osf.io/institutions/bu/" role="button">Visit</a> 
 	  </div> 	
 	</div> 
-	<div class="col-md-4 dmptool">
+	<div class="col-md-4 dmptool partner">
 	  <div class="library-services-tool">
 	    <a href="https://dmptool.org/user_sessions/institution" title="DMPTool"><img src="{{ site.baseurl }}/assets/images/logo/DMPTool_logo.png" class="img-responsive" alt="DMPTool Logo"/></a> 
 	    <p>Use the DMPTool to build your data management plan (DMP). With over 30 DMP templates from organizations like the National Science Foundation and the Sloan Foundation, the DMPTool can help you write your DMP.</p>
 	    <a class="btn-lg btn-success" href="https://dmptool.org/user_sessions/institution" role="button">Visit</a> 
-	</div>
-    </section> 
-    <section id="library-services-guides">
-      <div class="row">
-	<div class="col-md-offset-1 col-md-5">
-	  <div id="library-services-consultations-cta">
-	  <a class="btn-lg btn-success" href="{{ site.baseurl }}/guides" role="button">View</a> 
 	  </div>
-	</div> 
-	<div class="col-md-5">
-	  <div>
-	    <h2>Our Guides</h2>
-	    <p>blurb here</p> 
+	</div> 	
+      </div> 
+</section> 
+
+<section id="library-services-guides">
+  <div class="container">
+    <div class="row no-margin">
+      <div id="library-services-consultations-cta" class="col-md-offset-1 col-md-5">
+	<div>
+	  <a class="btn-lg btn-success" href="{{ site.baseurl }}/guides" role="button">View</a> 
 	</div>
-    </section> 
-  </div> 	
-</div> 
+      </div> 
+      <div class="col-md-5">
+	<div>
+	  <h2>Our Guides</h2>
+	  <p>Use our guides to learn independently.</p>
+	  <p>The library has a number of guides to help you get started with your project. We have guides on citing data, selecting a data repository, writing a data management plan, and using the DMPTool. These guides are a great place to start whenever and from wherever you want. 
+	</div>
+      </div> 	
+    </div> 
+</section> 
+
+

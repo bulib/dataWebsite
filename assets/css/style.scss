@@ -421,7 +421,9 @@ a.news-title  {
     position: relative;
 }
 
-#partners {
+#partners,
+#library-services-tools,
+#library-services-consultations {
     background-color: #E6E6E6;
     margin-top: 50px;
     padding: 50px 0;
@@ -992,11 +994,11 @@ div.error-page-url > p {
     margin: 0 0 50px 0; 
 }
 
-#library-services-consultations-cta > a {
+#library-services-consultations-cta  a {
     display: block;
     text-align: center;
     min-height: 50px;
-    max-width: 150px; 
+    width: 150px; 
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 22px;
@@ -1005,8 +1007,12 @@ div.error-page-url > p {
 
 @media (min-width: 992px) {
 
-    #library-services-consultations-cta {
-	margin-top: 20px;
+    #library-services-consultations-cta,
+    {
+ 	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 200px;
     }
     
     #library-services-consultations-cta > a {
@@ -1017,6 +1023,7 @@ div.error-page-url > p {
 #library-services-workshops h2,
 #library-services-tools h2 {
     text-align: center;
+    margin-bottom: 35px; 
 }
 
 div#library-services-workshops-calendar.calendar-box > h3::before {
@@ -1024,7 +1031,8 @@ div#library-services-workshops-calendar.calendar-box > h3::before {
 }
 
 div.library-services-tool {
-    text-align: center; 
+    text-align: center;
+    min-height: 400px;
 }
 
 /* * * * * * * * * * * * * * 
