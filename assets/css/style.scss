@@ -357,6 +357,11 @@ div.calendar-box > h3::before {
     word-wrap: break-word;
 }
 
+.news-item .news-title .news-title-link:hover,
+.news-item .news-title .news-title-link:active {
+    text-decoration: underline;
+}
+
 #timely-news hr {
     width: 50%
 }
