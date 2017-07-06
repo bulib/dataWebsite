@@ -1,6 +1,7 @@
 ---
 title: Using the DMPTool
 permalink: /manage/dmptool/
+id: 2
 category: 
 - manage
 - guide 

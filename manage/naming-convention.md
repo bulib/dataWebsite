@@ -2,6 +2,7 @@
 title: Designing a Naming Convention
 permalink: /manage/naming-convention/
 css: gold-triangles
+id: 4
 category: 
 - manage
 - guide

@@ -1,6 +1,7 @@
 ---
 title:  Selecting a Data Repository
 permalink: /share/selecting-a-data-repository/
+id: 6
 category: 
 - share
 - guide

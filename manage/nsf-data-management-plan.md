@@ -1,6 +1,7 @@
 ---
 title: Writing NSF Data Management Plans
 permalink: /manage/nsf-data-management-plan/
+id: 6
 category: 
 - manage
 - guide

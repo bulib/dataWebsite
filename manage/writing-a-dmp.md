@@ -1,6 +1,7 @@
 ---
 title: Writing a Data Management Plan 
 permalink: /manage/writing-a-dmp/
+id: 1
 category: 
 - manage
 - guide 

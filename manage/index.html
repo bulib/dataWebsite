@@ -10,10 +10,9 @@ permalink: /manage/
 
 <div class="container">
   <div class="row no-margin section-index">
-
-    {% for page in site.pages %}
-    {% if page.category contains "manage" %}
-    
+    {% assign sorted_pages = {site.pages | sort: "id" %}
+    {% for page in sorted_pages %}
+     {% if page.category contains "manage" %}   
     <div class="col-md-6 section-index-item">
       
       <div class="section-index-title {{ page.css }}">
