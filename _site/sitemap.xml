@@ -440,7 +440,7 @@
     <loc>https://www.bu.edu/data/data/manage/dmptool/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/manage/</loc>
+    <loc>https://www.bu.edu/data/data/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/calendar/</loc>
@@ -449,7 +449,7 @@
     <loc>https://www.bu.edu/data/data/talks/citable-code-test/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/</loc>
+    <loc>https://www.bu.edu/data/data/libraries/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/policies/</loc>
@@ -470,25 +470,25 @@
     <loc>https://www.bu.edu/data/data/workshops/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/libraries/</loc>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/data-management-plans/</loc>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/help/</loc>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/data-management-plans/nsf/sbe/</loc>
+    <loc>https://www.bu.edu/data/data/manage/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/data-management-plans/nsf/dmr/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/data-management-plans/nih/</loc>
+    <loc>https://www.bu.edu/data/data/data-management-plans/nsf/sbe/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/data-management-plans/nsf/</loc>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/help/</loc>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/data-management-plans/nih/</loc>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/data-management-plans/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/manage/metadata/</loc>
@@ -498,9 +498,6 @@
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/manage/nsf-data-management-plan/</loc>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/pageTemplate.html</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/share/selecting-a-data-repository/</loc>
