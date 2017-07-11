@@ -1,6 +1,6 @@
 ---
 title: MATLAB for High-Performance Computing
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T

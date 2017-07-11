@@ -1,6 +1,6 @@
 ---
 title: Introduction to Python for Non-Programmers
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T

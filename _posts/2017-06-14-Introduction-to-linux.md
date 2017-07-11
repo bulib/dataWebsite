@@ -1,6 +1,6 @@
 ---
 title: Introduction to Linux
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T

@@ -1,6 +1,6 @@
 ---
 title: Introduction to Maya 
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T

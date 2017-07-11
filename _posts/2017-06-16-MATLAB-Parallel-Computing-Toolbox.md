@@ -1,6 +1,6 @@
 ---
 title: MATLAB Parallel Computing Toolbox 
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T

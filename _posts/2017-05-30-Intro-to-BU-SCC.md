@@ -1,6 +1,6 @@
 ---
 title: Introduction to BU’s Shared Computing Cluster 
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T

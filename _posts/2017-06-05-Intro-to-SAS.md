@@ -1,6 +1,6 @@
 ---
 title: Introduction to SAS 
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T

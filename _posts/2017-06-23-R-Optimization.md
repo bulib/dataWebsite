@@ -1,6 +1,6 @@
 ---
 title: R Code Optimization
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T

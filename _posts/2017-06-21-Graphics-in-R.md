@@ -1,6 +1,6 @@
 ---
 title: Graphics in R
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T

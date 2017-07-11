@@ -1,6 +1,6 @@
 ---
 title: Building Software from Source Code on Linux 
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T
