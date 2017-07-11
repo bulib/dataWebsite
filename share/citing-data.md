@@ -41,7 +41,7 @@ Example 1:
 
 Example 2:
 
-> Gomes, D. G. E., Page, R. A., Geipel, I., Taylor, R. C., Ryan, M. J., & Halfwerk, W. (2016). <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. [Data file].	doi:10.5061/dryad.5gk8j
+> Gomes, D. G. E., Page, R. A., Geipel, I., Taylor, R. C., Ryan, M. J., & Halfwerk, W. (2016). <i>Bats perceptually weight prey cues across sensory systems when hunting in noise</i>. [Data file]. doi:10.5061/dryad.5gk8j
 
 
 ### Chicago - Bibliography 

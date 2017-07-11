@@ -60,7 +60,7 @@ For additional help selecting a data repository you can [email us](mailto:data@b
 * [Registry of Research Data Repositories](http://www.re3data.org/)
 * [FORCE11 (The Future of Research Communications and e-Scholarship) Data Publications](https://www.force11.org/publications/community-publications?combine=data)
 * [NIH Data Sharing Repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
-* [Data Seal of Approval](http://www.datasealofapproval.org/en/)
+* [Data Seal of Approval](http://www.datasealofapproval.org)
 * [Data Cite](https://www.datacite.org/)
 
 
@@ -79,8 +79,8 @@ A "general" data repository is subject independent and will have data from many 
 A few examples of general data repositories are: 
 
 * [Dryad](http://datadryad.org/): Dryad is a non-profit membership organization. Members like Oxford University Press and the American Association for the Advancement of Science help finance Dryad whose mission is "to provide the infrastructure for, and promote the re-use of, data underlying the scholarly literature." Dryad worked with over [80 journals and published 3,927 data packages in 2015](http://datadryad.org/themes/Mirage/docs/DryadAnnualReport2015.pdf).
-* Figshare (https://figshare.com/): Figshare is a part of the [Digital Science](https://www.digital-science.com/) portfolio of services. Although only some of Figshare's services are free to users, it's business model also includes working with institutions, publishers, and researchers to fund its data repository. [Since 2012 Figshare](https://figshare.com/about) has 800,000 user uploads, 7.5 millon downloads, over 26 million page views.
-* [Harvard Dataverse] (https://dataverse.harvard.edu/): Harvard's Dataverse is both a [platform for institutions](http://dataverse.org/) and a data repository. Backed and developed by Harvard's IQSS, Libraries, and Information Technology, Dataverse has 22 installations with over 48,000 datasets, and 2 million downloads. 
+* [Figshare](https://figshare.com/): Figshare is a part of the [Digital Science](https://www.digital-science.com/) portfolio of services. Although only some of Figshare's services are free to users, it's business model also includes working with institutions, publishers, and researchers to fund its data repository. [Since 2012 Figshare](https://figshare.com/about) has 800,000 user uploads, 7.5 millon downloads, over 26 million page views.
+* [Harvard Dataverse](https://dataverse.harvard.edu/): Harvard's Dataverse is both a [platform for institutions](http://dataverse.org/) and a data repository. Backed and developed by Harvard's IQSS, Libraries, and Information Technology, Dataverse has 22 installations with over 48,000 datasets, and 2 million downloads. 
 * [Zenodo](https://zenodo.org/): Funded by [CERN](http://home.cern/), [OpenAIRE](https://www.openaire.eu/), and [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/), Zenodo accepts [50GB per dataset](https://zenodo.org/faq) and [integrates nicely with GitHub](https://guides.github.com/activities/citable-code/). While Zenodo doens't seem to detail its download numbers like other services, it is partnered with CERN, which stores more than [100PB (petabytes) of data](https://zenodo.org/faq). 
 
 
