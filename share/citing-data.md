@@ -26,6 +26,7 @@ When citing data, here's the information you'll need (when available):
 ## How to Cite 
 
 Let's cite some data! The examples below show you how to cite two data sets: [characteristics of business owners collected in the Survey of Business Owners](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=SBO_2012_00CSCBO08&prodType=table), and [a data set of behavioral measurements of hunting bats collected by Gomes, et al.](http://datadryad.org/resource/doi:10.5061/dryad.5gk8j)
+
 ### APA 
 
 The American Psychological Association (APA) style is commonly used to cite sources in the social sciences. Materials in this section are based on [APA Style, 6th Edition](https://owl.english.purdue.edu/owl/resource/560/01/) from Purdue's Online Writing Lab.
