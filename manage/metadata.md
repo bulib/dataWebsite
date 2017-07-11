@@ -23,7 +23,7 @@ The metadata above provide more information about the item you're looking at. Wh
 
 Metadata are important because it explains a data set to others. Data sets exist within a certain context, and this context must be communicated well for others to reuse the data set. 
 
- For example, the City of Boston has [open data on 311 Service requests](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52). Without basic metadata describing the data, such as if the researcher didn't know the data was about Boston, what a 311 request is, or the year the data was created, it would be very difficult to understand what the data is about. Even with this information, without a [data dictionary](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf), it would be hard to understand what some variables are, what blank values mean, or what values are possible. 
+ For example, the City of Boston has [open data on 311 Service requests](https://data.boston.gov/dataset/311-service-requests). Without basic metadata describing the data, such as if the researcher didn't know the data was about Boston, what a 311 request is, or the year the data was created, it would be very difficult to understand what the data is about. Even with this information, without a [data dictionary](https://data.boston.gov/dataset/311-service-requests/resource/b237f352-49d1-4423-804f-b478e4f24e61), it would be hard to understand what some variables are, what blank values mean, or what values are possible. 
 
 Metadata provide the necessary information for others - sometimes your future self - to understand the data set and how to properly reuse it. It often takes time to create metadata but the effort is worth it. 
 
@@ -41,7 +41,7 @@ To help others find your data and to reuse it appropriately, you'll need to prov
 + Version or edition of the data set
 + URL or DOI of the data
 
-For more information on how to cite data [read our guide](https://bulib.github.io/dataWebsite/manage/citing-data/). 
+For more information on how to cite data [read our guide](http://www.bu.edu/data/manage/citing-data/). 
 
 ### Provide Documentation
 
@@ -49,7 +49,7 @@ Sharing documentation about your data set is the best way to help others reuse i
 
 A common method for documenting your data is writing a data dictionary. A data dictionary is great for explaining variable names, potential values, and format. Data dictionaries don't have to be complicated to be useful - a spreadsheet or text file will do the trick. 
 
-An example [data dictionary entry](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables.pdf) from the [311 Service calls](https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52) in Boston looks like this:
+An example [data dictionary entry](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables) from the [311 Service calls](https://data.boston.gov/dataset/311-service-requests) in Boston looks like this:
 
 | Variable Name  | Label | Type | Value Codes | Missing Code|
 | ------------  | ----- | ---- | ----------- | -----------|	
@@ -101,9 +101,8 @@ An incomplete list of existing metadata standards:
 + <a href="http://dublincore.org/documents/dces/">Dublin Core</a> 
 + <a href="http://knb.ecoinformatics.org/software/eml/">Ecological Metadata Language</a> 
 + <a href="http://www.ddialliance.org/">Data Documentation Initiative (DDI)</a> 
-+ <a href="http://en.wikipedia.org/wiki/Data_dictionary">Swingle Plant Anatomy Collection data dictionary</a> 
++ <a href="http://swingle.miami.edu/documentation.html">Swingle Plant Anatomy Collection data dictionary</a> 
 + <a href="http://www.altova.com/resources_schemalib.html">Altova Schema library</a> 
-+ <a href="http://www.dlib.indiana.edu/~jenlrile/metadatamap/">Seeing Standards: A Visualization of the Metadata Universe</a> (humanities: information on over a hundred cultural heritage metadata standards) 
 + <a href="http://tei-c.org/">Text Encoding Initiative</a>
 + [DataCite Metadata Schema](https://schema.datacite.org/) 
 + [Minimum Information for Biological and Biomedical Investigations](https://biosharing.org/collection/MIBBI) 
