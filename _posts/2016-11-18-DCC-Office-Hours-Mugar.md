@@ -1,6 +1,6 @@
 ---
 title: Data Coordinating Center Office Hours @ Mugar
-category: none
+category: 
 tag: 
 - dcc
 - news
