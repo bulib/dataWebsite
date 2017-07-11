@@ -97,7 +97,7 @@ $("#page-url-here").append(window.location.href);
 
 
     
-})();
+});
 
 function enableSubmit(){
 //    console.log("button enabled"); 
