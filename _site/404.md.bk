@@ -60,7 +60,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="http://www.bu.edu/data"><img class="img-responsive" src="/data/assets/icons/bu-lib-ds-ist.png"></img></a>
+      <a class="navbar-brand" href="https://www.bu.edu/data"><img class="img-responsive" src="/data/assets/icons/bu-lib-ds-ist.png"></img></a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
