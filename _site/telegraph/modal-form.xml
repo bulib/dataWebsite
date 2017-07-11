@@ -5,5 +5,5 @@
 	<directive action="require" field="question"/>
 	<directive action="email" to="data@bu.edu" from="[email]" subject="Data Services Website Question" />
 	<directive action="captcha"/>
-	<directive action="imperius" url="https://www.bu.edu/data/index.html" /> 
+	<directive action="imperius" url="http://www.bu.edu/data/index.html" /> 
 </telegraph>
