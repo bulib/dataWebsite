@@ -95,7 +95,7 @@ $(function() {
 
 });
 
-$("#page-url-here").append(window.location.href ); 
+$("#page-url-here").append(window.location.href); 
 
 
 function enableSubmit(){
