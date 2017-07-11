@@ -41,7 +41,7 @@ To help others find your data and to reuse it appropriately, you'll need to prov
 + Version or edition of the data set
 + URL or DOI of the data
 
-For more information on how to cite data [read our guide](http://www.bu.edu/data/manage/citing-data/). 
+For more information on how to cite data [read our guide]({{site.baseurl}}/manage/citing-data/). 
 
 ### Provide Documentation
 
