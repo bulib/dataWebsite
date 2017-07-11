@@ -49,7 +49,7 @@ Sharing documentation about your data set is the best way to help others reuse i
 
 A common method for documenting your data is writing a data dictionary. A data dictionary is great for explaining variable names, potential values, and format. Data dictionaries don't have to be complicated to be useful - a spreadsheet or text file will do the trick. 
 
-An example [data dictionary entry](https://data.cityofboston.gov/api/views/awu8-dc52/files/Tp1cmB2MaNT6XhJIyCq15wiGCDv42X10-69O-axsB6g?download=true&filename=Data_Dictionary-CRMVariables) from the [311 Service calls](https://data.boston.gov/dataset/311-service-requests) in Boston looks like this:
+An example [data dictionary entry](https://data.boston.gov/dataset/311-service-requests/resource/b237f352-49d1-4423-804f-b478e4f24e61) from the [311 Service calls](https://data.boston.gov/dataset/311-service-requests) in Boston looks like this:
 
 | Variable Name  | Label | Type | Value Codes | Missing Code|
 | ------------  | ----- | ---- | ----------- | -----------|	
