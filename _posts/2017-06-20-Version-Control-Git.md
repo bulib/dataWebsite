@@ -1,6 +1,6 @@
 ---
 title: Version Control and Collaboration with Git and Github
-category: workshop
+category: workshops
 tag: 
 - news
 - IS&amp;T
