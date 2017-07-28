@@ -28,7 +28,7 @@ Data management will help prevent future headaches, like mistakenly deleting val
 
 ## Components of a DMP
 
-There are several parts to a data management plan. If you're writing a data management plan for a specific funder, like the National Science Foundation, these common components will likely apply. However, if you are applying for a grant, the application materials will have for more detailed information andH you can alwasy [ask for assistance](mailto:data@bu.edu). 
+There are several parts to a data management plan. If you're writing a data management plan for a specific funder, like the National Science Foundation, these common components will likely apply. However, if you are applying for a grant, the application materials will have for more detailed information and you can always [ask for assistance](mailto:data@bu.edu). 
 
 ### Types of Data 
 
