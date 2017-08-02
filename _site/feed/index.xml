@@ -7,6 +7,15 @@
     <atom:link href="https://www.bu.edu/data/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Workshop for Increasing Openness and Reproducibility in Quantitative Research</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+        <link>https://www.bu.edu/data/workshops/2017/09/20/OSF-Workshop.html</link>
+        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/20/OSF-Workshop.html</guid>
+      </item>
+    
+      <item>
         <title>DEAN&#39;S SYMPOSIUM—Community Health Sciences&amp;colon; Defining the Field</title>
         <description>
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Tue, 15 Aug 2017 00:00:00 -0400</pubDate>
         <link>https://www.bu.edu/data/2017/08/15/Study-Design-and-Stats-Analysis-Consults.html</link>
         <guid isPermaLink="true">https://www.bu.edu/data/2017/08/15/Study-Design-and-Stats-Analysis-Consults.html</guid>
-      </item>
-    
-      <item>
-        <title>ECE Seminar&amp;colon; Zhenghan Zhu</title>
-        <description>
-</description>
-        <pubDate>Tue, 15 Aug 2017 00:00:00 -0400</pubDate>
-        <link>https://www.bu.edu/data/2017/08/15/ECE-Seminar-Zhu.html</link>
-        <guid isPermaLink="true">https://www.bu.edu/data/2017/08/15/ECE-Seminar-Zhu.html</guid>
       </item>
     
   </channel>

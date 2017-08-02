@@ -29,7 +29,7 @@ permalink: /workshops/
 	      {% assign m = post.date | date: "%B" %}
 	      {% case m %}
 	      {% when 'April' or 'May' or 'June' or 'July' %}
-	      {% when 'September' %}{% assign m = Sept %}
+	      {% when 'September' %}{% assign m = 'Sept' %}
 	      {% else %}{% assign m = post.date | date: "%b" %}
 	      {% endcase %}
 	      <li class="news-item">
