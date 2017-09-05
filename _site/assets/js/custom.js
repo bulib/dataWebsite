@@ -93,6 +93,7 @@ $(function() {
 	}); 
     }); 
 
+    
 $("#page-url-here").append(window.location.href); 
 
 
