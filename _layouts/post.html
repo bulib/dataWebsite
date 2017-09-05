@@ -36,7 +36,7 @@ layout: default
 	  <h2>Workshop Registration</h2>
           <form id="contact-form"  class="form-horizontal" method="" action="/phpbin/telegraph/index.php">
             <input type="hidden" name="form_configuration" value="telegraph/registration-form.xml" />
-            <input type="hidden" name="form_location" value="{{site.baseurl}}">
+            <input type="hidden" name="form_location" value="{{post.url}}">
 	    <div class="row"> 
 	      <div class="form-group col-sm-6">
 		<label for="first-name" class=" control-label">First Name</label>
