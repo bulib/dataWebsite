@@ -1,8 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/10/03/Intro-to-ImageJ.html</loc>
+    <lastmod>2017-10-03T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/10/02/Intro-to-SPSS.html</loc>
+    <lastmod>2017-10-02T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/10/02/Building-Software-From-Source.html</loc>
+    <lastmod>2017-10-02T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/29/MATLAB-Parallel-Computing-Toolbox.html</loc>
+    <lastmod>2017-09-29T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/27/Intro-to-CUDA.html</loc>
+    <lastmod>2017-09-27T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/26/Managing-Projects-on-the-SCC.html</loc>
+    <lastmod>2017-09-26T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/26/Intro-to-MPI.html</loc>
+    <lastmod>2017-09-26T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/26/Intro-to-GPU.html</loc>
+    <lastmod>2017-09-26T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/25/MATLAB-for-High-Performance-Computing.html</loc>
+    <lastmod>2017-09-25T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/25/Intro-to-OpenMP.html</loc>
+    <lastmod>2017-09-25T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/22/R-Code-Optimization.html</loc>
+    <lastmod>2017-09-22T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/21/Learning-PERL-through-Examples.html</loc>
+    <lastmod>2017-09-21T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/21/Intro-to-Maya.html</loc>
+    <lastmod>2017-09-21T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.bu.edu/data/data/workshops/2017/09/20/OSF-Workshop.html</loc>
     <lastmod>2017-09-20T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/20/Intro-to-MATLAB.html</loc>
+    <lastmod>2017-09-20T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/19/Intro-to-Python.html</loc>
+    <lastmod>2017-09-19T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/18/Version-Control-and-Collaboration.html</loc>
+    <lastmod>2017-09-18T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/15/Python-for-Data-Analysis.html</loc>
+    <lastmod>2017-09-15T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/15/Intro-to-PERL.html</loc>
+    <lastmod>2017-09-15T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/15/Intro-to-C++.html</loc>
+    <lastmod>2017-09-15T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/14/Programming-in-R.html</loc>
+    <lastmod>2017-09-14T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/12/Intro-to-Python-NP.html</loc>
+    <lastmod>2017-09-12T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/12/Intro-to-C.html</loc>
+    <lastmod>2017-09-12T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/12/Graphic-in-R.html</loc>
+    <lastmod>2017-09-12T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/2017/09/12/Deans-Symposium-Community-Health.html</loc>
@@ -17,12 +109,32 @@
     <lastmod>2017-09-12T00:00:00-04:00</lastmod>
   </url>
   <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/11/Intro-to-R.html</loc>
+    <lastmod>2017-09-11T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/11/Intermediate-Usage-SCC.html</loc>
+    <lastmod>2017-09-11T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.bu.edu/data/data/2017/09/11/Genetic-Epidemiology-and-Functional-Genomics-for-Early-Stage-Investigators.html</loc>
     <lastmod>2017-09-11T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/2017/09/07/Linguistics-Colloquium-Counting.html</loc>
     <lastmod>2017-09-07T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/07/Introduction-to-linux.html</loc>
+    <lastmod>2017-09-07T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/07/Introduction-to-BU-SCC.html</loc>
+    <lastmod>2017-09-07T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/09/06/Intro-to-High-Performance-Computing.html</loc>
+    <lastmod>2017-09-06T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/2017/09/05/CReM-Seminar-Series.html</loc>
