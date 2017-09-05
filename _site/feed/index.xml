@@ -7,6 +7,24 @@
     <atom:link href="https://www.bu.edu/data/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Topic Modeling in the Humanities</title>
+        <description>
+</description>
+        <pubDate>Tue, 14 Nov 2017 00:00:00 -0500</pubDate>
+        <link>https://www.bu.edu/data/workshops/2017/11/14/Topic-Modeling-in-the-humanities.html</link>
+        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/11/14/Topic-Modeling-in-the-humanities.html</guid>
+      </item>
+    
+      <item>
+        <title>An overview of geographic information systems for the humanities</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Oct 2017 00:00:00 -0400</pubDate>
+        <link>https://www.bu.edu/data/workshops/2017/10/23/Overview-GIS-Humanities.html</link>
+        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/10/23/Overview-GIS-Humanities.html</guid>
+      </item>
+    
+      <item>
         <title>Introduction to ImageJ</title>
         <description>
 </description>
@@ -76,24 +94,6 @@
         <pubDate>Tue, 26 Sep 2017 00:00:00 -0400</pubDate>
         <link>https://www.bu.edu/data/workshops/2017/09/26/Intro-to-GPU.html</link>
         <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/26/Intro-to-GPU.html</guid>
-      </item>
-    
-      <item>
-        <title>Free -  Research Study Design and Statistical Analysis Consultation</title>
-        <description>
-</description>
-        <pubDate>Tue, 26 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.bu.edu/data/workshops/2017/09/26/DCC-Consultation.html</link>
-        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/26/DCC-Consultation.html</guid>
-      </item>
-    
-      <item>
-        <title>MATLAB for High-Performance Computing</title>
-        <description>
-</description>
-        <pubDate>Mon, 25 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.bu.edu/data/workshops/2017/09/25/MATLAB-for-High-Performance-Computing.html</link>
-        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/25/MATLAB-for-High-Performance-Computing.html</guid>
       </item>
     
   </channel>
