@@ -82,7 +82,7 @@ $(function() {
 		    $("#contact-form").trigger("reset");
 		    $("#submit").prop('disabled', true);
 		    grecaptcha.reset();
-		    $("#myModal").modal('toggle'); 
+		    $("#myModal").modal('hide'); 
 		}
 	    },
 	    error: function(xhr, status, return_error){
