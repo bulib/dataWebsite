@@ -61,6 +61,15 @@
       </item>
     
       <item>
+        <title>Getting Started with OpenRefine</title>
+        <description>
+</description>
+        <pubDate>Thu, 28 Sep 2017 00:00:00 -0400</pubDate>
+        <link>https://www.bu.edu/data/workshops/2017/09/28/Getting-Started-With-Open-Refine.html</link>
+        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/28/Getting-Started-With-Open-Refine.html</guid>
+      </item>
+    
+      <item>
         <title>Introduction to CUDA</title>
         <description>
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Tue, 26 Sep 2017 00:00:00 -0400</pubDate>
         <link>https://www.bu.edu/data/workshops/2017/09/26/Intro-to-MPI.html</link>
         <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/26/Intro-to-MPI.html</guid>
-      </item>
-    
-      <item>
-        <title>Introduction to GPU Programming</title>
-        <description>
-</description>
-        <pubDate>Tue, 26 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.bu.edu/data/workshops/2017/09/26/Intro-to-GPU.html</link>
-        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/26/Intro-to-GPU.html</guid>
       </item>
     
   </channel>
