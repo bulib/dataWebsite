@@ -25,6 +25,15 @@
       </item>
     
       <item>
+        <title>Jupyter Notebooks</title>
+        <description>
+</description>
+        <pubDate>Thu, 19 Oct 2017 00:00:00 -0400</pubDate>
+        <link>https://www.bu.edu/data/workshops/2017/10/19/Jupyter-Notebooks.html</link>
+        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/10/19/Jupyter-Notebooks.html</guid>
+      </item>
+    
+      <item>
         <title>Pandoc and Markdown</title>
         <description>
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Thu, 28 Sep 2017 00:00:00 -0400</pubDate>
         <link>https://www.bu.edu/data/workshops/2017/09/28/Getting-Started-With-Open-Refine.html</link>
         <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/28/Getting-Started-With-Open-Refine.html</guid>
-      </item>
-    
-      <item>
-        <title>Introduction to CUDA</title>
-        <description>
-</description>
-        <pubDate>Wed, 27 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.bu.edu/data/workshops/2017/09/27/Intro-to-CUDA.html</link>
-        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/27/Intro-to-CUDA.html</guid>
       </item>
     
   </channel>
