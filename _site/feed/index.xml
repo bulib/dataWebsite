@@ -7,12 +7,48 @@
     <atom:link href="https://www.bu.edu/data/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Jekyll and GitHub Pages</title>
+        <description>
+</description>
+        <pubDate>Thu, 16 Nov 2017 00:00:00 -0500</pubDate>
+        <link>https://www.bu.edu/data/workshops/2017/11/16/Jekyll-And-Github-Pages.html</link>
+        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/11/16/Jekyll-And-Github-Pages.html</guid>
+      </item>
+    
+      <item>
         <title>Topic Modeling in the Humanities</title>
         <description>
 </description>
         <pubDate>Tue, 14 Nov 2017 00:00:00 -0500</pubDate>
         <link>https://www.bu.edu/data/workshops/2017/11/14/Topic-Modeling-in-the-humanities.html</link>
         <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/11/14/Topic-Modeling-in-the-humanities.html</guid>
+      </item>
+    
+      <item>
+        <title>Counting and Mining Research Data with Unix</title>
+        <description>
+</description>
+        <pubDate>Thu, 09 Nov 2017 00:00:00 -0500</pubDate>
+        <link>https://www.bu.edu/data/workshops/2017/11/09/Counting-and-Mining-Research-Data-With-Unix.html</link>
+        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/11/09/Counting-and-Mining-Research-Data-With-Unix.html</guid>
+      </item>
+    
+      <item>
+        <title>Using Wget for automated downloading</title>
+        <description>
+</description>
+        <pubDate>Thu, 02 Nov 2017 00:00:00 -0400</pubDate>
+        <link>https://www.bu.edu/data/workshops/2017/11/02/wget.html</link>
+        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/11/02/wget.html</guid>
+      </item>
+    
+      <item>
+        <title>Introduction to the Shell</title>
+        <description>
+</description>
+        <pubDate>Thu, 26 Oct 2017 00:00:00 -0400</pubDate>
+        <link>https://www.bu.edu/data/workshops/2017/10/26/Intro-to-shell.html</link>
+        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/10/26/Intro-to-shell.html</guid>
       </item>
     
       <item>
@@ -58,42 +94,6 @@
         <pubDate>Tue, 03 Oct 2017 00:00:00 -0400</pubDate>
         <link>https://www.bu.edu/data/workshops/2017/10/03/Intro-to-ImageJ.html</link>
         <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/10/03/Intro-to-ImageJ.html</guid>
-      </item>
-    
-      <item>
-        <title>Introduction to SPSS</title>
-        <description>
-</description>
-        <pubDate>Mon, 02 Oct 2017 00:00:00 -0400</pubDate>
-        <link>https://www.bu.edu/data/workshops/2017/10/02/Intro-to-SPSS.html</link>
-        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/10/02/Intro-to-SPSS.html</guid>
-      </item>
-    
-      <item>
-        <title>Building Software from Source Code on Linux</title>
-        <description>
-</description>
-        <pubDate>Mon, 02 Oct 2017 00:00:00 -0400</pubDate>
-        <link>https://www.bu.edu/data/workshops/2017/10/02/Building-Software-From-Source.html</link>
-        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/10/02/Building-Software-From-Source.html</guid>
-      </item>
-    
-      <item>
-        <title>MATLAB Parallel Computing Toolbox</title>
-        <description>
-</description>
-        <pubDate>Fri, 29 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.bu.edu/data/workshops/2017/09/29/MATLAB-Parallel-Computing-Toolbox.html</link>
-        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/29/MATLAB-Parallel-Computing-Toolbox.html</guid>
-      </item>
-    
-      <item>
-        <title>Getting Started with OpenRefine</title>
-        <description>
-</description>
-        <pubDate>Thu, 28 Sep 2017 00:00:00 -0400</pubDate>
-        <link>https://www.bu.edu/data/workshops/2017/09/28/Getting-Started-With-Open-Refine.html</link>
-        <guid isPermaLink="true">https://www.bu.edu/data/workshops/2017/09/28/Getting-Started-With-Open-Refine.html</guid>
       </item>
     
   </channel>

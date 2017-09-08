@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/11/16/Jekyll-And-Github-Pages.html</loc>
+    <lastmod>2017-11-16T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.bu.edu/data/data/workshops/2017/11/14/Topic-Modeling-in-the-humanities.html</loc>
     <lastmod>2017-11-14T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/11/09/Counting-and-Mining-Research-Data-With-Unix.html</loc>
+    <lastmod>2017-11-09T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/11/02/wget.html</loc>
+    <lastmod>2017-11-02T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/2017/10/26/Intro-to-shell.html</loc>
+    <lastmod>2017-10-26T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/workshops/2017/10/23/Overview-GIS-Humanities.html</loc>
