@@ -23,7 +23,7 @@ permalink: /workshops/
               {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
               {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
               {% assign postday = postday | plus: 0 %}
-              {% assign nowday = nowday | minus: 1 %}
+              {% assign nowday = nowday | minus: 0 %}
               {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
               {% assign isEvent = 1 %}
 	      {% assign m = post.date | date: "%B" %}
