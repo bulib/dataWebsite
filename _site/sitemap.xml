@@ -644,9 +644,6 @@
     <loc>https://www.bu.edu/data/data/404.html</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/about/</loc>
-  </url>
-  <url>
     <loc>https://www.bu.edu/data/data/manage/citing-data/</loc>
   </url>
   <url>
@@ -656,22 +653,22 @@
     <loc>https://www.bu.edu/data/data/manage/dmptool/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/manage/</loc>
+    <loc>https://www.bu.edu/data/data/guides/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/libraries/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/software/</loc>
+    <loc>https://www.bu.edu/data/data/manage/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/guides/</loc>
+    <loc>https://www.bu.edu/data/data/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/policies/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/</loc>
+    <loc>https://www.bu.edu/data/data/calendar/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/share/</loc>
@@ -686,7 +683,7 @@
     <loc>https://www.bu.edu/data/data/talks/citable-code-test/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/calendar/</loc>
+    <loc>https://www.bu.edu/data/data/software/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/help/</loc>
