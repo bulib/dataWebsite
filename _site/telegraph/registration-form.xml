@@ -1,0 +1,9 @@
+<telegraph binding="late">
+  <directive action="require" field="first-name"/>
+  <directive action="require" field="last-name"/>
+  <directive action="require" field="email" format="email"/>
+  <directive action="require" field="confirm-email" format="email"/>
+  <directive action="email" to="tah@bu.edu" from="[email]" subject="Workshop Registration"/>
+  <directive action="file" filename="data-org-registration.csv" format="csv" fields="last-name,first-name,email"/>
+  <directive action="captcha"/> 
+</telegraph>
