@@ -653,37 +653,37 @@
     <loc>https://www.bu.edu/data/data/manage/dmptool/</loc>
   </url>
   <url>
+    <loc>https://www.bu.edu/data/data/software/</loc>
+  </url>
+  <url>
     <loc>https://www.bu.edu/data/data/guides/</loc>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/libraries/</loc>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/manage/</loc>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/policies/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/calendar/</loc>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/share/</loc>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/workshops/</loc>
-  </url>
-  <url>
     <loc>https://www.bu.edu/data/data/storage/</loc>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/libraries/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/talks/citable-code-test/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/software/</loc>
+    <loc>https://www.bu.edu/data/data/manage/</loc>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/workshops/</loc>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/calendar/</loc>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/</loc>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/share/</loc>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/help/</loc>
@@ -704,16 +704,8 @@
     <loc>https://www.bu.edu/data/data/manage/writing-a-dmp/</loc>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/talks/citing-data/index.html</loc>
-    <lastmod>2016-09-22T11:13:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/talks/minting-a-doi-for-your-data-zenodo/index.html</loc>
-    <lastmod>2016-10-06T11:01:50-04:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bu.edu/data/data/talks/open-data/index.html</loc>
-    <lastmod>2016-10-26T13:58:21-04:00</lastmod>
+    <loc>https://www.bu.edu/data/data/talks/revealjs/plugin/notes-server/notes.html</loc>
+    <lastmod>2015-11-25T11:12:27-05:00</lastmod>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/talks/revealjs/plugin/markdown/example.html</loc>
@@ -724,15 +716,23 @@
     <lastmod>2015-11-25T11:12:27-05:00</lastmod>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/talks/revealjs/plugin/notes-server/notes.html</loc>
-    <lastmod>2015-11-25T11:12:27-05:00</lastmod>
+    <loc>https://www.bu.edu/data/data/talks/citing-data/index.html</loc>
+    <lastmod>2016-09-22T11:13:24-04:00</lastmod>
   </url>
   <url>
-    <loc>https://www.bu.edu/data/data/talks/write-a-dmp/index.html</loc>
-    <lastmod>2016-09-14T10:46:16-04:00</lastmod>
+    <loc>https://www.bu.edu/data/data/talks/open-data/index.html</loc>
+    <lastmod>2016-10-26T13:58:21-04:00</lastmod>
   </url>
   <url>
     <loc>https://www.bu.edu/data/data/talks/writing-a-nsf-dmp/index.html</loc>
     <lastmod>2016-09-23T15:48:16-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/talks/minting-a-doi-for-your-data-zenodo/index.html</loc>
+    <lastmod>2016-10-06T11:01:50-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bu.edu/data/data/talks/write-a-dmp/index.html</loc>
+    <lastmod>2016-09-14T10:46:16-04:00</lastmod>
   </url>
 </urlset>
