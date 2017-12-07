@@ -4,7 +4,7 @@ category:
 - workshops
 - webinar 
 tag: 
-- grant writing 
+- grants
 - news 
 excerpt: This webinar covered the National Science Foundation's data management requirements for their grants. We discussed the background for the NSF's data management plan requirements, the different components required, and where to find more information. 
 video: 1cqG7kv9LqM
