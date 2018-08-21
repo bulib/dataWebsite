@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Adding Metadata – Boston University Data Services – Data Services at Boston University</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Find out what metadata are and how to use them." />
+    <meta property="og:description" content="Find out what metadata are and how to use them." />
+    
+    <meta name="author" content="Boston University Libraries" />
+
+    
+    <meta property="og:title" content="Adding Metadata" />
+    <meta property="twitter:title" content="Adding Metadata" />
+    
+
+
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+     <!-- CSS Style Sheets --> 
+<link rel="stylesheet" type="text/css" href="/data/assets/css/bootstrap.min.css" />
+
+<link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.0/dist/bootstrap-toc.min.css">
+
+<link rel="stylesheet" type="text/css" href="/data/assets/css/style.css" />
+
+<!-- RSS Feed --> 
+ <link rel="alternate" type="application/rss+xml" title="Boston University Data Services - Data Services at Boston University" href="/data/index.xml" />
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-K7ZLQBQ');</script>
+    <!-- End Google Tag Manager -->
+
+  </head>
+
+  <body data-spy="scroll" data-target="#toc">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7ZLQBQ"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="page-wrapper">
+      <nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://www.bu.edu/data"><img class="img-responsive" src="/data/assets/icons/bu-lib-ds-ist.png"></img></a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+          <li><a href="/data/manage/">Manage</a></li><!--
+          <li><a href="/data/policies/">Policies</a></li>
+          <li><a href="/data/share/">Share</a></li>
+          <li><a href="/data/software/">Software</a></li>
+          <li><a href="/data/storage/">Storage</a></li>-->
+          <li><a id="help-button" href="#" type="button"data-toggle="modal" data-target="#myModal">Help</a></li>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+      <div id="main" role="main" class="container">
+	<div class="page-title-wrapper green-plaid">
+  <div class="container">
+    <div class="row no-margin">
+      <div class="page-title">
+	<h1>Adding Metadata</h1> 
+      </div> 
+    </div> 
+  </div>
+</div> 
+
+<div class="container">
+  <div class="row no-margin">	 
+    <article class="page col-md-8">
+      <div class="entry">
+	<h2 id="what-are-metadata">What are Metadata?</h2>
+
+<p>Metadata are data that describes data and are everywhere (we just don’t always notice them). Examples of metadata that you might be familiar with are:</p>
+
+<ul>
+  <li>a book’s author</li>
+  <li>a journal’s publisher</li>
+  <li>an article’s publication date</li>
+</ul>
+
+<p>The metadata above provide more information about the item you’re looking at. When metadata for many items are brought together and use the same rules for naming and describing items they become powerful tools for locating and discovering things - like a library catalog or an internet search engine. </p>
+
+<h2 id="why-add-metadata">Why add Metadata?</h2>
+
+<p>Metadata are important because it explains a data set to others. Data sets exist within a certain context, and this context must be communicated well for others to reuse the data set. </p>
+
+<p>For example, the City of Boston has <a href="https://data.boston.gov/dataset/311-service-requests">open data on 311 Service requests</a>. Without basic metadata describing the data, such as if the researcher didn’t know the data was about Boston, what a 311 request is, or the year the data was created, it would be very difficult to understand what the data is about. Even with this information, without a <a href="https://data.boston.gov/dataset/311-service-requests/resource/b237f352-49d1-4423-804f-b478e4f24e61">data dictionary</a>, it would be hard to understand what some variables are, what blank values mean, or what values are possible. </p>
+
+<p>Metadata provide the necessary information for others - sometimes your future self - to understand the data set and how to properly reuse it. It often takes time to create metadata but the effort is worth it. </p>
+
+<h2 id="general-guidelines">General Guidelines</h2>
+
+<p>There are only a few general guidelines for adding metadata to a data set: ensuring your data is citable and providing documentation. </p>
+
+<h3 id="make-your-data-citable">Make Your Data Citable</h3>
+
+<p>To help others find your data and to reuse it appropriately, you’ll need to provide enough details to ensure your data is citable. Here are the following items you will need:</p>
+
+<ul>
+  <li>Creator(s) of the data</li>
+  <li>Title of the data set</li>
+  <li>Year the data set was published or submitted to a repository</li>
+  <li>Version or edition of the data set</li>
+  <li>URL or DOI of the data</li>
+</ul>
+
+<p>For more information on how to cite data <a href="/data/manage/citing-data/">read our guide</a>. </p>
+
+<h3 id="provide-documentation">Provide Documentation</h3>
+
+<p>Sharing documentation about your data set is the best way to help others reuse it. Additionally, developing the documentation will also help you articulate some of the subtle details living within your data.</p>
+
+<p>A common method for documenting your data is writing a data dictionary. A data dictionary is great for explaining variable names, potential values, and format. Data dictionaries don’t have to be complicated to be useful - a spreadsheet or text file will do the trick. </p>
+
+<p>An example <a href="https://data.boston.gov/dataset/311-service-requests/resource/b237f352-49d1-4423-804f-b478e4f24e61">data dictionary entry</a> from the <a href="https://data.boston.gov/dataset/311-service-requests">311 Service calls</a> in Boston looks like this:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Variable Name</th>
+      <th>Label</th>
+      <th>Type</th>
+      <th>Value Codes</th>
+      <th>Missing Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>OPEN_DT</td>
+      <td>Case open date</td>
+      <td>Date (mm/dd/yyyy <br /> hh:mm:ss AM/PM)</td>
+      <td>NA</td>
+      <td>(BLANK)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The table above quickly conveys a lot of useful information. According to the table, the variable name OPEN_DT is a case open date, and we’d expect to find it in date-time data in the data set. Without this, we’d have to contact the creator of the data set to ask “What does OPEN_DT stand for?”, which makes it more time consuming for everyone involved. </p>
+
+<p>Other information to include with your data set might be: </p>
+
+<ul>
+  <li>Geographic location</li>
+  <li>Instruments used (and their settings)</li>
+  <li>Data collection methodology</li>
+  <li>Protocols for cleaning data </li>
+</ul>
+
+<p>Finally, it is always important to provide a short story about your data that briefly explains the who, what, when, where, and why about your data set. Also, if the data set was the foundation of any published works be sure to mention that and provide a link, if possible. </p>
+
+<p>Without the proper documentation, your data is unlikely to be reused by others. </p>
+
+<h2 id="things-to-avoid">Things to Avoid</h2>
+
+<p>Here are a few things to try to avoid when providing metadata about your data set: </p>
+
+<ul>
+  <li>Being inconsistent with creators’ names</li>
+  <li>Cryptic variable names </li>
+  <li>Misleading or dated documentation </li>
+  <li>Saving documentation in proprietary formats that others might not have access to</li>
+  <li>Inaccurate contact information </li>
+</ul>
+
+<h2 id="additional-resources">Additional Resources</h2>
+
+<p>There are many more metadata standards and best practices on all the various disciplines for us to list in one place. Below are a list of places and resources you can visit to find more information. You can also <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#100;&#097;&#116;&#097;&#064;&#098;&#117;&#046;&#101;&#100;&#117;">contact us</a> if you have any questions or issues. </p>
+
+<h3 id="disciplinary-metadata-guide">Disciplinary Metadata Guide</h3>
+
+<p>A list of some additional guides we know about:</p>
+
+<ul>
+  <li>Digital Curation Centre’s <a href="http://www.dcc.ac.uk/resources/metadata-standards">Disciplinary Metadata</a></li>
+  <li>Research Data Alliance <a href="http://rd-alliance.github.io/metadata-directory/standards/">Metadata Directory</a></li>
+  <li>ICPSR <a href="http://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter3docs.html">Best Practices in Creating Metadata</a></li>
+  <li>DataONE <a href="https://www.dataone.org/best-practices/metadata">Metadata Best Practices</a></li>
+</ul>
+
+<h3 id="metadata-standards">Metadata Standards</h3>
+
+<p>An incomplete list of existing metadata standards: </p>
+
+<ul>
+  <li><a href="http://www.virtualastronomy.org/AVM_DRAFTVersion1.1_rlh27.pdf">Astronomy Visualization Metadata Standard</a> </li>
+  <li><a href="http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata/v2_0698.pdf">Content Standard for Digital Geospatial Metadata</a> </li>
+  <li><a href="http://rs.tdwg.org/dwc/">Darwin Core</a> </li>
+  <li><a href="http://dublincore.org/documents/dces/">Dublin Core</a> </li>
+  <li><a href="http://knb.ecoinformatics.org/software/eml/">Ecological Metadata Language</a> </li>
+  <li><a href="http://www.ddialliance.org/">Data Documentation Initiative (DDI)</a> </li>
+  <li><a href="http://swingle.miami.edu/documentation.html">Swingle Plant Anatomy Collection data dictionary</a> </li>
+  <li><a href="http://www.altova.com/resources_schemalib.html">Altova Schema library</a> </li>
+  <li><a href="http://tei-c.org/">Text Encoding Initiative</a></li>
+  <li><a href="https://schema.datacite.org/">DataCite Metadata Schema</a> </li>
+  <li><a href="https://biosharing.org/collection/MIBBI">Minimum Information for Biological and Biomedical Investigations</a> </li>
+</ul>
+
+
+	
+	</div>
+    </article>
+    <div class="col-md-3">
+      <nav id="toc" data-toggle="toc"></nav>
+    </div>
+    </div> 
+  </div> 
+
+      </div>
+
+     </div> 
+      <!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">How can we help?</h4>
+      </div>
+      <div class="modal-body">
+        <form id="contact-form"  class="form-horizontal" method="" action="/phpbin/telegraph/index.php">
+          <input type="hidden" name="form_configuration" value="telegraph/modal-form.xml" />
+          <input type="hidden" name="form_location" value="/data/">
+          <div class="form-group">
+            <label for="Name" class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-10">
+              <input type="text" field="name" class="form-control" id="name" name="name" placeholder="Name">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="Email" class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">
+              <input type="email" field="email" name="email" class="form-control" id="email" placeholder="Email">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="Question" class="col-sm-2 control-label">Question</label>
+            <div class="col-sm-10">
+              <textarea id="question" name="question" field="question" field="question" class="form-control" rows="7"></textarea>
+            </div>
+          </div>
+	  <div class="g-recaptcha" data-sitekey="6LcuJQAAAAAAAEpJ3IczaQz_Axwf10QeL0Yynnbm" data-callback="enableSubmit"></div>
+          <div class="form-group">
+            <div class="col-sm-2 col-sm-offset-9">
+              <button id="submit" disabled name="submit" value="submit" type="submit" class="btn-lg btn-success">Submit</button>
+            </div> 
+          </div> 
+        </form> 
+      </div>
+    </div>
+  </div>
+</div>
+
+      <footer class="footer">
+  <div class="container">
+    <div class="footer-bu-text">
+      <p><span>Boston University</span></p>
+    </div> 
+      <ul>
+      	<li><a href="tel:617-353-7332"><img alt="phone icon" src=" /data/assets/icons/phone-gray.png" width="19px" height="19px" />617-353-7332</a></li>
+      	<li><a href="mailto:data@bu.edu"><img alt="phone icon" src=" /data/assets/icons/mail-gray.png" width="19px" height="19px" />data@bu.edu</a></li> 
+      </ul>  
+    </div> 
+</footer>
+
+      <!-- jQuery Version 1.11.0 -->
+<script src="/data/assets/js/jquery-1.11.0.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/data/assets/js/bootstrap.min.js"></script>
+
+<script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.0/dist/bootstrap-toc.min.js"></script>
+
+<!-- D3 --> 
+<script src="/data/assets/js/d3.min.js"></script>
+
+<script src="/data/assets/js/custom.js"></script>
+
+
+
+<!-- Add Google Analytics Here -->
+<script>
+		
+</script>
+  </body>
+</html>

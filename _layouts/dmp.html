@@ -1,0 +1,31 @@
+---
+layout: page
+---
+<h1 class="title">{{ page.title }} {% if page.subtitle %} :<br> 
+	{{ page.subtitle }}{% endif %} </h1>  
+<a class="btn btn-primary btn-lg template" href="#" role="button" data-toggle="modal" data-target="#templates" title="Download templates"><span class="glyphicon glyphicon-download" aria-hidden="true"></span></a>
+
+<p class="author">By {{ page.author }}</p> 
+
+{{ content }}
+
+<div class="modal fade" id="templates">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h2 class="modal-title">Download the template as</h2s>
+</div>
+<div class="modal-body">
+	{{ if page.word contains ".docx" }}<a href="{{ page.word }}"><h3>{% if page.word contains ".docx" %} Microsoft Word {% endif %}</h3></a>{{ endif }}
+	{{ if page.rtf contains ".rtf" }}<a href="{{ page.rtf }}"><h3>{% if page.rtf contains ".rtf" %} Rich Text Format {% endif %}</h3></a>{{ endif }}
+	{{ if page.pdf contains ".pdf" }}<a href="{{ page.pdf }}"><h3>{% if page.pdf contains ".pdf" %} PDF {% endif %}</h3></a>{{ endif }}
+	{{ if page.latex contains ".tex" }}<a href="{{ page.latex }}"><h3>{% if page.latex contains ".tex" %} Latex {% endif %}</h3></a>{{ endif }}
+	{% if page.word contains ".docx" or page.rtf contains ".rft" or page.pdf contains ".pdf" or page.latex contains ".tex" %}{% else %}Sorry we haven't created any templates for download yet!{% endif %}
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>

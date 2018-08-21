@@ -1,0 +1,135 @@
+---
+layout: default
+title: Guides
+permalink: /libraries/
+---
+
+<div id="library-services-introduction" class="section-introduction">
+  <h1>Boston University Libraries</h1> 
+  <p>How the libraries can help you with your data.</p> 
+</div> 
+
+<section id="library-services-consultations">
+  <div class="container">
+    <div class="row no-margin">
+      <div class="row">
+	<div class="col-md-offset-1 col-md-5">
+	  <div>
+	    <h2>Consultations</h2>
+	    <p>Need help? Schedule a one-on-one consultation.</p>
+	    <p>Librarians can help you with writing a data management plan, depositing your data into a data repository, finding relevant data sets, and organizing your data for analysis. We can also connect you with other partners on-campus to help with more in-depth data analysis or publishing your research.</p> 
+	  </div> 	
+	</div> 
+	<div id="library-services-consultations-cta" class="col-md-5">
+	  <div>
+	    <a class="btn-lg btn-success" href="#" role="button" data-toggle="modal" data-target="#myModal">Request</a>
+	  </div>
+	</div>
+      </div> 	
+    </div> 
+</section> 
+
+<section id="library-services-workshops">
+  <div class="container">
+    <div class="row no-margin">
+      <div class="col-md-offset-2 col-md-8">
+	<div>
+	  <h2>Workshops</h2>
+	  <p>The Libraries offer a range of workshops on topics like data management, digital scholarship, digital publishing, and selected programming topics.</p> 
+	</div>
+	<div id="library-services-workshops-calendar" class="calendar-box">
+	  <h3>Upcoming</h3> 
+	  <div>
+	    <ul> 
+	      {% assign isEvent = 0 %}
+	      {% assign counter = '0' %}
+	      {% for post in site.posts reversed %}
+ 	      {% if post.tag contains "library" and counter < '5' %}
+ 	      {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+	      {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+	      {% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
+	      {% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
+	      {% assign postday = postday | plus: 0 %}
+	      {% assign nowday = nowday | minus: 1 %}
+	      {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
+		{% assign isEvent = 1 %}
+		{% assign m = post.date | date: "%B" %}
+		{% case m %}
+		{% when 'April' or 'May' or 'June' or 'July' %}
+		{% when 'September' %}{% assign m = "Sept" %}
+		{% else %}{% assign m = post.date | date: "%b" %}
+		{% endcase %}
+		<li class="news-item">
+		  <div class="row">
+		    <div class="news-date">
+		      <p> {{ m }} {{ post.date | date: "%-d" }} </p>
+		    </div>
+		    <div class="news-title">
+		      <a class='news-title-link' href="{{ post.link }}">
+		        <h5>{{ post.title }}</h5>
+		      </a> 
+		    </div> 
+		  </div>         
+		</li>
+		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+        	{% endif %}
+		{% endif %}
+		{% endfor %} 
+		{% if isEvent == 0 %}
+		<li>
+		  <div class="row">
+		    <div class="news-date col-lg-2 col-lg-offset-2"></div> 
+	            <div class="col-lg-6">
+		      <h4>All quiet for now. Visit again soon.</h4>    
+		    </div> 
+		  </div> 
+       		</li>
+		{% endif %}
+	    </ul> 
+	  </div>
+	</div> 
+      </div> 	
+    </div> 
+</section>
+
+<section id="library-services-tools">
+  <div class="container">
+    <div class="row no-margin">
+      <h2>Supported Tools</h2> 
+      <div class="row">
+	<div class="col-md-offset-2 col-md-4 partner">
+	  <div class="library-services-tool">
+	    <a href="https://osf.io/institutions/bu/" title="Open Science Framework for Institutions"><img id="osf-logo" src="{{ site.baseurl }}/assets/images/logo/osf_institutions.png" class="img-responsive" alt="Open Science Framework for Institutions Logo"/></a> 
+	    <p>Coming Soon!! Developed by the Center for Open Science. The Open Science Framework can help you manage your workflow, archive your data, and protect your work. It also integrates with tools like GitHub, figshare, and Google Drive.</p>
+	    <a class="btn-lg btn-success" href="https://osf.io/institutions/bu/" role="button">Visit</a> 
+	  </div> 	
+	</div> 
+	<div class="col-md-4 dmptool partner">
+	  <div class="library-services-tool">
+	    <a href="https://dmptool.org/" title="DMPTool"><img src="{{ site.baseurl }}/assets/images/logo/DMPTool_logo.png" class="img-responsive" alt="DMPTool Logo"/></a> 
+	    <p>Use the DMPTool to build your data management plan (DMP). With over 30 DMP templates from organizations like the National Science Foundation and the Sloan Foundation, the DMPTool can help you write your DMP.</p>
+	    <a class="btn-lg btn-success" href="https://dmptool.org/user_sessions/institution" role="button">Visit</a> 
+	  </div>
+	</div> 	
+      </div> 
+</section> 
+
+<section id="library-services-guides">
+  <div class="container">
+    <div class="row no-margin">
+      <div id="library-services-consultations-cta" class="col-md-offset-1 col-md-5">
+	<div>
+	  <a class="btn-lg btn-success" href="{{ site.baseurl }}/guides" role="button">View</a> 
+	</div>
+      </div> 
+      <div class="col-md-5">
+	<div>
+	  <h2>Our Guides</h2>
+	  <p>Use our guides to learn independently.</p>
+	  <p>The Libraries have a number of guides to help you get started with your project. Topics include citing data, selecting a data repository, writing a data management plan, and using the DMPTool. These guides are a great place to start whenever you are ready and from wherever you are located.  
+	</div>
+      </div> 	
+    </div> 
+</section> 
+
+
