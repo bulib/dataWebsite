@@ -12,8 +12,8 @@ local_build=_site
 
 server=webdev.bu.edu # [[ ADD SERVER LOCATION HERE ]]
 
-dev_path=/web/d/e/dev/data  # [[ ADD DEV SERVER PATH HERE ]]
-production_path=/web/d/e/data  # [[ ADD PRODUCTION PATH HERE]]
+dev_path=/web/d/a/dev/data  # [[ ADD DEV SERVER PATH HERE ]]
+production_path=/web/d/a/data  # [[ ADD PRODUCTION PATH HERE]]
 
 date=$(date)
 
