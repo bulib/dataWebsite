@@ -10,7 +10,7 @@ user=aidans # [[ ADD YOUR USERNAME HERE ]]
 local_path=~/projects/dw/ # [[ ADD REPO LOCATION HERE ex ~/Documents/github/bulib/dataWebsite]]
 local_build=_site
 
-server=webdev.bu.edu # [[ ADD SERVER LOCATION HERE ]]
+server=redacted.bu.edu # [[ ADD SERVER LOCATION HERE ]]
 
 dev_path= [[ ADD DEV SERVER PATH HERE ]]
 production_path= [[ ADD PRODUCTION PATH HERE]]
