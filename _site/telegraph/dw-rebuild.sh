@@ -10,10 +10,10 @@ user=aidans # [[ ADD YOUR USERNAME HERE ]]
 local_path=~/projects/dw/ # [[ ADD REPO LOCATION HERE ex ~/Documents/github/bulib/dataWebsite]]
 local_build=_site
 
-server=redacted.bu.edu # [[ ADD SERVER LOCATION HERE ]]
+server=webdev.bu.edu # [[ ADD SERVER LOCATION HERE ]]
 
-dev_path= [[ ADD DEV SERVER PATH HERE ]]
-production_path= [[ ADD PRODUCTION PATH HERE]]
+dev_path=/web/d/e/dev/data  # [[ ADD DEV SERVER PATH HERE ]]
+production_path=/web/d/e/data  # [[ ADD PRODUCTION PATH HERE]]
 
 date=$(date)
 

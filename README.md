@@ -49,6 +49,9 @@ $ bundle exec jekyll serve
 
 ## Deployment
 
+
+### Configuring the Script
+
 Noting that work should ideally be done in a separate branch (not `master`), when
   you're satisfied with the changes and how they appear locally, the
   `./_site/telegraph/dw-rebuild.sh` script should help you deploy it to TEST
@@ -57,17 +60,32 @@ Noting that work should ideally be done in a separate branch (not `master`), whe
 Please make sure to update/double-check that the following variables are set correctly
   in the above `dw-rebuild.sh` script:
 
-|variable|example|description|
-|:-------|:------|:----------|
-|`user`|aidans|BU username|
-|`local_path`|`~/projects/dataWebsite`|directory where your local version is located|
-|`local_build`|`_site`|the folder within the project containing the output version|
-|`server`| _redacted_ |the IS&T server hosting the dev and prod sites|
-|`dev_path`| _unknown_ |path within that server where http://www-test.bu.edu/dev/data/ is hosted|
-|`production_path`|`/web/d/e/dev/data`|path within that server where http://www.bu.edu/dev/data/ is hosted|
+|variable|description|
+|:-------|:----------|
+|`user`|BU username|
+|`local_path`|directory where your local version is located|
+|`local_build`|the folder within the project containing the output version|
+|`server`|the IS&T server hosting the dev and prod sites|
+|`dev_path`|path within that server where http://www-test.bu.edu/dev/data/ is hosted|
+|`production_path`|path within that server where http://www.bu.edu/dev/data/ is hosted|
 
-To deploy, ensure that the script is executable (`$ chmod +x dw-rebuild.sh`) and run it like so:
+
+### Running the Script
+
+To deploy, first ensure that
+- the script is executable (`$ chmod +x _site/telegraph/dw-rebuild.sh`)
+- you don't have any local uncommitted changes (you can use `git stash` then
+  `git stash pop` if needed)
+
+Then run it like so:
 ```
 $ _site/telegraph/dw-rebuild.sh -d  # deploy to TEST
 $ _site/telegraph/dw-rebuild.sh -p  # deploy to PROD
+```
+
+Note: the script will change git branches on you, and the `gh-pages` branch
+  doesn't have anything in the `telegraph` folder. To change branches back to
+  yours use the following:
+```
+$ git checkout branch_name
 ```
