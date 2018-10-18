@@ -52,6 +52,13 @@ do
     esac
 done
 
+echo "--- CHECKING GIT FOR ANY PRE-BUILD CHANGES ---"
+if ! git diff-index --quiet HEAD --; then
+  eval "git --no-pager diff"
+  echo "-> HOLD UP! you have uncommitted changes. please commit or abandon them before deploying."
+  exit 1
+fi
+
 echo "--- BUILDING WEBSITE ... ---"
 eval "$jekyll_command"
 
