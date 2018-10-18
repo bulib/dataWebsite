@@ -67,7 +67,7 @@ Please make sure to update/double-check that the following variables are set cor
 |`local_build`|the folder within the project containing the output version|
 |`server`|the IS&T server hosting the dev and prod sites|
 |`dev_path`|path within that server where http://www-test.bu.edu/dev/data/ is hosted|
-|`production_path`|path within that server where http://www.bu.edu/dev/data/ is hosted|
+|`production_path`|path within that server where http://www.bu.edu/data/ is hosted|
 
 
 ### Running the Script

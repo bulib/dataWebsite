@@ -76,7 +76,6 @@ if ! git diff-index --quiet HEAD --; then
     git commit -a -m "site rebuild via dw-rebuild.sh $date"
     echo "commit made (date = $date)"
     git push origin gh-pages
-
 fi
 
 echo "############################"
