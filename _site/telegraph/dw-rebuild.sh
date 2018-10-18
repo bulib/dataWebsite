@@ -72,10 +72,11 @@ echo "############################"
 # git checkout gh-pages
 
 if ! git diff-index --quiet HEAD --; then
-    echo "changes detected - committing and pushing to github"
-    git commit -a -m "site rebuild via dw-rebuild.sh $date"
-    echo "commit made (date = $date)"
-    git push origin gh-pages
+    echo "changes detected - BE ADVISED:"
+    eval "git diff"
+    # git commit -a -m "site rebuild via dw-rebuild.sh $date"
+    # echo "commit made (date = $date)"
+    read
 fi
 
 echo "############################"
