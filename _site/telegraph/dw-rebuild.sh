@@ -25,31 +25,24 @@ sftp_command="sftp $user@$server:"
 cd $local_path
 echo "moved to:  $(pwd)"
 
+echo "--- BUILDING COMMANDS FROM USER INPUT ---"
 while getopts "dp" OPTION
 do
     case $OPTION in
         d)
-            echo "############################"
-    	    printf "\n\n\n"
-            echo "You set flag -d for development"
-	    echo "building site for http://www-test.bu.edu/dev/data/ "
-	    printf "\n\n\n"
-	    echo "############################"
+            echo "You set flag -d for DEVELOPMENT"
+      	    echo "building site for http://www-test.bu.edu/dev/data/ "
             jekyll_command+=",_config-dev.yml"
-	    sftp_command+=$dev_path
-	    echo $sftp_command
-	    break
+      	    sftp_command+=$dev_path
+      	    echo $sftp_command
+      	    break
             ;;
         p)
-            echo "############################"
-    	    printf "\n\n\n"
             echo "You set flag -p for PRODUCTION"
-	    echo "building site for http://www.bu.edu/data/"
-	    printf "\n\n\n"
-	    echo "############################"
+      	    echo "building site for http://www.bu.edu/data/"
             jekyll_command+=",_config-production.yml"
-    	    sftp_command+=$production_path
-	    break
+    	      sftp_command+=$production_path
+            break
             exit
             ;;
         \?)
@@ -59,44 +52,21 @@ do
     esac
 done
 
-echo "############################"
-echo "BUILDING WEBSITE ..."
-echo "############################"
+echo "--- BUILDING WEBSITE ... ---"
 eval "$jekyll_command"
 
-# Commit rebuild changes and push to github
-echo "############################"
-echo "STARTING GIT COMMANDS"
-echo "############################"
-
-# git checkout gh-pages
-
-if ! git diff-index --quiet HEAD --; then
-    echo "BE ADVISED: changes detected"
-    # git commit -a -m "site rebuild via dw-rebuild.sh $date"
-    # echo "commit made (date = $date)"
-fi
-
-echo "############################"
-printf "\n\n\n"
-echo "SENDING THE SITE TO THE SERVER"
-printf "\n\n\n"
-echo "############################"
-
+echo "--- SENDING THE SITE TO THE SERVER ---"
 eval "$sftp_command <<EOF
 put -r _site/*
 EOF"
 
-echo "############################"
-printf "\n\n\n"
-echo "CLEARING AUTOMATED CHANGES"
-printf "\n\n\n"
-echo "############################"
-eval "git stash"
-eval "git stash drop"
+echo "--- CLEANING UP... ---"
+if ! git diff-index --quiet HEAD --; then
+    echo "BE ADVISED: changes detected! stashing and dropping them..."
+    eval "git stash"
+    eval "git stash drop"
+fi
+eval "chmod +x _site/telegraph/dw-rebuild.sh"
 
-echo "############################"
-printf "\n\n\n"
-echo "THANK YOU"
-printf "\n\n\n"
-echo "############################"
+
+echo "--- THANK YOU! ---"
