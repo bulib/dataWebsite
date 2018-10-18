@@ -72,11 +72,9 @@ echo "############################"
 # git checkout gh-pages
 
 if ! git diff-index --quiet HEAD --; then
-    echo "changes detected - BE ADVISED:"
-    eval "git diff"
+    echo "BE ADVISED: changes detected"
     # git commit -a -m "site rebuild via dw-rebuild.sh $date"
     # echo "commit made (date = $date)"
-    read
 fi
 
 echo "############################"
@@ -89,6 +87,12 @@ eval "$sftp_command <<EOF
 put -r _site/*
 EOF"
 
+echo "############################"
+printf "\n\n\n"
+echo "CLEARING AUTOMATED CHANGES"
+printf "\n\n\n"
+echo "############################"
+eval "git stash && git stash drop;"
 
 echo "############################"
 printf "\n\n\n"
