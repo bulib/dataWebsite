@@ -69,7 +69,7 @@ echo "############################"
 echo "STARTING GIT COMMANDS"
 echo "############################"
 
-git checkout gh-pages
+# git checkout gh-pages
 
 if ! git diff-index --quiet HEAD --; then
     echo "changes detected - committing and pushing to github"
