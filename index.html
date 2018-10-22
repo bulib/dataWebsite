@@ -44,55 +44,8 @@ layout: land
     <div class="row">
       <div class="col-md-8">
 	 <div class="calendar-box">
-	  <h3>Calendar <span><a class="calendar-more" href="{{ site.baseurl }}/calendar" title="calendar">more >>></a></span></h3>
-	  <div>
-	    <ul>
-	      {% assign isEvent = 0 %}
-	      {% assign counter = '0' %}
-	      {% for post in site.posts reversed %}
- 	      {% if post.tag contains "news" and counter < '5' %}
- 		{% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
-		{% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
-		{% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
-		{% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
-		{% assign postday = postday | plus: 0 %}
-		{% assign nowday = nowday | minus: 0 %}
-		{% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
-		{% assign isEvent = 1 %}
-		{% assign m = post.date | date: "%B" %}
-		{% case m %}
-		{% when 'April' or 'May' or 'June' or 'July' %}
-		{% when 'September' %}{% assign m = "Sept" %}
-		{% else %}{% assign m = post.date | date: "%b" %}
-		{% endcase %}
-		<li class="news-item">
-		  <div class="row">
-		    <div class="news-date">
-		      <p> {{ m }} {{ post.date | date: "%-d" }} </p>
-		    </div>
-		    <div class="news-title">
-		      <a class='news-title-link' href="{{ post.link }}">
-		        <h5>{{ post.title }}</h5>
-		      </a>
-		    </div>
-		  </div>
-		</li>
-		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
-        	{% endif %}
-		{% endif %}
-		{% endfor %}
-		{% if isEvent == 0 %}
-		<li>
-		  <div class="row">
-		    <div class="news-date col-lg-2 col-lg-offset-2"></div>
-	            <div class="col-lg-6">
-		      <h4>All quiet for now. Visit again soon.</h4>
-		    </div>
-		  </div>
-       		</li>
-		{% endif %}
-	    </ul>
-	  </div>
+	  <h3>Calendars</h3>
+    <ul></ul>
 	</div>
       </div>
       <div class="col-md-4 dmptool">
