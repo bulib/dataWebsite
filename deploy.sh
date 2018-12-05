@@ -67,13 +67,4 @@ eval "$sftp_command <<EOF
 put -r _site/*
 EOF"
 
-echo "--- CLEANING UP... ---"
-if ! git diff-index --quiet HEAD --; then
-    echo "BE ADVISED: changes detected! stashing and dropping them..."
-    eval "git stash"
-    eval "git stash drop"
-fi
-eval "chmod +x _site/telegraph/dw-rebuild.sh"
-
-
 echo "--- THANK YOU! ---"

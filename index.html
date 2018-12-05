@@ -42,65 +42,26 @@ layout: land
 <section id="calendar">
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
-	 <div class="calendar-box">
-	  <h3>Calendar <span><a class="calendar-more" href="{{ site.baseurl }}/calendar" title="calendar">more >>></a></span></h3>
-	  <div>
-	    <ul>
-	      {% assign isEvent = 0 %}
-	      {% assign counter = '0' %}
-	      {% for post in site.posts reversed %}
- 	      {% if post.tag contains "news" and counter < '5' %}
- 		{% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
-		{% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
-		{% capture nowday %}{{'now' | date: '%j'}}{% endcapture %}
-		{% capture postday %}{{post.date | date: '%j'}}{% endcapture %}
-		{% assign postday = postday | plus: 0 %}
-		{% assign nowday = nowday | minus: 0 %}
-		{% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
-		{% assign isEvent = 1 %}
-		{% assign m = post.date | date: "%B" %}
-		{% case m %}
-		{% when 'April' or 'May' or 'June' or 'July' %}
-		{% when 'September' %}{% assign m = "Sept" %}
-		{% else %}{% assign m = post.date | date: "%b" %}
-		{% endcase %}
-		<li class="news-item">
-		  <div class="row">
-		    <div class="news-date">
-		      <p> {{ m }} {{ post.date | date: "%-d" }} </p>
-		    </div>
-		    <div class="news-title">
-		      <a class='news-title-link' href="{{ post.link }}">
-		        <h5>{{ post.title }}</h5>
-		      </a>
-		    </div>
-		  </div>
-		</li>
-		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
-        	{% endif %}
-		{% endif %}
-		{% endfor %}
-		{% if isEvent == 0 %}
-		<li>
-		  <div class="row">
-		    <div class="news-date col-lg-2 col-lg-offset-2"></div>
-	            <div class="col-lg-6">
-		      <h4>All quiet for now. Visit again soon.</h4>
-		    </div>
-		  </div>
-       		</li>
-		{% endif %}
-	    </ul>
-	  </div>
-	</div>
-      </div>
-      <div class="col-md-4 dmptool">
-      	<div>
-       	  <a href="https://dmptool.org/" title="DMPTool"><img src="{{ site.baseurl }}/assets/images/logo/DMPTool_logo.png" class="img-responsive" alt="DMPTool Logo"/></a>
-      	  <p>Use the DMPTool to build your data management plan (DMP). With over 30 DMP templates from organizations like the National Science Foundation and the Sloan Foundation, the DMPTool can help you write your DMP.</p>
-      	  <a class="btn-lg btn-success" href="https://dmptool.org/plans" role="button">Visit</a>
+      <div class="col-md-8 service">
+        <div class="calendar-box">
+      	  <h3>Calendars</h3>
+          <p>The following calendars often contain events related to data science. Check them regularly and subscribe to stay up to date with everything being offered:</p>
+          <ul class="calendar-list" aria-description="list of calendars tracking events related to data science">
+            <li><a target="_blank" href="https://www.bu.edu/ctsi/events/">Clinical &amp; Translational Science Institute</a> (CTSI)</li>
+            <li><a target="_blank" href="https://www.bu.edu/disc/calendar/">Digital Scholarship Services</a> (DISC)</li>
+            <li><a target="_blank" href="https://www.bu.edu/hic/noteworthy/calendar/">Institute for Computing and CSE</a> (Rafik B. Hariri)</li>
+            <li><a target="_blank" href="http://www.bu.edu/research/news-events/calendar-events/">Office of Research</a> (General)</li>
+            <li><a target="_blank" href="http://www.bu.edu/tech/about/training/classroom/rcs-tutorials/">Research Computing Services</a> (IS&amp;T)</li>
+          </ul>
       	</div>
+      </div>
+      <div class="col-md-4 service dmptool">
+        <div>
+       	  <a href="https://dmptool.org/" title="DMPTool"><img src="{{ site.baseurl }}/assets/images/logo/DMPTool_logo.png" class="img-responsive" alt="DMPTool Logo"/></a>
+      	  <p>With over 30 DMP templates from organizations like the NSF and the Sloan Foundation, the DMPTool can help you write your Data Management Plan.</p>
+      	  <a class="btn-lg btn-success pbm" href="https://dmptool.org/plans" role="button">Visit</a>
+          <br /><br />
+        </div>
       </div>
     </div>
   </div>
